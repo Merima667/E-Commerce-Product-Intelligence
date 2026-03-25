@@ -1,0 +1,4 @@
+2026-03-22 22:04:25,747 - INFO - Fetching page 1
+2026-03-22 22:04:25,747 - ERROR - API request failed
+2026-03-22 22:04:25,941 - INFO - Started uploading reviews_page_1.json to S3 bucket ecommerce-product-bucket
+2026-03-22 22:04:25,965 - INFO - Successfully uploaded reviews_page_1.json to ecommerce-product-bucket
