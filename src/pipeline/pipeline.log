@@ -1,1 +1,58 @@
 2026-03-22 22:28:32,463 - INFO - Pipeline finished successfully
+2026-03-25 12:43:30,810 - INFO - Pipeline started
+2026-03-25 12:43:46,911 - INFO - API reviews processed
+2026-03-25 12:43:46,920 - INFO - API reviews processed
+2026-03-25 12:43:46,929 - INFO - API reviews processed
+2026-03-25 12:43:46,929 - ERROR - Error processing PDF data/raw/pdf/student_finance_normal.pdf: [Errno 2] No such file or directory: 'data/raw/pdf/student_finance_normal.pdf'
+2026-03-25 12:43:46,929 - ERROR - Error processing PDF data/raw/pdf/student_finance_twocol.pdf: [Errno 2] No such file or directory: 'data/raw/pdf/student_finance_twocol.pdf'
+2026-03-25 12:43:46,929 - ERROR - Error processing Word data/raw/word/student_finance_report.docx: Package not found at 'data/raw/word/student_finance_report.docx'
+2026-03-25 12:43:46,930 - ERROR - Error processing Word data/raw/word/student_finance_report_twocol.docx: Package not found at 'data/raw/word/student_finance_report_twocol.docx'
+2026-03-25 12:43:46,930 - ERROR - Error processing Excel data/raw/excel/student_finance_data.xlsx: [Errno 2] No such file or directory: 'data/raw/excel/student_finance_data.xlsx'
+2026-03-25 12:43:46,931 - INFO - Pipeline finished successfully
+2026-03-25 14:23:54,432 - INFO - Pipeline started
+2026-03-25 14:23:54,577 - ERROR - Error processing PDF ../../data/raw/pdf/student_finance_normal.pdf: save_to_mongo() got multiple values for argument 'extra_metadata'
+2026-03-25 14:23:54,661 - ERROR - Error processing PDF ../../data/raw/pdf/student_finance_twocol.pdf: save_to_mongo() got multiple values for argument 'extra_metadata'
+2026-03-25 14:23:54,693 - ERROR - Error processing Word ../../data/raw/word/student_finance_report.docx: save_to_mongo() got multiple values for argument 'extra_metadata'
+2026-03-25 14:23:54,703 - ERROR - Error processing Word ../../data/raw/word/student_finance_report_twocol.docx: name 'qn' is not defined
+2026-03-25 14:23:54,722 - ERROR - Error processing Excel ../../data/raw/excel/student_finance_data.xlsx: save_to_mongo() got multiple values for argument 'extra_metadata'
+2026-03-25 14:23:54,722 - INFO - Pipeline finished successfully
+2026-03-26 17:28:35,904 - INFO - Pipeline started
+2026-03-26 17:28:51,990 - INFO - API reviews processed
+2026-03-26 17:28:52,005 - INFO - API reviews processed
+2026-03-26 17:28:52,092 - INFO - API reviews processed
+2026-03-26 17:28:52,207 - INFO - PDF processed: ../../data/raw/pdf/student_finance_normal.pdf
+2026-03-26 17:28:52,295 - INFO - PDF processed: ../../data/raw/pdf/student_finance_twocol.pdf
+2026-03-26 17:28:52,334 - INFO - Word processed: ../../data/raw/word/student_finance_report.docx
+2026-03-26 17:28:52,357 - ERROR - Error processing Word ../../data/raw/word/student_finance_report_twocol.docx: name 'qn' is not defined
+2026-03-26 17:28:52,394 - ERROR - Error processing Excel ../../data/raw/excel/student_finance_data.xlsx: save_to_mongo() got multiple values for argument 'extra_metadata'
+2026-03-26 17:28:52,394 - INFO - Pipeline finished successfully
+2026-03-26 17:36:30,440 - INFO - Pipeline started
+2026-03-26 17:36:45,741 - INFO - API reviews processed
+2026-03-26 17:36:45,763 - INFO - API reviews processed
+2026-03-26 17:36:45,774 - INFO - API reviews processed
+2026-03-26 17:36:45,897 - INFO - PDF processed: ../../data/raw/pdf/student_finance_normal.pdf
+2026-03-26 17:36:45,978 - INFO - PDF processed: ../../data/raw/pdf/student_finance_twocol.pdf
+2026-03-26 17:36:46,004 - INFO - Word processed: ../../data/raw/word/student_finance_report.docx
+2026-03-26 17:36:46,017 - ERROR - Error processing Word ../../data/raw/word/student_finance_report_twocol.docx: name '_has_column_break' is not defined
+2026-03-26 17:36:46,153 - INFO - Excel processed: ../../data/raw/excel/student_finance_data.xlsx
+2026-03-26 17:36:46,153 - INFO - Pipeline finished successfully
+2026-03-26 17:38:17,787 - INFO - Pipeline started
+2026-03-26 17:38:31,826 - INFO - API reviews processed
+2026-03-26 17:38:31,832 - INFO - API reviews processed
+2026-03-26 17:38:31,850 - INFO - API reviews processed
+2026-03-26 17:38:31,964 - INFO - PDF processed: ../../data/raw/pdf/student_finance_normal.pdf
+2026-03-26 17:38:32,041 - INFO - PDF processed: ../../data/raw/pdf/student_finance_twocol.pdf
+2026-03-26 17:38:32,064 - INFO - Word processed: ../../data/raw/word/student_finance_report.docx
+2026-03-26 17:38:32,087 - ERROR - Error processing Word ../../data/raw/word/student_finance_report_twocol.docx: 'tables'
+2026-03-26 17:38:32,179 - INFO - Excel processed: ../../data/raw/excel/student_finance_data.xlsx
+2026-03-26 17:38:32,179 - INFO - Pipeline finished successfully
+2026-03-26 18:17:17,423 - INFO - Pipeline started
+2026-03-26 18:17:31,985 - INFO - API reviews processed
+2026-03-26 18:17:31,999 - INFO - API reviews processed
+2026-03-26 18:17:32,010 - INFO - API reviews processed
+2026-03-26 18:17:32,118 - INFO - PDF processed: ../../data/raw/pdf/student_finance_normal.pdf
+2026-03-26 18:17:32,211 - INFO - PDF processed: ../../data/raw/pdf/student_finance_twocol.pdf
+2026-03-26 18:17:32,246 - INFO - Word processed: ../../data/raw/word/student_finance_report.docx
+2026-03-26 18:17:32,280 - INFO - Word processed: ../../data/raw/word/student_finance_report_twocol.docx
+2026-03-26 18:17:32,411 - INFO - Excel processed: ../../data/raw/excel/student_finance_data.xlsx
+2026-03-26 18:17:32,411 - INFO - Pipeline finished successfully

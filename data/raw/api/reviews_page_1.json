@@ -1,6 +1,6 @@
 {
     "status": "OK",
-    "request_id": "72af4852-4563-4fd5-84cf-a0e5addde154",
+    "request_id": "acf43cf0-dc7c-416c-b2c0-486f587b1f9b",
     "parameters": {
         "asin": "B00939I7EK",
         "country": "US",
@@ -19,27 +19,6 @@
         },
         "reviews": [
             {
-                "review_id": "R3HIEYXVQFRUBV",
-                "review_title": "Powerful, Versatile & Worth Every Penny!",
-                "review_comment": "I absolutely love this Ninja Kitchen System! It\u2019s very powerful and blends everything smoothly in seconds. I use it for smoothies, sauces, chopping vegetables, and even making dough \u2014 and it handles everything perfectly. The 8-cup food processor bowl is a great size for family meals. It\u2019s easy to clean, sturdy, and feels high quality. The blades are super sharp, so be careful when washing. Definitely a great investment for any kitchen. Highly recommend!",
-                "review_star_rating": "5",
-                "review_link": "https://www.amazon.com/gp/customer-reviews/R3HIEYXVQFRUBV",
-                "review_author_id": "AGIYMLDXELN6NGPUDUKSQIM5V4ZQ",
-                "review_author": "Samira",
-                "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AGIYMLDXELN6NGPUDUKSQIM5V4ZQ",
-                "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/c865adad-9554-4118-bb2c-f8f700c91346._CR0%2C26%2C281%2C281_UX460_.jpg",
-                "review_images": [],
-                "review_video": null,
-                "review_date": "Reviewed in the United States on February 27, 2026",
-                "is_verified_purchase": true,
-                "helpful_vote_statement": "12 people found this helpful",
-                "reviewed_product_asin": "B00939I7EK",
-                "reviewed_product_variant": {
-                    "Style": "Pitcher + Bowl + (2) 16-oz. Cups"
-                },
-                "is_vine": false
-            },
-            {
                 "review_id": "RYDWBH5RPKGBH",
                 "review_title": "Powerful and versatile \u2014 love it!",
                 "review_comment": "The Ninja Kitchen System has been an amazing addition to my kitchen. The 72 oz. blender is incredibly powerful and handles smoothies, frozen fruit, and even ice with no problem at all. The 8-cup food processor bowl is also fantastic, it chops and mixes evenly, making meal prep so much faster and easier. I love how versatile it is. Having the blender, food processor, and individual cups all in one system saves space and does everything I need. The only small downside is that when using the individual cups, it\u2019s pretty loud. It\u2019s not a deal breaker for me because it works so well, but just something to be aware of. Overall, it\u2019s a strong, reliable machine that delivers great results.",
@@ -53,7 +32,7 @@
                 "review_video": null,
                 "review_date": "Reviewed in the United States on February 24, 2026",
                 "is_verified_purchase": true,
-                "helpful_vote_statement": "10 people found this helpful",
+                "helpful_vote_statement": "14 people found this helpful",
                 "reviewed_product_asin": "B00939I7EK",
                 "reviewed_product_variant": {
                     "Style": "Pitcher + Bowl + (2) 16-oz. Cups"
@@ -61,22 +40,23 @@
                 "is_vine": false
             },
             {
-                "review_id": "R2ST6OORNLR2CO",
-                "review_title": "Great blender",
-                "review_comment": "Love this blender, it works great, very durable, simple design, easy to use, and very easy to clean",
+                "review_id": "R3HIEYXVQFRUBV",
+                "review_title": "Powerful, Versatile & Worth Every Penny!",
+                "review_comment": "I absolutely love this Ninja Kitchen System! It\u2019s very powerful and blends everything smoothly in seconds. I use it for smoothies, sauces, chopping vegetables, and even making dough \u2014 and it handles everything perfectly. The 8-cup food processor bowl is a great size for family meals. It\u2019s easy to clean, sturdy, and feels high quality. The blades are super sharp, so be careful when washing. Definitely a great investment for any kitchen. Highly recommend!",
                 "review_star_rating": "5",
-                "review_link": "https://www.amazon.com/gp/customer-reviews/R2ST6OORNLR2CO",
-                "review_author_id": "AEZPXPPMWXC5XQKDUYHJPLHRFL4A",
-                "review_author": "Kayla",
-                "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AEZPXPPMWXC5XQKDUYHJPLHRFL4A",
-                "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+                "review_link": "https://www.amazon.com/gp/customer-reviews/R3HIEYXVQFRUBV",
+                "review_author_id": "AGIYMLDXELN6NGPUDUKSQIM5V4ZQ",
+                "review_author": "Samira",
+                "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AGIYMLDXELN6NGPUDUKSQIM5V4ZQ",
+                "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/c865adad-9554-4118-bb2c-f8f700c91346._CR0%2C26%2C281%2C281_UX460_.jpg",
                 "review_images": [],
                 "review_video": null,
-                "review_date": "Reviewed in the United States on March 12, 2026",
+                "review_date": "Reviewed in the United States on February 27, 2026",
                 "is_verified_purchase": true,
+                "helpful_vote_statement": "14 people found this helpful",
                 "reviewed_product_asin": "B00939I7EK",
                 "reviewed_product_variant": {
-                    "Style": "Pitcher + (2) 16 oz. Cups"
+                    "Style": "Pitcher + Bowl + (2) 16-oz. Cups"
                 },
                 "is_vine": false
             },
@@ -94,7 +74,7 @@
                 "review_video": null,
                 "review_date": "Reviewed in the United States on February 13, 2026",
                 "is_verified_purchase": true,
-                "helpful_vote_statement": "4 people found this helpful",
+                "helpful_vote_statement": "6 people found this helpful",
                 "reviewed_product_asin": "B00939I7EK",
                 "reviewed_product_variant": {
                     "Style": "Pitcher + (2) 16 oz. Cups"
@@ -102,19 +82,41 @@
                 "is_vine": false
             },
             {
-                "review_id": "R2O2F3NGFN5HGP",
-                "review_title": "Love my Ninja",
-                "review_comment": "The best blender/ food processor out there. It does everything it advertises and is super easy to clean. We use ours almost daily. Its very convenient to have a machine with so many uses but takes up minimal space.",
+                "review_id": "R2ST6OORNLR2CO",
+                "review_title": "Great blender",
+                "review_comment": "Love this blender, it works great, very durable, simple design, easy to use, and very easy to clean",
                 "review_star_rating": "5",
-                "review_link": "https://www.amazon.com/gp/customer-reviews/R2O2F3NGFN5HGP",
-                "review_author_id": "AFRJHLPBOCHNLBGVRESSMLBSPRUA",
-                "review_author": "LWilliams",
-                "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFRJHLPBOCHNLBGVRESSMLBSPRUA",
+                "review_link": "https://www.amazon.com/gp/customer-reviews/R2ST6OORNLR2CO",
+                "review_author_id": "AEZPXPPMWXC5XQKDUYHJPLHRFL4A",
+                "review_author": "Kayla",
+                "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AEZPXPPMWXC5XQKDUYHJPLHRFL4A",
                 "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
                 "review_images": [],
                 "review_video": null,
-                "review_date": "Reviewed in the United States on March 14, 2026",
+                "review_date": "Reviewed in the United States on March 12, 2026",
                 "is_verified_purchase": true,
+                "helpful_vote_statement": "One person found this helpful",
+                "reviewed_product_asin": "B00939I7EK",
+                "reviewed_product_variant": {
+                    "Style": "Pitcher + (2) 16 oz. Cups"
+                },
+                "is_vine": false
+            },
+            {
+                "review_id": "R1US3JR30EI3OL",
+                "review_title": "Does It All \u2013 Smoothies to Chopping",
+                "review_comment": "We love this blender and food processor. It\u2019s great for smoothies, chopping veggies, and even baking prep like carrot cake. The motor is powerful, and it does a really good job with chopping and blending without leaving chunks behind. Having the food processor and blender in one system saves counter space and actually gets used regularly in our kitchen. Very happy with this purchase.",
+                "review_star_rating": "5",
+                "review_link": "https://www.amazon.com/gp/customer-reviews/R1US3JR30EI3OL",
+                "review_author_id": "AGJOJ5AS7NJ5BEYUXLBYD7K4NAJA",
+                "review_author": "Amazon Customer",
+                "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AGJOJ5AS7NJ5BEYUXLBYD7K4NAJA",
+                "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+                "review_images": [],
+                "review_video": null,
+                "review_date": "Reviewed in the United States on February 17, 2026",
+                "is_verified_purchase": true,
+                "helpful_vote_statement": "7 people found this helpful",
                 "reviewed_product_asin": "B00939I7EK",
                 "reviewed_product_variant": {
                     "Style": "Pitcher + Bowl + (2) 16-oz. Cups"
@@ -135,7 +137,7 @@
                 "review_video": null,
                 "review_date": "Reviewed in the United States on February 26, 2026",
                 "is_verified_purchase": true,
-                "helpful_vote_statement": "6 people found this helpful",
+                "helpful_vote_statement": "10 people found this helpful",
                 "reviewed_product_asin": "B00939I7EK",
                 "reviewed_product_variant": {
                     "Style": "Pitcher + Bowl + (2) 16-oz. Cups"
@@ -143,20 +145,20 @@
                 "is_vine": false
             },
             {
-                "review_id": "R1US3JR30EI3OL",
-                "review_title": "Does It All \u2013 Smoothies to Chopping",
-                "review_comment": "We love this blender and food processor. It\u2019s great for smoothies, chopping veggies, and even baking prep like carrot cake. The motor is powerful, and it does a really good job with chopping and blending without leaving chunks behind. Having the food processor and blender in one system saves counter space and actually gets used regularly in our kitchen. Very happy with this purchase.",
+                "review_id": "R2O2F3NGFN5HGP",
+                "review_title": "Love my Ninja",
+                "review_comment": "The best blender/ food processor out there. It does everything it advertises and is super easy to clean. We use ours almost daily. Its very convenient to have a machine with so many uses but takes up minimal space.",
                 "review_star_rating": "5",
-                "review_link": "https://www.amazon.com/gp/customer-reviews/R1US3JR30EI3OL",
-                "review_author_id": "AGJOJ5AS7NJ5BEYUXLBYD7K4NAJA",
-                "review_author": "Amazon Customer",
-                "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AGJOJ5AS7NJ5BEYUXLBYD7K4NAJA",
+                "review_link": "https://www.amazon.com/gp/customer-reviews/R2O2F3NGFN5HGP",
+                "review_author_id": "AFRJHLPBOCHNLBGVRESSMLBSPRUA",
+                "review_author": "LWilliams",
+                "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFRJHLPBOCHNLBGVRESSMLBSPRUA",
                 "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
                 "review_images": [],
                 "review_video": null,
-                "review_date": "Reviewed in the United States on February 17, 2026",
+                "review_date": "Reviewed in the United States on March 14, 2026",
                 "is_verified_purchase": true,
-                "helpful_vote_statement": "6 people found this helpful",
+                "helpful_vote_statement": "One person found this helpful",
                 "reviewed_product_asin": "B00939I7EK",
                 "reviewed_product_variant": {
                     "Style": "Pitcher + Bowl + (2) 16-oz. Cups"
@@ -164,20 +166,19 @@
                 "is_vine": false
             },
             {
-                "review_id": "R36FNMX5YZ44Z8",
-                "review_title": "Great product",
-                "review_comment": "Powerful motor for the price! Easy to use and clean.",
+                "review_id": "R25ZCO4HAK2V5I",
+                "review_title": "Awesomeness",
+                "review_comment": "Amazing, simply amazing. I've always wanted a Ninja, is made preparing and blending so easy. It's design is made tough. The price while I little high for my blood is worth the quality. Blending is quicker and the texture of my protein shakes is much less chalky now.",
                 "review_star_rating": "5",
-                "review_link": "https://www.amazon.com/gp/customer-reviews/R36FNMX5YZ44Z8",
-                "review_author_id": "AEKM24EXRYTVGSX7ZWL4TGCEQVRQ",
-                "review_author": "Dkss",
-                "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AEKM24EXRYTVGSX7ZWL4TGCEQVRQ",
-                "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/f26105c2-d50d-44c0-b386-946325b779e7._CR40%2C0%2C240%2C240_UX460_.jpg",
+                "review_link": "https://www.amazon.com/gp/customer-reviews/R25ZCO4HAK2V5I",
+                "review_author_id": "AGCLS2HL6O5RX3IT2NNBCFZHI6BA",
+                "review_author": "Kaila Shakespeare",
+                "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AGCLS2HL6O5RX3IT2NNBCFZHI6BA",
+                "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/d9574bb1-c6ce-4aa2-9bc2-28a96cb3bf1b._CR24%2C0%2C326%2C326_UX460_.jpg",
                 "review_images": [],
                 "review_video": null,
-                "review_date": "Reviewed in the United States on March 9, 2026",
+                "review_date": "Reviewed in the United States on March 4, 2026",
                 "is_verified_purchase": true,
-                "helpful_vote_statement": "2 people found this helpful",
                 "reviewed_product_asin": "B00939I7EK",
                 "reviewed_product_variant": {
                     "Style": "Pitcher + Bowl + (2) 16-oz. Cups"
