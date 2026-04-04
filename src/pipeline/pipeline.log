@@ -56,3 +56,25 @@
 2026-03-26 18:17:32,280 - INFO - Word processed: ../../data/raw/word/student_finance_report_twocol.docx
 2026-03-26 18:17:32,411 - INFO - Excel processed: ../../data/raw/excel/student_finance_data.xlsx
 2026-03-26 18:17:32,411 - INFO - Pipeline finished successfully
+2026-04-04 14:20:02,806 - INFO - Pipeline started
+2026-04-04 14:20:17,608 - INFO - API reviews processed
+2026-04-04 14:20:17,618 - INFO - API reviews processed
+2026-04-04 14:20:17,626 - INFO - API reviews processed
+2026-04-04 14:20:17,721 - INFO - PDF processed: ../../data/raw/pdf/student_finance_normal.pdf
+2026-04-04 14:20:17,790 - INFO - PDF processed: ../../data/raw/pdf/student_finance_twocol.pdf
+2026-04-04 14:20:17,823 - INFO - Word processed: ../../data/raw/word/student_finance_report.docx
+2026-04-04 14:20:17,851 - INFO - Word processed: ../../data/raw/word/student_finance_report_twocol.docx
+2026-04-04 14:20:17,938 - INFO - Excel processed: ../../data/raw/excel/student_finance_data.xlsx
+2026-04-04 14:20:17,938 - INFO - Wen scraping started
+2026-04-04 14:20:19,570 - INFO - Single page scraping done
+2026-04-04 14:20:27,546 - INFO - Multi-page scraping done
+2026-04-04 14:20:34,403 - INFO - Dynamic scraping done
+2026-04-04 14:20:34,514 - INFO - ====== WebDriver manager ======
+2026-04-04 14:20:35,659 - INFO - Get LATEST chromedriver version for google-chrome
+2026-04-04 14:20:36,095 - INFO - Get LATEST chromedriver version for google-chrome
+2026-04-04 14:20:36,513 - INFO - Driver [C:\Users\merim\.wdm\drivers\chromedriver\win64\146.0.7680.165\chromedriver-win32/chromedriver.exe] found in cache
+2026-04-04 14:20:40,843 - INFO - Selenium scraping done: Oscar Winning Films: AJAX and Javascript | Scrape This Site | A public sandbox for learning web scraping
+2026-04-04 14:20:40,843 - INFO - OCR started
+2026-04-04 14:20:41,288 - INFO - OCR image done
+2026-04-04 14:20:42,218 - INFO - OCR scanned PDF done
+2026-04-04 14:20:42,218 - INFO - Pipeline finished successfully

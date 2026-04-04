@@ -16,6 +16,10 @@ from parsing.parsers import (
     extract_trend_from_excel
 )
 
+from scraping.scraper import scrape_single_page, scrape_multiple_pages
+from scraping.dynamic_scraper import scrape_oscar_films, scrape_dynamic_page
+from ocr.ocr_utils import compare_ocr, ocr_scanned_pdf
+
 def run_pipeline():
     logging.info("Pipeline started")
     try:
@@ -109,7 +113,35 @@ def run_pipeline():
         except Exception as e:
             logging.error(f"Error processing Excel {excel_path}: {e}")
 
+    try:
+        logging.info("Wen scraping started")
+        scrape_single_page("https://books.toscrape.com")
+        logging.info("Single page scraping done")
+        scrape_multiple_pages("https://books.toscrape.com", max_pages=3)
+        logging.info("Multi-page scraping done")
+        scrape_oscar_films(years=[2010, 2011, 2012, 2013])
+        logging.info("Dynamic scraping done")
+    except Exception as e:
+        logging.error(f"Error processing wen scraping: {e}")
+
+    try:
+        title = scrape_dynamic_page("https://www.scrapethissite.com/pages/ajax-javascript/")
+        logging.info(f"Selenium scraping done: {title}")
+    except Exception as e:
+        logging.error(f"Erro processing Selenium: {e}")
+    
+    try:
+        logging.info("OCR started")
+        compare_ocr("../../data/raw/images/test_scan.png")
+        logging.info("OCR image done")
+        ocr_scanned_pdf("../../data/raw/scanned/sample.pdf")
+        logging.info("OCR scanned PDF done")
+    except Exception as e:
+        logging.error(f"Erro processing OCR: {e}")
+
     logging.info("Pipeline finished successfully")
+
+
 
 if __name__ == "__main__":
     run_pipeline()
