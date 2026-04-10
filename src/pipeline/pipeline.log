@@ -78,3 +78,165 @@
 2026-04-04 14:20:41,288 - INFO - OCR image done
 2026-04-04 14:20:42,218 - INFO - OCR scanned PDF done
 2026-04-04 14:20:42,218 - INFO - Pipeline finished successfully
+2026-04-08 10:41:18,796 - INFO - Pipeline started
+2026-04-08 10:41:33,858 - INFO - API reviews processed
+2026-04-08 10:41:33,882 - INFO - API reviews processed
+2026-04-08 10:41:33,910 - INFO - API reviews processed
+2026-04-08 10:41:34,052 - INFO - PDF processed: ../../data/raw/pdf/student_finance_normal.pdf
+2026-04-08 10:41:34,194 - INFO - PDF processed: ../../data/raw/pdf/student_finance_twocol.pdf
+2026-04-08 10:41:34,248 - INFO - Word processed: ../../data/raw/word/student_finance_report.docx
+2026-04-08 10:41:34,313 - INFO - Word processed: ../../data/raw/word/student_finance_report_twocol.docx
+2026-04-08 10:41:34,479 - INFO - Excel processed: ../../data/raw/excel/student_finance_data.xlsx
+2026-04-08 10:41:34,479 - INFO - Wen scraping started
+2026-04-08 10:41:36,230 - INFO - Single page scraping done
+2026-04-08 10:41:47,852 - INFO - Multi-page scraping done
+2026-04-08 10:41:58,116 - INFO - Dynamic scraping done
+2026-04-08 10:41:58,390 - INFO - ====== WebDriver manager ======
+2026-04-08 10:42:00,267 - INFO - Get LATEST chromedriver version for google-chrome
+2026-04-08 10:42:01,720 - INFO - Get LATEST chromedriver version for google-chrome
+2026-04-08 10:42:02,698 - INFO - Get LATEST chromedriver version for google-chrome
+2026-04-08 10:42:05,244 - INFO - WebDriver version 146.0.7680.165 selected
+2026-04-08 10:42:05,254 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/146.0.7680.165/win32/chromedriver-win32.zip
+2026-04-08 10:42:05,255 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/146.0.7680.165/win32/chromedriver-win32.zip
+2026-04-08 10:42:06,355 - INFO - Driver downloading response is 200
+2026-04-08 10:42:09,591 - INFO - Get LATEST chromedriver version for google-chrome
+2026-04-08 10:42:10,757 - INFO - Driver has been saved in cache [C:\Users\merim\.wdm\drivers\chromedriver\win64\146.0.7680.165]
+2026-04-08 10:42:18,569 - INFO - Selenium scraping done: Oscar Winning Films: AJAX and Javascript | Scrape This Site | A public sandbox for learning web scraping
+2026-04-08 10:42:18,570 - INFO - OCR started
+2026-04-08 10:42:20,966 - INFO - OCR image done
+2026-04-08 10:42:22,584 - INFO - OCR scanned PDF done
+2026-04-08 10:42:22,584 - INFO - Pipeline finished successfully
+2026-04-10 13:59:29,301 - INFO - Pipeline started
+2026-04-10 13:59:44,271 - INFO - API reviews processed
+2026-04-10 13:59:44,277 - INFO - API reviews processed
+2026-04-10 13:59:44,282 - INFO - API reviews processed
+2026-04-10 13:59:44,374 - INFO - PDF processed: ../../data/raw/pdf/student_finance_normal.pdf
+2026-04-10 13:59:44,442 - INFO - PDF processed: ../../data/raw/pdf/student_finance_twocol.pdf
+2026-04-10 13:59:44,471 - INFO - Word processed: ../../data/raw/word/student_finance_report.docx
+2026-04-10 13:59:44,495 - INFO - Word processed: ../../data/raw/word/student_finance_report_twocol.docx
+2026-04-10 13:59:44,587 - INFO - Excel processed: ../../data/raw/excel/student_finance_data.xlsx
+2026-04-10 13:59:44,587 - INFO - Wen scraping started
+2026-04-10 13:59:46,013 - INFO - Single page scraping done
+2026-04-10 13:59:53,880 - INFO - Multi-page scraping done
+2026-04-10 14:00:00,749 - INFO - Dynamic scraping done
+2026-04-10 14:00:00,877 - INFO - ====== WebDriver manager ======
+2026-04-10 14:00:02,557 - INFO - Get LATEST chromedriver version for google-chrome
+2026-04-10 14:00:03,291 - INFO - Get LATEST chromedriver version for google-chrome
+2026-04-10 14:00:03,582 - INFO - Get LATEST chromedriver version for google-chrome
+2026-04-10 14:00:04,542 - INFO - WebDriver version 146.0.7680.165 selected
+2026-04-10 14:00:04,546 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/146.0.7680.165/win32/chromedriver-win32.zip
+2026-04-10 14:00:04,546 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/146.0.7680.165/win32/chromedriver-win32.zip
+2026-04-10 14:00:05,453 - INFO - Driver downloading response is 200
+2026-04-10 14:00:05,878 - INFO - Get LATEST chromedriver version for google-chrome
+2026-04-10 14:00:06,292 - INFO - Driver has been saved in cache [C:\Users\merim\.wdm\drivers\chromedriver\win64\146.0.7680.165]
+2026-04-10 14:00:13,536 - INFO - Selenium scraping done: Oscar Winning Films: AJAX and Javascript | Scrape This Site | A public sandbox for learning web scraping
+2026-04-10 14:00:13,536 - INFO - OCR started
+2026-04-10 14:00:15,045 - INFO - OCR image done
+2026-04-10 14:00:15,959 - INFO - OCR scanned PDF done
+2026-04-10 14:00:15,959 - INFO - Pipeline finished successfully
+2026-04-10 14:00:15,959 - INFO - Image processing started
+2026-04-10 14:00:15,979 - ERROR - Error processing images: No module named 'processor'
+2026-04-10 14:01:34,212 [INFO] Batch processing 7 images from ..\..\data\raw\images
+2026-04-10 14:01:34,247 [INFO] Resized proportionally: 742x924 -> 500x622
+2026-04-10 14:01:34,255 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B09SM24S8C_thumb.jpg (103, 128)
+2026-04-10 14:01:34,382 [INFO] WebP: 49KB -> 36KB (27.4% saving)
+2026-04-10 14:01:34,382 [WARNING] No EXIF data found in ..\..\data\raw\images\B09SM24S8C.jpg
+2026-04-10 14:01:34,405 [INFO] Resized proportionally: 983x1257 -> 500x639
+2026-04-10 14:01:34,417 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0CP6DDN1H_thumb.jpg (100, 128)
+2026-04-10 14:01:34,555 [INFO] WebP: 81KB -> 52KB (36.2% saving)
+2026-04-10 14:01:34,556 [WARNING] No EXIF data found in ..\..\data\raw\images\B0CP6DDN1H.jpg
+2026-04-10 14:01:34,581 [INFO] Resized proportionally: 989x1279 -> 500x646
+2026-04-10 14:01:34,593 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0CT6BQV81_thumb.jpg (99, 128)
+2026-04-10 14:01:34,748 [INFO] WebP: 93KB -> 67KB (27.3% saving)
+2026-04-10 14:01:34,748 [WARNING] No EXIF data found in ..\..\data\raw\images\B0CT6BQV81.jpg
+2026-04-10 14:01:34,768 [INFO] Resized proportionally: 881x1130 -> 500x641
+2026-04-10 14:01:34,778 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0DM1S54MZ_thumb.jpg (100, 128)
+2026-04-10 14:01:34,889 [INFO] WebP: 62KB -> 37KB (39.1% saving)
+2026-04-10 14:01:34,889 [WARNING] No EXIF data found in ..\..\data\raw\images\B0DM1S54MZ.jpg
+2026-04-10 14:01:34,923 [INFO] Resized proportionally: 1240x1500 -> 500x604
+2026-04-10 14:01:34,939 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0FXY18C1J_thumb.jpg (106, 128)
+2026-04-10 14:01:35,117 [INFO] WebP: 69KB -> 33KB (51.9% saving)
+2026-04-10 14:01:35,117 [WARNING] No EXIF data found in ..\..\data\raw\images\B0FXY18C1J.jpg
+2026-04-10 14:01:35,152 [INFO] Resized proportionally: 1478x1500 -> 500x507
+2026-04-10 14:01:35,171 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0G4SVV79P_thumb.jpg (126, 128)
+2026-04-10 14:01:35,391 [INFO] WebP: 86KB -> 47KB (45.2% saving)
+2026-04-10 14:01:35,392 [WARNING] No EXIF data found in ..\..\data\raw\images\B0G4SVV79P.jpg
+2026-04-10 14:01:35,408 [ERROR] Failed: test_scan.png - cannot write mode RGBA as JPEG
+2026-04-10 14:01:35,484 [INFO] Please visit this URL to authorize this application: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=731001034499-mmgf51sp4fbpmfaf1bro03e3vgsa7cru.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A51698%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.file&state=PaQDTUrGccGGphCLPBf8pY9IS8ULc4&code_challenge=1RYXsqDHh-H0LBercRYJ9mylM6nDBgaS-q_x8V71li4&code_challenge_method=S256&access_type=offline
+2026-04-10 14:01:43,463 [INFO] "GET /?state=PaQDTUrGccGGphCLPBf8pY9IS8ULc4&iss=https://accounts.google.com&code=4/0Aci98E8n_FXAt6sf11S2Ypkre331fG9EmlSmMutHnef_N2lnqbg2ofP12Uin_fE807JrGA&scope=https://www.googleapis.com/auth/drive.file HTTP/1.1" 200 65
+2026-04-10 14:01:43,933 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-10 14:01:45,894 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-10 14:01:48,589 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-10 14:01:50,673 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-10 14:01:53,469 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-10 14:01:55,385 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-10 14:01:58,220 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-10 14:02:00,278 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-10 14:02:02,977 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-10 14:02:05,040 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-10 14:02:07,912 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-10 14:02:09,956 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-10 14:02:12,614 [INFO] Batch complete. Success: 6, Errors: 1
+2026-04-10 14:02:12,952 [INFO] Pipeline started
+2026-04-10 14:02:27,084 [INFO] API reviews processed
+2026-04-10 14:02:27,100 [INFO] API reviews processed
+2026-04-10 14:02:27,111 [INFO] API reviews processed
+2026-04-10 14:02:27,326 [INFO] PDF processed: ../../data/raw/pdf/student_finance_normal.pdf
+2026-04-10 14:02:27,511 [INFO] PDF processed: ../../data/raw/pdf/student_finance_twocol.pdf
+2026-04-10 14:02:27,564 [INFO] Word processed: ../../data/raw/word/student_finance_report.docx
+2026-04-10 14:02:27,612 [INFO] Word processed: ../../data/raw/word/student_finance_report_twocol.docx
+2026-04-10 14:02:27,821 [INFO] Excel processed: ../../data/raw/excel/student_finance_data.xlsx
+2026-04-10 14:02:27,822 [INFO] Wen scraping started
+2026-04-10 14:02:29,268 [INFO] Single page scraping done
+2026-04-10 14:02:37,901 [INFO] Multi-page scraping done
+2026-04-10 14:02:45,388 [INFO] Dynamic scraping done
+2026-04-10 14:02:45,513 [INFO] ====== WebDriver manager ======
+2026-04-10 14:02:46,507 [INFO] Get LATEST chromedriver version for google-chrome
+2026-04-10 14:02:47,269 [INFO] Get LATEST chromedriver version for google-chrome
+2026-04-10 14:02:47,953 [INFO] Driver [C:\Users\merim\.wdm\drivers\chromedriver\win64\146.0.7680.165\chromedriver-win32/chromedriver.exe] found in cache
+2026-04-10 14:02:51,692 [INFO] Selenium scraping done: Oscar Winning Films: AJAX and Javascript | Scrape This Site | A public sandbox for learning web scraping
+2026-04-10 14:02:51,693 [INFO] OCR started
+2026-04-10 14:02:52,119 [INFO] OCR image done
+2026-04-10 14:02:53,234 [INFO] OCR scanned PDF done
+2026-04-10 14:02:53,235 [INFO] Pipeline finished successfully
+2026-04-10 14:02:53,235 [INFO] Image processing started
+2026-04-10 14:02:53,236 [INFO] Batch processing 7 images from ..\..\data\raw\images
+2026-04-10 14:02:53,272 [INFO] Resized proportionally: 742x924 -> 500x622
+2026-04-10 14:02:53,296 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B09SM24S8C_thumb.jpg (103, 128)
+2026-04-10 14:02:53,484 [INFO] WebP: 49KB -> 36KB (27.4% saving)
+2026-04-10 14:02:53,485 [WARNING] No EXIF data found in ..\..\data\raw\images\B09SM24S8C.jpg
+2026-04-10 14:02:53,547 [INFO] Resized proportionally: 983x1257 -> 500x639
+2026-04-10 14:02:53,571 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0CP6DDN1H_thumb.jpg (100, 128)
+2026-04-10 14:02:53,882 [INFO] WebP: 81KB -> 52KB (36.2% saving)
+2026-04-10 14:02:53,884 [WARNING] No EXIF data found in ..\..\data\raw\images\B0CP6DDN1H.jpg
+2026-04-10 14:02:53,942 [INFO] Resized proportionally: 989x1279 -> 500x646
+2026-04-10 14:02:53,976 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0CT6BQV81_thumb.jpg (99, 128)
+2026-04-10 14:02:54,324 [INFO] WebP: 93KB -> 67KB (27.3% saving)
+2026-04-10 14:02:54,326 [WARNING] No EXIF data found in ..\..\data\raw\images\B0CT6BQV81.jpg
+2026-04-10 14:02:54,365 [INFO] Resized proportionally: 881x1130 -> 500x641
+2026-04-10 14:02:54,385 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0DM1S54MZ_thumb.jpg (100, 128)
+2026-04-10 14:02:54,627 [INFO] WebP: 62KB -> 37KB (39.1% saving)
+2026-04-10 14:02:54,628 [WARNING] No EXIF data found in ..\..\data\raw\images\B0DM1S54MZ.jpg
+2026-04-10 14:02:54,705 [INFO] Resized proportionally: 1240x1500 -> 500x604
+2026-04-10 14:02:54,740 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0FXY18C1J_thumb.jpg (106, 128)
+2026-04-10 14:02:55,127 [INFO] WebP: 69KB -> 33KB (51.9% saving)
+2026-04-10 14:02:55,129 [WARNING] No EXIF data found in ..\..\data\raw\images\B0FXY18C1J.jpg
+2026-04-10 14:02:55,210 [INFO] Resized proportionally: 1478x1500 -> 500x507
+2026-04-10 14:02:55,257 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0G4SVV79P_thumb.jpg (126, 128)
+2026-04-10 14:02:55,742 [INFO] WebP: 86KB -> 47KB (45.2% saving)
+2026-04-10 14:02:55,744 [WARNING] No EXIF data found in ..\..\data\raw\images\B0G4SVV79P.jpg
+2026-04-10 14:02:55,779 [ERROR] Failed: test_scan.png - cannot write mode RGBA as JPEG
+2026-04-10 14:02:55,794 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-10 14:02:58,188 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-10 14:03:01,156 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-10 14:03:03,584 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-10 14:03:06,207 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-10 14:03:08,632 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-10 14:03:11,499 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-10 14:03:14,058 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-10 14:03:16,721 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-10 14:03:19,358 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-10 14:03:21,771 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-10 14:03:23,878 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-10 14:03:26,626 [INFO] Batch complete. Success: 6, Errors: 1
+2026-04-10 14:03:26,627 [INFO] Image processing done. Success: 6, Errors: 1

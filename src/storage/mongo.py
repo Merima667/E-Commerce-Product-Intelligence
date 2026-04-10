@@ -19,3 +19,15 @@ def save_to_mongo(data, source_url, extra_metadata=None):
     collection.insert_one(document)
 
     print("Inserted document:", document)
+
+image_collection = db["images"]
+
+def save_image_metadata(metadata, source="amazon_api"):
+    document = {
+        "source": source,
+        "type": "product_image",
+        "processed_at": datetime.utcnow(),
+        **metadata
+    }
+    image_collection.insert_one(document)
+    print(f"Image metadata saved: {metadata.get('filename')}")

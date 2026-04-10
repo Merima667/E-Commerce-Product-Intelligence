@@ -1,6 +1,8 @@
 import sys
 import os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', 'src')))
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', 'src', 'image_processing')))
+from image_processing.batch import batch_process_images
 from utils.logger import logging  
 from storage.mongo import save_to_mongo 
 from api.client import fetch_reviews_pagination
@@ -141,6 +143,21 @@ def run_pipeline():
 
     logging.info("Pipeline finished successfully")
 
+    #Image processing
+    try:
+        logging.info("Image processing started")
+        from image_processing.batch import batch_process_images
+        results, errors = batch_process_images(
+            input_dir="../../data/raw/images",
+            output_dir="../../data/processed",
+            max_width=500,
+            thumb_size=(128, 128),
+            convert_webp=True,
+            extract_metadata=True
+        )
+        logging.info(f"Image processing done. Success: {len(results)}, Errors: {len(errors)}")
+    except Exception as e:
+        logging.error(f"Error processing images: {e}")
 
 
 if __name__ == "__main__":
