@@ -1,0 +1,448 @@
+1
+00:00:00,000 --> 00:00:03,480
+We've been building for over 20 years to support this network that's eventually
+
+2
+00:00:03,480 --> 00:00:07,799
+just constantly getting faster and we knew it would begin to migrate to a one-day service.
+
+3
+00:00:08,179 --> 00:00:13,460
+The big difference for us is all about how we get product from our fulfillment center to that
+
+4
+00:00:13,460 --> 00:00:18,500
+last mile location. Amazon has not so quietly become the fastest and easiest way to shop.
+
+5
+00:00:19,219 --> 00:00:23,140
+With Prime's one-day shipping, it's no wonder that over the course of the pandemic,
+
+6
+00:00:23,539 --> 00:00:28,879
+their service ballooned, unlike it ever has before. That's why we're breaking down how Amazon
+
+7
+00:00:28,879 --> 00:00:34,979
+became the fastest delivery system. Number eight, the Amazon Army. When the economy
+
+8
+00:00:34,979 --> 00:00:40,659
+sputtered with the coronavirus pandemic spread this spring, unemployment surged as employers laid
+
+9
+00:00:40,659 --> 00:00:47,200
+off workers by the thousands. Amazon took a different tack, hiring 400,000 workers to stow,
+
+10
+00:00:47,659 --> 00:00:53,679
+sort, pick, pack, and deliver goods from its warehouses across the country and pushing
+
+11
+00:00:53,679 --> 00:01:00,560
+its total employee count over 1.1 million people. It didn't stop there. The e-commerce giant
+
+12
+00:01:00,560 --> 00:01:09,459
+leased 12 Boeing 767 300 cargo aircraft bringing its air fleet above 80 jets. It added 220
+
+13
+00:01:09,459 --> 00:01:15,079
+package facilities since the start of the year ranging from urban delivery stations to giant
+
+14
+00:01:15,079 --> 00:01:21,780
+warehouses according to an industry consultant. Amazon used the crisis when prices on everything
+
+15
+00:01:21,780 --> 00:01:27,280
+from commercial real estate to cargo jets plummeted. To a mass and empire, already beginning to
+
+16
+00:01:27,280 --> 00:01:34,359
+rival the US operations of United Postal Service and FedEx, long the most dominant logistics companies
+
+17
+00:01:34,359 --> 00:01:40,780
+which help the e-commerce giant get its start. But its ambition reached well beyond delivering
+
+18
+00:01:40,780 --> 00:01:46,340
+parcels to its own customers, according to former Amazon executives. The company is building
+
+19
+00:01:46,340 --> 00:01:51,620
+a logistics system to one-day deliver packages for customers to compete directly against
+
+20
+00:01:51,620 --> 00:01:55,640
+UPS and FedEx, something it's already doing in the United Kingdom.
+
+21
+00:01:56,799 --> 00:01:58,120
+7. The Money
+
+22
+00:01:59,060 --> 00:02:03,459
+Amazon said on a recent earnings call that it boosted its fulfillment capacity.
+
+23
+00:02:04,120 --> 00:02:09,900
+The collection of warehouses, delivery stations, and drivers it uses to get packages to customers
+
+24
+00:02:09,900 --> 00:02:21,599
+by 50% this year helping fuel $30 billion in total capital spending. Amazon now
+
+25
+00:02:22,319 --> 00:02:27,500
+packages and freight has been building for years. The implications will provide it a stark
+
+26
+00:02:27,500 --> 00:02:33,219
+advantage this holiday season when Amazon's rivals will probably wrestle with getting packages
+
+27
+00:02:33,219 --> 00:02:36,680
+delivered by a network already clogged with pandemic shopping.
+
+28
+00:02:37,860 --> 00:02:39,500
+6. The Competition
+
+29
+00:02:40,319 --> 00:02:45,879
+Amazon has never been friendly about competition. The behemoth is constantly pushing their ways into
+
+30
+00:02:45,879 --> 00:02:51,259
+new industries and dominating them. This was the case with Amazon's push into delivery
+
+31
+00:02:51,259 --> 00:02:56,319
+services. The company has a long record of leveraging its dominance in one market,
+
+32
+00:02:56,639 --> 00:03:01,939
+and the data it cleans from that hegemony to dive into another. At one house subcommittee,
+
+33
+00:03:02,360 --> 00:03:08,280
+they accused Amazon, along with Apple, Google, and Facebook of engaging in anti-competitive
+
+34
+00:03:08,280 --> 00:03:14,139
+conduct and found that the e-commerce giant routinely appropriates seller data to benefit
+
+35
+00:03:14,139 --> 00:03:18,319
+its own private label and retail businesses which Amazon denies.
+
+36
+00:03:19,280 --> 00:03:24,539
+In the case of its newer transportation business, Amazon has long studied the shipping routes of
+
+37
+00:03:24,539 --> 00:03:31,520
+its partners. UPS often share proprietary rooting data with Amazon executives and gave them tours
+
+38
+00:03:31,520 --> 00:03:37,300
+of its operations to sell them on its business, according to a former executive who wasn't authorized
+
+39
+00:03:37,300 --> 00:03:43,379
+to speak on the matter. As Amazon's shipping aspirations became clearer, UPS shared less,
+
+40
+00:03:43,379 --> 00:03:49,740
+but then Amazon hired dozens of logistics executives to help it map out its own delivery strategy.
+
+41
+00:03:50,460 --> 00:03:55,719
+For the time being, Amazon and UPS and the Postal Service are dependent on each other.
+
+42
+00:03:56,419 --> 00:04:01,960
+In 2019, FedEx announced it decided not to renew key domestic contracts with Amazon,
+
+43
+00:04:02,479 --> 00:04:08,199
+but analysis and former employees say the company's hiring spree and the rapid expansion of
+
+44
+00:04:08,199 --> 00:04:13,939
+its fulfillment capacity hinted at its long game. To enter a new market, large enough to make a
+
+45
+00:04:13,939 --> 00:04:21,459
+difference to Amazon's finances. Number five, delivery vans. Amazon's famed delivery vans have
+
+46
+00:04:21,459 --> 00:04:27,040
+become a key to their fast delivery system. All of this comes from one fateful holiday season
+
+47
+00:04:27,040 --> 00:04:33,920
+in 2013 which triggered an awakening for Amazon. At the time, UPS struggled to meet holiday
+
+48
+00:04:33,920 --> 00:04:38,639
+shipping deadlines after a last-minute shopping search caught the shipping giant off guard,
+
+49
+00:04:39,120 --> 00:04:42,639
+tarnishing Amazon's reputation when gifts didn't arrive before Christmas.
+
+50
+00:04:43,540 --> 00:04:49,420
+Within two years, Amazon launched Flex, an Uber-like service for package deliveries with contract
+
+51
+00:04:49,420 --> 00:04:55,259
+drivers who often use their own cars to drop off orders at customers homes. Two years later,
+
+52
+00:04:55,560 --> 00:05:01,839
+Amazon invited entrepreneurs to form small businesses to lease 20 to 40 gray vans with Amazon's
+
+53
+00:05:01,839 --> 00:05:08,100
+blue smile logo to expand further into delivery and metro markets. The company now says it has
+
+54
+00:05:08,100 --> 00:05:13,720
+1700 delivery service partners in the United States, Canada, the United Kingdom, Spain,
+
+55
+00:05:14,240 --> 00:05:20,779
+and Germany. In total, more than 400,000 drivers delivered goods for Amazon. All of them either
+
+56
+00:05:20,779 --> 00:05:27,920
+self-employed or working for other companies. Number four, Air Freight. The company has moved
+
+57
+00:05:27,920 --> 00:05:34,959
+quickly into Air Freight 2. By 2016, Amazon had leased 40 jets to move its freight around the country.
+
+58
+00:05:35,680 --> 00:05:42,339
+That same year, Amazon began tinkering with the prospect of taking on UPS and FedEx and began
+
+59
+00:05:42,339 --> 00:05:48,680
+a pilot project in Los Angeles to soak up capacity in its shipping operations in off-peak times.
+
+60
+00:05:49,120 --> 00:05:54,819
+A program it has since paused. The company has created its own same-day services,
+
+61
+00:05:54,819 --> 00:06:01,339
+offering prime now deliveries in many urban areas and grocery delivery from its whole foods market.
+
+62
+00:06:02,060 --> 00:06:07,839
+In June, Amazon placed an order with Rivian, a Detroit startup that's building electric vehicles
+
+63
+00:06:07,839 --> 00:06:13,639
+to build a hundred thousand delivery vans starting next year. That will more than double the roughly
+
+64
+00:06:13,639 --> 00:06:22,920
+75,000 vehicles in Amazon's delivery fleet, according to MWPVL estimates. In January, UPS agreed
+
+65
+00:06:22,920 --> 00:06:29,660
+to purchase 10,000 electric vehicles from London-based startup Arrival. And Amazon also agreed to
+
+66
+00:06:29,660 --> 00:06:35,920
+buy the self-driving technology firm Zooks, expanding its portfolio of technologies to automate the
+
+67
+00:06:35,920 --> 00:06:43,699
+delivery of packages. Number three, going solo. The company is making those moves to dial back its
+
+68
+00:06:43,699 --> 00:06:49,300
+dependence on traditional carriers. It's a stark difference from Amazon's earliest days when it
+
+69
+00:06:49,300 --> 00:06:55,019
+relied on UPS to help it roll out its prime membership business that promised to deliver packages
+
+70
+00:06:55,019 --> 00:07:01,800
+in two days to customers who paid an advance for the service. UPS handled nearly two-thirds of
+
+71
+00:07:01,800 --> 00:07:07,420
+all Amazon U.S. deliveries in 2015, according to estimates from investment bank Cohen.
+
+72
+00:07:08,360 --> 00:07:14,500
+Amazon has also reduced its reliance on the UPS Postal Service. To offer package deliveries on
+
+73
+00:07:14,500 --> 00:07:20,620
+Sundays, Amazon turned to the Postal Service in 2013, which agreed for the first time to deliver
+
+74
+00:07:20,620 --> 00:07:26,660
+packages at regular rates on Sundays. Amazon still counts on that service from the post office,
+
+75
+00:07:26,899 --> 00:07:33,220
+as well as deliveries to costly rule routes, though the agency has seen its share of delivery slide too.
+
+76
+00:07:34,300 --> 00:07:39,139
+Amazon executives recently pushed their counterparts at the Postal Service for clarity on
+
+77
+00:07:39,199 --> 00:07:44,379
+rate hikes that President Trump demanded, according to internal Postal Service documents,
+
+78
+00:07:44,839 --> 00:07:50,680
+obtained by the Post from American oversight, a watchdog group that requested the records under
+
+79
+00:07:50,680 --> 00:07:57,860
+federal open records law. Postal Service executives fredded over Amazon taking business away if the
+
+80
+00:07:57,860 --> 00:08:03,980
+rate hikers were passed. The logistics build-up and Amazon's changing relationships with carriers
+
+81
+00:08:03,980 --> 00:08:09,920
+has led to Amazon handling the shipping of two-thirds of its package deliveries in the United States
+
+82
+00:08:09,920 --> 00:08:18,560
+by the end of this year, according to MWPVL. Compare that to 2015 when UPS, the Postal Services,
+
+83
+00:08:18,980 --> 00:08:24,040
+and FedEx delivered more than 97% of Amazon's packages in the United States,
+
+84
+00:08:24,339 --> 00:08:28,620
+according to estimates from Cohen. Number two, warehouses.
+
+85
+00:08:29,579 --> 00:08:35,700
+The number of warehouses sorting centers and distribution facilities Amazon owns or leases in
+
+86
+00:08:35,700 --> 00:08:45,000
+the United States grew 46% by October of this year. To 697 facilities says MWPVL, which tracks
+
+87
+00:08:45,000 --> 00:08:52,179
+Amazon's footprint. At the end of last year, UPS owned or leased more than 1000 U.S. logistics
+
+88
+00:08:52,179 --> 00:08:58,120
+facilities with roughly 80 million square feet of space. The company disclosed that its annual
+
+89
+00:08:58,120 --> 00:09:04,580
+regulatory filing, massive distribution centers near Denver and Chicago that also opened in July
+
+90
+00:09:04,580 --> 00:09:09,340
+reduced the time it takes Amazon to get packages to customers in those regions.
+
+91
+00:09:10,600 --> 00:09:15,879
+Number one, workforce. It's not just space that Amazon has amassed this year.
+
+92
+00:09:16,580 --> 00:09:22,559
+The 400,000 jobs it has added since the pandemic started, all of them permanent, some of them
+
+93
+00:09:22,559 --> 00:09:28,559
+part-time, are part of the surge in frontline staff that has also led retail rivals, such as
+
+94
+00:09:28,559 --> 00:09:34,080
+at Amazon, those workers unload products from manufacturers and third-party sellers.
+
+95
+00:09:34,659 --> 00:09:39,779
+Stocked them in the shelves of their massive warehouses and picked the goods from those shelves
+
+96
+00:09:39,779 --> 00:09:45,279
+to pack orders from customers. Its giant warehouses are often located near airports
+
+97
+00:09:45,279 --> 00:09:50,059
+and sometimes close to other logistics hubs run by such carriers as UPS.
+
+98
+00:09:50,720 --> 00:09:55,539
+The hiring binge at Amazon, where the starting warehouse wage is $15 an hour,
+
+99
+00:09:55,759 --> 00:10:01,600
+has fueled a jump and pay across the industry, said Brian Devine, a senior vice president at
+
+100
+00:10:01,600 --> 00:10:07,779
+Prologistics, a warehouse staffing firm that competes with the e-commerce giant to hire workers.
+
+101
+00:10:08,600 --> 00:10:15,580
+Prologistics average wage is $15.68 an hour up from $14.02 a year ago,
+
+102
+00:10:15,580 --> 00:10:22,220
+Devine said. Amazon's spending on workers, vehicles, and warehousing buildings will give it
+
+103
+00:10:22,220 --> 00:10:27,539
+an advantage this holiday season over competitors that will be relying on shipping companies
+
+104
+00:10:27,539 --> 00:10:33,840
+that are already stretched then. Shipping capacity among the major carriers for this holiday season
+
+105
+00:10:33,840 --> 00:10:40,659
+is largely tapped out by now, said Carson Creek, co-founder of Conway, which provides digital
+
+106
+00:10:40,659 --> 00:10:46,899
+technology to retailers such as Walmart and Home Depot to help them select the best shipping options.
+
+107
+00:10:47,820 --> 00:10:53,179
+FedEx and UPS are both adding surcharges for business shipping during the holiday surge.
+
+108
+00:10:54,139 --> 00:10:59,600
+Many of Conway's customers are turning to regional carriers, including laser ship or on track,
+
+109
+00:10:59,919 --> 00:11:05,500
+and finding that even those options are limited. All of these factors combined have made
+
+110
+00:11:05,500 --> 00:11:11,059
+Amazon a superpower when it comes to delivery. If you enjoyed this video, be sure to like,
+
+111
+00:11:11,399 --> 00:11:17,440
+comment, subscribe, and hit that notification bell so you don't miss out on any new content.
+
+112
+00:11:18,259 --> 00:11:22,580
+This has been our breakdown of how Amazon became the fastest delivery system.
+

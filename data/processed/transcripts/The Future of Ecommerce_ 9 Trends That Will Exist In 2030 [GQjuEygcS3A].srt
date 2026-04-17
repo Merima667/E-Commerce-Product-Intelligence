@@ -1,0 +1,336 @@
+1
+00:00:00,000 --> 00:00:05,240
+eCommerce is going to undergo a high number of changes because of technological and social factors.
+
+2
+00:00:05,679 --> 00:00:10,119
+I'll describe the future of eCommerce and nine trends that will exist in the year 2030.
+
+3
+00:00:10,759 --> 00:00:14,119
+Number one, augmented reality will gain mainstream acceptance.
+
+4
+00:00:14,599 --> 00:00:19,719
+Augmented reality simulates in-person shopping experiences by allowing customers to see how a product
+
+5
+00:00:19,719 --> 00:00:25,000
+might look on them or in their home. With AR, customers click on the product and instantly see it
+
+6
+00:00:25,000 --> 00:00:29,859
+overlaid wherever they point their mobile device. And when customers can view products from every
+
+7
+00:00:29,859 --> 00:00:36,659
+conceivable angle in an interactive 360 degree experience, it gives them a better idea on the value
+
+8
+00:00:36,659 --> 00:00:42,000
+that the product can offer. Smartphones, smart glasses, and other handheld and wearable devices
+
+9
+00:00:42,000 --> 00:00:47,960
+will provide a bulk of these experiences. Shopify AR is an example of a tool that already allows
+
+10
+00:00:47,960 --> 00:00:53,119
+customers to view products in natural environments before buying them. This helps to ensure that the
+
+11
+00:00:53,119 --> 00:00:58,340
+product is a good fit for the purpose intended. This helps customers make informed decisions quickly
+
+12
+00:00:58,340 --> 00:01:02,399
+when it comes to choosing a brand to buy from. And here's what most people don't realize.
+
+13
+00:01:02,920 --> 00:01:08,819
+Augmented reality is likely to be more widely used than virtual reality. According to Grandview Research,
+
+14
+00:01:09,239 --> 00:01:14,719
+the global virtual reality market will be worth 67 billion in 2028. By comparison,
+
+15
+00:01:15,060 --> 00:01:21,659
+the augmented reality global market will be worth 140 billion in 2028. That means that the augmented
+
+16
+00:01:21,659 --> 00:01:27,200
+reality global market will likely be 5 times larger than the virtual reality global market.
+
+17
+00:01:27,819 --> 00:01:33,819
+Number two, Jarvis-like AI assistants will begin to become popular. Most people in developed countries
+
+18
+00:01:33,819 --> 00:01:39,040
+could have AI assistants to improve the quality of their lives. According to Peter Diamondis,
+
+19
+00:01:39,319 --> 00:01:44,819
+founder of Singular University, services like Alexa, Google Home, and Apple HomePod will expand
+
+20
+00:01:44,819 --> 00:01:49,700
+in functionality. They will eventually expand beyond just the home and become a cognitive
+
+21
+00:01:49,700 --> 00:01:55,739
+prosthetic 24-7. Depending on what permissions you grant to it, a secured Jarvis-like software
+
+22
+00:01:55,739 --> 00:02:00,219
+can listen to all of your conversations, read your emails, monitor your blood chemistry,
+
+23
+00:02:00,719 --> 00:02:05,700
+and more. With answers to all of this data, this AI-enabled software will learn your preferences
+
+24
+00:02:05,700 --> 00:02:10,680
+and anticipate your needs and behaviors, shop for you, monitor your health, and help you
+
+25
+00:02:10,680 --> 00:02:17,000
+problem solve and support your mid and long-term goals. And by the mid-2030s, we will begin using
+
+26
+00:02:17,000 --> 00:02:22,620
+brain-computer interfaces to connect to the human neural cortex, according to Ray Kurzweil.
+
+27
+00:02:22,939 --> 00:02:28,360
+This will allow us to interact with AI assistants with their brain activity and bring this technology
+
+28
+00:02:28,360 --> 00:02:33,539
+to an entirely new level. Number three, crypto may become a common payment option.
+
+29
+00:02:33,919 --> 00:02:38,900
+To reach more consumers, especially generation Z and millennials, branch would need to accept
+
+30
+00:02:38,900 --> 00:02:44,340
+as many payment options as possible. The price fluctuations for cryptocurrencies may begin to
+
+31
+00:02:44,340 --> 00:02:49,240
+stabilize over the next decade, which will make them more attractive payment options for large
+
+32
+00:02:49,240 --> 00:02:54,620
+companies like Amazon and large payment processing companies like PayPal. On top of that,
+
+33
+00:02:54,919 --> 00:02:59,639
+most cryptocurrencies use blockchain technology to record transactions. Basically,
+
+34
+00:02:59,960 --> 00:03:05,159
+blockchain is a shared database that allows multiple parties to access data and verify that data
+
+35
+00:03:05,159 --> 00:03:10,740
+in real-time. Blockchain makes it difficult or impossible to change, hack, or cheat the system.
+
+36
+00:03:10,740 --> 00:03:15,139
+According to Grandview V-shirts, the global blockchain technology market will grow from
+
+37
+00:03:15,139 --> 00:03:23,400
+6 billion in 2021 to 395 billion in 2028. That's a whopping 65 times increase in just several years.
+
+38
+00:03:23,819 --> 00:03:27,500
+With such a massive increase in the use of blockchain technology, most industries
+
+39
+00:03:27,500 --> 00:03:32,180
+will have a far greater familiarity with blockchain and cryptocurrencies in general.
+
+40
+00:03:32,659 --> 00:03:37,520
+Number four, autonomous delivery drones could become mainstream. Delivery drones are
+
+41
+00:03:37,520 --> 00:03:42,719
+capable of handling and automated shipping in different volumes, all without human intervention.
+
+42
+00:03:43,199 --> 00:03:49,159
+The advantages of automated shipping for e-commerce are many. They include speed and delivery time,
+
+43
+00:03:49,500 --> 00:03:55,240
+reduction of freight costs, accident reduction, decrease in human error, reduction of CO2 emissions,
+
+44
+00:03:55,699 --> 00:04:01,840
+and customer satisfaction. Amazon Prime Error will deliver packages up to 5 pounds within 30 minutes
+
+45
+00:04:01,840 --> 00:04:06,580
+or less using small drones. Amazon has been developing and testing the platform.
+
+46
+00:04:06,580 --> 00:04:12,699
+Through Prime Error development centers in the US, the UK, Austria, France, and Israel.
+
+47
+00:04:13,120 --> 00:04:19,660
+And in August 2020, Amazon received approval from the FAA to operate its Prime Error delivery drones
+
+48
+00:04:19,660 --> 00:04:26,139
+to safely and efficiently deliver packages to customers. Also, UBS Flight Forward was the
+
+49
+00:04:26,139 --> 00:04:30,519
+first company to get the US government's full certification to operate a drone airline.
+
+50
+00:04:31,399 --> 00:04:35,839
+Number five, Virtual Reality will play an essential part of marketing initiatives.
+
+51
+00:04:35,839 --> 00:04:41,459
+The use of virtual reality devices will allow people to view products from any angle imaginable
+
+52
+00:04:41,459 --> 00:04:46,800
+and see those products in action within virtual environments. With virtual reality, we could quickly
+
+53
+00:04:46,800 --> 00:04:50,899
+change the type of product we are looking at and change the environment so that we can view the
+
+54
+00:04:50,899 --> 00:04:56,300
+products in different contexts. It's expected to transform multiple industries such as education,
+
+55
+00:04:56,740 --> 00:05:02,120
+social media, video games, and entertainment. Number six, in that purchases on social media
+
+56
+00:05:02,120 --> 00:05:07,620
+platforms will be commonplace. Facebook and Instagram make it easier than ever to let consumers
+
+57
+00:05:07,620 --> 00:05:12,279
+buy products without ever leaving those platforms. Facebook shops let's just set up a shop
+
+58
+00:05:12,279 --> 00:05:16,800
+that people can browse and let's people buy your products directly on Facebook. Instagram
+
+59
+00:05:16,800 --> 00:05:22,500
+sample will post, allow you to add your products to your Instagram post. Likewise, Pinterest has
+
+60
+00:05:22,500 --> 00:05:27,579
+a viable pens feature that allows shoppers to buy products directly on Pinterest. These are
+
+61
+00:05:27,579 --> 00:05:32,920
+perfect tools for companies to increase their sales because 54% of social media users research
+
+62
+00:05:32,920 --> 00:05:38,480
+products using social media. Not only that, these tools simplify and shorten the customer journey
+
+63
+00:05:38,480 --> 00:05:44,060
+and reduce abandoned transactions. Number seven, emerging markets will play a huge role. In July
+
+64
+00:05:44,060 --> 00:05:50,639
+2021, there were more than 4.8 billion users online that was 63% of the world's population
+
+65
+00:05:50,639 --> 00:05:57,819
+of 7.7 billion. Cybersecurity ventures predicts that there would be 7.5 billion internet users
+
+66
+00:05:57,819 --> 00:06:05,600
+by 2030. That would be 90% of the projected world population of 8.5 billion in 2030. A high
+
+67
+00:06:05,600 --> 00:06:10,759
+percent of those additional internet users will live in the emerging markets like India, China,
+
+68
+00:06:11,220 --> 00:06:17,459
+Brazil, Russia, and South Africa. That's going to lead to an extra 2.7 billion potential consumers
+
+69
+00:06:17,459 --> 00:06:22,480
+on the internet. That could lead to a massive increase in profits for the commerce-based companies
+
+70
+00:06:22,480 --> 00:06:27,120
+of all sizes. Number eight, voice commerce with growing popularity. Voice commerce
+
+71
+00:06:27,120 --> 00:06:33,259
+will top 40 billion in the US by 2022. Even though the global smart speaker market is growing
+
+72
+00:06:33,259 --> 00:06:38,259
+rapidly, the majority of voice activity occurs on mobile devices through virtual assistance.
+
+73
+00:06:38,720 --> 00:06:43,939
+It's also very common for consumers to use voice search features in search engines such as Google
+
+74
+00:06:43,939 --> 00:06:49,199
+and Bing, search for products. Since voice search typically happens in the form of questions,
+
+75
+00:06:49,519 --> 00:06:54,319
+the page ranking on various websites and web pages could be greatly affected over time.
+
+76
+00:06:54,899 --> 00:06:59,160
+Number nine, more product descriptions will be in the video format. According to studies
+
+77
+00:06:59,160 --> 00:07:04,600
+conducted by social media today, 60% of shoppers would rather watch a product video than read
+
+78
+00:07:04,600 --> 00:07:10,620
+a product description. Also, 64% of shoppers are more likely to purchase a product after watching
+
+79
+00:07:10,620 --> 00:07:15,879
+branded videos on social media. These studies help prove that shoppers want more interactive
+
+80
+00:07:15,879 --> 00:07:21,139
+experiences when making a purchase to better understand the value being offered. Additionally,
+
+81
+00:07:21,420 --> 00:07:27,100
+the video format is ideal for providing product demonstrations and utilizing internet influences.
+
+82
+00:07:27,740 --> 00:07:32,500
+Amazon is already using more product descriptions in the video format and this trend will only
+
+83
+00:07:32,500 --> 00:07:37,579
+continue to grow throughout the entire e-commerce space. Thanks for watching. Make sure to watch
+
+84
+00:07:37,579 --> 00:07:40,879
+the video to the right about the future of augmented reality.
+
