@@ -40,3 +40,6 @@ Success criteria:
 Google Drive folder link: https://drive.google.com/drive/folders/1RJ0sv1qmjA9Jw5WA-d2E2NVNZUuvLith
 
 ![EXIF Screenshot](image-1.png)
+
+
+![Video properties](video-properties.png)
