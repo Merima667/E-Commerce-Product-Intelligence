@@ -1,0 +1,4766 @@
+{
+  "source_file": "chunk_0003.wav",
+  "language": "en",
+  "language_probability": 0.9998,
+  "duration_s": 229.47,
+  "model": "base",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.9,
+      "text": "every address in the US quickly.",
+      "avg_log_prob": -0.1091,
+      "words": [
+        {
+          "word": " every",
+          "start": 0.0,
+          "end": 0.2,
+          "probability": 0.6897
+        },
+        {
+          "word": " address",
+          "start": 0.2,
+          "end": 0.46,
+          "probability": 0.659
+        },
+        {
+          "word": " in",
+          "start": 0.46,
+          "end": 0.86,
+          "probability": 0.9924
+        },
+        {
+          "word": " the",
+          "start": 0.86,
+          "end": 0.96,
+          "probability": 0.9926
+        },
+        {
+          "word": " US",
+          "start": 0.96,
+          "end": 1.2,
+          "probability": 0.7704
+        },
+        {
+          "word": " quickly.",
+          "start": 1.2,
+          "end": 1.9,
+          "probability": 0.8438
+        }
+      ]
+    },
+    {
+      "start": 2.7,
+      "end": 4.98,
+      "text": "No matter which of these routes a package takes,",
+      "avg_log_prob": -0.1091,
+      "words": [
+        {
+          "word": " No",
+          "start": 2.7,
+          "end": 2.96,
+          "probability": 0.9798
+        },
+        {
+          "word": " matter",
+          "start": 2.96,
+          "end": 3.16,
+          "probability": 0.9997
+        },
+        {
+          "word": " which",
+          "start": 3.16,
+          "end": 3.42,
+          "probability": 0.9918
+        },
+        {
+          "word": " of",
+          "start": 3.42,
+          "end": 3.52,
+          "probability": 0.9967
+        },
+        {
+          "word": " these",
+          "start": 3.52,
+          "end": 3.68,
+          "probability": 0.986
+        },
+        {
+          "word": " routes",
+          "start": 3.68,
+          "end": 3.92,
+          "probability": 0.9933
+        },
+        {
+          "word": " a",
+          "start": 3.92,
+          "end": 4.2,
+          "probability": 0.9909
+        },
+        {
+          "word": " package",
+          "start": 4.2,
+          "end": 4.5,
+          "probability": 0.9987
+        },
+        {
+          "word": " takes,",
+          "start": 4.5,
+          "end": 4.98,
+          "probability": 0.9974
+        }
+      ]
+    },
+    {
+      "start": 5.32,
+      "end": 7.86,
+      "text": "the end result is, at least hopefully, the same.",
+      "avg_log_prob": -0.1091,
+      "words": [
+        {
+          "word": " the",
+          "start": 5.32,
+          "end": 5.4,
+          "probability": 0.9962
+        },
+        {
+          "word": " end",
+          "start": 5.4,
+          "end": 5.56,
+          "probability": 0.9872
+        },
+        {
+          "word": " result",
+          "start": 5.56,
+          "end": 5.8,
+          "probability": 0.9915
+        },
+        {
+          "word": " is,",
+          "start": 5.8,
+          "end": 6.34,
+          "probability": 0.9966
+        },
+        {
+          "word": " at",
+          "start": 6.5,
+          "end": 6.6,
+          "probability": 0.9943
+        },
+        {
+          "word": " least",
+          "start": 6.6,
+          "end": 6.7,
+          "probability": 0.9989
+        },
+        {
+          "word": " hopefully,",
+          "start": 6.7,
+          "end": 7.08,
+          "probability": 0.8109
+        },
+        {
+          "word": " the",
+          "start": 7.52,
+          "end": 7.6,
+          "probability": 0.9959
+        },
+        {
+          "word": " same.",
+          "start": 7.6,
+          "end": 7.86,
+          "probability": 0.9995
+        }
+      ]
+    },
+    {
+      "start": 8.3,
+      "end": 10.72,
+      "text": "UPS, the USPS, or Amazon itself",
+      "avg_log_prob": -0.1091,
+      "words": [
+        {
+          "word": " UPS,",
+          "start": 8.3,
+          "end": 8.68,
+          "probability": 0.9597
+        },
+        {
+          "word": " the",
+          "start": 9.04,
+          "end": 9.12,
+          "probability": 0.9614
+        },
+        {
+          "word": " USPS,",
+          "start": 9.12,
+          "end": 9.58,
+          "probability": 0.8797
+        },
+        {
+          "word": " or",
+          "start": 9.8,
+          "end": 9.94,
+          "probability": 0.9968
+        },
+        {
+          "word": " Amazon",
+          "start": 9.94,
+          "end": 10.18,
+          "probability": 0.9834
+        },
+        {
+          "word": " itself",
+          "start": 10.18,
+          "end": 10.72,
+          "probability": 0.9977
+        }
+      ]
+    },
+    {
+      "start": 10.72,
+      "end": 13.1,
+      "text": "drops off a package at its final destinations",
+      "avg_log_prob": -0.1091,
+      "words": [
+        {
+          "word": " drops",
+          "start": 10.72,
+          "end": 11.18,
+          "probability": 0.7709
+        },
+        {
+          "word": " off",
+          "start": 11.18,
+          "end": 11.4,
+          "probability": 0.9965
+        },
+        {
+          "word": " a",
+          "start": 11.4,
+          "end": 11.5,
+          "probability": 0.9919
+        },
+        {
+          "word": " package",
+          "start": 11.5,
+          "end": 11.84,
+          "probability": 0.9993
+        },
+        {
+          "word": " at",
+          "start": 11.84,
+          "end": 12.08,
+          "probability": 0.9924
+        },
+        {
+          "word": " its",
+          "start": 12.08,
+          "end": 12.24,
+          "probability": 0.9786
+        },
+        {
+          "word": " final",
+          "start": 12.24,
+          "end": 12.46,
+          "probability": 0.9895
+        },
+        {
+          "word": " destinations",
+          "start": 12.46,
+          "end": 13.1,
+          "probability": 0.9706
+        }
+      ]
+    },
+    {
+      "start": 13.1,
+      "end": 15.7,
+      "text": "after a few days of travel across the US.",
+      "avg_log_prob": -0.1091,
+      "words": [
+        {
+          "word": " after",
+          "start": 13.1,
+          "end": 13.78,
+          "probability": 0.3925
+        },
+        {
+          "word": " a",
+          "start": 13.78,
+          "end": 13.94,
+          "probability": 0.9823
+        },
+        {
+          "word": " few",
+          "start": 13.94,
+          "end": 14.12,
+          "probability": 0.9994
+        },
+        {
+          "word": " days",
+          "start": 14.12,
+          "end": 14.32,
+          "probability": 0.9988
+        },
+        {
+          "word": " of",
+          "start": 14.32,
+          "end": 14.46,
+          "probability": 0.9965
+        },
+        {
+          "word": " travel",
+          "start": 14.46,
+          "end": 14.8,
+          "probability": 0.9989
+        },
+        {
+          "word": " across",
+          "start": 14.8,
+          "end": 15.18,
+          "probability": 0.9992
+        },
+        {
+          "word": " the",
+          "start": 15.18,
+          "end": 15.44,
+          "probability": 0.9984
+        },
+        {
+          "word": " US.",
+          "start": 15.44,
+          "end": 15.7,
+          "probability": 0.9638
+        }
+      ]
+    },
+    {
+      "start": 16.36,
+      "end": 19.46,
+      "text": "It's a very simple process from a consumer perspective,",
+      "avg_log_prob": -0.1091,
+      "words": [
+        {
+          "word": " It's",
+          "start": 16.36,
+          "end": 16.58,
+          "probability": 0.9929
+        },
+        {
+          "word": " a",
+          "start": 16.58,
+          "end": 16.64,
+          "probability": 0.9937
+        },
+        {
+          "word": " very",
+          "start": 16.64,
+          "end": 16.88,
+          "probability": 0.9979
+        },
+        {
+          "word": " simple",
+          "start": 16.88,
+          "end": 17.32,
+          "probability": 0.9992
+        },
+        {
+          "word": " process",
+          "start": 17.32,
+          "end": 17.78,
+          "probability": 0.9994
+        },
+        {
+          "word": " from",
+          "start": 17.78,
+          "end": 18.18,
+          "probability": 0.9746
+        },
+        {
+          "word": " a",
+          "start": 18.18,
+          "end": 18.44,
+          "probability": 0.9971
+        },
+        {
+          "word": " consumer",
+          "start": 18.44,
+          "end": 18.8,
+          "probability": 0.999
+        },
+        {
+          "word": " perspective,",
+          "start": 18.8,
+          "end": 19.46,
+          "probability": 0.9991
+        }
+      ]
+    },
+    {
+      "start": 19.94,
+      "end": 22.7,
+      "text": "but the behind the scenes is incredibly complex.",
+      "avg_log_prob": -0.1091,
+      "words": [
+        {
+          "word": " but",
+          "start": 19.94,
+          "end": 20.14,
+          "probability": 0.9984
+        },
+        {
+          "word": " the",
+          "start": 20.14,
+          "end": 20.24,
+          "probability": 0.9805
+        },
+        {
+          "word": " behind",
+          "start": 20.24,
+          "end": 20.5,
+          "probability": 0.9977
+        },
+        {
+          "word": " the",
+          "start": 20.5,
+          "end": 20.68,
+          "probability": 0.8056
+        },
+        {
+          "word": " scenes",
+          "start": 20.68,
+          "end": 20.96,
+          "probability": 0.9993
+        },
+        {
+          "word": " is",
+          "start": 20.96,
+          "end": 21.6,
+          "probability": 0.9928
+        },
+        {
+          "word": " incredibly",
+          "start": 21.6,
+          "end": 22.12,
+          "probability": 0.9986
+        },
+        {
+          "word": " complex.",
+          "start": 22.12,
+          "end": 22.7,
+          "probability": 0.9997
+        }
+      ]
+    },
+    {
+      "start": 23.24,
+      "end": 25.22,
+      "text": "The complexity is what's needed though",
+      "avg_log_prob": -0.1091,
+      "words": [
+        {
+          "word": " The",
+          "start": 23.24,
+          "end": 23.4,
+          "probability": 0.9978
+        },
+        {
+          "word": " complexity",
+          "start": 23.4,
+          "end": 23.92,
+          "probability": 0.9984
+        },
+        {
+          "word": " is",
+          "start": 23.92,
+          "end": 24.36,
+          "probability": 0.9964
+        },
+        {
+          "word": " what's",
+          "start": 24.36,
+          "end": 24.62,
+          "probability": 0.9918
+        },
+        {
+          "word": " needed",
+          "start": 24.62,
+          "end": 24.86,
+          "probability": 0.9976
+        },
+        {
+          "word": " though",
+          "start": 24.86,
+          "end": 25.22,
+          "probability": 0.6643
+        }
+      ]
+    },
+    {
+      "start": 25.22,
+      "end": 27.66,
+      "text": "for a business whose whole value proposition",
+      "avg_log_prob": -0.1091,
+      "words": [
+        {
+          "word": " for",
+          "start": 25.22,
+          "end": 25.6,
+          "probability": 0.6241
+        },
+        {
+          "word": " a",
+          "start": 25.6,
+          "end": 25.68,
+          "probability": 0.9954
+        },
+        {
+          "word": " business",
+          "start": 25.68,
+          "end": 25.98,
+          "probability": 0.9903
+        },
+        {
+          "word": " whose",
+          "start": 25.98,
+          "end": 26.36,
+          "probability": 0.9352
+        },
+        {
+          "word": " whole",
+          "start": 26.36,
+          "end": 26.76,
+          "probability": 0.9935
+        },
+        {
+          "word": " value",
+          "start": 26.76,
+          "end": 27.14,
+          "probability": 0.8977
+        },
+        {
+          "word": " proposition",
+          "start": 27.14,
+          "end": 27.66,
+          "probability": 0.9964
+        }
+      ]
+    },
+    {
+      "start": 28.18,
+      "end": 31.34,
+      "text": "is to get anything to your door quickly and cheaply.",
+      "avg_log_prob": -0.1041,
+      "words": [
+        {
+          "word": " is",
+          "start": 27.95,
+          "end": 28.26,
+          "probability": 0.2419
+        },
+        {
+          "word": " to",
+          "start": 28.26,
+          "end": 28.44,
+          "probability": 0.9772
+        },
+        {
+          "word": " get",
+          "start": 28.44,
+          "end": 28.56,
+          "probability": 0.9878
+        },
+        {
+          "word": " anything",
+          "start": 28.56,
+          "end": 29.12,
+          "probability": 0.9871
+        },
+        {
+          "word": " to",
+          "start": 29.12,
+          "end": 29.34,
+          "probability": 0.9871
+        },
+        {
+          "word": " your",
+          "start": 29.34,
+          "end": 29.44,
+          "probability": 0.9938
+        },
+        {
+          "word": " door",
+          "start": 29.44,
+          "end": 29.72,
+          "probability": 0.9825
+        },
+        {
+          "word": " quickly",
+          "start": 29.72,
+          "end": 30.34,
+          "probability": 0.6556
+        },
+        {
+          "word": " and",
+          "start": 30.34,
+          "end": 30.84,
+          "probability": 0.9666
+        },
+        {
+          "word": " cheaply.",
+          "start": 30.84,
+          "end": 31.34,
+          "probability": 0.9857
+        }
+      ]
+    },
+    {
+      "start": 31.7,
+      "end": 34.72,
+      "text": "The core of Amazon, their competitive advantage",
+      "avg_log_prob": -0.1041,
+      "words": [
+        {
+          "word": " The",
+          "start": 31.7,
+          "end": 31.82,
+          "probability": 0.9814
+        },
+        {
+          "word": " core",
+          "start": 31.82,
+          "end": 32.32,
+          "probability": 0.9489
+        },
+        {
+          "word": " of",
+          "start": 32.32,
+          "end": 32.58,
+          "probability": 0.9969
+        },
+        {
+          "word": " Amazon,",
+          "start": 32.58,
+          "end": 33.0,
+          "probability": 0.9922
+        },
+        {
+          "word": " their",
+          "start": 33.46,
+          "end": 33.64,
+          "probability": 0.986
+        },
+        {
+          "word": " competitive",
+          "start": 33.64,
+          "end": 34.1,
+          "probability": 0.9975
+        },
+        {
+          "word": " advantage",
+          "start": 34.1,
+          "end": 34.72,
+          "probability": 0.9947
+        }
+      ]
+    },
+    {
+      "start": 35.26,
+      "end": 38.44,
+      "text": "is now logistics to the point where many experts believe",
+      "avg_log_prob": -0.1041,
+      "words": [
+        {
+          "word": " is",
+          "start": 35.07,
+          "end": 35.38,
+          "probability": 0.4777
+        },
+        {
+          "word": " now",
+          "start": 35.38,
+          "end": 35.62,
+          "probability": 0.9849
+        },
+        {
+          "word": " logistics",
+          "start": 35.62,
+          "end": 36.2,
+          "probability": 0.9899
+        },
+        {
+          "word": " to",
+          "start": 36.2,
+          "end": 36.9,
+          "probability": 0.5333
+        },
+        {
+          "word": " the",
+          "start": 36.9,
+          "end": 36.96,
+          "probability": 0.9983
+        },
+        {
+          "word": " point",
+          "start": 36.96,
+          "end": 37.12,
+          "probability": 0.983
+        },
+        {
+          "word": " where",
+          "start": 37.12,
+          "end": 37.34,
+          "probability": 0.9907
+        },
+        {
+          "word": " many",
+          "start": 37.34,
+          "end": 37.68,
+          "probability": 0.9914
+        },
+        {
+          "word": " experts",
+          "start": 37.68,
+          "end": 38.04,
+          "probability": 0.9987
+        },
+        {
+          "word": " believe",
+          "start": 38.04,
+          "end": 38.44,
+          "probability": 0.9977
+        }
+      ]
+    },
+    {
+      "start": 38.44,
+      "end": 40.5,
+      "text": "that the company will start offering delivery",
+      "avg_log_prob": -0.1041,
+      "words": [
+        {
+          "word": " that",
+          "start": 38.44,
+          "end": 38.8,
+          "probability": 0.9606
+        },
+        {
+          "word": " the",
+          "start": 38.8,
+          "end": 38.9,
+          "probability": 0.9866
+        },
+        {
+          "word": " company",
+          "start": 38.9,
+          "end": 39.12,
+          "probability": 0.9948
+        },
+        {
+          "word": " will",
+          "start": 39.12,
+          "end": 39.36,
+          "probability": 0.9978
+        },
+        {
+          "word": " start",
+          "start": 39.36,
+          "end": 39.6,
+          "probability": 0.9975
+        },
+        {
+          "word": " offering",
+          "start": 39.6,
+          "end": 40.04,
+          "probability": 0.9957
+        },
+        {
+          "word": " delivery",
+          "start": 40.04,
+          "end": 40.5,
+          "probability": 0.9982
+        }
+      ]
+    },
+    {
+      "start": 40.5,
+      "end": 43.28,
+      "text": "as a service to other companies in the coming years.",
+      "avg_log_prob": -0.1041,
+      "words": [
+        {
+          "word": " as",
+          "start": 40.5,
+          "end": 40.76,
+          "probability": 0.9945
+        },
+        {
+          "word": " a",
+          "start": 40.76,
+          "end": 40.86,
+          "probability": 0.9956
+        },
+        {
+          "word": " service",
+          "start": 40.86,
+          "end": 41.34,
+          "probability": 0.9902
+        },
+        {
+          "word": " to",
+          "start": 41.34,
+          "end": 41.64,
+          "probability": 0.9981
+        },
+        {
+          "word": " other",
+          "start": 41.64,
+          "end": 41.9,
+          "probability": 0.9951
+        },
+        {
+          "word": " companies",
+          "start": 41.9,
+          "end": 42.32,
+          "probability": 0.9943
+        },
+        {
+          "word": " in",
+          "start": 42.32,
+          "end": 42.56,
+          "probability": 0.9925
+        },
+        {
+          "word": " the",
+          "start": 42.56,
+          "end": 42.62,
+          "probability": 0.982
+        },
+        {
+          "word": " coming",
+          "start": 42.62,
+          "end": 42.84,
+          "probability": 0.9973
+        },
+        {
+          "word": " years.",
+          "start": 42.84,
+          "end": 43.28,
+          "probability": 0.9968
+        }
+      ]
+    },
+    {
+      "start": 43.64,
+      "end": 45.78,
+      "text": "They believe that they perfected their system enough",
+      "avg_log_prob": -0.1041,
+      "words": [
+        {
+          "word": " They",
+          "start": 43.64,
+          "end": 43.84,
+          "probability": 0.9923
+        },
+        {
+          "word": " believe",
+          "start": 43.84,
+          "end": 44.1,
+          "probability": 0.9926
+        },
+        {
+          "word": " that",
+          "start": 44.1,
+          "end": 44.28,
+          "probability": 0.9405
+        },
+        {
+          "word": " they",
+          "start": 44.28,
+          "end": 44.4,
+          "probability": 0.9924
+        },
+        {
+          "word": " perfected",
+          "start": 44.4,
+          "end": 44.86,
+          "probability": 0.9079
+        },
+        {
+          "word": " their",
+          "start": 44.86,
+          "end": 44.98,
+          "probability": 0.9896
+        },
+        {
+          "word": " system",
+          "start": 44.98,
+          "end": 45.32,
+          "probability": 0.9945
+        },
+        {
+          "word": " enough",
+          "start": 45.32,
+          "end": 45.78,
+          "probability": 0.9955
+        }
+      ]
+    },
+    {
+      "start": 45.78,
+      "end": 48.66,
+      "text": "that they're going to take on UPS and FedEx.",
+      "avg_log_prob": -0.1041,
+      "words": [
+        {
+          "word": " that",
+          "start": 45.78,
+          "end": 46.18,
+          "probability": 0.9617
+        },
+        {
+          "word": " they're",
+          "start": 46.18,
+          "end": 46.34,
+          "probability": 0.9524
+        },
+        {
+          "word": " going",
+          "start": 46.34,
+          "end": 46.52,
+          "probability": 0.9845
+        },
+        {
+          "word": " to",
+          "start": 46.52,
+          "end": 46.68,
+          "probability": 0.9904
+        },
+        {
+          "word": " take",
+          "start": 46.68,
+          "end": 46.88,
+          "probability": 0.9982
+        },
+        {
+          "word": " on",
+          "start": 46.88,
+          "end": 47.06,
+          "probability": 0.9952
+        },
+        {
+          "word": " UPS",
+          "start": 47.06,
+          "end": 47.5,
+          "probability": 0.9474
+        },
+        {
+          "word": " and",
+          "start": 47.5,
+          "end": 48.06,
+          "probability": 0.9504
+        },
+        {
+          "word": " FedEx.",
+          "start": 48.06,
+          "end": 48.66,
+          "probability": 0.9476
+        }
+      ]
+    },
+    {
+      "start": 49.34,
+      "end": 51.52,
+      "text": "Of course, Amazon still has competitors",
+      "avg_log_prob": -0.1041,
+      "words": [
+        {
+          "word": " Of",
+          "start": 49.34,
+          "end": 49.5,
+          "probability": 0.9873
+        },
+        {
+          "word": " course,",
+          "start": 49.5,
+          "end": 49.74,
+          "probability": 0.9982
+        },
+        {
+          "word": " Amazon",
+          "start": 50.1,
+          "end": 50.28,
+          "probability": 0.9986
+        },
+        {
+          "word": " still",
+          "start": 50.28,
+          "end": 50.76,
+          "probability": 0.9556
+        },
+        {
+          "word": " has",
+          "start": 50.76,
+          "end": 51.02,
+          "probability": 0.9983
+        },
+        {
+          "word": " competitors",
+          "start": 51.02,
+          "end": 51.52,
+          "probability": 0.9977
+        }
+      ]
+    },
+    {
+      "start": 51.52,
+      "end": 54.84,
+      "text": "which are going after the company as aggressively as ever.",
+      "avg_log_prob": -0.1041,
+      "words": [
+        {
+          "word": " which",
+          "start": 51.52,
+          "end": 52.08,
+          "probability": 0.7191
+        },
+        {
+          "word": " are",
+          "start": 52.08,
+          "end": 52.18,
+          "probability": 0.9938
+        },
+        {
+          "word": " going",
+          "start": 52.18,
+          "end": 52.42,
+          "probability": 0.9919
+        },
+        {
+          "word": " after",
+          "start": 52.42,
+          "end": 52.66,
+          "probability": 0.9936
+        },
+        {
+          "word": " the",
+          "start": 52.66,
+          "end": 52.78,
+          "probability": 0.9857
+        },
+        {
+          "word": " company",
+          "start": 52.78,
+          "end": 53.12,
+          "probability": 0.9982
+        },
+        {
+          "word": " as",
+          "start": 53.12,
+          "end": 53.5,
+          "probability": 0.9736
+        },
+        {
+          "word": " aggressively",
+          "start": 53.5,
+          "end": 53.92,
+          "probability": 0.9843
+        },
+        {
+          "word": " as",
+          "start": 53.92,
+          "end": 54.42,
+          "probability": 0.9882
+        },
+        {
+          "word": " ever.",
+          "start": 54.42,
+          "end": 54.84,
+          "probability": 0.9963
+        }
+      ]
+    },
+    {
+      "start": 55.28,
+      "end": 56.34,
+      "text": "Target, for example,",
+      "avg_log_prob": -0.1041,
+      "words": [
+        {
+          "word": " Target,",
+          "start": 55.28,
+          "end": 55.6,
+          "probability": 0.9896
+        },
+        {
+          "word": " for",
+          "start": 55.74,
+          "end": 55.92,
+          "probability": 0.9959
+        },
+        {
+          "word": " example,",
+          "start": 55.92,
+          "end": 56.34,
+          "probability": 0.9981
+        }
+      ]
+    },
+    {
+      "start": 56.34,
+      "end": 58.42,
+      "text": "has been able to build a delivery system",
+      "avg_log_prob": -0.0921,
+      "words": [
+        {
+          "word": " has",
+          "start": 56.34,
+          "end": 56.8,
+          "probability": 0.3136
+        },
+        {
+          "word": " been",
+          "start": 56.8,
+          "end": 56.94,
+          "probability": 0.9934
+        },
+        {
+          "word": " able",
+          "start": 56.94,
+          "end": 57.16,
+          "probability": 0.9965
+        },
+        {
+          "word": " to",
+          "start": 57.16,
+          "end": 57.28,
+          "probability": 0.9947
+        },
+        {
+          "word": " build",
+          "start": 57.28,
+          "end": 57.52,
+          "probability": 0.9988
+        },
+        {
+          "word": " a",
+          "start": 57.52,
+          "end": 57.68,
+          "probability": 0.9955
+        },
+        {
+          "word": " delivery",
+          "start": 57.68,
+          "end": 57.96,
+          "probability": 0.997
+        },
+        {
+          "word": " system",
+          "start": 57.96,
+          "end": 58.42,
+          "probability": 0.9965
+        }
+      ]
+    },
+    {
+      "start": 58.42,
+      "end": 61.3,
+      "text": "with similar speed through completely different means,",
+      "avg_log_prob": -0.0921,
+      "words": [
+        {
+          "word": " with",
+          "start": 58.42,
+          "end": 58.8,
+          "probability": 0.9707
+        },
+        {
+          "word": " similar",
+          "start": 58.8,
+          "end": 59.2,
+          "probability": 0.9808
+        },
+        {
+          "word": " speed",
+          "start": 59.2,
+          "end": 59.56,
+          "probability": 0.9881
+        },
+        {
+          "word": " through",
+          "start": 59.56,
+          "end": 60.04,
+          "probability": 0.9397
+        },
+        {
+          "word": " completely",
+          "start": 60.04,
+          "end": 60.52,
+          "probability": 0.9893
+        },
+        {
+          "word": " different",
+          "start": 60.52,
+          "end": 60.94,
+          "probability": 0.9976
+        },
+        {
+          "word": " means,",
+          "start": 60.94,
+          "end": 61.3,
+          "probability": 0.9845
+        }
+      ]
+    },
+    {
+      "start": 61.84,
+      "end": 63.36,
+      "text": "ones that are far simpler.",
+      "avg_log_prob": -0.0921,
+      "words": [
+        {
+          "word": " ones",
+          "start": 61.84,
+          "end": 62.1,
+          "probability": 0.983
+        },
+        {
+          "word": " that",
+          "start": 62.1,
+          "end": 62.3,
+          "probability": 0.9942
+        },
+        {
+          "word": " are",
+          "start": 62.3,
+          "end": 62.44,
+          "probability": 0.9971
+        },
+        {
+          "word": " far",
+          "start": 62.44,
+          "end": 62.76,
+          "probability": 0.9894
+        },
+        {
+          "word": " simpler.",
+          "start": 62.76,
+          "end": 63.36,
+          "probability": 0.9845
+        }
+      ]
+    },
+    {
+      "start": 63.84,
+      "end": 66.54,
+      "text": "They've essentially turned each of their 1900 stores",
+      "avg_log_prob": -0.0921,
+      "words": [
+        {
+          "word": " They've",
+          "start": 63.84,
+          "end": 64.06,
+          "probability": 0.9894
+        },
+        {
+          "word": " essentially",
+          "start": 64.06,
+          "end": 64.4,
+          "probability": 0.9963
+        },
+        {
+          "word": " turned",
+          "start": 64.4,
+          "end": 64.72,
+          "probability": 0.9959
+        },
+        {
+          "word": " each",
+          "start": 64.72,
+          "end": 65.14,
+          "probability": 0.9949
+        },
+        {
+          "word": " of",
+          "start": 65.14,
+          "end": 65.36,
+          "probability": 0.9871
+        },
+        {
+          "word": " their",
+          "start": 65.36,
+          "end": 65.48,
+          "probability": 0.9951
+        },
+        {
+          "word": " 1900",
+          "start": 65.48,
+          "end": 65.94,
+          "probability": 0.9302
+        },
+        {
+          "word": " stores",
+          "start": 65.94,
+          "end": 66.54,
+          "probability": 0.9291
+        }
+      ]
+    },
+    {
+      "start": 66.54,
+      "end": 69.36,
+      "text": "across every US state into a fulfillment center.",
+      "avg_log_prob": -0.0921,
+      "words": [
+        {
+          "word": " across",
+          "start": 66.54,
+          "end": 66.9,
+          "probability": 0.9944
+        },
+        {
+          "word": " every",
+          "start": 66.9,
+          "end": 67.38,
+          "probability": 0.9655
+        },
+        {
+          "word": " US",
+          "start": 67.38,
+          "end": 67.66,
+          "probability": 0.6659
+        },
+        {
+          "word": " state",
+          "start": 67.66,
+          "end": 67.96,
+          "probability": 0.836
+        },
+        {
+          "word": " into",
+          "start": 67.96,
+          "end": 68.38,
+          "probability": 0.9114
+        },
+        {
+          "word": " a",
+          "start": 68.38,
+          "end": 68.58,
+          "probability": 0.9967
+        },
+        {
+          "word": " fulfillment",
+          "start": 68.58,
+          "end": 68.92,
+          "probability": 0.9832
+        },
+        {
+          "word": " center.",
+          "start": 68.92,
+          "end": 69.36,
+          "probability": 0.9568
+        }
+      ]
+    },
+    {
+      "start": 69.78,
+      "end": 72.14,
+      "text": "They send employees out into the aisles",
+      "avg_log_prob": -0.0921,
+      "words": [
+        {
+          "word": " They",
+          "start": 69.78,
+          "end": 70.02,
+          "probability": 0.9945
+        },
+        {
+          "word": " send",
+          "start": 70.02,
+          "end": 70.24,
+          "probability": 0.9879
+        },
+        {
+          "word": " employees",
+          "start": 70.24,
+          "end": 70.72,
+          "probability": 0.9908
+        },
+        {
+          "word": " out",
+          "start": 70.72,
+          "end": 71.14,
+          "probability": 0.9967
+        },
+        {
+          "word": " into",
+          "start": 71.14,
+          "end": 71.58,
+          "probability": 0.9914
+        },
+        {
+          "word": " the",
+          "start": 71.58,
+          "end": 71.76,
+          "probability": 0.9956
+        },
+        {
+          "word": " aisles",
+          "start": 71.76,
+          "end": 72.14,
+          "probability": 0.9536
+        }
+      ]
+    },
+    {
+      "start": 72.14,
+      "end": 74.92,
+      "text": "who pick, pack, and ship online orders.",
+      "avg_log_prob": -0.0921,
+      "words": [
+        {
+          "word": " who",
+          "start": 72.14,
+          "end": 72.44,
+          "probability": 0.6354
+        },
+        {
+          "word": " pick,",
+          "start": 72.44,
+          "end": 72.7,
+          "probability": 0.9902
+        },
+        {
+          "word": " pack,",
+          "start": 73.04,
+          "end": 73.18,
+          "probability": 0.9947
+        },
+        {
+          "word": " and",
+          "start": 73.52,
+          "end": 73.62,
+          "probability": 0.9967
+        },
+        {
+          "word": " ship",
+          "start": 73.62,
+          "end": 73.86,
+          "probability": 0.9969
+        },
+        {
+          "word": " online",
+          "start": 73.86,
+          "end": 74.32,
+          "probability": 0.9838
+        },
+        {
+          "word": " orders.",
+          "start": 74.32,
+          "end": 74.92,
+          "probability": 0.998
+        }
+      ]
+    },
+    {
+      "start": 75.28,
+      "end": 77.8,
+      "text": "That means that their packages never have to travel",
+      "avg_log_prob": -0.0921,
+      "words": [
+        {
+          "word": " That",
+          "start": 75.28,
+          "end": 75.58,
+          "probability": 0.9949
+        },
+        {
+          "word": " means",
+          "start": 75.58,
+          "end": 75.8,
+          "probability": 0.9966
+        },
+        {
+          "word": " that",
+          "start": 75.8,
+          "end": 76.1,
+          "probability": 0.8749
+        },
+        {
+          "word": " their",
+          "start": 76.1,
+          "end": 76.28,
+          "probability": 0.9767
+        },
+        {
+          "word": " packages",
+          "start": 76.28,
+          "end": 76.7,
+          "probability": 0.9953
+        },
+        {
+          "word": " never",
+          "start": 76.7,
+          "end": 77.22,
+          "probability": 0.9903
+        },
+        {
+          "word": " have",
+          "start": 77.22,
+          "end": 77.42,
+          "probability": 0.9979
+        },
+        {
+          "word": " to",
+          "start": 77.42,
+          "end": 77.54,
+          "probability": 0.9989
+        },
+        {
+          "word": " travel",
+          "start": 77.54,
+          "end": 77.8,
+          "probability": 0.9993
+        }
+      ]
+    },
+    {
+      "start": 77.8,
+      "end": 80.36,
+      "text": "very far at all and so they can take advantage",
+      "avg_log_prob": -0.0921,
+      "words": [
+        {
+          "word": " very",
+          "start": 77.8,
+          "end": 78.06,
+          "probability": 0.9932
+        },
+        {
+          "word": " far",
+          "start": 78.06,
+          "end": 78.38,
+          "probability": 0.999
+        },
+        {
+          "word": " at",
+          "start": 78.38,
+          "end": 78.6,
+          "probability": 0.9882
+        },
+        {
+          "word": " all",
+          "start": 78.6,
+          "end": 78.9,
+          "probability": 0.9977
+        },
+        {
+          "word": " and",
+          "start": 78.9,
+          "end": 79.3,
+          "probability": 0.4073
+        },
+        {
+          "word": " so",
+          "start": 79.3,
+          "end": 79.54,
+          "probability": 0.9964
+        },
+        {
+          "word": " they",
+          "start": 79.54,
+          "end": 79.7,
+          "probability": 0.9805
+        },
+        {
+          "word": " can",
+          "start": 79.7,
+          "end": 79.82,
+          "probability": 0.9928
+        },
+        {
+          "word": " take",
+          "start": 79.82,
+          "end": 80.0,
+          "probability": 0.9965
+        },
+        {
+          "word": " advantage",
+          "start": 80.0,
+          "end": 80.36,
+          "probability": 0.9986
+        }
+      ]
+    },
+    {
+      "start": 80.36,
+      "end": 82.22,
+      "text": "of cheap and quick ground shipping",
+      "avg_log_prob": -0.0921,
+      "words": [
+        {
+          "word": " of",
+          "start": 80.36,
+          "end": 80.68,
+          "probability": 0.9977
+        },
+        {
+          "word": " cheap",
+          "start": 80.68,
+          "end": 80.98,
+          "probability": 0.998
+        },
+        {
+          "word": " and",
+          "start": 80.98,
+          "end": 81.26,
+          "probability": 0.9865
+        },
+        {
+          "word": " quick",
+          "start": 81.26,
+          "end": 81.54,
+          "probability": 0.9982
+        },
+        {
+          "word": " ground",
+          "start": 81.54,
+          "end": 81.86,
+          "probability": 0.8504
+        },
+        {
+          "word": " shipping",
+          "start": 81.86,
+          "end": 82.22,
+          "probability": 0.9549
+        }
+      ]
+    },
+    {
+      "start": 82.22,
+      "end": 85.36,
+      "text": "from UPS, FedEx, and other more traditional providers.",
+      "avg_log_prob": -0.0921,
+      "words": [
+        {
+          "word": " from",
+          "start": 82.22,
+          "end": 82.62,
+          "probability": 0.9641
+        },
+        {
+          "word": " UPS,",
+          "start": 82.62,
+          "end": 83.02,
+          "probability": 0.9461
+        },
+        {
+          "word": " FedEx,",
+          "start": 83.34,
+          "end": 83.66,
+          "probability": 0.8169
+        },
+        {
+          "word": " and",
+          "start": 83.82,
+          "end": 83.9,
+          "probability": 0.9952
+        },
+        {
+          "word": " other",
+          "start": 83.9,
+          "end": 84.18,
+          "probability": 0.9965
+        },
+        {
+          "word": " more",
+          "start": 84.18,
+          "end": 84.4,
+          "probability": 0.9948
+        },
+        {
+          "word": " traditional",
+          "start": 84.4,
+          "end": 84.88,
+          "probability": 0.997
+        },
+        {
+          "word": " providers.",
+          "start": 84.88,
+          "end": 85.36,
+          "probability": 0.9978
+        }
+      ]
+    },
+    {
+      "start": 86.0,
+      "end": 87.94,
+      "text": "Some 80% of the company's orders",
+      "avg_log_prob": -0.1334,
+      "words": [
+        {
+          "word": " Some",
+          "start": 85.84,
+          "end": 86.14,
+          "probability": 0.323
+        },
+        {
+          "word": " 80",
+          "start": 86.14,
+          "end": 86.58,
+          "probability": 0.9827
+        },
+        {
+          "word": "%",
+          "start": 86.58,
+          "end": 86.92,
+          "probability": 0.8662
+        },
+        {
+          "word": " of",
+          "start": 86.92,
+          "end": 87.16,
+          "probability": 0.9961
+        },
+        {
+          "word": " the",
+          "start": 87.16,
+          "end": 87.28,
+          "probability": 0.9279
+        },
+        {
+          "word": " company's",
+          "start": 87.28,
+          "end": 87.72,
+          "probability": 0.968
+        },
+        {
+          "word": " orders",
+          "start": 87.72,
+          "end": 87.94,
+          "probability": 0.9956
+        }
+      ]
+    },
+    {
+      "start": 87.94,
+      "end": 89.76,
+      "text": "are fulfilled directly from its stores",
+      "avg_log_prob": -0.1334,
+      "words": [
+        {
+          "word": " are",
+          "start": 87.94,
+          "end": 88.22,
+          "probability": 0.9979
+        },
+        {
+          "word": " fulfilled",
+          "start": 88.22,
+          "end": 88.48,
+          "probability": 0.9287
+        },
+        {
+          "word": " directly",
+          "start": 88.48,
+          "end": 88.94,
+          "probability": 0.9964
+        },
+        {
+          "word": " from",
+          "start": 88.94,
+          "end": 89.3,
+          "probability": 0.9905
+        },
+        {
+          "word": " its",
+          "start": 89.3,
+          "end": 89.48,
+          "probability": 0.9634
+        },
+        {
+          "word": " stores",
+          "start": 89.48,
+          "end": 89.76,
+          "probability": 0.9682
+        }
+      ]
+    },
+    {
+      "start": 89.76,
+      "end": 92.06,
+      "text": "and now Walmart is also adapting",
+      "avg_log_prob": -0.1334,
+      "words": [
+        {
+          "word": " and",
+          "start": 89.76,
+          "end": 90.42,
+          "probability": 0.3078
+        },
+        {
+          "word": " now",
+          "start": 90.42,
+          "end": 90.66,
+          "probability": 0.8164
+        },
+        {
+          "word": " Walmart",
+          "start": 90.66,
+          "end": 90.94,
+          "probability": 0.38
+        },
+        {
+          "word": " is",
+          "start": 90.94,
+          "end": 91.3,
+          "probability": 0.9779
+        },
+        {
+          "word": " also",
+          "start": 91.3,
+          "end": 91.66,
+          "probability": 0.9756
+        },
+        {
+          "word": " adapting",
+          "start": 91.66,
+          "end": 92.06,
+          "probability": 0.9884
+        }
+      ]
+    },
+    {
+      "start": 92.06,
+      "end": 94.84,
+      "text": "this direct-from-store fulfillment system as well.",
+      "avg_log_prob": -0.1334,
+      "words": [
+        {
+          "word": " this",
+          "start": 92.06,
+          "end": 92.38,
+          "probability": 0.9774
+        },
+        {
+          "word": " direct",
+          "start": 92.38,
+          "end": 92.78,
+          "probability": 0.8751
+        },
+        {
+          "word": "-from",
+          "start": 92.78,
+          "end": 93.04,
+          "probability": 0.5903
+        },
+        {
+          "word": "-store",
+          "start": 93.04,
+          "end": 93.26,
+          "probability": 0.9592
+        },
+        {
+          "word": " fulfillment",
+          "start": 93.26,
+          "end": 93.7,
+          "probability": 0.9542
+        },
+        {
+          "word": " system",
+          "start": 93.7,
+          "end": 94.18,
+          "probability": 0.9921
+        },
+        {
+          "word": " as",
+          "start": 94.18,
+          "end": 94.62,
+          "probability": 0.9203
+        },
+        {
+          "word": " well.",
+          "start": 94.62,
+          "end": 94.84,
+          "probability": 0.9954
+        }
+      ]
+    },
+    {
+      "start": 95.54,
+      "end": 98.06,
+      "text": "So far though, Amazon believes in their system",
+      "avg_log_prob": -0.1334,
+      "words": [
+        {
+          "word": " So",
+          "start": 95.54,
+          "end": 95.76,
+          "probability": 0.9745
+        },
+        {
+          "word": " far",
+          "start": 95.76,
+          "end": 96.04,
+          "probability": 0.9937
+        },
+        {
+          "word": " though,",
+          "start": 96.04,
+          "end": 96.34,
+          "probability": 0.8532
+        },
+        {
+          "word": " Amazon",
+          "start": 96.62,
+          "end": 96.74,
+          "probability": 0.993
+        },
+        {
+          "word": " believes",
+          "start": 96.74,
+          "end": 97.2,
+          "probability": 0.9823
+        },
+        {
+          "word": " in",
+          "start": 97.2,
+          "end": 97.48,
+          "probability": 0.9936
+        },
+        {
+          "word": " their",
+          "start": 97.48,
+          "end": 97.64,
+          "probability": 0.9939
+        },
+        {
+          "word": " system",
+          "start": 97.64,
+          "end": 98.06,
+          "probability": 0.9756
+        }
+      ]
+    },
+    {
+      "start": 98.06,
+      "end": 99.68,
+      "text": "of simplicity through complexity",
+      "avg_log_prob": -0.1334,
+      "words": [
+        {
+          "word": " of",
+          "start": 98.06,
+          "end": 98.36,
+          "probability": 0.9963
+        },
+        {
+          "word": " simplicity",
+          "start": 98.36,
+          "end": 98.86,
+          "probability": 0.9943
+        },
+        {
+          "word": " through",
+          "start": 98.86,
+          "end": 99.16,
+          "probability": 0.9925
+        },
+        {
+          "word": " complexity",
+          "start": 99.16,
+          "end": 99.68,
+          "probability": 0.9951
+        }
+      ]
+    },
+    {
+      "start": 99.68,
+      "end": 101.96,
+      "text": "and their making moves to further expand the system",
+      "avg_log_prob": -0.1334,
+      "words": [
+        {
+          "word": " and",
+          "start": 99.68,
+          "end": 100.1,
+          "probability": 0.3688
+        },
+        {
+          "word": " their",
+          "start": 100.1,
+          "end": 100.22,
+          "probability": 0.7454
+        },
+        {
+          "word": " making",
+          "start": 100.22,
+          "end": 100.48,
+          "probability": 0.9836
+        },
+        {
+          "word": " moves",
+          "start": 100.48,
+          "end": 100.78,
+          "probability": 0.9679
+        },
+        {
+          "word": " to",
+          "start": 100.78,
+          "end": 100.96,
+          "probability": 0.9959
+        },
+        {
+          "word": " further",
+          "start": 100.96,
+          "end": 101.2,
+          "probability": 0.9993
+        },
+        {
+          "word": " expand",
+          "start": 101.2,
+          "end": 101.48,
+          "probability": 0.9992
+        },
+        {
+          "word": " the",
+          "start": 101.48,
+          "end": 101.66,
+          "probability": 0.9905
+        },
+        {
+          "word": " system",
+          "start": 101.66,
+          "end": 101.96,
+          "probability": 0.9966
+        }
+      ]
+    },
+    {
+      "start": 101.96,
+      "end": 104.18,
+      "text": "within the US and emulate it in Europe",
+      "avg_log_prob": -0.1334,
+      "words": [
+        {
+          "word": " within",
+          "start": 101.96,
+          "end": 102.22,
+          "probability": 0.9836
+        },
+        {
+          "word": " the",
+          "start": 102.22,
+          "end": 102.38,
+          "probability": 0.9902
+        },
+        {
+          "word": " US",
+          "start": 102.38,
+          "end": 102.64,
+          "probability": 0.5699
+        },
+        {
+          "word": " and",
+          "start": 102.64,
+          "end": 103.14,
+          "probability": 0.9493
+        },
+        {
+          "word": " emulate",
+          "start": 103.14,
+          "end": 103.48,
+          "probability": 0.8035
+        },
+        {
+          "word": " it",
+          "start": 103.48,
+          "end": 103.68,
+          "probability": 0.9725
+        },
+        {
+          "word": " in",
+          "start": 103.68,
+          "end": 103.88,
+          "probability": 0.9925
+        },
+        {
+          "word": " Europe",
+          "start": 103.88,
+          "end": 104.18,
+          "probability": 0.9965
+        }
+      ]
+    },
+    {
+      "start": 104.18,
+      "end": 106.76,
+      "text": "where they recently opened their first air hub in Leipzig",
+      "avg_log_prob": -0.1334,
+      "words": [
+        {
+          "word": " where",
+          "start": 104.18,
+          "end": 104.58,
+          "probability": 0.7667
+        },
+        {
+          "word": " they",
+          "start": 104.58,
+          "end": 104.7,
+          "probability": 0.9978
+        },
+        {
+          "word": " recently",
+          "start": 104.7,
+          "end": 104.98,
+          "probability": 0.9955
+        },
+        {
+          "word": " opened",
+          "start": 104.98,
+          "end": 105.32,
+          "probability": 0.9381
+        },
+        {
+          "word": " their",
+          "start": 105.32,
+          "end": 105.48,
+          "probability": 0.9977
+        },
+        {
+          "word": " first",
+          "start": 105.48,
+          "end": 105.78,
+          "probability": 0.99
+        },
+        {
+          "word": " air",
+          "start": 105.78,
+          "end": 106.0,
+          "probability": 0.6245
+        },
+        {
+          "word": " hub",
+          "start": 106.0,
+          "end": 106.2,
+          "probability": 0.9531
+        },
+        {
+          "word": " in",
+          "start": 106.2,
+          "end": 106.4,
+          "probability": 0.9913
+        },
+        {
+          "word": " Leipzig",
+          "start": 106.4,
+          "end": 106.76,
+          "probability": 0.7731
+        }
+      ]
+    },
+    {
+      "start": 106.76,
+      "end": 108.92,
+      "text": "and put their first two freight aircraft online",
+      "avg_log_prob": -0.1334,
+      "words": [
+        {
+          "word": " and",
+          "start": 106.76,
+          "end": 107.18,
+          "probability": 0.9914
+        },
+        {
+          "word": " put",
+          "start": 107.18,
+          "end": 107.32,
+          "probability": 0.9974
+        },
+        {
+          "word": " their",
+          "start": 107.32,
+          "end": 107.46,
+          "probability": 0.9963
+        },
+        {
+          "word": " first",
+          "start": 107.46,
+          "end": 107.72,
+          "probability": 0.9901
+        },
+        {
+          "word": " two",
+          "start": 107.72,
+          "end": 107.96,
+          "probability": 0.8591
+        },
+        {
+          "word": " freight",
+          "start": 107.96,
+          "end": 108.2,
+          "probability": 0.8967
+        },
+        {
+          "word": " aircraft",
+          "start": 108.2,
+          "end": 108.58,
+          "probability": 0.9976
+        },
+        {
+          "word": " online",
+          "start": 108.58,
+          "end": 108.92,
+          "probability": 0.951
+        }
+      ]
+    },
+    {
+      "start": 108.92,
+      "end": 110.32,
+      "text": "in November 2020.",
+      "avg_log_prob": -0.1334,
+      "words": [
+        {
+          "word": " in",
+          "start": 108.92,
+          "end": 109.36,
+          "probability": 0.9901
+        },
+        {
+          "word": " November",
+          "start": 109.36,
+          "end": 109.64,
+          "probability": 0.9832
+        },
+        {
+          "word": " 2020.",
+          "start": 109.64,
+          "end": 110.32,
+          "probability": 0.9489
+        }
+      ]
+    },
+    {
+      "start": 110.86,
+      "end": 114.24,
+      "text": "UPS, FedEx, and the other major consumer delivery companies",
+      "avg_log_prob": -0.1334,
+      "words": [
+        {
+          "word": " UPS,",
+          "start": 110.86,
+          "end": 111.22,
+          "probability": 0.9414
+        },
+        {
+          "word": " FedEx,",
+          "start": 111.56,
+          "end": 111.88,
+          "probability": 0.979
+        },
+        {
+          "word": " and",
+          "start": 112.16,
+          "end": 112.16,
+          "probability": 0.9915
+        },
+        {
+          "word": " the",
+          "start": 112.16,
+          "end": 112.28,
+          "probability": 0.9506
+        },
+        {
+          "word": " other",
+          "start": 112.28,
+          "end": 112.56,
+          "probability": 0.9943
+        },
+        {
+          "word": " major",
+          "start": 112.56,
+          "end": 112.9,
+          "probability": 0.9928
+        },
+        {
+          "word": " consumer",
+          "start": 112.9,
+          "end": 113.3,
+          "probability": 0.9915
+        },
+        {
+          "word": " delivery",
+          "start": 113.3,
+          "end": 113.64,
+          "probability": 0.9919
+        },
+        {
+          "word": " companies",
+          "start": 113.64,
+          "end": 114.24,
+          "probability": 0.9931
+        }
+      ]
+    },
+    {
+      "start": 114.24,
+      "end": 117.22,
+      "text": "are already well aware of just how big a threat",
+      "avg_log_prob": -0.1002,
+      "words": [
+        {
+          "word": " are",
+          "start": 114.24,
+          "end": 114.54,
+          "probability": 0.371
+        },
+        {
+          "word": " already",
+          "start": 114.54,
+          "end": 114.96,
+          "probability": 0.9717
+        },
+        {
+          "word": " well",
+          "start": 114.96,
+          "end": 115.3,
+          "probability": 0.9644
+        },
+        {
+          "word": " aware",
+          "start": 115.3,
+          "end": 115.7,
+          "probability": 0.9354
+        },
+        {
+          "word": " of",
+          "start": 115.7,
+          "end": 116.18,
+          "probability": 0.9853
+        },
+        {
+          "word": " just",
+          "start": 116.18,
+          "end": 116.46,
+          "probability": 0.9587
+        },
+        {
+          "word": " how",
+          "start": 116.46,
+          "end": 116.68,
+          "probability": 0.9961
+        },
+        {
+          "word": " big",
+          "start": 116.68,
+          "end": 116.86,
+          "probability": 0.7928
+        },
+        {
+          "word": " a",
+          "start": 116.86,
+          "end": 116.96,
+          "probability": 0.9838
+        },
+        {
+          "word": " threat",
+          "start": 116.96,
+          "end": 117.22,
+          "probability": 0.9916
+        }
+      ]
+    },
+    {
+      "start": 117.22,
+      "end": 118.76,
+      "text": "Amazon poses to them.",
+      "avg_log_prob": -0.1002,
+      "words": [
+        {
+          "word": " Amazon",
+          "start": 117.22,
+          "end": 117.66,
+          "probability": 0.9826
+        },
+        {
+          "word": " poses",
+          "start": 117.66,
+          "end": 118.24,
+          "probability": 0.9757
+        },
+        {
+          "word": " to",
+          "start": 118.24,
+          "end": 118.48,
+          "probability": 0.9657
+        },
+        {
+          "word": " them.",
+          "start": 118.48,
+          "end": 118.76,
+          "probability": 0.9906
+        }
+      ]
+    },
+    {
+      "start": 119.1,
+      "end": 122.5,
+      "text": "Amazon has managed to build a 21st century logistics network",
+      "avg_log_prob": -0.1002,
+      "words": [
+        {
+          "word": " Amazon",
+          "start": 119.1,
+          "end": 119.4,
+          "probability": 0.9918
+        },
+        {
+          "word": " has",
+          "start": 119.4,
+          "end": 119.7,
+          "probability": 0.9939
+        },
+        {
+          "word": " managed",
+          "start": 119.7,
+          "end": 119.98,
+          "probability": 0.9977
+        },
+        {
+          "word": " to",
+          "start": 119.98,
+          "end": 120.16,
+          "probability": 0.9975
+        },
+        {
+          "word": " build",
+          "start": 120.16,
+          "end": 120.36,
+          "probability": 0.9993
+        },
+        {
+          "word": " a",
+          "start": 120.36,
+          "end": 120.6,
+          "probability": 0.9902
+        },
+        {
+          "word": " 21st",
+          "start": 120.6,
+          "end": 121.36,
+          "probability": 0.9033
+        },
+        {
+          "word": " century",
+          "start": 121.36,
+          "end": 121.64,
+          "probability": 0.8748
+        },
+        {
+          "word": " logistics",
+          "start": 121.64,
+          "end": 122.0,
+          "probability": 0.9439
+        },
+        {
+          "word": " network",
+          "start": 122.0,
+          "end": 122.5,
+          "probability": 0.9969
+        }
+      ]
+    },
+    {
+      "start": 122.5,
+      "end": 125.22,
+      "text": "using 21st century techniques and technologies",
+      "avg_log_prob": -0.1002,
+      "words": [
+        {
+          "word": " using",
+          "start": 122.5,
+          "end": 122.92,
+          "probability": 0.9656
+        },
+        {
+          "word": " 21st",
+          "start": 122.92,
+          "end": 123.7,
+          "probability": 0.9803
+        },
+        {
+          "word": " century",
+          "start": 123.7,
+          "end": 123.96,
+          "probability": 0.9743
+        },
+        {
+          "word": " techniques",
+          "start": 123.96,
+          "end": 124.46,
+          "probability": 0.9528
+        },
+        {
+          "word": " and",
+          "start": 124.46,
+          "end": 124.68,
+          "probability": 0.9904
+        },
+        {
+          "word": " technologies",
+          "start": 124.68,
+          "end": 125.22,
+          "probability": 0.9914
+        }
+      ]
+    },
+    {
+      "start": 125.22,
+      "end": 127.5,
+      "text": "and of course part of the threat",
+      "avg_log_prob": -0.1002,
+      "words": [
+        {
+          "word": " and",
+          "start": 125.22,
+          "end": 125.88,
+          "probability": 0.3342
+        },
+        {
+          "word": " of",
+          "start": 125.88,
+          "end": 126.42,
+          "probability": 0.5695
+        },
+        {
+          "word": " course",
+          "start": 126.42,
+          "end": 126.58,
+          "probability": 0.9943
+        },
+        {
+          "word": " part",
+          "start": 126.58,
+          "end": 126.94,
+          "probability": 0.9324
+        },
+        {
+          "word": " of",
+          "start": 126.94,
+          "end": 127.2,
+          "probability": 0.9944
+        },
+        {
+          "word": " the",
+          "start": 127.2,
+          "end": 127.28,
+          "probability": 0.9366
+        },
+        {
+          "word": " threat",
+          "start": 127.28,
+          "end": 127.5,
+          "probability": 0.9925
+        }
+      ]
+    },
+    {
+      "start": 127.5,
+      "end": 129.18,
+      "text": "comes from the company's market dominance",
+      "avg_log_prob": -0.1002,
+      "words": [
+        {
+          "word": " comes",
+          "start": 127.5,
+          "end": 127.78,
+          "probability": 0.9903
+        },
+        {
+          "word": " from",
+          "start": 127.78,
+          "end": 127.96,
+          "probability": 0.9945
+        },
+        {
+          "word": " the",
+          "start": 127.96,
+          "end": 128.06,
+          "probability": 0.9494
+        },
+        {
+          "word": " company's",
+          "start": 128.06,
+          "end": 128.5,
+          "probability": 0.9814
+        },
+        {
+          "word": " market",
+          "start": 128.5,
+          "end": 128.72,
+          "probability": 0.9905
+        },
+        {
+          "word": " dominance",
+          "start": 128.72,
+          "end": 129.18,
+          "probability": 0.9979
+        }
+      ]
+    },
+    {
+      "start": 129.8,
+      "end": 132.04,
+      "text": "but most is because Amazon is innovating",
+      "avg_log_prob": -0.1002,
+      "words": [
+        {
+          "word": " but",
+          "start": 129.56,
+          "end": 129.86,
+          "probability": 0.3553
+        },
+        {
+          "word": " most",
+          "start": 129.86,
+          "end": 130.2,
+          "probability": 0.872
+        },
+        {
+          "word": " is",
+          "start": 130.2,
+          "end": 130.38,
+          "probability": 0.9523
+        },
+        {
+          "word": " because",
+          "start": 130.38,
+          "end": 130.6,
+          "probability": 0.9954
+        },
+        {
+          "word": " Amazon",
+          "start": 130.6,
+          "end": 131.08,
+          "probability": 0.9677
+        },
+        {
+          "word": " is",
+          "start": 131.08,
+          "end": 131.5,
+          "probability": 0.9933
+        },
+        {
+          "word": " innovating",
+          "start": 131.5,
+          "end": 132.04,
+          "probability": 0.9954
+        }
+      ]
+    },
+    {
+      "start": 132.04,
+      "end": 133.92,
+      "text": "in a way others aren't.",
+      "avg_log_prob": -0.1002,
+      "words": [
+        {
+          "word": " in",
+          "start": 132.04,
+          "end": 132.3,
+          "probability": 0.9932
+        },
+        {
+          "word": " a",
+          "start": 132.3,
+          "end": 132.4,
+          "probability": 0.9902
+        },
+        {
+          "word": " way",
+          "start": 132.4,
+          "end": 132.62,
+          "probability": 0.9995
+        },
+        {
+          "word": " others",
+          "start": 132.62,
+          "end": 133.16,
+          "probability": 0.9017
+        },
+        {
+          "word": " aren't.",
+          "start": 133.16,
+          "end": 133.92,
+          "probability": 0.9912
+        }
+      ]
+    },
+    {
+      "start": 134.38,
+      "end": 136.96,
+      "text": "The way FedEx and UPS move packages today",
+      "avg_log_prob": -0.1002,
+      "words": [
+        {
+          "word": " The",
+          "start": 134.38,
+          "end": 134.58,
+          "probability": 0.9831
+        },
+        {
+          "word": " way",
+          "start": 134.58,
+          "end": 134.82,
+          "probability": 0.9599
+        },
+        {
+          "word": " FedEx",
+          "start": 134.82,
+          "end": 135.26,
+          "probability": 0.9863
+        },
+        {
+          "word": " and",
+          "start": 135.26,
+          "end": 135.46,
+          "probability": 0.9756
+        },
+        {
+          "word": " UPS",
+          "start": 135.46,
+          "end": 135.78,
+          "probability": 0.9613
+        },
+        {
+          "word": " move",
+          "start": 135.78,
+          "end": 136.08,
+          "probability": 0.9716
+        },
+        {
+          "word": " packages",
+          "start": 136.08,
+          "end": 136.5,
+          "probability": 0.9973
+        },
+        {
+          "word": " today",
+          "start": 136.5,
+          "end": 136.96,
+          "probability": 0.9816
+        }
+      ]
+    },
+    {
+      "start": 136.96,
+      "end": 139.48,
+      "text": "is largely the same way they did decades ago",
+      "avg_log_prob": -0.1002,
+      "words": [
+        {
+          "word": " is",
+          "start": 136.96,
+          "end": 137.36,
+          "probability": 0.9857
+        },
+        {
+          "word": " largely",
+          "start": 137.36,
+          "end": 137.66,
+          "probability": 0.9965
+        },
+        {
+          "word": " the",
+          "start": 137.66,
+          "end": 137.84,
+          "probability": 0.9983
+        },
+        {
+          "word": " same",
+          "start": 137.84,
+          "end": 138.14,
+          "probability": 0.9991
+        },
+        {
+          "word": " way",
+          "start": 138.14,
+          "end": 138.36,
+          "probability": 0.9988
+        },
+        {
+          "word": " they",
+          "start": 138.36,
+          "end": 138.52,
+          "probability": 0.9891
+        },
+        {
+          "word": " did",
+          "start": 138.52,
+          "end": 138.7,
+          "probability": 0.9923
+        },
+        {
+          "word": " decades",
+          "start": 138.7,
+          "end": 139.14,
+          "probability": 0.9918
+        },
+        {
+          "word": " ago",
+          "start": 139.14,
+          "end": 139.48,
+          "probability": 0.9998
+        }
+      ]
+    },
+    {
+      "start": 139.48,
+      "end": 142.08,
+      "text": "but Amazon system is only possible",
+      "avg_log_prob": -0.1002,
+      "words": [
+        {
+          "word": " but",
+          "start": 139.48,
+          "end": 140.06,
+          "probability": 0.7615
+        },
+        {
+          "word": " Amazon",
+          "start": 140.06,
+          "end": 140.36,
+          "probability": 0.9757
+        },
+        {
+          "word": " system",
+          "start": 140.36,
+          "end": 140.9,
+          "probability": 0.396
+        },
+        {
+          "word": " is",
+          "start": 140.9,
+          "end": 141.2,
+          "probability": 0.9948
+        },
+        {
+          "word": " only",
+          "start": 141.2,
+          "end": 141.56,
+          "probability": 0.9955
+        },
+        {
+          "word": " possible",
+          "start": 141.56,
+          "end": 142.08,
+          "probability": 0.9974
+        }
+      ]
+    },
+    {
+      "start": 142.08,
+      "end": 144.2,
+      "text": "through innovations that allow them to manage",
+      "avg_log_prob": -0.1088,
+      "words": [
+        {
+          "word": " through",
+          "start": 142.08,
+          "end": 142.4,
+          "probability": 0.8548
+        },
+        {
+          "word": " innovations",
+          "start": 142.4,
+          "end": 142.9,
+          "probability": 0.9929
+        },
+        {
+          "word": " that",
+          "start": 142.9,
+          "end": 143.26,
+          "probability": 0.9916
+        },
+        {
+          "word": " allow",
+          "start": 143.26,
+          "end": 143.5,
+          "probability": 0.9971
+        },
+        {
+          "word": " them",
+          "start": 143.5,
+          "end": 143.76,
+          "probability": 0.991
+        },
+        {
+          "word": " to",
+          "start": 143.76,
+          "end": 143.86,
+          "probability": 0.9985
+        },
+        {
+          "word": " manage",
+          "start": 143.86,
+          "end": 144.2,
+          "probability": 0.9873
+        }
+      ]
+    },
+    {
+      "start": 144.2,
+      "end": 147.18,
+      "text": "such a massive, complex, and convoluted system.",
+      "avg_log_prob": -0.1088,
+      "words": [
+        {
+          "word": " such",
+          "start": 144.2,
+          "end": 144.62,
+          "probability": 0.989
+        },
+        {
+          "word": " a",
+          "start": 144.62,
+          "end": 144.72,
+          "probability": 0.9875
+        },
+        {
+          "word": " massive,",
+          "start": 144.72,
+          "end": 145.26,
+          "probability": 0.9926
+        },
+        {
+          "word": " complex,",
+          "start": 145.48,
+          "end": 145.84,
+          "probability": 0.9992
+        },
+        {
+          "word": " and",
+          "start": 146.14,
+          "end": 146.24,
+          "probability": 0.9949
+        },
+        {
+          "word": " convoluted",
+          "start": 146.24,
+          "end": 146.82,
+          "probability": 0.9948
+        },
+        {
+          "word": " system.",
+          "start": 146.82,
+          "end": 147.18,
+          "probability": 0.9978
+        }
+      ]
+    },
+    {
+      "start": 147.76,
+      "end": 150.04,
+      "text": "This is all to say, if you're worried",
+      "avg_log_prob": -0.1088,
+      "words": [
+        {
+          "word": " This",
+          "start": 147.76,
+          "end": 148.06,
+          "probability": 0.9695
+        },
+        {
+          "word": " is",
+          "start": 148.06,
+          "end": 148.38,
+          "probability": 0.9774
+        },
+        {
+          "word": " all",
+          "start": 148.38,
+          "end": 148.5,
+          "probability": 0.9868
+        },
+        {
+          "word": " to",
+          "start": 148.5,
+          "end": 148.64,
+          "probability": 0.9955
+        },
+        {
+          "word": " say,",
+          "start": 148.64,
+          "end": 148.96,
+          "probability": 0.9973
+        },
+        {
+          "word": " if",
+          "start": 149.48,
+          "end": 149.54,
+          "probability": 0.8111
+        },
+        {
+          "word": " you're",
+          "start": 149.54,
+          "end": 149.72,
+          "probability": 0.9744
+        },
+        {
+          "word": " worried",
+          "start": 149.72,
+          "end": 150.04,
+          "probability": 0.997
+        }
+      ]
+    },
+    {
+      "start": 150.04,
+      "end": 151.58,
+      "text": "about Amazon's growing position",
+      "avg_log_prob": -0.1088,
+      "words": [
+        {
+          "word": " about",
+          "start": 150.04,
+          "end": 150.32,
+          "probability": 0.9971
+        },
+        {
+          "word": " Amazon's",
+          "start": 150.32,
+          "end": 150.92,
+          "probability": 0.9754
+        },
+        {
+          "word": " growing",
+          "start": 150.92,
+          "end": 151.08,
+          "probability": 0.9943
+        },
+        {
+          "word": " position",
+          "start": 151.08,
+          "end": 151.58,
+          "probability": 0.9956
+        }
+      ]
+    },
+    {
+      "start": 151.58,
+      "end": 153.66,
+      "text": "as the one-stop shop for the world,",
+      "avg_log_prob": -0.1088,
+      "words": [
+        {
+          "word": " as",
+          "start": 151.58,
+          "end": 151.94,
+          "probability": 0.9733
+        },
+        {
+          "word": " the",
+          "start": 151.94,
+          "end": 152.1,
+          "probability": 0.9847
+        },
+        {
+          "word": " one",
+          "start": 152.1,
+          "end": 152.4,
+          "probability": 0.9493
+        },
+        {
+          "word": "-stop",
+          "start": 152.4,
+          "end": 152.68,
+          "probability": 0.9001
+        },
+        {
+          "word": " shop",
+          "start": 152.68,
+          "end": 152.96,
+          "probability": 0.9672
+        },
+        {
+          "word": " for",
+          "start": 152.96,
+          "end": 153.16,
+          "probability": 0.9867
+        },
+        {
+          "word": " the",
+          "start": 153.16,
+          "end": 153.26,
+          "probability": 0.9946
+        },
+        {
+          "word": " world,",
+          "start": 153.26,
+          "end": 153.66,
+          "probability": 0.996
+        }
+      ]
+    },
+    {
+      "start": 154.1,
+      "end": 157.4,
+      "text": "be worried because they're only getting better at it.",
+      "avg_log_prob": -0.1088,
+      "words": [
+        {
+          "word": " be",
+          "start": 154.1,
+          "end": 154.28,
+          "probability": 0.9974
+        },
+        {
+          "word": " worried",
+          "start": 154.28,
+          "end": 154.7,
+          "probability": 0.9959
+        },
+        {
+          "word": " because",
+          "start": 154.7,
+          "end": 155.28,
+          "probability": 0.8555
+        },
+        {
+          "word": " they're",
+          "start": 155.28,
+          "end": 155.52,
+          "probability": 0.9855
+        },
+        {
+          "word": " only",
+          "start": 155.52,
+          "end": 155.88,
+          "probability": 0.9856
+        },
+        {
+          "word": " getting",
+          "start": 155.88,
+          "end": 156.12,
+          "probability": 0.9979
+        },
+        {
+          "word": " better",
+          "start": 156.12,
+          "end": 156.56,
+          "probability": 0.9968
+        },
+        {
+          "word": " at",
+          "start": 156.56,
+          "end": 157.08,
+          "probability": 0.9881
+        },
+        {
+          "word": " it.",
+          "start": 157.08,
+          "end": 157.4,
+          "probability": 0.9975
+        }
+      ]
+    },
+    {
+      "start": 158.72,
+      "end": 161.08,
+      "text": "What Amazon's rise proves more than anything",
+      "avg_log_prob": -0.1088,
+      "words": [
+        {
+          "word": " What",
+          "start": 158.72,
+          "end": 159.04,
+          "probability": 0.9437
+        },
+        {
+          "word": " Amazon's",
+          "start": 159.04,
+          "end": 159.62,
+          "probability": 0.9851
+        },
+        {
+          "word": " rise",
+          "start": 159.62,
+          "end": 159.86,
+          "probability": 0.9601
+        },
+        {
+          "word": " proves",
+          "start": 159.86,
+          "end": 160.18,
+          "probability": 0.9947
+        },
+        {
+          "word": " more",
+          "start": 160.18,
+          "end": 160.5,
+          "probability": 0.9982
+        },
+        {
+          "word": " than",
+          "start": 160.5,
+          "end": 160.64,
+          "probability": 0.9985
+        },
+        {
+          "word": " anything",
+          "start": 160.64,
+          "end": 161.08,
+          "probability": 0.9982
+        }
+      ]
+    },
+    {
+      "start": 161.08,
+      "end": 164.42,
+      "text": "is that like or not, online is the new Main Street.",
+      "avg_log_prob": -0.1088,
+      "words": [
+        {
+          "word": " is",
+          "start": 161.08,
+          "end": 161.38,
+          "probability": 0.9275
+        },
+        {
+          "word": " that",
+          "start": 161.38,
+          "end": 161.6,
+          "probability": 0.9981
+        },
+        {
+          "word": " like",
+          "start": 161.6,
+          "end": 162.06,
+          "probability": 0.0695
+        },
+        {
+          "word": " or",
+          "start": 162.06,
+          "end": 162.22,
+          "probability": 0.9397
+        },
+        {
+          "word": " not,",
+          "start": 162.22,
+          "end": 162.62,
+          "probability": 0.9921
+        },
+        {
+          "word": " online",
+          "start": 162.94,
+          "end": 163.2,
+          "probability": 0.9535
+        },
+        {
+          "word": " is",
+          "start": 163.2,
+          "end": 163.62,
+          "probability": 0.9969
+        },
+        {
+          "word": " the",
+          "start": 163.62,
+          "end": 163.76,
+          "probability": 0.9953
+        },
+        {
+          "word": " new",
+          "start": 163.76,
+          "end": 163.96,
+          "probability": 0.9691
+        },
+        {
+          "word": " Main",
+          "start": 163.96,
+          "end": 164.14,
+          "probability": 0.7133
+        },
+        {
+          "word": " Street.",
+          "start": 164.14,
+          "end": 164.42,
+          "probability": 0.8562
+        }
+      ]
+    },
+    {
+      "start": 165.02,
+      "end": 166.86,
+      "text": "Therefore, just as you'd be concerned",
+      "avg_log_prob": -0.1088,
+      "words": [
+        {
+          "word": " Therefore,",
+          "start": 165.02,
+          "end": 165.3,
+          "probability": 0.9691
+        },
+        {
+          "word": " just",
+          "start": 165.76,
+          "end": 166.0,
+          "probability": 0.9923
+        },
+        {
+          "word": " as",
+          "start": 166.0,
+          "end": 166.22,
+          "probability": 0.9967
+        },
+        {
+          "word": " you'd",
+          "start": 166.22,
+          "end": 166.42,
+          "probability": 0.9928
+        },
+        {
+          "word": " be",
+          "start": 166.42,
+          "end": 166.48,
+          "probability": 0.9967
+        },
+        {
+          "word": " concerned",
+          "start": 166.48,
+          "end": 166.86,
+          "probability": 0.9985
+        }
+      ]
+    },
+    {
+      "start": 166.86,
+      "end": 169.26,
+      "text": "with what your storefront looks like on Main Street",
+      "avg_log_prob": -0.1088,
+      "words": [
+        {
+          "word": " with",
+          "start": 166.86,
+          "end": 167.16,
+          "probability": 0.9903
+        },
+        {
+          "word": " what",
+          "start": 167.16,
+          "end": 167.34,
+          "probability": 0.991
+        },
+        {
+          "word": " your",
+          "start": 167.34,
+          "end": 167.5,
+          "probability": 0.9951
+        },
+        {
+          "word": " storefront",
+          "start": 167.5,
+          "end": 168.06,
+          "probability": 0.9584
+        },
+        {
+          "word": " looks",
+          "start": 168.06,
+          "end": 168.34,
+          "probability": 0.9978
+        },
+        {
+          "word": " like",
+          "start": 168.34,
+          "end": 168.56,
+          "probability": 0.9988
+        },
+        {
+          "word": " on",
+          "start": 168.56,
+          "end": 168.78,
+          "probability": 0.998
+        },
+        {
+          "word": " Main",
+          "start": 168.78,
+          "end": 168.96,
+          "probability": 0.9956
+        },
+        {
+          "word": " Street",
+          "start": 168.96,
+          "end": 169.26,
+          "probability": 0.9866
+        }
+      ]
+    },
+    {
+      "start": 169.26,
+      "end": 172.42,
+      "text": "you should be concerned about how your web presence looks.",
+      "avg_log_prob": -0.1575,
+      "words": [
+        {
+          "word": " you",
+          "start": 169.26,
+          "end": 169.74,
+          "probability": 0.1434
+        },
+        {
+          "word": " should",
+          "start": 169.74,
+          "end": 170.02,
+          "probability": 0.985
+        },
+        {
+          "word": " be",
+          "start": 170.02,
+          "end": 170.16,
+          "probability": 0.9908
+        },
+        {
+          "word": " concerned",
+          "start": 170.16,
+          "end": 170.62,
+          "probability": 0.9934
+        },
+        {
+          "word": " about",
+          "start": 170.62,
+          "end": 170.86,
+          "probability": 0.9891
+        },
+        {
+          "word": " how",
+          "start": 170.86,
+          "end": 171.18,
+          "probability": 0.943
+        },
+        {
+          "word": " your",
+          "start": 171.18,
+          "end": 171.52,
+          "probability": 0.9835
+        },
+        {
+          "word": " web",
+          "start": 171.52,
+          "end": 171.8,
+          "probability": 0.8798
+        },
+        {
+          "word": " presence",
+          "start": 171.8,
+          "end": 172.08,
+          "probability": 0.8949
+        },
+        {
+          "word": " looks.",
+          "start": 172.08,
+          "end": 172.42,
+          "probability": 0.989
+        }
+      ]
+    },
+    {
+      "start": 173.02,
+      "end": 176.42,
+      "text": "Now, in the case of email, having a non-custom address",
+      "avg_log_prob": -0.1575,
+      "words": [
+        {
+          "word": " Now,",
+          "start": 173.02,
+          "end": 173.22,
+          "probability": 0.9649
+        },
+        {
+          "word": " in",
+          "start": 173.56,
+          "end": 173.62,
+          "probability": 0.9959
+        },
+        {
+          "word": " the",
+          "start": 173.62,
+          "end": 173.7,
+          "probability": 0.9767
+        },
+        {
+          "word": " case",
+          "start": 173.7,
+          "end": 173.88,
+          "probability": 0.9978
+        },
+        {
+          "word": " of",
+          "start": 173.88,
+          "end": 174.08,
+          "probability": 0.9964
+        },
+        {
+          "word": " email,",
+          "start": 174.08,
+          "end": 174.5,
+          "probability": 0.6946
+        },
+        {
+          "word": " having",
+          "start": 174.88,
+          "end": 175.06,
+          "probability": 0.9902
+        },
+        {
+          "word": " a",
+          "start": 175.06,
+          "end": 175.38,
+          "probability": 0.9961
+        },
+        {
+          "word": " non",
+          "start": 175.38,
+          "end": 175.7,
+          "probability": 0.9834
+        },
+        {
+          "word": "-custom",
+          "start": 175.7,
+          "end": 176.08,
+          "probability": 0.9436
+        },
+        {
+          "word": " address",
+          "start": 176.08,
+          "end": 176.42,
+          "probability": 0.9965
+        }
+      ]
+    },
+    {
+      "start": 176.42,
+      "end": 178.54,
+      "text": "is the equivalent of having a dirty sign.",
+      "avg_log_prob": -0.1575,
+      "words": [
+        {
+          "word": " is",
+          "start": 176.42,
+          "end": 176.8,
+          "probability": 0.9755
+        },
+        {
+          "word": " the",
+          "start": 176.8,
+          "end": 176.9,
+          "probability": 0.3865
+        },
+        {
+          "word": " equivalent",
+          "start": 176.9,
+          "end": 177.2,
+          "probability": 0.9991
+        },
+        {
+          "word": " of",
+          "start": 177.2,
+          "end": 177.38,
+          "probability": 0.991
+        },
+        {
+          "word": " having",
+          "start": 177.38,
+          "end": 177.68,
+          "probability": 0.9935
+        },
+        {
+          "word": " a",
+          "start": 177.68,
+          "end": 177.94,
+          "probability": 0.9941
+        },
+        {
+          "word": " dirty",
+          "start": 177.94,
+          "end": 178.16,
+          "probability": 0.97
+        },
+        {
+          "word": " sign.",
+          "start": 178.16,
+          "end": 178.54,
+          "probability": 0.9972
+        }
+      ]
+    },
+    {
+      "start": 179.02,
+      "end": 180.8,
+      "text": "It works, but it's not pretty.",
+      "avg_log_prob": -0.1575,
+      "words": [
+        {
+          "word": " It",
+          "start": 179.02,
+          "end": 179.16,
+          "probability": 0.9836
+        },
+        {
+          "word": " works,",
+          "start": 179.16,
+          "end": 179.42,
+          "probability": 0.9981
+        },
+        {
+          "word": " but",
+          "start": 179.88,
+          "end": 179.98,
+          "probability": 0.9983
+        },
+        {
+          "word": " it's",
+          "start": 179.98,
+          "end": 180.18,
+          "probability": 0.9835
+        },
+        {
+          "word": " not",
+          "start": 180.18,
+          "end": 180.36,
+          "probability": 0.9972
+        },
+        {
+          "word": " pretty.",
+          "start": 180.36,
+          "end": 180.8,
+          "probability": 0.9783
+        }
+      ]
+    },
+    {
+      "start": 181.38,
+      "end": 183.26,
+      "text": "That's why you'll notice that most professionals",
+      "avg_log_prob": -0.1575,
+      "words": [
+        {
+          "word": " That's",
+          "start": 181.38,
+          "end": 181.66,
+          "probability": 0.9833
+        },
+        {
+          "word": " why",
+          "start": 181.66,
+          "end": 181.78,
+          "probability": 0.994
+        },
+        {
+          "word": " you'll",
+          "start": 181.78,
+          "end": 181.94,
+          "probability": 0.9972
+        },
+        {
+          "word": " notice",
+          "start": 181.94,
+          "end": 182.18,
+          "probability": 0.9955
+        },
+        {
+          "word": " that",
+          "start": 182.18,
+          "end": 182.46,
+          "probability": 0.9756
+        },
+        {
+          "word": " most",
+          "start": 182.46,
+          "end": 182.74,
+          "probability": 0.9959
+        },
+        {
+          "word": " professionals",
+          "start": 182.74,
+          "end": 183.26,
+          "probability": 0.9976
+        }
+      ]
+    },
+    {
+      "start": 183.26,
+      "end": 184.82,
+      "text": "use custom email addresses,",
+      "avg_log_prob": -0.1575,
+      "words": [
+        {
+          "word": " use",
+          "start": 183.26,
+          "end": 183.62,
+          "probability": 0.9954
+        },
+        {
+          "word": " custom",
+          "start": 183.62,
+          "end": 184.1,
+          "probability": 0.9858
+        },
+        {
+          "word": " email",
+          "start": 184.1,
+          "end": 184.44,
+          "probability": 0.979
+        },
+        {
+          "word": " addresses,",
+          "start": 184.44,
+          "end": 184.82,
+          "probability": 0.9951
+        }
+      ]
+    },
+    {
+      "start": 185.32,
+      "end": 186.4,
+      "text": "something that ends in something",
+      "avg_log_prob": -0.1575,
+      "words": [
+        {
+          "word": " something",
+          "start": 185.32,
+          "end": 185.6,
+          "probability": 0.9918
+        },
+        {
+          "word": " that",
+          "start": 185.6,
+          "end": 185.78,
+          "probability": 0.9995
+        },
+        {
+          "word": " ends",
+          "start": 185.78,
+          "end": 185.94,
+          "probability": 0.9915
+        },
+        {
+          "word": " in",
+          "start": 185.94,
+          "end": 186.04,
+          "probability": 0.9514
+        },
+        {
+          "word": " something",
+          "start": 186.04,
+          "end": 186.4,
+          "probability": 0.9968
+        }
+      ]
+    },
+    {
+      "start": 186.4,
+      "end": 188.18,
+      "text": "like at when-over-dot-productions.",
+      "avg_log_prob": -0.1575,
+      "words": [
+        {
+          "word": " like",
+          "start": 186.4,
+          "end": 186.74,
+          "probability": 0.9322
+        },
+        {
+          "word": " at",
+          "start": 186.74,
+          "end": 187.04,
+          "probability": 0.0894
+        },
+        {
+          "word": " when",
+          "start": 187.04,
+          "end": 187.36,
+          "probability": 0.2261
+        },
+        {
+          "word": "-over",
+          "start": 187.36,
+          "end": 187.6,
+          "probability": 0.4038
+        },
+        {
+          "word": "-dot",
+          "start": 187.6,
+          "end": 187.74,
+          "probability": 0.347
+        },
+        {
+          "word": "-productions.",
+          "start": 187.74,
+          "end": 188.18,
+          "probability": 0.878
+        }
+      ]
+    },
+    {
+      "start": 188.66,
+      "end": 190.62,
+      "text": "That's a domain that I bought through hover",
+      "avg_log_prob": -0.1575,
+      "words": [
+        {
+          "word": " That's",
+          "start": 188.66,
+          "end": 189.02,
+          "probability": 0.9957
+        },
+        {
+          "word": " a",
+          "start": 189.02,
+          "end": 189.06,
+          "probability": 0.9494
+        },
+        {
+          "word": " domain",
+          "start": 189.06,
+          "end": 189.3,
+          "probability": 0.9987
+        },
+        {
+          "word": " that",
+          "start": 189.3,
+          "end": 189.52,
+          "probability": 0.9628
+        },
+        {
+          "word": " I",
+          "start": 189.52,
+          "end": 189.82,
+          "probability": 0.9853
+        },
+        {
+          "word": " bought",
+          "start": 189.82,
+          "end": 190.02,
+          "probability": 0.9766
+        },
+        {
+          "word": " through",
+          "start": 190.02,
+          "end": 190.32,
+          "probability": 0.9565
+        },
+        {
+          "word": " hover",
+          "start": 190.32,
+          "end": 190.62,
+          "probability": 0.2199
+        }
+      ]
+    },
+    {
+      "start": 190.62,
+      "end": 194.14,
+      "text": "made possible thanks to their over 400 unique domain extensions",
+      "avg_log_prob": -0.1575,
+      "words": [
+        {
+          "word": " made",
+          "start": 190.62,
+          "end": 191.1,
+          "probability": 0.7712
+        },
+        {
+          "word": " possible",
+          "start": 191.1,
+          "end": 191.48,
+          "probability": 0.9973
+        },
+        {
+          "word": " thanks",
+          "start": 191.48,
+          "end": 191.88,
+          "probability": 0.8374
+        },
+        {
+          "word": " to",
+          "start": 191.88,
+          "end": 192.02,
+          "probability": 0.999
+        },
+        {
+          "word": " their",
+          "start": 192.02,
+          "end": 192.12,
+          "probability": 0.9708
+        },
+        {
+          "word": " over",
+          "start": 192.12,
+          "end": 192.4,
+          "probability": 0.9321
+        },
+        {
+          "word": " 400",
+          "start": 192.4,
+          "end": 193.0,
+          "probability": 0.987
+        },
+        {
+          "word": " unique",
+          "start": 193.0,
+          "end": 193.4,
+          "probability": 0.9957
+        },
+        {
+          "word": " domain",
+          "start": 193.4,
+          "end": 193.68,
+          "probability": 0.9931
+        },
+        {
+          "word": " extensions",
+          "start": 193.68,
+          "end": 194.14,
+          "probability": 0.9924
+        }
+      ]
+    },
+    {
+      "start": 194.14,
+      "end": 197.58,
+      "text": "that let you go way beyond.com.org or.net.",
+      "avg_log_prob": -0.1575,
+      "words": [
+        {
+          "word": " that",
+          "start": 194.14,
+          "end": 194.52,
+          "probability": 0.9068
+        },
+        {
+          "word": " let",
+          "start": 194.52,
+          "end": 194.66,
+          "probability": 0.7983
+        },
+        {
+          "word": " you",
+          "start": 194.66,
+          "end": 194.82,
+          "probability": 0.9982
+        },
+        {
+          "word": " go",
+          "start": 194.82,
+          "end": 195.0,
+          "probability": 0.9963
+        },
+        {
+          "word": " way",
+          "start": 195.0,
+          "end": 195.34,
+          "probability": 0.9727
+        },
+        {
+          "word": " beyond",
+          "start": 195.34,
+          "end": 195.74,
+          "probability": 0.9702
+        },
+        {
+          "word": ".com",
+          "start": 195.74,
+          "end": 196.26,
+          "probability": 0.8525
+        },
+        {
+          "word": ".org",
+          "start": 196.26,
+          "end": 196.9,
+          "probability": 0.9206
+        },
+        {
+          "word": " or",
+          "start": 196.9,
+          "end": 197.1,
+          "probability": 0.8755
+        },
+        {
+          "word": ".net.",
+          "start": 197.1,
+          "end": 197.58,
+          "probability": 0.7671
+        }
+      ]
+    },
+    {
+      "start": 197.58,
+      "end": 198.88,
+      "text": "After getting that domain,",
+      "avg_log_prob": -0.1184,
+      "words": [
+        {
+          "word": " After",
+          "start": 197.58,
+          "end": 198.24,
+          "probability": 0.3868
+        },
+        {
+          "word": " getting",
+          "start": 198.24,
+          "end": 198.44,
+          "probability": 0.9949
+        },
+        {
+          "word": " that",
+          "start": 198.44,
+          "end": 198.62,
+          "probability": 0.928
+        },
+        {
+          "word": " domain,",
+          "start": 198.62,
+          "end": 198.88,
+          "probability": 0.9929
+        }
+      ]
+    },
+    {
+      "start": 199.26,
+      "end": 201.8,
+      "text": "it took about two minutes to set up a custom email address",
+      "avg_log_prob": -0.1184,
+      "words": [
+        {
+          "word": " it",
+          "start": 199.26,
+          "end": 199.28,
+          "probability": 0.9911
+        },
+        {
+          "word": " took",
+          "start": 199.28,
+          "end": 199.38,
+          "probability": 0.9977
+        },
+        {
+          "word": " about",
+          "start": 199.38,
+          "end": 199.6,
+          "probability": 0.9312
+        },
+        {
+          "word": " two",
+          "start": 199.6,
+          "end": 199.94,
+          "probability": 0.6226
+        },
+        {
+          "word": " minutes",
+          "start": 199.94,
+          "end": 200.2,
+          "probability": 0.9895
+        },
+        {
+          "word": " to",
+          "start": 200.2,
+          "end": 200.42,
+          "probability": 0.9973
+        },
+        {
+          "word": " set",
+          "start": 200.42,
+          "end": 200.56,
+          "probability": 0.9004
+        },
+        {
+          "word": " up",
+          "start": 200.56,
+          "end": 200.7,
+          "probability": 0.9898
+        },
+        {
+          "word": " a",
+          "start": 200.7,
+          "end": 200.86,
+          "probability": 0.9933
+        },
+        {
+          "word": " custom",
+          "start": 200.86,
+          "end": 201.22,
+          "probability": 0.9878
+        },
+        {
+          "word": " email",
+          "start": 201.22,
+          "end": 201.5,
+          "probability": 0.9567
+        },
+        {
+          "word": " address",
+          "start": 201.5,
+          "end": 201.8,
+          "probability": 0.9977
+        }
+      ]
+    },
+    {
+      "start": 201.8,
+      "end": 204.06,
+      "text": "for myself and everyone else who works on the channel.",
+      "avg_log_prob": -0.1184,
+      "words": [
+        {
+          "word": " for",
+          "start": 201.8,
+          "end": 202.04,
+          "probability": 0.9916
+        },
+        {
+          "word": " myself",
+          "start": 202.04,
+          "end": 202.4,
+          "probability": 0.9851
+        },
+        {
+          "word": " and",
+          "start": 202.4,
+          "end": 202.64,
+          "probability": 0.989
+        },
+        {
+          "word": " everyone",
+          "start": 202.64,
+          "end": 202.92,
+          "probability": 0.9927
+        },
+        {
+          "word": " else",
+          "start": 202.92,
+          "end": 203.14,
+          "probability": 0.9989
+        },
+        {
+          "word": " who",
+          "start": 203.14,
+          "end": 203.26,
+          "probability": 0.9812
+        },
+        {
+          "word": " works",
+          "start": 203.26,
+          "end": 203.46,
+          "probability": 0.9936
+        },
+        {
+          "word": " on",
+          "start": 203.46,
+          "end": 203.68,
+          "probability": 0.9952
+        },
+        {
+          "word": " the",
+          "start": 203.68,
+          "end": 203.76,
+          "probability": 0.9882
+        },
+        {
+          "word": " channel.",
+          "start": 203.76,
+          "end": 204.06,
+          "probability": 0.9906
+        }
+      ]
+    },
+    {
+      "start": 204.58,
+      "end": 206.48,
+      "text": "I can't count the number of times",
+      "avg_log_prob": -0.1184,
+      "words": [
+        {
+          "word": " I",
+          "start": 204.58,
+          "end": 204.76,
+          "probability": 0.9953
+        },
+        {
+          "word": " can't",
+          "start": 204.76,
+          "end": 205.22,
+          "probability": 0.9821
+        },
+        {
+          "word": " count",
+          "start": 205.22,
+          "end": 205.58,
+          "probability": 0.9951
+        },
+        {
+          "word": " the",
+          "start": 205.58,
+          "end": 205.84,
+          "probability": 0.9867
+        },
+        {
+          "word": " number",
+          "start": 205.84,
+          "end": 206.1,
+          "probability": 0.9967
+        },
+        {
+          "word": " of",
+          "start": 206.1,
+          "end": 206.26,
+          "probability": 0.9921
+        },
+        {
+          "word": " times",
+          "start": 206.26,
+          "end": 206.48,
+          "probability": 0.9969
+        }
+      ]
+    },
+    {
+      "start": 206.48,
+      "end": 208.62,
+      "text": "when someone has complimented our email address",
+      "avg_log_prob": -0.1184,
+      "words": [
+        {
+          "word": " when",
+          "start": 206.48,
+          "end": 206.7,
+          "probability": 0.9867
+        },
+        {
+          "word": " someone",
+          "start": 206.7,
+          "end": 207.02,
+          "probability": 0.9971
+        },
+        {
+          "word": " has",
+          "start": 207.02,
+          "end": 207.24,
+          "probability": 0.9937
+        },
+        {
+          "word": " complimented",
+          "start": 207.24,
+          "end": 207.84,
+          "probability": 0.8816
+        },
+        {
+          "word": " our",
+          "start": 207.84,
+          "end": 208.0,
+          "probability": 0.986
+        },
+        {
+          "word": " email",
+          "start": 208.0,
+          "end": 208.26,
+          "probability": 0.9849
+        },
+        {
+          "word": " address",
+          "start": 208.26,
+          "end": 208.62,
+          "probability": 0.9932
+        }
+      ]
+    },
+    {
+      "start": 208.62,
+      "end": 209.98,
+      "text": "as weird as that sounds.",
+      "avg_log_prob": -0.1184,
+      "words": [
+        {
+          "word": " as",
+          "start": 208.62,
+          "end": 209.08,
+          "probability": 0.3285
+        },
+        {
+          "word": " weird",
+          "start": 209.08,
+          "end": 209.24,
+          "probability": 0.9537
+        },
+        {
+          "word": " as",
+          "start": 209.24,
+          "end": 209.38,
+          "probability": 0.9932
+        },
+        {
+          "word": " that",
+          "start": 209.38,
+          "end": 209.52,
+          "probability": 0.9873
+        },
+        {
+          "word": " sounds.",
+          "start": 209.52,
+          "end": 209.98,
+          "probability": 0.9906
+        }
+      ]
+    },
+    {
+      "start": 210.54,
+      "end": 211.58,
+      "text": "And so whether you run a business",
+      "avg_log_prob": -0.1184,
+      "words": [
+        {
+          "word": " And",
+          "start": 210.54,
+          "end": 210.6,
+          "probability": 0.8086
+        },
+        {
+          "word": " so",
+          "start": 210.6,
+          "end": 210.74,
+          "probability": 0.9915
+        },
+        {
+          "word": " whether",
+          "start": 210.74,
+          "end": 210.94,
+          "probability": 0.8648
+        },
+        {
+          "word": " you",
+          "start": 210.94,
+          "end": 211.06,
+          "probability": 0.9937
+        },
+        {
+          "word": " run",
+          "start": 211.06,
+          "end": 211.18,
+          "probability": 0.9572
+        },
+        {
+          "word": " a",
+          "start": 211.18,
+          "end": 211.26,
+          "probability": 0.9989
+        },
+        {
+          "word": " business",
+          "start": 211.26,
+          "end": 211.58,
+          "probability": 0.9983
+        }
+      ]
+    },
+    {
+      "start": 211.58,
+      "end": 213.52,
+      "text": "or just want a better email for yourself,",
+      "avg_log_prob": -0.1184,
+      "words": [
+        {
+          "word": " or",
+          "start": 211.58,
+          "end": 211.98,
+          "probability": 0.8045
+        },
+        {
+          "word": " just",
+          "start": 211.98,
+          "end": 212.16,
+          "probability": 0.9843
+        },
+        {
+          "word": " want",
+          "start": 212.16,
+          "end": 212.34,
+          "probability": 0.9894
+        },
+        {
+          "word": " a",
+          "start": 212.34,
+          "end": 212.44,
+          "probability": 0.9739
+        },
+        {
+          "word": " better",
+          "start": 212.44,
+          "end": 212.6,
+          "probability": 0.9982
+        },
+        {
+          "word": " email",
+          "start": 212.6,
+          "end": 212.92,
+          "probability": 0.9929
+        },
+        {
+          "word": " for",
+          "start": 212.92,
+          "end": 213.12,
+          "probability": 0.9925
+        },
+        {
+          "word": " yourself,",
+          "start": 213.12,
+          "end": 213.52,
+          "probability": 0.9892
+        }
+      ]
+    },
+    {
+      "start": 213.98,
+      "end": 216.26,
+      "text": "it's worth getting a custom one with hover.",
+      "avg_log_prob": -0.1184,
+      "words": [
+        {
+          "word": " it's",
+          "start": 213.98,
+          "end": 214.2,
+          "probability": 0.9862
+        },
+        {
+          "word": " worth",
+          "start": 214.2,
+          "end": 214.44,
+          "probability": 0.9996
+        },
+        {
+          "word": " getting",
+          "start": 214.44,
+          "end": 214.68,
+          "probability": 0.9967
+        },
+        {
+          "word": " a",
+          "start": 214.68,
+          "end": 214.96,
+          "probability": 0.998
+        },
+        {
+          "word": " custom",
+          "start": 214.96,
+          "end": 215.34,
+          "probability": 0.9422
+        },
+        {
+          "word": " one",
+          "start": 215.34,
+          "end": 215.64,
+          "probability": 0.9807
+        },
+        {
+          "word": " with",
+          "start": 215.64,
+          "end": 216.08,
+          "probability": 0.966
+        },
+        {
+          "word": " hover.",
+          "start": 216.08,
+          "end": 216.26,
+          "probability": 0.8687
+        }
+      ]
+    },
+    {
+      "start": 216.72,
+      "end": 219.0,
+      "text": "So head to hover.com slash wind-over",
+      "avg_log_prob": -0.1184,
+      "words": [
+        {
+          "word": " So",
+          "start": 216.72,
+          "end": 216.94,
+          "probability": 0.9824
+        },
+        {
+          "word": " head",
+          "start": 216.94,
+          "end": 217.34,
+          "probability": 0.9032
+        },
+        {
+          "word": " to",
+          "start": 217.34,
+          "end": 217.56,
+          "probability": 0.9981
+        },
+        {
+          "word": " hover",
+          "start": 217.56,
+          "end": 217.78,
+          "probability": 0.9754
+        },
+        {
+          "word": ".com",
+          "start": 217.78,
+          "end": 218.18,
+          "probability": 0.9469
+        },
+        {
+          "word": " slash",
+          "start": 218.18,
+          "end": 218.54,
+          "probability": 0.0022
+        },
+        {
+          "word": " wind",
+          "start": 218.54,
+          "end": 218.76,
+          "probability": 0.2708
+        },
+        {
+          "word": "-over",
+          "start": 218.76,
+          "end": 219.0,
+          "probability": 0.5315
+        }
+      ]
+    },
+    {
+      "start": 219.0,
+      "end": 220.84,
+      "text": "to get 10% off your first purchase",
+      "avg_log_prob": -0.1184,
+      "words": [
+        {
+          "word": " to",
+          "start": 219.0,
+          "end": 219.22,
+          "probability": 0.8652
+        },
+        {
+          "word": " get",
+          "start": 219.22,
+          "end": 219.34,
+          "probability": 0.9986
+        },
+        {
+          "word": " 10",
+          "start": 219.34,
+          "end": 219.56,
+          "probability": 0.9739
+        },
+        {
+          "word": "%",
+          "start": 219.56,
+          "end": 219.74,
+          "probability": 0.9541
+        },
+        {
+          "word": " off",
+          "start": 219.74,
+          "end": 219.98,
+          "probability": 0.9903
+        },
+        {
+          "word": " your",
+          "start": 219.98,
+          "end": 220.22,
+          "probability": 0.9859
+        },
+        {
+          "word": " first",
+          "start": 220.22,
+          "end": 220.54,
+          "probability": 0.9932
+        },
+        {
+          "word": " purchase",
+          "start": 220.54,
+          "end": 220.84,
+          "probability": 0.9996
+        }
+      ]
+    },
+    {
+      "start": 220.84,
+      "end": 222.7,
+      "text": "of a custom domain or email address",
+      "avg_log_prob": -0.1184,
+      "words": [
+        {
+          "word": " of",
+          "start": 220.84,
+          "end": 221.1,
+          "probability": 0.995
+        },
+        {
+          "word": " a",
+          "start": 221.1,
+          "end": 221.18,
+          "probability": 0.994
+        },
+        {
+          "word": " custom",
+          "start": 221.18,
+          "end": 221.5,
+          "probability": 0.9909
+        },
+        {
+          "word": " domain",
+          "start": 221.5,
+          "end": 221.88,
+          "probability": 0.9719
+        },
+        {
+          "word": " or",
+          "start": 221.88,
+          "end": 222.12,
+          "probability": 0.9679
+        },
+        {
+          "word": " email",
+          "start": 222.12,
+          "end": 222.34,
+          "probability": 0.9968
+        },
+        {
+          "word": " address",
+          "start": 222.34,
+          "end": 222.7,
+          "probability": 0.9984
+        }
+      ]
+    },
+    {
+      "start": 222.7,
+      "end": 225.88,
+      "text": "and you'll be supporting the channel while you're at it.",
+      "avg_log_prob": -0.1184,
+      "words": [
+        {
+          "word": " and",
+          "start": 222.7,
+          "end": 223.36,
+          "probability": 0.5436
+        },
+        {
+          "word": " you'll",
+          "start": 223.36,
+          "end": 223.52,
+          "probability": 0.9928
+        },
+        {
+          "word": " be",
+          "start": 223.52,
+          "end": 223.62,
+          "probability": 0.998
+        },
+        {
+          "word": " supporting",
+          "start": 223.62,
+          "end": 223.94,
+          "probability": 0.9979
+        },
+        {
+          "word": " the",
+          "start": 223.94,
+          "end": 224.1,
+          "probability": 0.9974
+        },
+        {
+          "word": " channel",
+          "start": 224.1,
+          "end": 224.44,
+          "probability": 0.994
+        },
+        {
+          "word": " while",
+          "start": 224.44,
+          "end": 224.96,
+          "probability": 0.8629
+        },
+        {
+          "word": " you're",
+          "start": 224.96,
+          "end": 225.44,
+          "probability": 0.99
+        },
+        {
+          "word": " at",
+          "start": 225.44,
+          "end": 225.6,
+          "probability": 0.9927
+        },
+        {
+          "word": " it.",
+          "start": 225.6,
+          "end": 225.88,
+          "probability": 0.9981
+        }
+      ]
+    },
+    {
+      "start": 228.58,
+      "end": 229.44,
+      "text": "You can also use your own email address",
+      "avg_log_prob": -0.9971,
+      "words": [
+        {
+          "word": " You",
+          "start": 228.58,
+          "end": 229.44,
+          "probability": 0.0305
+        },
+        {
+          "word": " can",
+          "start": 229.44,
+          "end": 229.44,
+          "probability": 0.0787
+        },
+        {
+          "word": " also",
+          "start": 229.44,
+          "end": 229.44,
+          "probability": 0.0356
+        },
+        {
+          "word": " use",
+          "start": 229.44,
+          "end": 229.44,
+          "probability": 0.082
+        },
+        {
+          "word": " your",
+          "start": 229.44,
+          "end": 229.44,
+          "probability": 0.0912
+        },
+        {
+          "word": " own",
+          "start": 229.44,
+          "end": 229.44,
+          "probability": 0.0401
+        },
+        {
+          "word": " email",
+          "start": 229.44,
+          "end": 229.44,
+          "probability": 0.0041
+        },
+        {
+          "word": " address",
+          "start": 229.44,
+          "end": 229.44,
+          "probability": 0.0757
+        }
+      ]
+    }
+  ],
+  "full_text": "every address in the US quickly. No matter which of these routes a package takes, the end result is, at least hopefully, the same. UPS, the USPS, or Amazon itself drops off a package at its final destinations after a few days of travel across the US. It's a very simple process from a consumer perspective, but the behind the scenes is incredibly complex. The complexity is what's needed though for a business whose whole value proposition is to get anything to your door quickly and cheaply. The core of Amazon, their competitive advantage is now logistics to the point where many experts believe that the company will start offering delivery as a service to other companies in the coming years. They believe that they perfected their system enough that they're going to take on UPS and FedEx. Of course, Amazon still has competitors which are going after the company as aggressively as ever. Target, for example, has been able to build a delivery system with similar speed through completely different means, ones that are far simpler. They've essentially turned each of their 1900 stores across every US state into a fulfillment center. They send employees out into the aisles who pick, pack, and ship online orders. That means that their packages never have to travel very far at all and so they can take advantage of cheap and quick ground shipping from UPS, FedEx, and other more traditional providers. Some 80% of the company's orders are fulfilled directly from its stores and now Walmart is also adapting this direct-from-store fulfillment system as well. So far though, Amazon believes in their system of simplicity through complexity and their making moves to further expand the system within the US and emulate it in Europe where they recently opened their first air hub in Leipzig and put their first two freight aircraft online in November 2020. UPS, FedEx, and the other major consumer delivery companies are already well aware of just how big a threat Amazon poses to them. Amazon has managed to build a 21st century logistics network using 21st century techniques and technologies and of course part of the threat comes from the company's market dominance but most is because Amazon is innovating in a way others aren't. The way FedEx and UPS move packages today is largely the same way they did decades ago but Amazon system is only possible through innovations that allow them to manage such a massive, complex, and convoluted system. This is all to say, if you're worried about Amazon's growing position as the one-stop shop for the world, be worried because they're only getting better at it. What Amazon's rise proves more than anything is that like or not, online is the new Main Street. Therefore, just as you'd be concerned with what your storefront looks like on Main Street you should be concerned about how your web presence looks. Now, in the case of email, having a non-custom address is the equivalent of having a dirty sign. It works, but it's not pretty. That's why you'll notice that most professionals use custom email addresses, something that ends in something like at when-over-dot-productions. That's a domain that I bought through hover made possible thanks to their over 400 unique domain extensions that let you go way beyond.com.org or.net. After getting that domain, it took about two minutes to set up a custom email address for myself and everyone else who works on the channel. I can't count the number of times when someone has complimented our email address as weird as that sounds. And so whether you run a business or just want a better email for yourself, it's worth getting a custom one with hover. So head to hover.com slash wind-over to get 10% off your first purchase of a custom domain or email address and you'll be supporting the channel while you're at it. You can also use your own email address"
+}
