@@ -1,0 +1,175 @@
+2026-04-10 13:06:09,564 [INFO] Batch processing 7 images from ..\..\data\raw\images
+2026-04-10 13:06:09,815 [INFO] Resized proportionally: 742x924 -> 500x622
+2026-04-10 13:06:09,845 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B09SM24S8C_thumb.jpg (103, 128)
+2026-04-10 13:06:10,385 [INFO] WebP: 49KB -> 36KB (27.4% saving)
+2026-04-10 13:06:10,387 [WARNING] No EXIF data found in ..\..\data\raw\images\B09SM24S8C.jpg
+2026-04-10 13:06:10,512 [INFO] Resized proportionally: 983x1257 -> 500x639
+2026-04-10 13:06:10,582 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0CP6DDN1H_thumb.jpg (100, 128)
+2026-04-10 13:06:11,169 [INFO] WebP: 81KB -> 52KB (36.2% saving)
+2026-04-10 13:06:11,172 [WARNING] No EXIF data found in ..\..\data\raw\images\B0CP6DDN1H.jpg
+2026-04-10 13:06:11,304 [INFO] Resized proportionally: 989x1279 -> 500x646
+2026-04-10 13:06:11,355 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0CT6BQV81_thumb.jpg (99, 128)
+2026-04-10 13:06:11,957 [INFO] WebP: 93KB -> 67KB (27.3% saving)
+2026-04-10 13:06:11,959 [WARNING] No EXIF data found in ..\..\data\raw\images\B0CT6BQV81.jpg
+2026-04-10 13:06:12,043 [INFO] Resized proportionally: 881x1130 -> 500x641
+2026-04-10 13:06:12,080 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0DM1S54MZ_thumb.jpg (100, 128)
+2026-04-10 13:06:12,514 [INFO] WebP: 62KB -> 37KB (39.1% saving)
+2026-04-10 13:06:12,518 [WARNING] No EXIF data found in ..\..\data\raw\images\B0DM1S54MZ.jpg
+2026-04-10 13:06:12,661 [INFO] Resized proportionally: 1240x1500 -> 500x604
+2026-04-10 13:06:12,715 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0FXY18C1J_thumb.jpg (106, 128)
+2026-04-10 13:06:13,369 [INFO] WebP: 69KB -> 33KB (51.9% saving)
+2026-04-10 13:06:13,371 [WARNING] No EXIF data found in ..\..\data\raw\images\B0FXY18C1J.jpg
+2026-04-10 13:06:13,553 [INFO] Resized proportionally: 1478x1500 -> 500x507
+2026-04-10 13:06:13,634 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0G4SVV79P_thumb.jpg (126, 128)
+2026-04-10 13:06:14,412 [INFO] WebP: 86KB -> 47KB (45.2% saving)
+2026-04-10 13:06:14,415 [WARNING] No EXIF data found in ..\..\data\raw\images\B0G4SVV79P.jpg
+2026-04-10 13:06:14,528 [ERROR] Failed: test_scan.png - cannot write mode RGBA as JPEG
+2026-04-10 13:06:14,531 [INFO] Batch complete. Success: 6, Errors: 1
+2026-04-10 13:15:22,506 [INFO] Batch processing 7 images from ..\..\data\raw\images
+2026-04-10 13:15:22,544 [INFO] Resized proportionally: 742x924 -> 500x622
+2026-04-10 13:15:22,557 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B09SM24S8C_thumb.jpg (103, 128)
+2026-04-10 13:15:22,717 [INFO] WebP: 49KB -> 36KB (27.4% saving)
+2026-04-10 13:15:22,718 [WARNING] No EXIF data found in ..\..\data\raw\images\B09SM24S8C.jpg
+2026-04-10 13:15:22,744 [INFO] Resized proportionally: 983x1257 -> 500x639
+2026-04-10 13:15:22,757 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0CP6DDN1H_thumb.jpg (100, 128)
+2026-04-10 13:15:22,891 [INFO] WebP: 81KB -> 52KB (36.2% saving)
+2026-04-10 13:15:22,892 [WARNING] No EXIF data found in ..\..\data\raw\images\B0CP6DDN1H.jpg
+2026-04-10 13:15:22,918 [INFO] Resized proportionally: 989x1279 -> 500x646
+2026-04-10 13:15:22,931 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0CT6BQV81_thumb.jpg (99, 128)
+2026-04-10 13:15:23,090 [INFO] WebP: 93KB -> 67KB (27.3% saving)
+2026-04-10 13:15:23,091 [WARNING] No EXIF data found in ..\..\data\raw\images\B0CT6BQV81.jpg
+2026-04-10 13:15:23,110 [INFO] Resized proportionally: 881x1130 -> 500x641
+2026-04-10 13:15:23,123 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0DM1S54MZ_thumb.jpg (100, 128)
+2026-04-10 13:15:23,233 [INFO] WebP: 62KB -> 37KB (39.1% saving)
+2026-04-10 13:15:23,234 [WARNING] No EXIF data found in ..\..\data\raw\images\B0DM1S54MZ.jpg
+2026-04-10 13:15:23,263 [INFO] Resized proportionally: 1240x1500 -> 500x604
+2026-04-10 13:15:23,282 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0FXY18C1J_thumb.jpg (106, 128)
+2026-04-10 13:15:23,458 [INFO] WebP: 69KB -> 33KB (51.9% saving)
+2026-04-10 13:15:23,458 [WARNING] No EXIF data found in ..\..\data\raw\images\B0FXY18C1J.jpg
+2026-04-10 13:15:23,493 [INFO] Resized proportionally: 1478x1500 -> 500x507
+2026-04-10 13:15:23,513 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0G4SVV79P_thumb.jpg (126, 128)
+2026-04-10 13:15:23,728 [INFO] WebP: 86KB -> 47KB (45.2% saving)
+2026-04-10 13:15:23,729 [WARNING] No EXIF data found in ..\..\data\raw\images\B0G4SVV79P.jpg
+2026-04-10 13:15:23,743 [ERROR] Failed: test_scan.png - cannot write mode RGBA as JPEG
+2026-04-10 13:15:23,844 [INFO] Batch complete. Success: 6, Errors: 1
+2026-04-10 13:49:27,970 [INFO] Batch processing 7 images from ..\..\data\raw\images
+2026-04-10 13:49:28,006 [INFO] Resized proportionally: 742x924 -> 500x622
+2026-04-10 13:49:28,015 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B09SM24S8C_thumb.jpg (103, 128)
+2026-04-10 13:49:28,137 [INFO] WebP: 49KB -> 36KB (27.4% saving)
+2026-04-10 13:49:28,138 [WARNING] No EXIF data found in ..\..\data\raw\images\B09SM24S8C.jpg
+2026-04-10 13:49:28,162 [INFO] Resized proportionally: 983x1257 -> 500x639
+2026-04-10 13:49:28,175 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0CP6DDN1H_thumb.jpg (100, 128)
+2026-04-10 13:49:28,317 [INFO] WebP: 81KB -> 52KB (36.2% saving)
+2026-04-10 13:49:28,317 [WARNING] No EXIF data found in ..\..\data\raw\images\B0CP6DDN1H.jpg
+2026-04-10 13:49:28,343 [INFO] Resized proportionally: 989x1279 -> 500x646
+2026-04-10 13:49:28,355 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0CT6BQV81_thumb.jpg (99, 128)
+2026-04-10 13:49:28,506 [INFO] WebP: 93KB -> 67KB (27.3% saving)
+2026-04-10 13:49:28,507 [WARNING] No EXIF data found in ..\..\data\raw\images\B0CT6BQV81.jpg
+2026-04-10 13:49:28,527 [INFO] Resized proportionally: 881x1130 -> 500x641
+2026-04-10 13:49:28,538 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0DM1S54MZ_thumb.jpg (100, 128)
+2026-04-10 13:49:28,669 [INFO] WebP: 62KB -> 37KB (39.1% saving)
+2026-04-10 13:49:28,670 [WARNING] No EXIF data found in ..\..\data\raw\images\B0DM1S54MZ.jpg
+2026-04-10 13:49:28,698 [INFO] Resized proportionally: 1240x1500 -> 500x604
+2026-04-10 13:49:28,714 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0FXY18C1J_thumb.jpg (106, 128)
+2026-04-10 13:49:28,892 [INFO] WebP: 69KB -> 33KB (51.9% saving)
+2026-04-10 13:49:28,893 [WARNING] No EXIF data found in ..\..\data\raw\images\B0FXY18C1J.jpg
+2026-04-10 13:49:28,926 [INFO] Resized proportionally: 1478x1500 -> 500x507
+2026-04-10 13:49:28,947 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0G4SVV79P_thumb.jpg (126, 128)
+2026-04-10 13:49:29,159 [INFO] WebP: 86KB -> 47KB (45.2% saving)
+2026-04-10 13:49:29,160 [WARNING] No EXIF data found in ..\..\data\raw\images\B0G4SVV79P.jpg
+2026-04-10 13:49:29,176 [ERROR] Failed: test_scan.png - cannot write mode RGBA as JPEG
+2026-04-10 13:49:29,195 [INFO] Batch complete. Success: 6, Errors: 1
+2026-04-10 13:53:54,352 [INFO] Batch processing 7 images from ..\..\data\raw\images
+2026-04-10 13:53:54,388 [INFO] Resized proportionally: 742x924 -> 500x622
+2026-04-10 13:53:54,398 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B09SM24S8C_thumb.jpg (103, 128)
+2026-04-10 13:53:54,527 [INFO] WebP: 49KB -> 36KB (27.4% saving)
+2026-04-10 13:53:54,528 [WARNING] No EXIF data found in ..\..\data\raw\images\B09SM24S8C.jpg
+2026-04-10 13:53:54,556 [INFO] Resized proportionally: 983x1257 -> 500x639
+2026-04-10 13:53:54,570 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0CP6DDN1H_thumb.jpg (100, 128)
+2026-04-10 13:53:54,718 [INFO] WebP: 81KB -> 52KB (36.2% saving)
+2026-04-10 13:53:54,719 [WARNING] No EXIF data found in ..\..\data\raw\images\B0CP6DDN1H.jpg
+2026-04-10 13:53:54,764 [INFO] Resized proportionally: 989x1279 -> 500x646
+2026-04-10 13:53:54,783 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0CT6BQV81_thumb.jpg (99, 128)
+2026-04-10 13:53:54,934 [INFO] WebP: 93KB -> 67KB (27.3% saving)
+2026-04-10 13:53:54,935 [WARNING] No EXIF data found in ..\..\data\raw\images\B0CT6BQV81.jpg
+2026-04-10 13:53:54,958 [INFO] Resized proportionally: 881x1130 -> 500x641
+2026-04-10 13:53:54,970 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0DM1S54MZ_thumb.jpg (100, 128)
+2026-04-10 13:53:55,082 [INFO] WebP: 62KB -> 37KB (39.1% saving)
+2026-04-10 13:53:55,083 [WARNING] No EXIF data found in ..\..\data\raw\images\B0DM1S54MZ.jpg
+2026-04-10 13:53:55,114 [INFO] Resized proportionally: 1240x1500 -> 500x604
+2026-04-10 13:53:55,132 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0FXY18C1J_thumb.jpg (106, 128)
+2026-04-10 13:53:55,324 [INFO] WebP: 69KB -> 33KB (51.9% saving)
+2026-04-10 13:53:55,325 [WARNING] No EXIF data found in ..\..\data\raw\images\B0FXY18C1J.jpg
+2026-04-10 13:53:55,366 [INFO] Resized proportionally: 1478x1500 -> 500x507
+2026-04-10 13:53:55,390 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0G4SVV79P_thumb.jpg (126, 128)
+2026-04-10 13:53:55,620 [INFO] WebP: 86KB -> 47KB (45.2% saving)
+2026-04-10 13:53:55,621 [WARNING] No EXIF data found in ..\..\data\raw\images\B0G4SVV79P.jpg
+2026-04-10 13:53:55,637 [ERROR] Failed: test_scan.png - cannot write mode RGBA as JPEG
+2026-04-10 13:53:55,645 [INFO] Batch complete. Success: 6, Errors: 1
+2026-04-10 13:54:43,262 [INFO] Batch processing 7 images from ..\..\data\raw\images
+2026-04-10 13:54:43,293 [INFO] Resized proportionally: 742x924 -> 500x622
+2026-04-10 13:54:43,302 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B09SM24S8C_thumb.jpg (103, 128)
+2026-04-10 13:54:43,427 [INFO] WebP: 49KB -> 36KB (27.4% saving)
+2026-04-10 13:54:43,427 [WARNING] No EXIF data found in ..\..\data\raw\images\B09SM24S8C.jpg
+2026-04-10 13:54:43,451 [INFO] Resized proportionally: 983x1257 -> 500x639
+2026-04-10 13:54:43,464 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0CP6DDN1H_thumb.jpg (100, 128)
+2026-04-10 13:54:43,611 [INFO] WebP: 81KB -> 52KB (36.2% saving)
+2026-04-10 13:54:43,612 [WARNING] No EXIF data found in ..\..\data\raw\images\B0CP6DDN1H.jpg
+2026-04-10 13:54:43,636 [INFO] Resized proportionally: 989x1279 -> 500x646
+2026-04-10 13:54:43,649 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0CT6BQV81_thumb.jpg (99, 128)
+2026-04-10 13:54:43,813 [INFO] WebP: 93KB -> 67KB (27.3% saving)
+2026-04-10 13:54:43,814 [WARNING] No EXIF data found in ..\..\data\raw\images\B0CT6BQV81.jpg
+2026-04-10 13:54:43,837 [INFO] Resized proportionally: 881x1130 -> 500x641
+2026-04-10 13:54:43,849 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0DM1S54MZ_thumb.jpg (100, 128)
+2026-04-10 13:54:43,964 [INFO] WebP: 62KB -> 37KB (39.1% saving)
+2026-04-10 13:54:43,965 [WARNING] No EXIF data found in ..\..\data\raw\images\B0DM1S54MZ.jpg
+2026-04-10 13:54:43,994 [INFO] Resized proportionally: 1240x1500 -> 500x604
+2026-04-10 13:54:44,012 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0FXY18C1J_thumb.jpg (106, 128)
+2026-04-10 13:54:44,204 [INFO] WebP: 69KB -> 33KB (51.9% saving)
+2026-04-10 13:54:44,205 [WARNING] No EXIF data found in ..\..\data\raw\images\B0FXY18C1J.jpg
+2026-04-10 13:54:44,241 [INFO] Resized proportionally: 1478x1500 -> 500x507
+2026-04-10 13:54:44,264 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0G4SVV79P_thumb.jpg (126, 128)
+2026-04-10 13:54:44,489 [INFO] WebP: 86KB -> 47KB (45.2% saving)
+2026-04-10 13:54:44,490 [WARNING] No EXIF data found in ..\..\data\raw\images\B0G4SVV79P.jpg
+2026-04-10 13:54:44,504 [ERROR] Failed: test_scan.png - cannot write mode RGBA as JPEG
+2026-04-10 13:56:06,325 [INFO] Batch processing 7 images from ..\..\data\raw\images
+2026-04-10 13:56:06,360 [INFO] Resized proportionally: 742x924 -> 500x622
+2026-04-10 13:56:06,369 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B09SM24S8C_thumb.jpg (103, 128)
+2026-04-10 13:56:06,502 [INFO] WebP: 49KB -> 36KB (27.4% saving)
+2026-04-10 13:56:06,502 [WARNING] No EXIF data found in ..\..\data\raw\images\B09SM24S8C.jpg
+2026-04-10 13:56:06,526 [INFO] Resized proportionally: 983x1257 -> 500x639
+2026-04-10 13:56:06,539 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0CP6DDN1H_thumb.jpg (100, 128)
+2026-04-10 13:56:06,677 [INFO] WebP: 81KB -> 52KB (36.2% saving)
+2026-04-10 13:56:06,678 [WARNING] No EXIF data found in ..\..\data\raw\images\B0CP6DDN1H.jpg
+2026-04-10 13:56:06,704 [INFO] Resized proportionally: 989x1279 -> 500x646
+2026-04-10 13:56:06,717 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0CT6BQV81_thumb.jpg (99, 128)
+2026-04-10 13:56:06,868 [INFO] WebP: 93KB -> 67KB (27.3% saving)
+2026-04-10 13:56:06,869 [WARNING] No EXIF data found in ..\..\data\raw\images\B0CT6BQV81.jpg
+2026-04-10 13:56:06,890 [INFO] Resized proportionally: 881x1130 -> 500x641
+2026-04-10 13:56:06,899 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0DM1S54MZ_thumb.jpg (100, 128)
+2026-04-10 13:56:07,003 [INFO] WebP: 62KB -> 37KB (39.1% saving)
+2026-04-10 13:56:07,004 [WARNING] No EXIF data found in ..\..\data\raw\images\B0DM1S54MZ.jpg
+2026-04-10 13:56:07,032 [INFO] Resized proportionally: 1240x1500 -> 500x604
+2026-04-10 13:56:07,048 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0FXY18C1J_thumb.jpg (106, 128)
+2026-04-10 13:56:07,223 [INFO] WebP: 69KB -> 33KB (51.9% saving)
+2026-04-10 13:56:07,224 [WARNING] No EXIF data found in ..\..\data\raw\images\B0FXY18C1J.jpg
+2026-04-10 13:56:07,257 [INFO] Resized proportionally: 1478x1500 -> 500x507
+2026-04-10 13:56:07,277 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0G4SVV79P_thumb.jpg (126, 128)
+2026-04-10 13:56:07,495 [INFO] WebP: 86KB -> 47KB (45.2% saving)
+2026-04-10 13:56:07,496 [WARNING] No EXIF data found in ..\..\data\raw\images\B0G4SVV79P.jpg
+2026-04-10 13:56:07,512 [ERROR] Failed: test_scan.png - cannot write mode RGBA as JPEG
+2026-04-10 13:56:07,617 [INFO] Please visit this URL to authorize this application: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=731001034499-mmgf51sp4fbpmfaf1bro03e3vgsa7cru.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A51383%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.file&state=ClLjgzFA2GDuzp8ubjqJ3UooUhQT3q&code_challenge=WunNk6gMUhLyRiEw4GaTgBhgveFyRx5nnQeFkgxO2JA&code_challenge_method=S256&access_type=offline
+2026-04-10 13:56:46,284 [INFO] "GET /?state=ClLjgzFA2GDuzp8ubjqJ3UooUhQT3q&iss=https://accounts.google.com&code=4/0Aci98E9BMRkXTvvgdKbt47B9gZE8oXohx1SszRJFOs9tsm-9Tx0NPDBfVK2rnk7_qMvKgQ&scope=https://www.googleapis.com/auth/drive.file HTTP/1.1" 200 65
+2026-04-10 13:56:46,993 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-10 13:56:49,252 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-10 13:56:53,236 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-10 13:56:55,375 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-10 13:56:58,224 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-10 13:57:00,605 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-10 13:57:03,271 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-10 13:57:05,622 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-10 13:57:08,596 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-10 13:57:10,847 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-10 13:57:13,495 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-10 13:57:16,344 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-10 13:57:19,130 [INFO] Batch complete. Success: 6, Errors: 1

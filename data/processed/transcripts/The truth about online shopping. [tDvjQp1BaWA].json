@@ -1,0 +1,5214 @@
+{
+  "source_file": "The truth about online shopping. [tDvjQp1BaWA].mp3",
+  "language": "en",
+  "language_probability": 0.9967,
+  "duration_s": 308.9,
+  "model": "base",
+  "segments": [
+    {
+      "start": 8.66,
+      "end": 12.6,
+      "text": "The other day, my family mailed me a bike helmet from Amazza.",
+      "avg_log_prob": -0.1686,
+      "words": [
+        {
+          "word": " The",
+          "start": 8.66,
+          "end": 9.24,
+          "probability": 0.54
+        },
+        {
+          "word": " other",
+          "start": 9.24,
+          "end": 9.38,
+          "probability": 0.9725
+        },
+        {
+          "word": " day,",
+          "start": 9.38,
+          "end": 9.6,
+          "probability": 0.9989
+        },
+        {
+          "word": " my",
+          "start": 9.8,
+          "end": 9.92,
+          "probability": 0.994
+        },
+        {
+          "word": " family",
+          "start": 9.92,
+          "end": 10.22,
+          "probability": 0.9962
+        },
+        {
+          "word": " mailed",
+          "start": 10.22,
+          "end": 10.6,
+          "probability": 0.9707
+        },
+        {
+          "word": " me",
+          "start": 10.6,
+          "end": 10.76,
+          "probability": 0.9914
+        },
+        {
+          "word": " a",
+          "start": 10.76,
+          "end": 10.92,
+          "probability": 0.9947
+        },
+        {
+          "word": " bike",
+          "start": 10.92,
+          "end": 11.08,
+          "probability": 0.8439
+        },
+        {
+          "word": " helmet",
+          "start": 11.08,
+          "end": 11.42,
+          "probability": 0.9909
+        },
+        {
+          "word": " from",
+          "start": 11.42,
+          "end": 11.84,
+          "probability": 0.9917
+        },
+        {
+          "word": " Amazza.",
+          "start": 11.84,
+          "end": 12.6,
+          "probability": 0.5416
+        }
+      ]
+    },
+    {
+      "start": 13.12,
+      "end": 18.26,
+      "text": "We used two-day shipping, and when the package arrived, it was essentially a cardboard box",
+      "avg_log_prob": -0.1686,
+      "words": [
+        {
+          "word": " We",
+          "start": 13.12,
+          "end": 13.3,
+          "probability": 0.9872
+        },
+        {
+          "word": " used",
+          "start": 13.3,
+          "end": 13.68,
+          "probability": 0.9922
+        },
+        {
+          "word": " two",
+          "start": 13.68,
+          "end": 14.02,
+          "probability": 0.6589
+        },
+        {
+          "word": "-day",
+          "start": 14.02,
+          "end": 14.2,
+          "probability": 0.9189
+        },
+        {
+          "word": " shipping,",
+          "start": 14.2,
+          "end": 14.6,
+          "probability": 0.9703
+        },
+        {
+          "word": " and",
+          "start": 14.98,
+          "end": 15.1,
+          "probability": 0.9949
+        },
+        {
+          "word": " when",
+          "start": 15.1,
+          "end": 15.2,
+          "probability": 0.9842
+        },
+        {
+          "word": " the",
+          "start": 15.2,
+          "end": 15.32,
+          "probability": 0.9963
+        },
+        {
+          "word": " package",
+          "start": 15.32,
+          "end": 15.58,
+          "probability": 0.9953
+        },
+        {
+          "word": " arrived,",
+          "start": 15.58,
+          "end": 16.12,
+          "probability": 0.9986
+        },
+        {
+          "word": " it",
+          "start": 16.42,
+          "end": 16.44,
+          "probability": 0.993
+        },
+        {
+          "word": " was",
+          "start": 16.44,
+          "end": 16.54,
+          "probability": 0.9966
+        },
+        {
+          "word": " essentially",
+          "start": 16.54,
+          "end": 16.98,
+          "probability": 0.9893
+        },
+        {
+          "word": " a",
+          "start": 16.98,
+          "end": 17.2,
+          "probability": 0.9952
+        },
+        {
+          "word": " cardboard",
+          "start": 17.2,
+          "end": 17.56,
+          "probability": 0.9237
+        },
+        {
+          "word": " box",
+          "start": 17.56,
+          "end": 18.26,
+          "probability": 0.9956
+        }
+      ]
+    },
+    {
+      "start": 18.26,
+      "end": 19.08,
+      "text": "nesting doll.",
+      "avg_log_prob": -0.1686,
+      "words": [
+        {
+          "word": " nesting",
+          "start": 18.26,
+          "end": 18.82,
+          "probability": 0.9184
+        },
+        {
+          "word": " doll.",
+          "start": 18.82,
+          "end": 19.08,
+          "probability": 0.9541
+        }
+      ]
+    },
+    {
+      "start": 19.5,
+      "end": 23.96,
+      "text": "I had to cut my way through three different boxes in order to get to the helmet, which",
+      "avg_log_prob": -0.1686,
+      "words": [
+        {
+          "word": " I",
+          "start": 19.5,
+          "end": 19.78,
+          "probability": 0.997
+        },
+        {
+          "word": " had",
+          "start": 19.78,
+          "end": 19.88,
+          "probability": 0.9807
+        },
+        {
+          "word": " to",
+          "start": 19.88,
+          "end": 19.94,
+          "probability": 0.9992
+        },
+        {
+          "word": " cut",
+          "start": 19.94,
+          "end": 20.04,
+          "probability": 0.9854
+        },
+        {
+          "word": " my",
+          "start": 20.04,
+          "end": 20.2,
+          "probability": 0.9976
+        },
+        {
+          "word": " way",
+          "start": 20.2,
+          "end": 20.38,
+          "probability": 0.9944
+        },
+        {
+          "word": " through",
+          "start": 20.38,
+          "end": 20.62,
+          "probability": 0.9964
+        },
+        {
+          "word": " three",
+          "start": 20.62,
+          "end": 21.04,
+          "probability": 0.9117
+        },
+        {
+          "word": " different",
+          "start": 21.04,
+          "end": 21.4,
+          "probability": 0.9989
+        },
+        {
+          "word": " boxes",
+          "start": 21.4,
+          "end": 21.86,
+          "probability": 0.9936
+        },
+        {
+          "word": " in",
+          "start": 21.86,
+          "end": 22.22,
+          "probability": 0.973
+        },
+        {
+          "word": " order",
+          "start": 22.22,
+          "end": 22.4,
+          "probability": 0.9989
+        },
+        {
+          "word": " to",
+          "start": 22.4,
+          "end": 22.56,
+          "probability": 0.9965
+        },
+        {
+          "word": " get",
+          "start": 22.56,
+          "end": 22.7,
+          "probability": 0.9986
+        },
+        {
+          "word": " to",
+          "start": 22.7,
+          "end": 22.88,
+          "probability": 0.9933
+        },
+        {
+          "word": " the",
+          "start": 22.88,
+          "end": 23.0,
+          "probability": 0.9974
+        },
+        {
+          "word": " helmet,",
+          "start": 23.0,
+          "end": 23.26,
+          "probability": 0.9966
+        },
+        {
+          "word": " which",
+          "start": 23.7,
+          "end": 23.96,
+          "probability": 0.9933
+        }
+      ]
+    },
+    {
+      "start": 23.96,
+      "end": 29.84,
+      "text": "is especially ridiculous when you consider that a helmet is specifically designed to withstand",
+      "avg_log_prob": -0.1686,
+      "words": [
+        {
+          "word": " is",
+          "start": 23.96,
+          "end": 24.26,
+          "probability": 0.9778
+        },
+        {
+          "word": " especially",
+          "start": 24.26,
+          "end": 24.82,
+          "probability": 0.9841
+        },
+        {
+          "word": " ridiculous",
+          "start": 24.82,
+          "end": 25.42,
+          "probability": 0.9977
+        },
+        {
+          "word": " when",
+          "start": 25.42,
+          "end": 25.76,
+          "probability": 0.9774
+        },
+        {
+          "word": " you",
+          "start": 25.76,
+          "end": 25.86,
+          "probability": 0.996
+        },
+        {
+          "word": " consider",
+          "start": 25.86,
+          "end": 26.24,
+          "probability": 0.9977
+        },
+        {
+          "word": " that",
+          "start": 26.24,
+          "end": 26.5,
+          "probability": 0.9902
+        },
+        {
+          "word": " a",
+          "start": 26.5,
+          "end": 26.7,
+          "probability": 0.9926
+        },
+        {
+          "word": " helmet",
+          "start": 26.7,
+          "end": 27.04,
+          "probability": 0.9994
+        },
+        {
+          "word": " is",
+          "start": 27.04,
+          "end": 27.54,
+          "probability": 0.9818
+        },
+        {
+          "word": " specifically",
+          "start": 27.54,
+          "end": 28.12,
+          "probability": 0.9959
+        },
+        {
+          "word": " designed",
+          "start": 28.12,
+          "end": 28.7,
+          "probability": 0.9984
+        },
+        {
+          "word": " to",
+          "start": 28.7,
+          "end": 29.18,
+          "probability": 0.9859
+        },
+        {
+          "word": " withstand",
+          "start": 29.18,
+          "end": 29.84,
+          "probability": 0.9986
+        }
+      ]
+    },
+    {
+      "start": 29.84,
+      "end": 30.52,
+      "text": "and damp.",
+      "avg_log_prob": -0.1643,
+      "words": [
+        {
+          "word": " and",
+          "start": 29.84,
+          "end": 30.04,
+          "probability": 0.2932
+        },
+        {
+          "word": " damp.",
+          "start": 30.04,
+          "end": 30.52,
+          "probability": 0.1659
+        }
+      ]
+    },
+    {
+      "start": 31.24,
+      "end": 37.04,
+      "text": "With the holiday season fast approaching, which in the US means a rush of last-minute",
+      "avg_log_prob": -0.1643,
+      "words": [
+        {
+          "word": " With",
+          "start": 31.24,
+          "end": 31.8,
+          "probability": 0.9403
+        },
+        {
+          "word": " the",
+          "start": 31.8,
+          "end": 32.06,
+          "probability": 0.9488
+        },
+        {
+          "word": " holiday",
+          "start": 32.06,
+          "end": 32.32,
+          "probability": 0.9868
+        },
+        {
+          "word": " season",
+          "start": 32.32,
+          "end": 32.88,
+          "probability": 0.9943
+        },
+        {
+          "word": " fast",
+          "start": 32.88,
+          "end": 33.36,
+          "probability": 0.9241
+        },
+        {
+          "word": " approaching,",
+          "start": 33.36,
+          "end": 33.9,
+          "probability": 0.9885
+        },
+        {
+          "word": " which",
+          "start": 34.18,
+          "end": 34.54,
+          "probability": 0.988
+        },
+        {
+          "word": " in",
+          "start": 34.54,
+          "end": 34.78,
+          "probability": 0.9158
+        },
+        {
+          "word": " the",
+          "start": 34.78,
+          "end": 34.9,
+          "probability": 0.9945
+        },
+        {
+          "word": " US",
+          "start": 34.9,
+          "end": 35.18,
+          "probability": 0.6675
+        },
+        {
+          "word": " means",
+          "start": 35.18,
+          "end": 35.66,
+          "probability": 0.9625
+        },
+        {
+          "word": " a",
+          "start": 35.66,
+          "end": 35.96,
+          "probability": 0.9715
+        },
+        {
+          "word": " rush",
+          "start": 35.96,
+          "end": 36.28,
+          "probability": 0.9859
+        },
+        {
+          "word": " of",
+          "start": 36.28,
+          "end": 36.46,
+          "probability": 0.9939
+        },
+        {
+          "word": " last",
+          "start": 36.46,
+          "end": 36.72,
+          "probability": 0.9892
+        },
+        {
+          "word": "-minute",
+          "start": 36.72,
+          "end": 37.04,
+          "probability": 0.6593
+        }
+      ]
+    },
+    {
+      "start": 37.04,
+      "end": 42.78,
+      "text": "Amazon prime orders just like mine, I feel it's important to look at the exact effect",
+      "avg_log_prob": -0.1643,
+      "words": [
+        {
+          "word": " Amazon",
+          "start": 37.04,
+          "end": 37.44,
+          "probability": 0.9702
+        },
+        {
+          "word": " prime",
+          "start": 37.44,
+          "end": 37.76,
+          "probability": 0.2851
+        },
+        {
+          "word": " orders",
+          "start": 37.76,
+          "end": 38.14,
+          "probability": 0.964
+        },
+        {
+          "word": " just",
+          "start": 38.14,
+          "end": 38.48,
+          "probability": 0.8469
+        },
+        {
+          "word": " like",
+          "start": 38.48,
+          "end": 38.74,
+          "probability": 0.9986
+        },
+        {
+          "word": " mine,",
+          "start": 38.74,
+          "end": 39.14,
+          "probability": 0.9966
+        },
+        {
+          "word": " I",
+          "start": 39.74,
+          "end": 39.88,
+          "probability": 0.9911
+        },
+        {
+          "word": " feel",
+          "start": 39.88,
+          "end": 40.08,
+          "probability": 0.9973
+        },
+        {
+          "word": " it's",
+          "start": 40.08,
+          "end": 40.44,
+          "probability": 0.9782
+        },
+        {
+          "word": " important",
+          "start": 40.44,
+          "end": 40.84,
+          "probability": 0.9977
+        },
+        {
+          "word": " to",
+          "start": 40.84,
+          "end": 41.16,
+          "probability": 0.9985
+        },
+        {
+          "word": " look",
+          "start": 41.16,
+          "end": 41.52,
+          "probability": 0.9966
+        },
+        {
+          "word": " at",
+          "start": 41.52,
+          "end": 41.74,
+          "probability": 0.9974
+        },
+        {
+          "word": " the",
+          "start": 41.74,
+          "end": 41.98,
+          "probability": 0.9966
+        },
+        {
+          "word": " exact",
+          "start": 41.98,
+          "end": 42.28,
+          "probability": 0.9973
+        },
+        {
+          "word": " effect",
+          "start": 42.28,
+          "end": 42.78,
+          "probability": 0.9645
+        }
+      ]
+    },
+    {
+      "start": 42.78,
+      "end": 48.24,
+      "text": "this new world of online shopping and instant shipping has on climate change.",
+      "avg_log_prob": -0.1643,
+      "words": [
+        {
+          "word": " this",
+          "start": 42.78,
+          "end": 43.26,
+          "probability": 0.9844
+        },
+        {
+          "word": " new",
+          "start": 43.26,
+          "end": 43.48,
+          "probability": 0.9788
+        },
+        {
+          "word": " world",
+          "start": 43.48,
+          "end": 43.8,
+          "probability": 0.9914
+        },
+        {
+          "word": " of",
+          "start": 43.8,
+          "end": 44.06,
+          "probability": 0.9893
+        },
+        {
+          "word": " online",
+          "start": 44.06,
+          "end": 44.4,
+          "probability": 0.9929
+        },
+        {
+          "word": " shopping",
+          "start": 44.4,
+          "end": 44.92,
+          "probability": 0.9694
+        },
+        {
+          "word": " and",
+          "start": 44.92,
+          "end": 45.26,
+          "probability": 0.963
+        },
+        {
+          "word": " instant",
+          "start": 45.26,
+          "end": 45.66,
+          "probability": 0.9815
+        },
+        {
+          "word": " shipping",
+          "start": 45.66,
+          "end": 46.16,
+          "probability": 0.9943
+        },
+        {
+          "word": " has",
+          "start": 46.16,
+          "end": 46.88,
+          "probability": 0.9585
+        },
+        {
+          "word": " on",
+          "start": 46.88,
+          "end": 47.42,
+          "probability": 0.9962
+        },
+        {
+          "word": " climate",
+          "start": 47.42,
+          "end": 47.84,
+          "probability": 0.9865
+        },
+        {
+          "word": " change.",
+          "start": 47.84,
+          "end": 48.24,
+          "probability": 0.9647
+        }
+      ]
+    },
+    {
+      "start": 50.4,
+      "end": 55.52,
+      "text": "The carbon footprint of online shopping greatly depends on the actions of consumers.",
+      "avg_log_prob": -0.1643,
+      "words": [
+        {
+          "word": " The",
+          "start": 50.06,
+          "end": 50.42,
+          "probability": 0.9107
+        },
+        {
+          "word": " carbon",
+          "start": 50.42,
+          "end": 50.64,
+          "probability": 0.6833
+        },
+        {
+          "word": " footprint",
+          "start": 50.64,
+          "end": 50.92,
+          "probability": 0.9991
+        },
+        {
+          "word": " of",
+          "start": 50.92,
+          "end": 51.28,
+          "probability": 0.9879
+        },
+        {
+          "word": " online",
+          "start": 51.28,
+          "end": 51.64,
+          "probability": 0.9953
+        },
+        {
+          "word": " shopping",
+          "start": 51.64,
+          "end": 52.2,
+          "probability": 0.9915
+        },
+        {
+          "word": " greatly",
+          "start": 52.2,
+          "end": 52.82,
+          "probability": 0.9903
+        },
+        {
+          "word": " depends",
+          "start": 52.82,
+          "end": 53.28,
+          "probability": 0.9981
+        },
+        {
+          "word": " on",
+          "start": 53.28,
+          "end": 53.74,
+          "probability": 0.9977
+        },
+        {
+          "word": " the",
+          "start": 53.74,
+          "end": 53.92,
+          "probability": 0.9962
+        },
+        {
+          "word": " actions",
+          "start": 53.92,
+          "end": 54.3,
+          "probability": 0.9935
+        },
+        {
+          "word": " of",
+          "start": 54.3,
+          "end": 54.8,
+          "probability": 0.9986
+        },
+        {
+          "word": " consumers.",
+          "start": 54.8,
+          "end": 55.52,
+          "probability": 0.9971
+        }
+      ]
+    },
+    {
+      "start": 56.52,
+      "end": 63.02,
+      "text": "As a 2013 MIT study shows, shoppers can be divided into a number of different categories",
+      "avg_log_prob": -0.1839,
+      "words": [
+        {
+          "word": " As",
+          "start": 56.39,
+          "end": 56.76,
+          "probability": 0.5926
+        },
+        {
+          "word": " a",
+          "start": 56.76,
+          "end": 56.96,
+          "probability": 0.9655
+        },
+        {
+          "word": " 2013",
+          "start": 56.96,
+          "end": 57.7,
+          "probability": 0.9983
+        },
+        {
+          "word": " MIT",
+          "start": 57.7,
+          "end": 58.2,
+          "probability": 0.924
+        },
+        {
+          "word": " study",
+          "start": 58.2,
+          "end": 58.7,
+          "probability": 0.9414
+        },
+        {
+          "word": " shows,",
+          "start": 58.7,
+          "end": 59.3,
+          "probability": 0.9917
+        },
+        {
+          "word": " shoppers",
+          "start": 59.7,
+          "end": 60.04,
+          "probability": 0.8971
+        },
+        {
+          "word": " can",
+          "start": 60.04,
+          "end": 60.26,
+          "probability": 0.9938
+        },
+        {
+          "word": " be",
+          "start": 60.26,
+          "end": 60.38,
+          "probability": 0.9987
+        },
+        {
+          "word": " divided",
+          "start": 60.38,
+          "end": 60.8,
+          "probability": 0.7687
+        },
+        {
+          "word": " into",
+          "start": 60.8,
+          "end": 61.36,
+          "probability": 0.9926
+        },
+        {
+          "word": " a",
+          "start": 61.36,
+          "end": 61.7,
+          "probability": 0.9761
+        },
+        {
+          "word": " number",
+          "start": 61.7,
+          "end": 62.0,
+          "probability": 0.995
+        },
+        {
+          "word": " of",
+          "start": 62.0,
+          "end": 62.22,
+          "probability": 0.9878
+        },
+        {
+          "word": " different",
+          "start": 62.22,
+          "end": 62.5,
+          "probability": 0.9128
+        },
+        {
+          "word": " categories",
+          "start": 62.5,
+          "end": 63.02,
+          "probability": 0.9978
+        }
+      ]
+    },
+    {
+      "start": 63.02,
+      "end": 69.1,
+      "text": "that span from a traditional retail shopper to what the study calls a cybernotch shopper,",
+      "avg_log_prob": -0.1839,
+      "words": [
+        {
+          "word": " that",
+          "start": 63.02,
+          "end": 63.34,
+          "probability": 0.9865
+        },
+        {
+          "word": " span",
+          "start": 63.34,
+          "end": 63.74,
+          "probability": 0.9941
+        },
+        {
+          "word": " from",
+          "start": 63.74,
+          "end": 64.06,
+          "probability": 0.9913
+        },
+        {
+          "word": " a",
+          "start": 64.06,
+          "end": 64.34,
+          "probability": 0.9761
+        },
+        {
+          "word": " traditional",
+          "start": 64.34,
+          "end": 64.82,
+          "probability": 0.994
+        },
+        {
+          "word": " retail",
+          "start": 64.82,
+          "end": 65.28,
+          "probability": 0.996
+        },
+        {
+          "word": " shopper",
+          "start": 65.28,
+          "end": 65.84,
+          "probability": 0.986
+        },
+        {
+          "word": " to",
+          "start": 65.84,
+          "end": 66.38,
+          "probability": 0.8979
+        },
+        {
+          "word": " what",
+          "start": 66.38,
+          "end": 66.52,
+          "probability": 0.9879
+        },
+        {
+          "word": " the",
+          "start": 66.52,
+          "end": 66.62,
+          "probability": 0.9813
+        },
+        {
+          "word": " study",
+          "start": 66.62,
+          "end": 66.88,
+          "probability": 0.997
+        },
+        {
+          "word": " calls",
+          "start": 66.88,
+          "end": 67.2,
+          "probability": 0.9269
+        },
+        {
+          "word": " a",
+          "start": 67.2,
+          "end": 67.78,
+          "probability": 0.9442
+        },
+        {
+          "word": " cybernotch",
+          "start": 67.78,
+          "end": 68.8,
+          "probability": 0.4979
+        },
+        {
+          "word": " shopper,",
+          "start": 68.8,
+          "end": 69.1,
+          "probability": 0.9016
+        }
+      ]
+    },
+    {
+      "start": 69.28,
+      "end": 71.5,
+      "text": "who exclusively shops online.",
+      "avg_log_prob": -0.1839,
+      "words": [
+        {
+          "word": " who",
+          "start": 69.28,
+          "end": 69.38,
+          "probability": 0.9615
+        },
+        {
+          "word": " exclusively",
+          "start": 69.38,
+          "end": 70.24,
+          "probability": 0.9738
+        },
+        {
+          "word": " shops",
+          "start": 70.24,
+          "end": 70.72,
+          "probability": 0.9617
+        },
+        {
+          "word": " online.",
+          "start": 70.72,
+          "end": 71.5,
+          "probability": 0.9968
+        }
+      ]
+    },
+    {
+      "start": 71.98,
+      "end": 76.84,
+      "text": "The study shows that online shopping with slower shipping options has a smaller footprint",
+      "avg_log_prob": -0.1839,
+      "words": [
+        {
+          "word": " The",
+          "start": 71.98,
+          "end": 72.14,
+          "probability": 0.9901
+        },
+        {
+          "word": " study",
+          "start": 72.14,
+          "end": 72.32,
+          "probability": 0.9944
+        },
+        {
+          "word": " shows",
+          "start": 72.32,
+          "end": 72.58,
+          "probability": 0.9968
+        },
+        {
+          "word": " that",
+          "start": 72.58,
+          "end": 72.8,
+          "probability": 0.9933
+        },
+        {
+          "word": " online",
+          "start": 72.8,
+          "end": 73.22,
+          "probability": 0.9938
+        },
+        {
+          "word": " shopping",
+          "start": 73.22,
+          "end": 73.68,
+          "probability": 0.9718
+        },
+        {
+          "word": " with",
+          "start": 73.68,
+          "end": 73.94,
+          "probability": 0.8805
+        },
+        {
+          "word": " slower",
+          "start": 73.94,
+          "end": 74.36,
+          "probability": 0.6263
+        },
+        {
+          "word": " shipping",
+          "start": 74.36,
+          "end": 74.76,
+          "probability": 0.9827
+        },
+        {
+          "word": " options",
+          "start": 74.76,
+          "end": 75.44,
+          "probability": 0.9953
+        },
+        {
+          "word": " has",
+          "start": 75.44,
+          "end": 75.82,
+          "probability": 0.8607
+        },
+        {
+          "word": " a",
+          "start": 75.82,
+          "end": 75.94,
+          "probability": 0.9952
+        },
+        {
+          "word": " smaller",
+          "start": 75.94,
+          "end": 76.4,
+          "probability": 0.9955
+        },
+        {
+          "word": " footprint",
+          "start": 76.4,
+          "end": 76.84,
+          "probability": 0.9985
+        }
+      ]
+    },
+    {
+      "start": 76.84,
+      "end": 81.6,
+      "text": "than driving to a retail store to search, purchase, and return a product.",
+      "avg_log_prob": -0.1839,
+      "words": [
+        {
+          "word": " than",
+          "start": 76.84,
+          "end": 77.2,
+          "probability": 0.982
+        },
+        {
+          "word": " driving",
+          "start": 77.2,
+          "end": 77.64,
+          "probability": 0.995
+        },
+        {
+          "word": " to",
+          "start": 77.64,
+          "end": 77.88,
+          "probability": 0.9879
+        },
+        {
+          "word": " a",
+          "start": 77.88,
+          "end": 78.0,
+          "probability": 0.9936
+        },
+        {
+          "word": " retail",
+          "start": 78.0,
+          "end": 78.28,
+          "probability": 0.9996
+        },
+        {
+          "word": " store",
+          "start": 78.28,
+          "end": 78.7,
+          "probability": 0.9993
+        },
+        {
+          "word": " to",
+          "start": 78.7,
+          "end": 79.0,
+          "probability": 0.9832
+        },
+        {
+          "word": " search,",
+          "start": 79.0,
+          "end": 79.4,
+          "probability": 0.9978
+        },
+        {
+          "word": " purchase,",
+          "start": 79.6,
+          "end": 79.86,
+          "probability": 0.9944
+        },
+        {
+          "word": " and",
+          "start": 80.2,
+          "end": 80.28,
+          "probability": 0.9914
+        },
+        {
+          "word": " return",
+          "start": 80.28,
+          "end": 80.8,
+          "probability": 0.9922
+        },
+        {
+          "word": " a",
+          "start": 80.8,
+          "end": 81.24,
+          "probability": 0.9684
+        },
+        {
+          "word": " product.",
+          "start": 81.24,
+          "end": 81.6,
+          "probability": 0.9965
+        }
+      ]
+    },
+    {
+      "start": 82.6,
+      "end": 87.34,
+      "text": "The highest impact shopper is actually a mix of both, one that goes to the store to",
+      "avg_log_prob": -0.1407,
+      "words": [
+        {
+          "word": " The",
+          "start": 82.34,
+          "end": 82.62,
+          "probability": 0.6572
+        },
+        {
+          "word": " highest",
+          "start": 82.62,
+          "end": 82.84,
+          "probability": 0.9359
+        },
+        {
+          "word": " impact",
+          "start": 82.84,
+          "end": 83.2,
+          "probability": 0.9529
+        },
+        {
+          "word": " shopper",
+          "start": 83.2,
+          "end": 83.74,
+          "probability": 0.9329
+        },
+        {
+          "word": " is",
+          "start": 83.74,
+          "end": 84.08,
+          "probability": 0.9793
+        },
+        {
+          "word": " actually",
+          "start": 84.08,
+          "end": 84.5,
+          "probability": 0.9576
+        },
+        {
+          "word": " a",
+          "start": 84.5,
+          "end": 84.76,
+          "probability": 0.9932
+        },
+        {
+          "word": " mix",
+          "start": 84.76,
+          "end": 84.94,
+          "probability": 0.9938
+        },
+        {
+          "word": " of",
+          "start": 84.94,
+          "end": 85.28,
+          "probability": 0.9886
+        },
+        {
+          "word": " both,",
+          "start": 85.28,
+          "end": 85.56,
+          "probability": 0.9912
+        },
+        {
+          "word": " one",
+          "start": 85.88,
+          "end": 86.1,
+          "probability": 0.9608
+        },
+        {
+          "word": " that",
+          "start": 86.1,
+          "end": 86.32,
+          "probability": 0.9954
+        },
+        {
+          "word": " goes",
+          "start": 86.32,
+          "end": 86.56,
+          "probability": 0.9957
+        },
+        {
+          "word": " to",
+          "start": 86.56,
+          "end": 86.78,
+          "probability": 0.6239
+        },
+        {
+          "word": " the",
+          "start": 86.78,
+          "end": 86.88,
+          "probability": 0.8987
+        },
+        {
+          "word": " store",
+          "start": 86.88,
+          "end": 87.16,
+          "probability": 0.9949
+        },
+        {
+          "word": " to",
+          "start": 87.16,
+          "end": 87.34,
+          "probability": 0.9876
+        }
+      ]
+    },
+    {
+      "start": 87.34,
+      "end": 91.0,
+      "text": "compare prices and then buys online with expedited shipping.",
+      "avg_log_prob": -0.1407,
+      "words": [
+        {
+          "word": " compare",
+          "start": 87.34,
+          "end": 87.64,
+          "probability": 0.989
+        },
+        {
+          "word": " prices",
+          "start": 87.64,
+          "end": 88.1,
+          "probability": 0.994
+        },
+        {
+          "word": " and",
+          "start": 88.1,
+          "end": 88.66,
+          "probability": 0.7483
+        },
+        {
+          "word": " then",
+          "start": 88.66,
+          "end": 88.78,
+          "probability": 0.9168
+        },
+        {
+          "word": " buys",
+          "start": 88.78,
+          "end": 89.06,
+          "probability": 0.9968
+        },
+        {
+          "word": " online",
+          "start": 89.06,
+          "end": 89.54,
+          "probability": 0.9892
+        },
+        {
+          "word": " with",
+          "start": 89.54,
+          "end": 89.96,
+          "probability": 0.9919
+        },
+        {
+          "word": " expedited",
+          "start": 89.96,
+          "end": 90.56,
+          "probability": 0.9599
+        },
+        {
+          "word": " shipping.",
+          "start": 90.56,
+          "end": 91.0,
+          "probability": 0.9807
+        }
+      ]
+    },
+    {
+      "start": 91.52,
+      "end": 95.76,
+      "text": "The majority of the reason why traditional shoppers have such a large footprint is that",
+      "avg_log_prob": -0.1407,
+      "words": [
+        {
+          "word": " The",
+          "start": 91.52,
+          "end": 91.7,
+          "probability": 0.9901
+        },
+        {
+          "word": " majority",
+          "start": 91.7,
+          "end": 92.02,
+          "probability": 0.9966
+        },
+        {
+          "word": " of",
+          "start": 92.02,
+          "end": 92.2,
+          "probability": 0.9925
+        },
+        {
+          "word": " the",
+          "start": 92.2,
+          "end": 92.22,
+          "probability": 0.996
+        },
+        {
+          "word": " reason",
+          "start": 92.22,
+          "end": 92.46,
+          "probability": 0.9904
+        },
+        {
+          "word": " why",
+          "start": 92.46,
+          "end": 92.78,
+          "probability": 0.9796
+        },
+        {
+          "word": " traditional",
+          "start": 92.78,
+          "end": 93.2,
+          "probability": 0.9955
+        },
+        {
+          "word": " shoppers",
+          "start": 93.2,
+          "end": 93.76,
+          "probability": 0.9829
+        },
+        {
+          "word": " have",
+          "start": 93.76,
+          "end": 94.0,
+          "probability": 0.9955
+        },
+        {
+          "word": " such",
+          "start": 94.0,
+          "end": 94.24,
+          "probability": 0.9954
+        },
+        {
+          "word": " a",
+          "start": 94.24,
+          "end": 94.34,
+          "probability": 0.9949
+        },
+        {
+          "word": " large",
+          "start": 94.34,
+          "end": 94.68,
+          "probability": 0.9986
+        },
+        {
+          "word": " footprint",
+          "start": 94.68,
+          "end": 95.08,
+          "probability": 0.9972
+        },
+        {
+          "word": " is",
+          "start": 95.08,
+          "end": 95.66,
+          "probability": 0.929
+        },
+        {
+          "word": " that",
+          "start": 95.66,
+          "end": 95.76,
+          "probability": 0.9874
+        }
+      ]
+    },
+    {
+      "start": 95.76,
+      "end": 98.78,
+      "text": "they're using a car to reach these brick-and-mortar shops.",
+      "avg_log_prob": -0.1407,
+      "words": [
+        {
+          "word": " they're",
+          "start": 95.76,
+          "end": 95.98,
+          "probability": 0.8087
+        },
+        {
+          "word": " using",
+          "start": 95.98,
+          "end": 96.3,
+          "probability": 0.9935
+        },
+        {
+          "word": " a",
+          "start": 96.3,
+          "end": 96.56,
+          "probability": 0.9963
+        },
+        {
+          "word": " car",
+          "start": 96.56,
+          "end": 96.84,
+          "probability": 0.9928
+        },
+        {
+          "word": " to",
+          "start": 96.84,
+          "end": 97.12,
+          "probability": 0.9969
+        },
+        {
+          "word": " reach",
+          "start": 97.12,
+          "end": 97.32,
+          "probability": 0.9936
+        },
+        {
+          "word": " these",
+          "start": 97.32,
+          "end": 97.76,
+          "probability": 0.9638
+        },
+        {
+          "word": " brick",
+          "start": 97.76,
+          "end": 98.0,
+          "probability": 0.995
+        },
+        {
+          "word": "-and",
+          "start": 98.0,
+          "end": 98.14,
+          "probability": 0.6182
+        },
+        {
+          "word": "-mortar",
+          "start": 98.14,
+          "end": 98.4,
+          "probability": 0.9566
+        },
+        {
+          "word": " shops.",
+          "start": 98.4,
+          "end": 98.78,
+          "probability": 0.9951
+        }
+      ]
+    },
+    {
+      "start": 99.26,
+      "end": 104.88,
+      "text": "So if they take public transportation, bike, or even walk, they're footprint plumbers.",
+      "avg_log_prob": -0.1407,
+      "words": [
+        {
+          "word": " So",
+          "start": 99.26,
+          "end": 99.44,
+          "probability": 0.9843
+        },
+        {
+          "word": " if",
+          "start": 99.44,
+          "end": 99.72,
+          "probability": 0.6371
+        },
+        {
+          "word": " they",
+          "start": 99.72,
+          "end": 99.86,
+          "probability": 0.9988
+        },
+        {
+          "word": " take",
+          "start": 99.86,
+          "end": 100.14,
+          "probability": 0.9977
+        },
+        {
+          "word": " public",
+          "start": 100.14,
+          "end": 100.48,
+          "probability": 0.9977
+        },
+        {
+          "word": " transportation,",
+          "start": 100.48,
+          "end": 101.12,
+          "probability": 0.9991
+        },
+        {
+          "word": " bike,",
+          "start": 101.74,
+          "end": 101.88,
+          "probability": 0.9935
+        },
+        {
+          "word": " or",
+          "start": 102.16,
+          "end": 102.28,
+          "probability": 0.9913
+        },
+        {
+          "word": " even",
+          "start": 102.28,
+          "end": 102.62,
+          "probability": 0.9976
+        },
+        {
+          "word": " walk,",
+          "start": 102.62,
+          "end": 102.94,
+          "probability": 0.9929
+        },
+        {
+          "word": " they're",
+          "start": 103.48,
+          "end": 103.6,
+          "probability": 0.838
+        },
+        {
+          "word": " footprint",
+          "start": 103.6,
+          "end": 104.04,
+          "probability": 0.9905
+        },
+        {
+          "word": " plumbers.",
+          "start": 104.04,
+          "end": 104.88,
+          "probability": 0.6648
+        }
+      ]
+    },
+    {
+      "start": 105.34,
+      "end": 110.16,
+      "text": "As for people who shop online, when they choose shipping options like two-day mailing,",
+      "avg_log_prob": -0.1407,
+      "words": [
+        {
+          "word": " As",
+          "start": 105.34,
+          "end": 105.84,
+          "probability": 0.9544
+        },
+        {
+          "word": " for",
+          "start": 105.84,
+          "end": 105.98,
+          "probability": 0.9967
+        },
+        {
+          "word": " people",
+          "start": 105.98,
+          "end": 106.26,
+          "probability": 0.9963
+        },
+        {
+          "word": " who",
+          "start": 106.26,
+          "end": 106.46,
+          "probability": 0.9892
+        },
+        {
+          "word": " shop",
+          "start": 106.46,
+          "end": 106.74,
+          "probability": 0.9972
+        },
+        {
+          "word": " online,",
+          "start": 106.74,
+          "end": 107.38,
+          "probability": 0.9984
+        },
+        {
+          "word": " when",
+          "start": 107.54,
+          "end": 107.7,
+          "probability": 0.9948
+        },
+        {
+          "word": " they",
+          "start": 107.7,
+          "end": 107.92,
+          "probability": 0.9975
+        },
+        {
+          "word": " choose",
+          "start": 107.92,
+          "end": 108.22,
+          "probability": 0.9825
+        },
+        {
+          "word": " shipping",
+          "start": 108.22,
+          "end": 108.54,
+          "probability": 0.9942
+        },
+        {
+          "word": " options",
+          "start": 108.54,
+          "end": 109.06,
+          "probability": 0.9951
+        },
+        {
+          "word": " like",
+          "start": 109.06,
+          "end": 109.28,
+          "probability": 0.9145
+        },
+        {
+          "word": " two",
+          "start": 109.28,
+          "end": 109.52,
+          "probability": 0.5878
+        },
+        {
+          "word": "-day",
+          "start": 109.52,
+          "end": 109.74,
+          "probability": 0.8819
+        },
+        {
+          "word": " mailing,",
+          "start": 109.74,
+          "end": 110.16,
+          "probability": 0.9334
+        }
+      ]
+    },
+    {
+      "start": 110.16,
+      "end": 114.28,
+      "text": "they are more than doubling their transportation-related emissions,",
+      "avg_log_prob": -0.124,
+      "words": [
+        {
+          "word": " they",
+          "start": 110.16,
+          "end": 110.76,
+          "probability": 0.2803
+        },
+        {
+          "word": " are",
+          "start": 110.76,
+          "end": 111.06,
+          "probability": 0.8792
+        },
+        {
+          "word": " more",
+          "start": 111.06,
+          "end": 111.46,
+          "probability": 0.9404
+        },
+        {
+          "word": " than",
+          "start": 111.46,
+          "end": 111.84,
+          "probability": 0.9669
+        },
+        {
+          "word": " doubling",
+          "start": 111.84,
+          "end": 112.34,
+          "probability": 0.9911
+        },
+        {
+          "word": " their",
+          "start": 112.34,
+          "end": 112.6,
+          "probability": 0.9896
+        },
+        {
+          "word": " transportation",
+          "start": 112.6,
+          "end": 113.3,
+          "probability": 0.9909
+        },
+        {
+          "word": "-related",
+          "start": 113.3,
+          "end": 113.92,
+          "probability": 0.6577
+        },
+        {
+          "word": " emissions,",
+          "start": 113.92,
+          "end": 114.28,
+          "probability": 0.929
+        }
+      ]
+    },
+    {
+      "start": 114.9,
+      "end": 119.48,
+      "text": "especially within the last couple of years as companies like Amazon have started to send",
+      "avg_log_prob": -0.124,
+      "words": [
+        {
+          "word": " especially",
+          "start": 114.9,
+          "end": 115.28,
+          "probability": 0.9923
+        },
+        {
+          "word": " within",
+          "start": 115.28,
+          "end": 115.68,
+          "probability": 0.976
+        },
+        {
+          "word": " the",
+          "start": 115.68,
+          "end": 115.82,
+          "probability": 0.9967
+        },
+        {
+          "word": " last",
+          "start": 115.82,
+          "end": 116.04,
+          "probability": 0.9969
+        },
+        {
+          "word": " couple",
+          "start": 116.04,
+          "end": 116.34,
+          "probability": 0.9946
+        },
+        {
+          "word": " of",
+          "start": 116.34,
+          "end": 116.52,
+          "probability": 0.9536
+        },
+        {
+          "word": " years",
+          "start": 116.52,
+          "end": 116.78,
+          "probability": 0.9972
+        },
+        {
+          "word": " as",
+          "start": 116.78,
+          "end": 117.14,
+          "probability": 0.9222
+        },
+        {
+          "word": " companies",
+          "start": 117.14,
+          "end": 117.62,
+          "probability": 0.9641
+        },
+        {
+          "word": " like",
+          "start": 117.62,
+          "end": 117.98,
+          "probability": 0.9769
+        },
+        {
+          "word": " Amazon",
+          "start": 117.98,
+          "end": 118.54,
+          "probability": 0.9776
+        },
+        {
+          "word": " have",
+          "start": 118.54,
+          "end": 118.86,
+          "probability": 0.9469
+        },
+        {
+          "word": " started",
+          "start": 118.86,
+          "end": 119.06,
+          "probability": 0.9727
+        },
+        {
+          "word": " to",
+          "start": 119.06,
+          "end": 119.26,
+          "probability": 0.9834
+        },
+        {
+          "word": " send",
+          "start": 119.26,
+          "end": 119.48,
+          "probability": 0.9907
+        }
+      ]
+    },
+    {
+      "start": 119.48,
+      "end": 125.42,
+      "text": "vans out to deliver packages that are only half full in order to fulfill customer expectations.",
+      "avg_log_prob": -0.124,
+      "words": [
+        {
+          "word": " vans",
+          "start": 119.48,
+          "end": 119.78,
+          "probability": 0.8557
+        },
+        {
+          "word": " out",
+          "start": 119.78,
+          "end": 120.04,
+          "probability": 0.9961
+        },
+        {
+          "word": " to",
+          "start": 120.04,
+          "end": 120.26,
+          "probability": 0.9919
+        },
+        {
+          "word": " deliver",
+          "start": 120.26,
+          "end": 120.54,
+          "probability": 0.8415
+        },
+        {
+          "word": " packages",
+          "start": 120.54,
+          "end": 121.08,
+          "probability": 0.9963
+        },
+        {
+          "word": " that",
+          "start": 121.08,
+          "end": 121.56,
+          "probability": 0.9917
+        },
+        {
+          "word": " are",
+          "start": 121.56,
+          "end": 121.7,
+          "probability": 0.9956
+        },
+        {
+          "word": " only",
+          "start": 121.7,
+          "end": 121.98,
+          "probability": 0.9956
+        },
+        {
+          "word": " half",
+          "start": 121.98,
+          "end": 122.28,
+          "probability": 0.9836
+        },
+        {
+          "word": " full",
+          "start": 122.28,
+          "end": 122.68,
+          "probability": 0.867
+        },
+        {
+          "word": " in",
+          "start": 122.68,
+          "end": 122.96,
+          "probability": 0.9448
+        },
+        {
+          "word": " order",
+          "start": 122.96,
+          "end": 123.08,
+          "probability": 0.9832
+        },
+        {
+          "word": " to",
+          "start": 123.08,
+          "end": 123.32,
+          "probability": 0.9948
+        },
+        {
+          "word": " fulfill",
+          "start": 123.32,
+          "end": 123.84,
+          "probability": 0.9723
+        },
+        {
+          "word": " customer",
+          "start": 123.84,
+          "end": 124.5,
+          "probability": 0.9886
+        },
+        {
+          "word": " expectations.",
+          "start": 124.5,
+          "end": 125.42,
+          "probability": 0.9964
+        }
+      ]
+    },
+    {
+      "start": 126.2,
+      "end": 130.52,
+      "text": "This ultimately means more emissions because trucks and vans have to make multiple trips",
+      "avg_log_prob": -0.124,
+      "words": [
+        {
+          "word": " This",
+          "start": 126.2,
+          "end": 126.38,
+          "probability": 0.9914
+        },
+        {
+          "word": " ultimately",
+          "start": 126.38,
+          "end": 126.7,
+          "probability": 0.9812
+        },
+        {
+          "word": " means",
+          "start": 126.7,
+          "end": 127.1,
+          "probability": 0.9969
+        },
+        {
+          "word": " more",
+          "start": 127.1,
+          "end": 127.44,
+          "probability": 0.9937
+        },
+        {
+          "word": " emissions",
+          "start": 127.44,
+          "end": 127.88,
+          "probability": 0.9452
+        },
+        {
+          "word": " because",
+          "start": 127.88,
+          "end": 128.4,
+          "probability": 0.6146
+        },
+        {
+          "word": " trucks",
+          "start": 128.4,
+          "end": 128.64,
+          "probability": 0.99
+        },
+        {
+          "word": " and",
+          "start": 128.64,
+          "end": 128.84,
+          "probability": 0.9896
+        },
+        {
+          "word": " vans",
+          "start": 128.84,
+          "end": 129.24,
+          "probability": 0.9957
+        },
+        {
+          "word": " have",
+          "start": 129.24,
+          "end": 129.44,
+          "probability": 0.9952
+        },
+        {
+          "word": " to",
+          "start": 129.44,
+          "end": 129.6,
+          "probability": 0.9992
+        },
+        {
+          "word": " make",
+          "start": 129.6,
+          "end": 129.76,
+          "probability": 0.9948
+        },
+        {
+          "word": " multiple",
+          "start": 129.76,
+          "end": 130.04,
+          "probability": 0.9976
+        },
+        {
+          "word": " trips",
+          "start": 130.04,
+          "end": 130.52,
+          "probability": 0.997
+        }
+      ]
+    },
+    {
+      "start": 130.52,
+      "end": 136.18,
+      "text": "between hubs and homes, as opposed to slower shipping options, which fill up trucks with cargo",
+      "avg_log_prob": -0.124,
+      "words": [
+        {
+          "word": " between",
+          "start": 130.52,
+          "end": 130.98,
+          "probability": 0.9941
+        },
+        {
+          "word": " hubs",
+          "start": 130.98,
+          "end": 131.32,
+          "probability": 0.9803
+        },
+        {
+          "word": " and",
+          "start": 131.32,
+          "end": 131.74,
+          "probability": 0.9949
+        },
+        {
+          "word": " homes,",
+          "start": 131.74,
+          "end": 132.24,
+          "probability": 0.9947
+        },
+        {
+          "word": " as",
+          "start": 132.64,
+          "end": 132.78,
+          "probability": 0.9965
+        },
+        {
+          "word": " opposed",
+          "start": 132.78,
+          "end": 133.0,
+          "probability": 0.9977
+        },
+        {
+          "word": " to",
+          "start": 133.0,
+          "end": 133.24,
+          "probability": 0.999
+        },
+        {
+          "word": " slower",
+          "start": 133.24,
+          "end": 133.56,
+          "probability": 0.5332
+        },
+        {
+          "word": " shipping",
+          "start": 133.56,
+          "end": 133.9,
+          "probability": 0.7782
+        },
+        {
+          "word": " options,",
+          "start": 133.9,
+          "end": 134.5,
+          "probability": 0.9903
+        },
+        {
+          "word": " which",
+          "start": 134.64,
+          "end": 134.78,
+          "probability": 0.9969
+        },
+        {
+          "word": " fill",
+          "start": 134.78,
+          "end": 135.0,
+          "probability": 0.9914
+        },
+        {
+          "word": " up",
+          "start": 135.0,
+          "end": 135.18,
+          "probability": 0.9042
+        },
+        {
+          "word": " trucks",
+          "start": 135.18,
+          "end": 135.42,
+          "probability": 0.9974
+        },
+        {
+          "word": " with",
+          "start": 135.42,
+          "end": 135.78,
+          "probability": 0.992
+        },
+        {
+          "word": " cargo",
+          "start": 135.78,
+          "end": 136.18,
+          "probability": 0.9966
+        }
+      ]
+    },
+    {
+      "start": 136.18,
+      "end": 143.12,
+      "text": "and make a single trip to fill orders. Packaging also has a significant role to play when it comes",
+      "avg_log_prob": -0.0868,
+      "words": [
+        {
+          "word": " and",
+          "start": 136.18,
+          "end": 136.76,
+          "probability": 0.6263
+        },
+        {
+          "word": " make",
+          "start": 136.76,
+          "end": 136.92,
+          "probability": 0.9825
+        },
+        {
+          "word": " a",
+          "start": 136.92,
+          "end": 137.14,
+          "probability": 0.998
+        },
+        {
+          "word": " single",
+          "start": 137.14,
+          "end": 137.44,
+          "probability": 0.974
+        },
+        {
+          "word": " trip",
+          "start": 137.44,
+          "end": 137.74,
+          "probability": 0.9856
+        },
+        {
+          "word": " to",
+          "start": 137.74,
+          "end": 138.08,
+          "probability": 0.9926
+        },
+        {
+          "word": " fill",
+          "start": 138.08,
+          "end": 138.36,
+          "probability": 0.8875
+        },
+        {
+          "word": " orders.",
+          "start": 138.36,
+          "end": 138.88,
+          "probability": 0.9426
+        },
+        {
+          "word": " Packaging",
+          "start": 139.8,
+          "end": 140.26,
+          "probability": 0.9723
+        },
+        {
+          "word": " also",
+          "start": 140.26,
+          "end": 140.86,
+          "probability": 0.9743
+        },
+        {
+          "word": " has",
+          "start": 140.86,
+          "end": 141.2,
+          "probability": 0.9965
+        },
+        {
+          "word": " a",
+          "start": 141.2,
+          "end": 141.48,
+          "probability": 0.9916
+        },
+        {
+          "word": " significant",
+          "start": 141.48,
+          "end": 141.94,
+          "probability": 0.9918
+        },
+        {
+          "word": " role",
+          "start": 141.94,
+          "end": 142.22,
+          "probability": 0.9983
+        },
+        {
+          "word": " to",
+          "start": 142.22,
+          "end": 142.36,
+          "probability": 0.9849
+        },
+        {
+          "word": " play",
+          "start": 142.36,
+          "end": 142.6,
+          "probability": 0.9989
+        },
+        {
+          "word": " when",
+          "start": 142.6,
+          "end": 142.8,
+          "probability": 0.9903
+        },
+        {
+          "word": " it",
+          "start": 142.8,
+          "end": 142.92,
+          "probability": 0.9952
+        },
+        {
+          "word": " comes",
+          "start": 142.92,
+          "end": 143.12,
+          "probability": 0.998
+        }
+      ]
+    },
+    {
+      "start": 143.12,
+      "end": 148.04,
+      "text": "to environmental impact. Often, when you select the two-day shipping option,",
+      "avg_log_prob": -0.0868,
+      "words": [
+        {
+          "word": " to",
+          "start": 143.12,
+          "end": 143.46,
+          "probability": 0.9989
+        },
+        {
+          "word": " environmental",
+          "start": 143.46,
+          "end": 144.14,
+          "probability": 0.9836
+        },
+        {
+          "word": " impact.",
+          "start": 144.14,
+          "end": 144.92,
+          "probability": 0.9784
+        },
+        {
+          "word": " Often,",
+          "start": 145.52,
+          "end": 145.92,
+          "probability": 0.9935
+        },
+        {
+          "word": " when",
+          "start": 146.16,
+          "end": 146.24,
+          "probability": 0.9971
+        },
+        {
+          "word": " you",
+          "start": 146.24,
+          "end": 146.36,
+          "probability": 0.9993
+        },
+        {
+          "word": " select",
+          "start": 146.36,
+          "end": 146.68,
+          "probability": 0.9977
+        },
+        {
+          "word": " the",
+          "start": 146.68,
+          "end": 146.92,
+          "probability": 0.6971
+        },
+        {
+          "word": " two",
+          "start": 146.92,
+          "end": 147.12,
+          "probability": 0.878
+        },
+        {
+          "word": "-day",
+          "start": 147.12,
+          "end": 147.3,
+          "probability": 0.7711
+        },
+        {
+          "word": " shipping",
+          "start": 147.3,
+          "end": 147.56,
+          "probability": 0.9974
+        },
+        {
+          "word": " option,",
+          "start": 147.56,
+          "end": 148.04,
+          "probability": 0.9726
+        }
+      ]
+    },
+    {
+      "start": 148.52,
+      "end": 153.3,
+      "text": "the products that you want aren't bundled together in the same box because they are usually",
+      "avg_log_prob": -0.0868,
+      "words": [
+        {
+          "word": " the",
+          "start": 148.52,
+          "end": 148.58,
+          "probability": 0.9969
+        },
+        {
+          "word": " products",
+          "start": 148.58,
+          "end": 148.92,
+          "probability": 0.9983
+        },
+        {
+          "word": " that",
+          "start": 148.92,
+          "end": 149.24,
+          "probability": 0.8923
+        },
+        {
+          "word": " you",
+          "start": 149.24,
+          "end": 149.48,
+          "probability": 0.9984
+        },
+        {
+          "word": " want",
+          "start": 149.48,
+          "end": 149.96,
+          "probability": 0.958
+        },
+        {
+          "word": " aren't",
+          "start": 149.96,
+          "end": 150.4,
+          "probability": 0.9916
+        },
+        {
+          "word": " bundled",
+          "start": 150.4,
+          "end": 150.7,
+          "probability": 0.9945
+        },
+        {
+          "word": " together",
+          "start": 150.7,
+          "end": 151.08,
+          "probability": 0.9963
+        },
+        {
+          "word": " in",
+          "start": 151.08,
+          "end": 151.32,
+          "probability": 0.9955
+        },
+        {
+          "word": " the",
+          "start": 151.32,
+          "end": 151.44,
+          "probability": 0.9976
+        },
+        {
+          "word": " same",
+          "start": 151.44,
+          "end": 151.7,
+          "probability": 0.9984
+        },
+        {
+          "word": " box",
+          "start": 151.7,
+          "end": 152.0,
+          "probability": 0.9983
+        },
+        {
+          "word": " because",
+          "start": 152.0,
+          "end": 152.6,
+          "probability": 0.7014
+        },
+        {
+          "word": " they",
+          "start": 152.6,
+          "end": 152.86,
+          "probability": 0.9964
+        },
+        {
+          "word": " are",
+          "start": 152.86,
+          "end": 152.98,
+          "probability": 0.9204
+        },
+        {
+          "word": " usually",
+          "start": 152.98,
+          "end": 153.3,
+          "probability": 0.9896
+        }
+      ]
+    },
+    {
+      "start": 153.3,
+      "end": 158.3,
+      "text": "coming from two different facilities across the country. As a result, you receive a new cardboard",
+      "avg_log_prob": -0.0868,
+      "words": [
+        {
+          "word": " coming",
+          "start": 153.3,
+          "end": 153.64,
+          "probability": 0.9977
+        },
+        {
+          "word": " from",
+          "start": 153.64,
+          "end": 153.9,
+          "probability": 0.9959
+        },
+        {
+          "word": " two",
+          "start": 153.9,
+          "end": 154.22,
+          "probability": 0.989
+        },
+        {
+          "word": " different",
+          "start": 154.22,
+          "end": 154.54,
+          "probability": 0.9997
+        },
+        {
+          "word": " facilities",
+          "start": 154.54,
+          "end": 155.18,
+          "probability": 0.9985
+        },
+        {
+          "word": " across",
+          "start": 155.18,
+          "end": 155.66,
+          "probability": 0.9922
+        },
+        {
+          "word": " the",
+          "start": 155.66,
+          "end": 155.86,
+          "probability": 0.9987
+        },
+        {
+          "word": " country.",
+          "start": 155.86,
+          "end": 156.24,
+          "probability": 0.9984
+        },
+        {
+          "word": " As",
+          "start": 156.48,
+          "end": 156.58,
+          "probability": 0.996
+        },
+        {
+          "word": " a",
+          "start": 156.58,
+          "end": 156.64,
+          "probability": 0.9982
+        },
+        {
+          "word": " result,",
+          "start": 156.64,
+          "end": 156.9,
+          "probability": 0.9995
+        },
+        {
+          "word": " you",
+          "start": 157.1,
+          "end": 157.18,
+          "probability": 0.998
+        },
+        {
+          "word": " receive",
+          "start": 157.18,
+          "end": 157.5,
+          "probability": 0.9902
+        },
+        {
+          "word": " a",
+          "start": 157.5,
+          "end": 157.82,
+          "probability": 0.9984
+        },
+        {
+          "word": " new",
+          "start": 157.82,
+          "end": 157.98,
+          "probability": 0.986
+        },
+        {
+          "word": " cardboard",
+          "start": 157.98,
+          "end": 158.3,
+          "probability": 0.9825
+        }
+      ]
+    },
+    {
+      "start": 158.3,
+      "end": 165.46,
+      "text": "box for every product you purchase. And the carbon emissions of products are on average 35% more",
+      "avg_log_prob": -0.0868,
+      "words": [
+        {
+          "word": " box",
+          "start": 158.3,
+          "end": 158.76,
+          "probability": 0.9995
+        },
+        {
+          "word": " for",
+          "start": 158.76,
+          "end": 159.08,
+          "probability": 0.9981
+        },
+        {
+          "word": " every",
+          "start": 159.08,
+          "end": 159.34,
+          "probability": 0.9924
+        },
+        {
+          "word": " product",
+          "start": 159.34,
+          "end": 159.78,
+          "probability": 0.9961
+        },
+        {
+          "word": " you",
+          "start": 159.78,
+          "end": 160.06,
+          "probability": 0.9958
+        },
+        {
+          "word": " purchase.",
+          "start": 160.06,
+          "end": 160.58,
+          "probability": 0.9986
+        },
+        {
+          "word": " And",
+          "start": 161.06,
+          "end": 161.14,
+          "probability": 0.6584
+        },
+        {
+          "word": " the",
+          "start": 161.14,
+          "end": 161.2,
+          "probability": 0.9826
+        },
+        {
+          "word": " carbon",
+          "start": 161.2,
+          "end": 161.42,
+          "probability": 0.9848
+        },
+        {
+          "word": " emissions",
+          "start": 161.42,
+          "end": 161.78,
+          "probability": 0.9963
+        },
+        {
+          "word": " of",
+          "start": 161.78,
+          "end": 162.46,
+          "probability": 0.9927
+        },
+        {
+          "word": " products",
+          "start": 162.46,
+          "end": 162.86,
+          "probability": 0.9863
+        },
+        {
+          "word": " are",
+          "start": 162.86,
+          "end": 163.26,
+          "probability": 0.9949
+        },
+        {
+          "word": " on",
+          "start": 163.26,
+          "end": 163.6,
+          "probability": 0.8296
+        },
+        {
+          "word": " average",
+          "start": 163.6,
+          "end": 163.96,
+          "probability": 0.9966
+        },
+        {
+          "word": " 35",
+          "start": 163.96,
+          "end": 164.6,
+          "probability": 0.9745
+        },
+        {
+          "word": "%",
+          "start": 164.6,
+          "end": 165.04,
+          "probability": 0.8422
+        },
+        {
+          "word": " more",
+          "start": 165.04,
+          "end": 165.46,
+          "probability": 0.9987
+        }
+      ]
+    },
+    {
+      "start": 165.46,
+      "end": 171.16,
+      "text": "when shipped separately than when shipped together. In addition, many products are packaged",
+      "avg_log_prob": -0.1014,
+      "words": [
+        {
+          "word": " when",
+          "start": 165.46,
+          "end": 165.9,
+          "probability": 0.2969
+        },
+        {
+          "word": " shipped",
+          "start": 165.9,
+          "end": 166.24,
+          "probability": 0.9936
+        },
+        {
+          "word": " separately",
+          "start": 166.24,
+          "end": 166.76,
+          "probability": 0.9964
+        },
+        {
+          "word": " than",
+          "start": 166.76,
+          "end": 167.14,
+          "probability": 0.1821
+        },
+        {
+          "word": " when",
+          "start": 167.14,
+          "end": 167.28,
+          "probability": 0.9795
+        },
+        {
+          "word": " shipped",
+          "start": 167.28,
+          "end": 167.7,
+          "probability": 0.9994
+        },
+        {
+          "word": " together.",
+          "start": 167.7,
+          "end": 168.32,
+          "probability": 0.9891
+        },
+        {
+          "word": " In",
+          "start": 168.66,
+          "end": 168.74,
+          "probability": 0.9832
+        },
+        {
+          "word": " addition,",
+          "start": 168.74,
+          "end": 169.06,
+          "probability": 0.999
+        },
+        {
+          "word": " many",
+          "start": 169.48,
+          "end": 169.66,
+          "probability": 0.9977
+        },
+        {
+          "word": " products",
+          "start": 169.66,
+          "end": 170.18,
+          "probability": 0.9985
+        },
+        {
+          "word": " are",
+          "start": 170.18,
+          "end": 170.62,
+          "probability": 0.998
+        },
+        {
+          "word": " packaged",
+          "start": 170.62,
+          "end": 171.16,
+          "probability": 0.9819
+        }
+      ]
+    },
+    {
+      "start": 171.16,
+      "end": 177.3,
+      "text": "inefficiently. A study conducted by a peerless research group found that on average boxes contain",
+      "avg_log_prob": -0.1014,
+      "words": [
+        {
+          "word": " inefficiently.",
+          "start": 171.16,
+          "end": 172.26,
+          "probability": 0.967
+        },
+        {
+          "word": " A",
+          "start": 172.52,
+          "end": 172.66,
+          "probability": 0.9943
+        },
+        {
+          "word": " study",
+          "start": 172.66,
+          "end": 172.94,
+          "probability": 0.9988
+        },
+        {
+          "word": " conducted",
+          "start": 172.94,
+          "end": 173.46,
+          "probability": 0.9781
+        },
+        {
+          "word": " by",
+          "start": 173.46,
+          "end": 173.84,
+          "probability": 0.9971
+        },
+        {
+          "word": " a",
+          "start": 173.84,
+          "end": 173.98,
+          "probability": 0.1876
+        },
+        {
+          "word": " peerless",
+          "start": 173.98,
+          "end": 174.26,
+          "probability": 0.8357
+        },
+        {
+          "word": " research",
+          "start": 174.26,
+          "end": 174.68,
+          "probability": 0.9861
+        },
+        {
+          "word": " group",
+          "start": 174.68,
+          "end": 175.06,
+          "probability": 0.9971
+        },
+        {
+          "word": " found",
+          "start": 175.06,
+          "end": 175.46,
+          "probability": 0.9753
+        },
+        {
+          "word": " that",
+          "start": 175.46,
+          "end": 175.76,
+          "probability": 0.9911
+        },
+        {
+          "word": " on",
+          "start": 175.76,
+          "end": 176.0,
+          "probability": 0.82
+        },
+        {
+          "word": " average",
+          "start": 176.0,
+          "end": 176.38,
+          "probability": 0.9562
+        },
+        {
+          "word": " boxes",
+          "start": 176.38,
+          "end": 176.88,
+          "probability": 0.5774
+        },
+        {
+          "word": " contain",
+          "start": 176.88,
+          "end": 177.3,
+          "probability": 0.838
+        }
+      ]
+    },
+    {
+      "start": 177.3,
+      "end": 184.72,
+      "text": "20% of wasted space, which shipping facilities then fill with paper, styrofoam, or bubble wrap,",
+      "avg_log_prob": -0.1014,
+      "words": [
+        {
+          "word": " 20",
+          "start": 177.3,
+          "end": 177.84,
+          "probability": 0.9696
+        },
+        {
+          "word": "%",
+          "start": 177.84,
+          "end": 178.22,
+          "probability": 0.8538
+        },
+        {
+          "word": " of",
+          "start": 178.22,
+          "end": 178.6,
+          "probability": 0.9731
+        },
+        {
+          "word": " wasted",
+          "start": 178.6,
+          "end": 178.92,
+          "probability": 0.9601
+        },
+        {
+          "word": " space,",
+          "start": 178.92,
+          "end": 179.44,
+          "probability": 0.9987
+        },
+        {
+          "word": " which",
+          "start": 179.98,
+          "end": 180.32,
+          "probability": 0.9935
+        },
+        {
+          "word": " shipping",
+          "start": 180.32,
+          "end": 180.82,
+          "probability": 0.6429
+        },
+        {
+          "word": " facilities",
+          "start": 180.82,
+          "end": 181.38,
+          "probability": 0.9957
+        },
+        {
+          "word": " then",
+          "start": 181.38,
+          "end": 181.72,
+          "probability": 0.9474
+        },
+        {
+          "word": " fill",
+          "start": 181.72,
+          "end": 181.96,
+          "probability": 0.9937
+        },
+        {
+          "word": " with",
+          "start": 181.96,
+          "end": 182.16,
+          "probability": 0.9694
+        },
+        {
+          "word": " paper,",
+          "start": 182.16,
+          "end": 182.52,
+          "probability": 0.8888
+        },
+        {
+          "word": " styrofoam,",
+          "start": 182.96,
+          "end": 183.6,
+          "probability": 0.8916
+        },
+        {
+          "word": " or",
+          "start": 183.78,
+          "end": 184.0,
+          "probability": 0.9912
+        },
+        {
+          "word": " bubble",
+          "start": 184.0,
+          "end": 184.4,
+          "probability": 0.986
+        },
+        {
+          "word": " wrap,",
+          "start": 184.4,
+          "end": 184.72,
+          "probability": 0.9686
+        }
+      ]
+    },
+    {
+      "start": 185.08,
+      "end": 190.2,
+      "text": "ultimately creating more waste, which finds its way into waterways or landfills.",
+      "avg_log_prob": -0.1014,
+      "words": [
+        {
+          "word": " ultimately",
+          "start": 185.08,
+          "end": 185.32,
+          "probability": 0.9538
+        },
+        {
+          "word": " creating",
+          "start": 185.32,
+          "end": 185.88,
+          "probability": 0.9873
+        },
+        {
+          "word": " more",
+          "start": 185.88,
+          "end": 186.24,
+          "probability": 0.9936
+        },
+        {
+          "word": " waste,",
+          "start": 186.24,
+          "end": 186.72,
+          "probability": 0.9868
+        },
+        {
+          "word": " which",
+          "start": 186.86,
+          "end": 187.08,
+          "probability": 0.998
+        },
+        {
+          "word": " finds",
+          "start": 187.08,
+          "end": 187.34,
+          "probability": 0.953
+        },
+        {
+          "word": " its",
+          "start": 187.34,
+          "end": 187.58,
+          "probability": 0.968
+        },
+        {
+          "word": " way",
+          "start": 187.58,
+          "end": 187.82,
+          "probability": 0.9988
+        },
+        {
+          "word": " into",
+          "start": 187.82,
+          "end": 188.12,
+          "probability": 0.9779
+        },
+        {
+          "word": " waterways",
+          "start": 188.12,
+          "end": 188.76,
+          "probability": 0.9919
+        },
+        {
+          "word": " or",
+          "start": 188.76,
+          "end": 189.34,
+          "probability": 0.7311
+        },
+        {
+          "word": " landfills.",
+          "start": 189.34,
+          "end": 190.2,
+          "probability": 0.9808
+        }
+      ]
+    },
+    {
+      "start": 190.92,
+      "end": 196.74,
+      "text": "But there are many options on both the retail and consumer side that could help lower emissions.",
+      "avg_log_prob": -0.1148,
+      "words": [
+        {
+          "word": " But",
+          "start": 190.78,
+          "end": 191.16,
+          "probability": 0.4872
+        },
+        {
+          "word": " there",
+          "start": 191.16,
+          "end": 191.58,
+          "probability": 0.8482
+        },
+        {
+          "word": " are",
+          "start": 191.58,
+          "end": 191.76,
+          "probability": 0.9962
+        },
+        {
+          "word": " many",
+          "start": 191.76,
+          "end": 192.06,
+          "probability": 0.9971
+        },
+        {
+          "word": " options",
+          "start": 192.06,
+          "end": 192.5,
+          "probability": 0.9969
+        },
+        {
+          "word": " on",
+          "start": 192.5,
+          "end": 192.82,
+          "probability": 0.9892
+        },
+        {
+          "word": " both",
+          "start": 192.82,
+          "end": 193.06,
+          "probability": 0.9976
+        },
+        {
+          "word": " the",
+          "start": 193.06,
+          "end": 193.2,
+          "probability": 0.975
+        },
+        {
+          "word": " retail",
+          "start": 193.2,
+          "end": 193.58,
+          "probability": 0.9813
+        },
+        {
+          "word": " and",
+          "start": 193.58,
+          "end": 194.0,
+          "probability": 0.9892
+        },
+        {
+          "word": " consumer",
+          "start": 194.0,
+          "end": 194.44,
+          "probability": 0.9951
+        },
+        {
+          "word": " side",
+          "start": 194.44,
+          "end": 194.84,
+          "probability": 0.9725
+        },
+        {
+          "word": " that",
+          "start": 194.84,
+          "end": 195.14,
+          "probability": 0.9817
+        },
+        {
+          "word": " could",
+          "start": 195.14,
+          "end": 195.54,
+          "probability": 0.9915
+        },
+        {
+          "word": " help",
+          "start": 195.54,
+          "end": 195.92,
+          "probability": 0.9961
+        },
+        {
+          "word": " lower",
+          "start": 195.92,
+          "end": 196.36,
+          "probability": 0.9977
+        },
+        {
+          "word": " emissions.",
+          "start": 196.36,
+          "end": 196.74,
+          "probability": 0.9825
+        }
+      ]
+    },
+    {
+      "start": 197.5,
+      "end": 202.74,
+      "text": "For companies, cutting down emissions means nudging shoppers towards slower shipping options",
+      "avg_log_prob": -0.1148,
+      "words": [
+        {
+          "word": " For",
+          "start": 197.5,
+          "end": 197.7,
+          "probability": 0.9941
+        },
+        {
+          "word": " companies,",
+          "start": 197.7,
+          "end": 198.06,
+          "probability": 0.9887
+        },
+        {
+          "word": " cutting",
+          "start": 198.44,
+          "end": 198.56,
+          "probability": 0.9327
+        },
+        {
+          "word": " down",
+          "start": 198.56,
+          "end": 198.82,
+          "probability": 0.9702
+        },
+        {
+          "word": " emissions",
+          "start": 198.82,
+          "end": 199.22,
+          "probability": 0.9913
+        },
+        {
+          "word": " means",
+          "start": 199.22,
+          "end": 199.78,
+          "probability": 0.9864
+        },
+        {
+          "word": " nudging",
+          "start": 199.78,
+          "end": 200.42,
+          "probability": 0.9136
+        },
+        {
+          "word": " shoppers",
+          "start": 200.42,
+          "end": 200.92,
+          "probability": 0.9628
+        },
+        {
+          "word": " towards",
+          "start": 200.92,
+          "end": 201.32,
+          "probability": 0.8765
+        },
+        {
+          "word": " slower",
+          "start": 201.32,
+          "end": 201.74,
+          "probability": 0.8894
+        },
+        {
+          "word": " shipping",
+          "start": 201.74,
+          "end": 202.08,
+          "probability": 0.9584
+        },
+        {
+          "word": " options",
+          "start": 202.08,
+          "end": 202.74,
+          "probability": 0.9924
+        }
+      ]
+    },
+    {
+      "start": 202.74,
+      "end": 208.48,
+      "text": "or making in-store purchases when appropriate. It can also mean bundling items together in one",
+      "avg_log_prob": -0.1148,
+      "words": [
+        {
+          "word": " or",
+          "start": 202.74,
+          "end": 203.06,
+          "probability": 0.795
+        },
+        {
+          "word": " making",
+          "start": 203.06,
+          "end": 203.32,
+          "probability": 0.9977
+        },
+        {
+          "word": " in",
+          "start": 203.32,
+          "end": 203.58,
+          "probability": 0.7751
+        },
+        {
+          "word": "-store",
+          "start": 203.58,
+          "end": 203.86,
+          "probability": 0.8985
+        },
+        {
+          "word": " purchases",
+          "start": 203.86,
+          "end": 204.46,
+          "probability": 0.9988
+        },
+        {
+          "word": " when",
+          "start": 204.46,
+          "end": 204.98,
+          "probability": 0.8146
+        },
+        {
+          "word": " appropriate.",
+          "start": 204.98,
+          "end": 205.58,
+          "probability": 0.9961
+        },
+        {
+          "word": " It",
+          "start": 206.0,
+          "end": 206.06,
+          "probability": 0.9892
+        },
+        {
+          "word": " can",
+          "start": 206.06,
+          "end": 206.16,
+          "probability": 0.9881
+        },
+        {
+          "word": " also",
+          "start": 206.16,
+          "end": 206.36,
+          "probability": 0.9982
+        },
+        {
+          "word": " mean",
+          "start": 206.36,
+          "end": 206.66,
+          "probability": 0.9978
+        },
+        {
+          "word": " bundling",
+          "start": 206.66,
+          "end": 207.14,
+          "probability": 0.9931
+        },
+        {
+          "word": " items",
+          "start": 207.14,
+          "end": 207.56,
+          "probability": 0.9971
+        },
+        {
+          "word": " together",
+          "start": 207.56,
+          "end": 207.98,
+          "probability": 0.9895
+        },
+        {
+          "word": " in",
+          "start": 207.98,
+          "end": 208.28,
+          "probability": 0.9982
+        },
+        {
+          "word": " one",
+          "start": 208.28,
+          "end": 208.48,
+          "probability": 0.9884
+        }
+      ]
+    },
+    {
+      "start": 208.48,
+      "end": 214.92,
+      "text": "package, or even reducing the amount of packaging for a product by right sizing its box.",
+      "avg_log_prob": -0.1148,
+      "words": [
+        {
+          "word": " package,",
+          "start": 208.48,
+          "end": 208.96,
+          "probability": 0.9977
+        },
+        {
+          "word": " or",
+          "start": 209.38,
+          "end": 209.64,
+          "probability": 0.9961
+        },
+        {
+          "word": " even",
+          "start": 209.64,
+          "end": 210.16,
+          "probability": 0.9643
+        },
+        {
+          "word": " reducing",
+          "start": 210.16,
+          "end": 210.64,
+          "probability": 0.9955
+        },
+        {
+          "word": " the",
+          "start": 210.64,
+          "end": 210.96,
+          "probability": 0.9974
+        },
+        {
+          "word": " amount",
+          "start": 210.96,
+          "end": 211.24,
+          "probability": 0.9989
+        },
+        {
+          "word": " of",
+          "start": 211.24,
+          "end": 211.54,
+          "probability": 0.9978
+        },
+        {
+          "word": " packaging",
+          "start": 211.54,
+          "end": 212.0,
+          "probability": 0.9962
+        },
+        {
+          "word": " for",
+          "start": 212.0,
+          "end": 212.48,
+          "probability": 0.9915
+        },
+        {
+          "word": " a",
+          "start": 212.48,
+          "end": 212.7,
+          "probability": 0.9849
+        },
+        {
+          "word": " product",
+          "start": 212.7,
+          "end": 213.02,
+          "probability": 0.9983
+        },
+        {
+          "word": " by",
+          "start": 213.02,
+          "end": 213.38,
+          "probability": 0.9936
+        },
+        {
+          "word": " right",
+          "start": 213.38,
+          "end": 213.62,
+          "probability": 0.9485
+        },
+        {
+          "word": " sizing",
+          "start": 213.62,
+          "end": 214.1,
+          "probability": 0.8282
+        },
+        {
+          "word": " its",
+          "start": 214.1,
+          "end": 214.62,
+          "probability": 0.7005
+        },
+        {
+          "word": " box.",
+          "start": 214.62,
+          "end": 214.92,
+          "probability": 0.9718
+        }
+      ]
+    },
+    {
+      "start": 215.64,
+      "end": 219.8,
+      "text": "But as individuals, we also have choices to make. For one, if it's possible,",
+      "avg_log_prob": -0.0578,
+      "words": [
+        {
+          "word": " But",
+          "start": 215.59,
+          "end": 215.88,
+          "probability": 0.437
+        },
+        {
+          "word": " as",
+          "start": 215.88,
+          "end": 216.06,
+          "probability": 0.974
+        },
+        {
+          "word": " individuals,",
+          "start": 216.06,
+          "end": 216.48,
+          "probability": 0.9939
+        },
+        {
+          "word": " we",
+          "start": 216.8,
+          "end": 216.88,
+          "probability": 0.9928
+        },
+        {
+          "word": " also",
+          "start": 216.88,
+          "end": 217.24,
+          "probability": 0.9914
+        },
+        {
+          "word": " have",
+          "start": 217.24,
+          "end": 217.44,
+          "probability": 0.9976
+        },
+        {
+          "word": " choices",
+          "start": 217.44,
+          "end": 217.8,
+          "probability": 0.9947
+        },
+        {
+          "word": " to",
+          "start": 217.8,
+          "end": 218.06,
+          "probability": 0.9957
+        },
+        {
+          "word": " make.",
+          "start": 218.06,
+          "end": 218.28,
+          "probability": 0.998
+        },
+        {
+          "word": " For",
+          "start": 218.48,
+          "end": 218.54,
+          "probability": 0.9611
+        },
+        {
+          "word": " one,",
+          "start": 218.54,
+          "end": 218.76,
+          "probability": 0.9743
+        },
+        {
+          "word": " if",
+          "start": 219.06,
+          "end": 219.18,
+          "probability": 0.99
+        },
+        {
+          "word": " it's",
+          "start": 219.18,
+          "end": 219.34,
+          "probability": 0.9767
+        },
+        {
+          "word": " possible,",
+          "start": 219.34,
+          "end": 219.8,
+          "probability": 0.9992
+        }
+      ]
+    },
+    {
+      "start": 220.16,
+      "end": 225.42,
+      "text": "find a way to get to your local retail store without using a car. You'll not only drastically",
+      "avg_log_prob": -0.0578,
+      "words": [
+        {
+          "word": " find",
+          "start": 220.16,
+          "end": 220.34,
+          "probability": 0.984
+        },
+        {
+          "word": " a",
+          "start": 220.34,
+          "end": 220.48,
+          "probability": 0.9977
+        },
+        {
+          "word": " way",
+          "start": 220.48,
+          "end": 220.62,
+          "probability": 0.9992
+        },
+        {
+          "word": " to",
+          "start": 220.62,
+          "end": 220.8,
+          "probability": 0.9952
+        },
+        {
+          "word": " get",
+          "start": 220.8,
+          "end": 220.96,
+          "probability": 0.9945
+        },
+        {
+          "word": " to",
+          "start": 220.96,
+          "end": 221.14,
+          "probability": 0.9795
+        },
+        {
+          "word": " your",
+          "start": 221.14,
+          "end": 221.28,
+          "probability": 0.9972
+        },
+        {
+          "word": " local",
+          "start": 221.28,
+          "end": 221.56,
+          "probability": 0.9924
+        },
+        {
+          "word": " retail",
+          "start": 221.56,
+          "end": 221.92,
+          "probability": 0.9897
+        },
+        {
+          "word": " store",
+          "start": 221.92,
+          "end": 222.46,
+          "probability": 0.9992
+        },
+        {
+          "word": " without",
+          "start": 222.46,
+          "end": 222.98,
+          "probability": 0.9555
+        },
+        {
+          "word": " using",
+          "start": 222.98,
+          "end": 223.5,
+          "probability": 0.9968
+        },
+        {
+          "word": " a",
+          "start": 223.5,
+          "end": 223.88,
+          "probability": 0.985
+        },
+        {
+          "word": " car.",
+          "start": 223.88,
+          "end": 224.06,
+          "probability": 0.9966
+        },
+        {
+          "word": " You'll",
+          "start": 224.34,
+          "end": 224.48,
+          "probability": 0.959
+        },
+        {
+          "word": " not",
+          "start": 224.48,
+          "end": 224.66,
+          "probability": 0.9949
+        },
+        {
+          "word": " only",
+          "start": 224.66,
+          "end": 224.9,
+          "probability": 0.9987
+        },
+        {
+          "word": " drastically",
+          "start": 224.9,
+          "end": 225.42,
+          "probability": 0.9648
+        }
+      ]
+    },
+    {
+      "start": 225.42,
+      "end": 230.62,
+      "text": "lower your footprint, but shopping local also gives you the opportunity to connect with other",
+      "avg_log_prob": -0.0578,
+      "words": [
+        {
+          "word": " lower",
+          "start": 225.42,
+          "end": 225.86,
+          "probability": 0.995
+        },
+        {
+          "word": " your",
+          "start": 225.86,
+          "end": 226.12,
+          "probability": 0.9982
+        },
+        {
+          "word": " footprint,",
+          "start": 226.12,
+          "end": 226.54,
+          "probability": 0.9981
+        },
+        {
+          "word": " but",
+          "start": 226.88,
+          "end": 227.06,
+          "probability": 0.9932
+        },
+        {
+          "word": " shopping",
+          "start": 227.06,
+          "end": 227.36,
+          "probability": 0.3271
+        },
+        {
+          "word": " local",
+          "start": 227.36,
+          "end": 227.8,
+          "probability": 0.9733
+        },
+        {
+          "word": " also",
+          "start": 227.8,
+          "end": 228.24,
+          "probability": 0.9952
+        },
+        {
+          "word": " gives",
+          "start": 228.24,
+          "end": 228.46,
+          "probability": 0.9947
+        },
+        {
+          "word": " you",
+          "start": 228.46,
+          "end": 228.68,
+          "probability": 0.9899
+        },
+        {
+          "word": " the",
+          "start": 228.68,
+          "end": 228.88,
+          "probability": 0.9975
+        },
+        {
+          "word": " opportunity",
+          "start": 228.88,
+          "end": 229.42,
+          "probability": 0.998
+        },
+        {
+          "word": " to",
+          "start": 229.42,
+          "end": 229.72,
+          "probability": 0.999
+        },
+        {
+          "word": " connect",
+          "start": 229.72,
+          "end": 229.98,
+          "probability": 0.9986
+        },
+        {
+          "word": " with",
+          "start": 229.98,
+          "end": 230.32,
+          "probability": 0.9891
+        },
+        {
+          "word": " other",
+          "start": 230.32,
+          "end": 230.62,
+          "probability": 0.9966
+        }
+      ]
+    },
+    {
+      "start": 230.62,
+      "end": 236.1,
+      "text": "people face to face, which helps build community resilience in the long run. If you don't have",
+      "avg_log_prob": -0.0578,
+      "words": [
+        {
+          "word": " people",
+          "start": 230.62,
+          "end": 230.96,
+          "probability": 0.9977
+        },
+        {
+          "word": " face",
+          "start": 230.96,
+          "end": 231.38,
+          "probability": 0.9449
+        },
+        {
+          "word": " to",
+          "start": 231.38,
+          "end": 231.56,
+          "probability": 0.6215
+        },
+        {
+          "word": " face,",
+          "start": 231.56,
+          "end": 231.88,
+          "probability": 0.9993
+        },
+        {
+          "word": " which",
+          "start": 232.1,
+          "end": 232.3,
+          "probability": 0.9969
+        },
+        {
+          "word": " helps",
+          "start": 232.3,
+          "end": 232.56,
+          "probability": 0.9985
+        },
+        {
+          "word": " build",
+          "start": 232.56,
+          "end": 232.88,
+          "probability": 0.9976
+        },
+        {
+          "word": " community",
+          "start": 232.88,
+          "end": 233.38,
+          "probability": 0.9966
+        },
+        {
+          "word": " resilience",
+          "start": 233.38,
+          "end": 233.96,
+          "probability": 0.9904
+        },
+        {
+          "word": " in",
+          "start": 233.96,
+          "end": 234.46,
+          "probability": 0.9936
+        },
+        {
+          "word": " the",
+          "start": 234.46,
+          "end": 234.6,
+          "probability": 0.9987
+        },
+        {
+          "word": " long",
+          "start": 234.6,
+          "end": 234.82,
+          "probability": 0.9957
+        },
+        {
+          "word": " run.",
+          "start": 234.82,
+          "end": 235.04,
+          "probability": 0.9957
+        },
+        {
+          "word": " If",
+          "start": 235.46,
+          "end": 235.6,
+          "probability": 0.9943
+        },
+        {
+          "word": " you",
+          "start": 235.6,
+          "end": 235.7,
+          "probability": 0.9995
+        },
+        {
+          "word": " don't",
+          "start": 235.7,
+          "end": 235.92,
+          "probability": 0.9988
+        },
+        {
+          "word": " have",
+          "start": 235.92,
+          "end": 236.1,
+          "probability": 0.9976
+        }
+      ]
+    },
+    {
+      "start": 236.1,
+      "end": 242.22,
+      "text": "that luxury, consider using slower shipping options, which allows the online retailer to optimize",
+      "avg_log_prob": -0.0578,
+      "words": [
+        {
+          "word": " that",
+          "start": 236.1,
+          "end": 236.3,
+          "probability": 0.992
+        },
+        {
+          "word": " luxury,",
+          "start": 236.3,
+          "end": 236.68,
+          "probability": 0.9991
+        },
+        {
+          "word": " consider",
+          "start": 237.04,
+          "end": 237.36,
+          "probability": 0.9954
+        },
+        {
+          "word": " using",
+          "start": 237.36,
+          "end": 237.84,
+          "probability": 0.9971
+        },
+        {
+          "word": " slower",
+          "start": 237.84,
+          "end": 238.26,
+          "probability": 0.9824
+        },
+        {
+          "word": " shipping",
+          "start": 238.26,
+          "end": 238.6,
+          "probability": 0.9874
+        },
+        {
+          "word": " options,",
+          "start": 238.6,
+          "end": 239.22,
+          "probability": 0.998
+        },
+        {
+          "word": " which",
+          "start": 239.52,
+          "end": 239.78,
+          "probability": 0.9983
+        },
+        {
+          "word": " allows",
+          "start": 239.78,
+          "end": 240.04,
+          "probability": 0.9973
+        },
+        {
+          "word": " the",
+          "start": 240.04,
+          "end": 240.28,
+          "probability": 0.9978
+        },
+        {
+          "word": " online",
+          "start": 240.28,
+          "end": 240.58,
+          "probability": 0.9948
+        },
+        {
+          "word": " retailer",
+          "start": 240.58,
+          "end": 241.08,
+          "probability": 0.9942
+        },
+        {
+          "word": " to",
+          "start": 241.08,
+          "end": 241.52,
+          "probability": 0.9978
+        },
+        {
+          "word": " optimize",
+          "start": 241.52,
+          "end": 242.22,
+          "probability": 0.9908
+        }
+      ]
+    },
+    {
+      "start": 242.22,
+      "end": 246.26,
+      "text": "shipping routes because they don't have to rush to get the item onto your doorstep.",
+      "avg_log_prob": -0.0684,
+      "words": [
+        {
+          "word": " shipping",
+          "start": 242.22,
+          "end": 242.62,
+          "probability": 0.9118
+        },
+        {
+          "word": " routes",
+          "start": 242.62,
+          "end": 242.92,
+          "probability": 0.9923
+        },
+        {
+          "word": " because",
+          "start": 242.92,
+          "end": 243.4,
+          "probability": 0.7758
+        },
+        {
+          "word": " they",
+          "start": 243.4,
+          "end": 243.58,
+          "probability": 0.9976
+        },
+        {
+          "word": " don't",
+          "start": 243.58,
+          "end": 243.72,
+          "probability": 0.9954
+        },
+        {
+          "word": " have",
+          "start": 243.72,
+          "end": 243.86,
+          "probability": 0.9952
+        },
+        {
+          "word": " to",
+          "start": 243.86,
+          "end": 244.0,
+          "probability": 0.9924
+        },
+        {
+          "word": " rush",
+          "start": 244.0,
+          "end": 244.22,
+          "probability": 0.998
+        },
+        {
+          "word": " to",
+          "start": 244.22,
+          "end": 244.48,
+          "probability": 0.9967
+        },
+        {
+          "word": " get",
+          "start": 244.48,
+          "end": 244.62,
+          "probability": 0.9988
+        },
+        {
+          "word": " the",
+          "start": 244.62,
+          "end": 244.78,
+          "probability": 0.9872
+        },
+        {
+          "word": " item",
+          "start": 244.78,
+          "end": 245.08,
+          "probability": 0.9884
+        },
+        {
+          "word": " onto",
+          "start": 245.08,
+          "end": 245.42,
+          "probability": 0.9272
+        },
+        {
+          "word": " your",
+          "start": 245.42,
+          "end": 245.78,
+          "probability": 0.9955
+        },
+        {
+          "word": " doorstep.",
+          "start": 245.78,
+          "end": 246.26,
+          "probability": 0.9901
+        }
+      ]
+    },
+    {
+      "start": 246.58,
+      "end": 251.38,
+      "text": "This essentially means fewer miles traveled for trucks and planes because they can fill up with",
+      "avg_log_prob": -0.0684,
+      "words": [
+        {
+          "word": " This",
+          "start": 246.58,
+          "end": 246.64,
+          "probability": 0.9793
+        },
+        {
+          "word": " essentially",
+          "start": 246.64,
+          "end": 247.0,
+          "probability": 0.987
+        },
+        {
+          "word": " means",
+          "start": 247.0,
+          "end": 247.32,
+          "probability": 0.9987
+        },
+        {
+          "word": " fewer",
+          "start": 247.32,
+          "end": 247.66,
+          "probability": 0.9624
+        },
+        {
+          "word": " miles",
+          "start": 247.66,
+          "end": 248.06,
+          "probability": 0.9891
+        },
+        {
+          "word": " traveled",
+          "start": 248.06,
+          "end": 248.58,
+          "probability": 0.9127
+        },
+        {
+          "word": " for",
+          "start": 248.58,
+          "end": 248.9,
+          "probability": 0.9916
+        },
+        {
+          "word": " trucks",
+          "start": 248.9,
+          "end": 249.18,
+          "probability": 0.9929
+        },
+        {
+          "word": " and",
+          "start": 249.18,
+          "end": 249.5,
+          "probability": 0.9963
+        },
+        {
+          "word": " planes",
+          "start": 249.5,
+          "end": 249.78,
+          "probability": 0.9389
+        },
+        {
+          "word": " because",
+          "start": 249.78,
+          "end": 250.42,
+          "probability": 0.6588
+        },
+        {
+          "word": " they",
+          "start": 250.42,
+          "end": 250.58,
+          "probability": 0.9988
+        },
+        {
+          "word": " can",
+          "start": 250.58,
+          "end": 250.7,
+          "probability": 0.998
+        },
+        {
+          "word": " fill",
+          "start": 250.7,
+          "end": 250.88,
+          "probability": 0.9956
+        },
+        {
+          "word": " up",
+          "start": 250.88,
+          "end": 251.1,
+          "probability": 0.977
+        },
+        {
+          "word": " with",
+          "start": 251.1,
+          "end": 251.38,
+          "probability": 0.9971
+        }
+      ]
+    },
+    {
+      "start": 251.38,
+      "end": 258.06,
+      "text": "packages and only leave when they're full. Online shopping isn't something to be demonized.",
+      "avg_log_prob": -0.0684,
+      "words": [
+        {
+          "word": " packages",
+          "start": 251.38,
+          "end": 251.8,
+          "probability": 0.9933
+        },
+        {
+          "word": " and",
+          "start": 251.8,
+          "end": 252.38,
+          "probability": 0.9719
+        },
+        {
+          "word": " only",
+          "start": 252.38,
+          "end": 252.72,
+          "probability": 0.9977
+        },
+        {
+          "word": " leave",
+          "start": 252.72,
+          "end": 253.18,
+          "probability": 0.9978
+        },
+        {
+          "word": " when",
+          "start": 253.18,
+          "end": 253.6,
+          "probability": 0.9958
+        },
+        {
+          "word": " they're",
+          "start": 253.6,
+          "end": 253.82,
+          "probability": 0.8784
+        },
+        {
+          "word": " full.",
+          "start": 253.82,
+          "end": 254.16,
+          "probability": 0.8241
+        },
+        {
+          "word": " Online",
+          "start": 255.12,
+          "end": 255.4,
+          "probability": 0.9442
+        },
+        {
+          "word": " shopping",
+          "start": 255.4,
+          "end": 255.86,
+          "probability": 0.9584
+        },
+        {
+          "word": " isn't",
+          "start": 255.86,
+          "end": 256.6,
+          "probability": 0.9979
+        },
+        {
+          "word": " something",
+          "start": 256.6,
+          "end": 257.0,
+          "probability": 0.9981
+        },
+        {
+          "word": " to",
+          "start": 257.0,
+          "end": 257.26,
+          "probability": 0.9995
+        },
+        {
+          "word": " be",
+          "start": 257.26,
+          "end": 257.4,
+          "probability": 0.9988
+        },
+        {
+          "word": " demonized.",
+          "start": 257.4,
+          "end": 258.06,
+          "probability": 0.9643
+        }
+      ]
+    },
+    {
+      "start": 258.42,
+      "end": 264.36,
+      "text": "It's an important resource for folks who may not be able to shop in person for a variety of reasons.",
+      "avg_log_prob": -0.0684,
+      "words": [
+        {
+          "word": " It's",
+          "start": 258.42,
+          "end": 258.56,
+          "probability": 0.9939
+        },
+        {
+          "word": " an",
+          "start": 258.56,
+          "end": 258.58,
+          "probability": 0.9841
+        },
+        {
+          "word": " important",
+          "start": 258.58,
+          "end": 258.96,
+          "probability": 0.9991
+        },
+        {
+          "word": " resource",
+          "start": 258.96,
+          "end": 259.34,
+          "probability": 0.9983
+        },
+        {
+          "word": " for",
+          "start": 259.34,
+          "end": 259.74,
+          "probability": 0.9982
+        },
+        {
+          "word": " folks",
+          "start": 259.74,
+          "end": 260.16,
+          "probability": 0.9984
+        },
+        {
+          "word": " who",
+          "start": 260.16,
+          "end": 260.62,
+          "probability": 0.986
+        },
+        {
+          "word": " may",
+          "start": 260.62,
+          "end": 260.92,
+          "probability": 0.9955
+        },
+        {
+          "word": " not",
+          "start": 260.92,
+          "end": 261.08,
+          "probability": 0.9993
+        },
+        {
+          "word": " be",
+          "start": 261.08,
+          "end": 261.24,
+          "probability": 0.9944
+        },
+        {
+          "word": " able",
+          "start": 261.24,
+          "end": 261.42,
+          "probability": 0.9995
+        },
+        {
+          "word": " to",
+          "start": 261.42,
+          "end": 261.54,
+          "probability": 0.9995
+        },
+        {
+          "word": " shop",
+          "start": 261.54,
+          "end": 261.78,
+          "probability": 0.997
+        },
+        {
+          "word": " in",
+          "start": 261.78,
+          "end": 262.08,
+          "probability": 0.9967
+        },
+        {
+          "word": " person",
+          "start": 262.08,
+          "end": 262.46,
+          "probability": 0.9458
+        },
+        {
+          "word": " for",
+          "start": 262.46,
+          "end": 262.98,
+          "probability": 0.9741
+        },
+        {
+          "word": " a",
+          "start": 262.98,
+          "end": 263.24,
+          "probability": 0.9987
+        },
+        {
+          "word": " variety",
+          "start": 263.24,
+          "end": 263.6,
+          "probability": 0.9988
+        },
+        {
+          "word": " of",
+          "start": 263.6,
+          "end": 263.96,
+          "probability": 0.9994
+        },
+        {
+          "word": " reasons.",
+          "start": 263.96,
+          "end": 264.36,
+          "probability": 0.9992
+        }
+      ]
+    },
+    {
+      "start": 264.82,
+      "end": 270.24,
+      "text": "However, it's important to think critically about our individual relationships with online shopping.",
+      "avg_log_prob": -0.0684,
+      "words": [
+        {
+          "word": " However,",
+          "start": 264.82,
+          "end": 265.06,
+          "probability": 0.9971
+        },
+        {
+          "word": " it's",
+          "start": 265.3,
+          "end": 265.44,
+          "probability": 0.995
+        },
+        {
+          "word": " important",
+          "start": 265.44,
+          "end": 265.86,
+          "probability": 0.9992
+        },
+        {
+          "word": " to",
+          "start": 265.86,
+          "end": 266.08,
+          "probability": 0.9992
+        },
+        {
+          "word": " think",
+          "start": 266.08,
+          "end": 266.26,
+          "probability": 0.9838
+        },
+        {
+          "word": " critically",
+          "start": 266.26,
+          "end": 266.78,
+          "probability": 0.9981
+        },
+        {
+          "word": " about",
+          "start": 266.78,
+          "end": 267.24,
+          "probability": 0.9992
+        },
+        {
+          "word": " our",
+          "start": 267.24,
+          "end": 267.52,
+          "probability": 0.9982
+        },
+        {
+          "word": " individual",
+          "start": 267.52,
+          "end": 268.14,
+          "probability": 0.998
+        },
+        {
+          "word": " relationships",
+          "start": 268.14,
+          "end": 268.88,
+          "probability": 0.9963
+        },
+        {
+          "word": " with",
+          "start": 268.88,
+          "end": 269.24,
+          "probability": 0.9972
+        },
+        {
+          "word": " online",
+          "start": 269.24,
+          "end": 269.68,
+          "probability": 0.9866
+        },
+        {
+          "word": " shopping.",
+          "start": 269.68,
+          "end": 270.24,
+          "probability": 0.9972
+        }
+      ]
+    },
+    {
+      "start": 270.78,
+      "end": 276.96,
+      "text": "I know I say this a lot, but think before you shop. That online shopping spree not only has",
+      "avg_log_prob": -0.0737,
+      "words": [
+        {
+          "word": " I",
+          "start": 270.78,
+          "end": 271.3,
+          "probability": 0.5525
+        },
+        {
+          "word": " know",
+          "start": 271.3,
+          "end": 271.4,
+          "probability": 0.9673
+        },
+        {
+          "word": " I",
+          "start": 271.4,
+          "end": 271.52,
+          "probability": 0.9571
+        },
+        {
+          "word": " say",
+          "start": 271.52,
+          "end": 271.68,
+          "probability": 0.9575
+        },
+        {
+          "word": " this",
+          "start": 271.68,
+          "end": 271.82,
+          "probability": 0.9884
+        },
+        {
+          "word": " a",
+          "start": 271.82,
+          "end": 271.94,
+          "probability": 0.9915
+        },
+        {
+          "word": " lot,",
+          "start": 271.94,
+          "end": 272.14,
+          "probability": 0.997
+        },
+        {
+          "word": " but",
+          "start": 272.52,
+          "end": 272.78,
+          "probability": 0.9831
+        },
+        {
+          "word": " think",
+          "start": 272.78,
+          "end": 273.26,
+          "probability": 0.9252
+        },
+        {
+          "word": " before",
+          "start": 273.26,
+          "end": 273.76,
+          "probability": 0.9537
+        },
+        {
+          "word": " you",
+          "start": 273.76,
+          "end": 274.02,
+          "probability": 0.9969
+        },
+        {
+          "word": " shop.",
+          "start": 274.02,
+          "end": 274.3,
+          "probability": 0.9488
+        },
+        {
+          "word": " That",
+          "start": 274.88,
+          "end": 275.02,
+          "probability": 0.9584
+        },
+        {
+          "word": " online",
+          "start": 275.02,
+          "end": 275.4,
+          "probability": 0.9918
+        },
+        {
+          "word": " shopping",
+          "start": 275.4,
+          "end": 275.76,
+          "probability": 0.9115
+        },
+        {
+          "word": " spree",
+          "start": 275.76,
+          "end": 276.22,
+          "probability": 0.9803
+        },
+        {
+          "word": " not",
+          "start": 276.22,
+          "end": 276.48,
+          "probability": 0.8958
+        },
+        {
+          "word": " only",
+          "start": 276.48,
+          "end": 276.74,
+          "probability": 0.999
+        },
+        {
+          "word": " has",
+          "start": 276.74,
+          "end": 276.96,
+          "probability": 0.996
+        }
+      ]
+    },
+    {
+      "start": 276.96,
+      "end": 283.02,
+      "text": "negative consequences for your wallet, but it also has lasting effects on the natural world we've",
+      "avg_log_prob": -0.0737,
+      "words": [
+        {
+          "word": " negative",
+          "start": 276.96,
+          "end": 277.36,
+          "probability": 0.9789
+        },
+        {
+          "word": " consequences",
+          "start": 277.36,
+          "end": 278.06,
+          "probability": 0.997
+        },
+        {
+          "word": " for",
+          "start": 278.06,
+          "end": 278.52,
+          "probability": 0.9887
+        },
+        {
+          "word": " your",
+          "start": 278.52,
+          "end": 278.68,
+          "probability": 0.9895
+        },
+        {
+          "word": " wallet,",
+          "start": 278.68,
+          "end": 279.06,
+          "probability": 0.9822
+        },
+        {
+          "word": " but",
+          "start": 279.56,
+          "end": 279.82,
+          "probability": 0.993
+        },
+        {
+          "word": " it",
+          "start": 279.82,
+          "end": 279.92,
+          "probability": 0.9673
+        },
+        {
+          "word": " also",
+          "start": 279.92,
+          "end": 280.18,
+          "probability": 0.9895
+        },
+        {
+          "word": " has",
+          "start": 280.18,
+          "end": 280.42,
+          "probability": 0.9983
+        },
+        {
+          "word": " lasting",
+          "start": 280.42,
+          "end": 280.88,
+          "probability": 0.9959
+        },
+        {
+          "word": " effects",
+          "start": 280.88,
+          "end": 281.4,
+          "probability": 0.9881
+        },
+        {
+          "word": " on",
+          "start": 281.4,
+          "end": 281.78,
+          "probability": 0.9383
+        },
+        {
+          "word": " the",
+          "start": 281.78,
+          "end": 281.9,
+          "probability": 0.983
+        },
+        {
+          "word": " natural",
+          "start": 281.9,
+          "end": 282.24,
+          "probability": 0.9899
+        },
+        {
+          "word": " world",
+          "start": 282.24,
+          "end": 282.7,
+          "probability": 0.9881
+        },
+        {
+          "word": " we've",
+          "start": 282.7,
+          "end": 283.02,
+          "probability": 0.9898
+        }
+      ]
+    },
+    {
+      "start": 283.02,
+      "end": 292.36,
+      "text": "come to rely on. Thanks so much for watching. If you've enjoyed the videos I've been putting out",
+      "avg_log_prob": -0.0737,
+      "words": [
+        {
+          "word": " come",
+          "start": 283.02,
+          "end": 283.18,
+          "probability": 0.9915
+        },
+        {
+          "word": " to",
+          "start": 283.18,
+          "end": 283.4,
+          "probability": 0.9958
+        },
+        {
+          "word": " rely",
+          "start": 283.4,
+          "end": 283.68,
+          "probability": 0.9955
+        },
+        {
+          "word": " on.",
+          "start": 283.68,
+          "end": 284.02,
+          "probability": 0.9949
+        },
+        {
+          "word": " Thanks",
+          "start": 288.8,
+          "end": 289.32,
+          "probability": 0.822
+        },
+        {
+          "word": " so",
+          "start": 289.32,
+          "end": 289.46,
+          "probability": 0.9783
+        },
+        {
+          "word": " much",
+          "start": 289.46,
+          "end": 289.64,
+          "probability": 0.9991
+        },
+        {
+          "word": " for",
+          "start": 289.64,
+          "end": 289.78,
+          "probability": 0.9966
+        },
+        {
+          "word": " watching.",
+          "start": 289.78,
+          "end": 290.14,
+          "probability": 0.9974
+        },
+        {
+          "word": " If",
+          "start": 290.56,
+          "end": 290.64,
+          "probability": 0.9844
+        },
+        {
+          "word": " you've",
+          "start": 290.64,
+          "end": 290.86,
+          "probability": 0.9807
+        },
+        {
+          "word": " enjoyed",
+          "start": 290.86,
+          "end": 291.12,
+          "probability": 0.9984
+        },
+        {
+          "word": " the",
+          "start": 291.12,
+          "end": 291.3,
+          "probability": 0.9943
+        },
+        {
+          "word": " videos",
+          "start": 291.3,
+          "end": 291.58,
+          "probability": 0.9857
+        },
+        {
+          "word": " I've",
+          "start": 291.58,
+          "end": 291.86,
+          "probability": 0.9769
+        },
+        {
+          "word": " been",
+          "start": 291.86,
+          "end": 291.96,
+          "probability": 0.9722
+        },
+        {
+          "word": " putting",
+          "start": 291.96,
+          "end": 292.12,
+          "probability": 0.9875
+        },
+        {
+          "word": " out",
+          "start": 292.12,
+          "end": 292.36,
+          "probability": 0.9986
+        }
+      ]
+    },
+    {
+      "start": 292.36,
+      "end": 297.34,
+      "text": "lately, consider clicking the subscribe button down below and hitting the little bell next to it.",
+      "avg_log_prob": -0.0737,
+      "words": [
+        {
+          "word": " lately,",
+          "start": 292.36,
+          "end": 292.78,
+          "probability": 0.9858
+        },
+        {
+          "word": " consider",
+          "start": 293.2,
+          "end": 293.44,
+          "probability": 0.9941
+        },
+        {
+          "word": " clicking",
+          "start": 293.44,
+          "end": 293.8,
+          "probability": 0.993
+        },
+        {
+          "word": " the",
+          "start": 293.8,
+          "end": 293.98,
+          "probability": 0.9818
+        },
+        {
+          "word": " subscribe",
+          "start": 293.98,
+          "end": 294.3,
+          "probability": 0.9296
+        },
+        {
+          "word": " button",
+          "start": 294.3,
+          "end": 294.66,
+          "probability": 0.9963
+        },
+        {
+          "word": " down",
+          "start": 294.66,
+          "end": 294.86,
+          "probability": 0.9834
+        },
+        {
+          "word": " below",
+          "start": 294.86,
+          "end": 295.18,
+          "probability": 0.9975
+        },
+        {
+          "word": " and",
+          "start": 295.18,
+          "end": 295.62,
+          "probability": 0.8488
+        },
+        {
+          "word": " hitting",
+          "start": 295.62,
+          "end": 295.9,
+          "probability": 0.9888
+        },
+        {
+          "word": " the",
+          "start": 295.9,
+          "end": 296.16,
+          "probability": 0.9934
+        },
+        {
+          "word": " little",
+          "start": 296.16,
+          "end": 296.32,
+          "probability": 0.9346
+        },
+        {
+          "word": " bell",
+          "start": 296.32,
+          "end": 296.54,
+          "probability": 0.9977
+        },
+        {
+          "word": " next",
+          "start": 296.54,
+          "end": 296.88,
+          "probability": 0.9931
+        },
+        {
+          "word": " to",
+          "start": 296.88,
+          "end": 297.14,
+          "probability": 0.9974
+        },
+        {
+          "word": " it.",
+          "start": 297.14,
+          "end": 297.34,
+          "probability": 0.9973
+        }
+      ]
+    },
+    {
+      "start": 297.34,
+      "end": 301.42,
+      "text": "Or if you're feeling generous, the number one thing you could do to help this channel out",
+      "avg_log_prob": -0.1652,
+      "words": [
+        {
+          "word": " Or",
+          "start": 297.34,
+          "end": 297.84,
+          "probability": 0.4402
+        },
+        {
+          "word": " if",
+          "start": 297.84,
+          "end": 298.14,
+          "probability": 0.5598
+        },
+        {
+          "word": " you're",
+          "start": 298.14,
+          "end": 298.28,
+          "probability": 0.9692
+        },
+        {
+          "word": " feeling",
+          "start": 298.28,
+          "end": 298.54,
+          "probability": 0.9945
+        },
+        {
+          "word": " generous,",
+          "start": 298.54,
+          "end": 298.94,
+          "probability": 0.991
+        },
+        {
+          "word": " the",
+          "start": 299.28,
+          "end": 299.38,
+          "probability": 0.9851
+        },
+        {
+          "word": " number",
+          "start": 299.38,
+          "end": 299.58,
+          "probability": 0.9267
+        },
+        {
+          "word": " one",
+          "start": 299.58,
+          "end": 299.76,
+          "probability": 0.922
+        },
+        {
+          "word": " thing",
+          "start": 299.76,
+          "end": 299.96,
+          "probability": 0.9941
+        },
+        {
+          "word": " you",
+          "start": 299.96,
+          "end": 300.12,
+          "probability": 0.9643
+        },
+        {
+          "word": " could",
+          "start": 300.12,
+          "end": 300.22,
+          "probability": 0.7205
+        },
+        {
+          "word": " do",
+          "start": 300.22,
+          "end": 300.38,
+          "probability": 0.9946
+        },
+        {
+          "word": " to",
+          "start": 300.38,
+          "end": 300.52,
+          "probability": 0.9943
+        },
+        {
+          "word": " help",
+          "start": 300.52,
+          "end": 300.68,
+          "probability": 0.9933
+        },
+        {
+          "word": " this",
+          "start": 300.68,
+          "end": 300.88,
+          "probability": 0.975
+        },
+        {
+          "word": " channel",
+          "start": 300.88,
+          "end": 301.18,
+          "probability": 0.996
+        },
+        {
+          "word": " out",
+          "start": 301.18,
+          "end": 301.42,
+          "probability": 0.9953
+        }
+      ]
+    },
+    {
+      "start": 301.42,
+      "end": 308.62,
+      "text": "is to support it on Patreon. Again, thanks so much for watching and I will see you in two weeks.",
+      "avg_log_prob": -0.1652,
+      "words": [
+        {
+          "word": " is",
+          "start": 301.42,
+          "end": 301.86,
+          "probability": 0.8731
+        },
+        {
+          "word": " to",
+          "start": 301.86,
+          "end": 302.14,
+          "probability": 0.9607
+        },
+        {
+          "word": " support",
+          "start": 302.14,
+          "end": 302.52,
+          "probability": 0.9974
+        },
+        {
+          "word": " it",
+          "start": 302.52,
+          "end": 302.7,
+          "probability": 0.9914
+        },
+        {
+          "word": " on",
+          "start": 302.7,
+          "end": 303.0,
+          "probability": 0.9938
+        },
+        {
+          "word": " Patreon.",
+          "start": 303.0,
+          "end": 303.48,
+          "probability": 0.9255
+        },
+        {
+          "word": " Again,",
+          "start": 304.02,
+          "end": 304.48,
+          "probability": 0.9353
+        },
+        {
+          "word": " thanks",
+          "start": 304.86,
+          "end": 305.18,
+          "probability": 0.5777
+        },
+        {
+          "word": " so",
+          "start": 305.18,
+          "end": 305.38,
+          "probability": 0.9965
+        },
+        {
+          "word": " much",
+          "start": 305.38,
+          "end": 305.64,
+          "probability": 0.999
+        },
+        {
+          "word": " for",
+          "start": 305.64,
+          "end": 305.78,
+          "probability": 0.999
+        },
+        {
+          "word": " watching",
+          "start": 305.78,
+          "end": 306.12,
+          "probability": 0.998
+        },
+        {
+          "word": " and",
+          "start": 306.12,
+          "end": 306.54,
+          "probability": 0.5197
+        },
+        {
+          "word": " I",
+          "start": 306.54,
+          "end": 306.82,
+          "probability": 0.9877
+        },
+        {
+          "word": " will",
+          "start": 306.82,
+          "end": 306.96,
+          "probability": 0.9273
+        },
+        {
+          "word": " see",
+          "start": 306.96,
+          "end": 307.3,
+          "probability": 0.9982
+        },
+        {
+          "word": " you",
+          "start": 307.3,
+          "end": 307.58,
+          "probability": 0.9985
+        },
+        {
+          "word": " in",
+          "start": 307.58,
+          "end": 307.82,
+          "probability": 0.9915
+        },
+        {
+          "word": " two",
+          "start": 307.82,
+          "end": 308.2,
+          "probability": 0.8813
+        },
+        {
+          "word": " weeks.",
+          "start": 308.2,
+          "end": 308.62,
+          "probability": 0.9986
+        }
+      ]
+    }
+  ],
+  "full_text": "The other day, my family mailed me a bike helmet from Amazza. We used two-day shipping, and when the package arrived, it was essentially a cardboard box nesting doll. I had to cut my way through three different boxes in order to get to the helmet, which is especially ridiculous when you consider that a helmet is specifically designed to withstand and damp. With the holiday season fast approaching, which in the US means a rush of last-minute Amazon prime orders just like mine, I feel it's important to look at the exact effect this new world of online shopping and instant shipping has on climate change. The carbon footprint of online shopping greatly depends on the actions of consumers. As a 2013 MIT study shows, shoppers can be divided into a number of different categories that span from a traditional retail shopper to what the study calls a cybernotch shopper, who exclusively shops online. The study shows that online shopping with slower shipping options has a smaller footprint than driving to a retail store to search, purchase, and return a product. The highest impact shopper is actually a mix of both, one that goes to the store to compare prices and then buys online with expedited shipping. The majority of the reason why traditional shoppers have such a large footprint is that they're using a car to reach these brick-and-mortar shops. So if they take public transportation, bike, or even walk, they're footprint plumbers. As for people who shop online, when they choose shipping options like two-day mailing, they are more than doubling their transportation-related emissions, especially within the last couple of years as companies like Amazon have started to send vans out to deliver packages that are only half full in order to fulfill customer expectations. This ultimately means more emissions because trucks and vans have to make multiple trips between hubs and homes, as opposed to slower shipping options, which fill up trucks with cargo and make a single trip to fill orders. Packaging also has a significant role to play when it comes to environmental impact. Often, when you select the two-day shipping option, the products that you want aren't bundled together in the same box because they are usually coming from two different facilities across the country. As a result, you receive a new cardboard box for every product you purchase. And the carbon emissions of products are on average 35% more when shipped separately than when shipped together. In addition, many products are packaged inefficiently. A study conducted by a peerless research group found that on average boxes contain 20% of wasted space, which shipping facilities then fill with paper, styrofoam, or bubble wrap, ultimately creating more waste, which finds its way into waterways or landfills. But there are many options on both the retail and consumer side that could help lower emissions. For companies, cutting down emissions means nudging shoppers towards slower shipping options or making in-store purchases when appropriate. It can also mean bundling items together in one package, or even reducing the amount of packaging for a product by right sizing its box. But as individuals, we also have choices to make. For one, if it's possible, find a way to get to your local retail store without using a car. You'll not only drastically lower your footprint, but shopping local also gives you the opportunity to connect with other people face to face, which helps build community resilience in the long run. If you don't have that luxury, consider using slower shipping options, which allows the online retailer to optimize shipping routes because they don't have to rush to get the item onto your doorstep. This essentially means fewer miles traveled for trucks and planes because they can fill up with packages and only leave when they're full. Online shopping isn't something to be demonized. It's an important resource for folks who may not be able to shop in person for a variety of reasons. However, it's important to think critically about our individual relationships with online shopping. I know I say this a lot, but think before you shop. That online shopping spree not only has negative consequences for your wallet, but it also has lasting effects on the natural world we've come to rely on. Thanks so much for watching. If you've enjoyed the videos I've been putting out lately, consider clicking the subscribe button down below and hitting the little bell next to it. Or if you're feeling generous, the number one thing you could do to help this channel out is to support it on Patreon. Again, thanks so much for watching and I will see you in two weeks."
+}

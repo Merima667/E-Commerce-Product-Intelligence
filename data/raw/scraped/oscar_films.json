@@ -1,0 +1,391 @@
+[
+    {
+        "title": "The King's Speech",
+        "year": 2010,
+        "awards": 4,
+        "nominations": 12,
+        "best_picture": true,
+        "year_scraped": 2010
+    },
+    {
+        "title": "Inception",
+        "year": 2010,
+        "awards": 4,
+        "nominations": 8,
+        "year_scraped": 2010
+    },
+    {
+        "title": "The Social Network",
+        "year": 2010,
+        "awards": 3,
+        "nominations": 8,
+        "year_scraped": 2010
+    },
+    {
+        "title": "The Fighter",
+        "year": 2010,
+        "awards": 2,
+        "nominations": 7,
+        "year_scraped": 2010
+    },
+    {
+        "title": "Toy Story 3",
+        "year": 2010,
+        "awards": 2,
+        "nominations": 5,
+        "year_scraped": 2010
+    },
+    {
+        "title": "Alice in Wonderland",
+        "year": 2010,
+        "awards": 2,
+        "nominations": 3,
+        "year_scraped": 2010
+    },
+    {
+        "title": "Black Swan",
+        "year": 2010,
+        "awards": 1,
+        "nominations": 5,
+        "year_scraped": 2010
+    },
+    {
+        "title": "In a Better World",
+        "year": 2010,
+        "awards": 1,
+        "nominations": 1,
+        "year_scraped": 2010
+    },
+    {
+        "title": "The Lost Thing",
+        "year": 2010,
+        "awards": 1,
+        "nominations": 1,
+        "year_scraped": 2010
+    },
+    {
+        "title": "God of Love",
+        "year": 2010,
+        "awards": 1,
+        "nominations": 1,
+        "year_scraped": 2010
+    },
+    {
+        "title": "The Wolfman",
+        "year": 2010,
+        "awards": 1,
+        "nominations": 1,
+        "year_scraped": 2010
+    },
+    {
+        "title": "Strangers No More",
+        "year": 2010,
+        "awards": 1,
+        "nominations": 1,
+        "year_scraped": 2010
+    },
+    {
+        "title": "Inside Job",
+        "year": 2010,
+        "awards": 1,
+        "nominations": 1,
+        "year_scraped": 2010
+    },
+    {
+        "title": "The Artist",
+        "year": 2011,
+        "awards": 5,
+        "nominations": 10,
+        "best_picture": true,
+        "year_scraped": 2011
+    },
+    {
+        "title": "Hugo",
+        "year": 2011,
+        "awards": 5,
+        "nominations": 11,
+        "year_scraped": 2011
+    },
+    {
+        "title": "The Iron Lady",
+        "year": 2011,
+        "awards": 2,
+        "nominations": 2,
+        "year_scraped": 2011
+    },
+    {
+        "title": "The Descendants",
+        "year": 2011,
+        "awards": 1,
+        "nominations": 5,
+        "year_scraped": 2011
+    },
+    {
+        "title": "The Girl with the Dragon Tattoo",
+        "year": 2011,
+        "awards": 1,
+        "nominations": 5,
+        "year_scraped": 2011
+    },
+    {
+        "title": "Midnight in Paris",
+        "year": 2011,
+        "awards": 1,
+        "nominations": 4,
+        "year_scraped": 2011
+    },
+    {
+        "title": "The Help",
+        "year": 2011,
+        "awards": 1,
+        "nominations": 4,
+        "year_scraped": 2011
+    },
+    {
+        "title": "A Separation",
+        "year": 2011,
+        "awards": 1,
+        "nominations": 2,
+        "year_scraped": 2011
+    },
+    {
+        "title": "The Fantastic Flying Books of Mr. Morris Lessmore",
+        "year": 2011,
+        "awards": 1,
+        "nominations": 1,
+        "year_scraped": 2011
+    },
+    {
+        "title": "The Shore",
+        "year": 2011,
+        "awards": 1,
+        "nominations": 1,
+        "year_scraped": 2011
+    },
+    {
+        "title": "Undefeated",
+        "year": 2011,
+        "awards": 1,
+        "nominations": 1,
+        "year_scraped": 2011
+    },
+    {
+        "title": "The Muppets",
+        "year": 2011,
+        "awards": 1,
+        "nominations": 1,
+        "year_scraped": 2011
+    },
+    {
+        "title": "Saving Face",
+        "year": 2011,
+        "awards": 1,
+        "nominations": 1,
+        "year_scraped": 2011
+    },
+    {
+        "title": "Beginners",
+        "year": 2011,
+        "awards": 1,
+        "nominations": 1,
+        "year_scraped": 2011
+    },
+    {
+        "title": "Rango",
+        "year": 2011,
+        "awards": 1,
+        "nominations": 1,
+        "year_scraped": 2011
+    },
+    {
+        "title": "Argo",
+        "year": 2012,
+        "awards": 3,
+        "nominations": 7,
+        "best_picture": true,
+        "year_scraped": 2012
+    },
+    {
+        "title": "Life of Pi",
+        "year": 2012,
+        "awards": 4,
+        "nominations": 11,
+        "year_scraped": 2012
+    },
+    {
+        "title": "Les Misérables",
+        "year": 2012,
+        "awards": 3,
+        "nominations": 8,
+        "year_scraped": 2012
+    },
+    {
+        "title": "Lincoln",
+        "year": 2012,
+        "awards": 2,
+        "nominations": 12,
+        "year_scraped": 2012
+    },
+    {
+        "title": "Django Unchained",
+        "year": 2012,
+        "awards": 2,
+        "nominations": 5,
+        "year_scraped": 2012
+    },
+    {
+        "title": "Skyfall",
+        "year": 2012,
+        "awards": 2,
+        "nominations": 5,
+        "year_scraped": 2012
+    },
+    {
+        "title": "Silver Linings Playbook",
+        "year": 2012,
+        "awards": 1,
+        "nominations": 8,
+        "year_scraped": 2012
+    },
+    {
+        "title": "Zero Dark Thirty",
+        "year": 2012,
+        "awards": 1,
+        "nominations": 5,
+        "year_scraped": 2012
+    },
+    {
+        "title": "Amour",
+        "year": 2012,
+        "awards": 1,
+        "nominations": 5,
+        "year_scraped": 2012
+    },
+    {
+        "title": "Anna Karenina",
+        "year": 2012,
+        "awards": 1,
+        "nominations": 4,
+        "year_scraped": 2012
+    },
+    {
+        "title": "Paperman",
+        "year": 2012,
+        "awards": 1,
+        "nominations": 1,
+        "year_scraped": 2012
+    },
+    {
+        "title": "Brave",
+        "year": 2012,
+        "awards": 1,
+        "nominations": 1,
+        "year_scraped": 2012
+    },
+    {
+        "title": "Searching for Sugar Man",
+        "year": 2012,
+        "awards": 1,
+        "nominations": 1,
+        "year_scraped": 2012
+    },
+    {
+        "title": "Inocente",
+        "year": 2012,
+        "awards": 1,
+        "nominations": 1,
+        "year_scraped": 2012
+    },
+    {
+        "title": "Curfew",
+        "year": 2012,
+        "awards": 1,
+        "nominations": 1,
+        "year_scraped": 2012
+    },
+    {
+        "title": "12 Years a Slave",
+        "year": 2013,
+        "awards": 3,
+        "nominations": 9,
+        "best_picture": true,
+        "year_scraped": 2013
+    },
+    {
+        "title": "Gravity",
+        "year": 2013,
+        "awards": 7,
+        "nominations": 10,
+        "year_scraped": 2013
+    },
+    {
+        "title": "Dallas Buyers Club",
+        "year": 2013,
+        "awards": 3,
+        "nominations": 6,
+        "year_scraped": 2013
+    },
+    {
+        "title": "Frozen",
+        "year": 2013,
+        "awards": 2,
+        "nominations": 2,
+        "year_scraped": 2013
+    },
+    {
+        "title": "The Great Gatsby",
+        "year": 2013,
+        "awards": 2,
+        "nominations": 2,
+        "year_scraped": 2013
+    },
+    {
+        "title": "Her",
+        "year": 2013,
+        "awards": 1,
+        "nominations": 5,
+        "year_scraped": 2013
+    },
+    {
+        "title": "Blue Jasmine",
+        "year": 2013,
+        "awards": 1,
+        "nominations": 3,
+        "year_scraped": 2013
+    },
+    {
+        "title": "Mr Hublot",
+        "year": 2013,
+        "awards": 1,
+        "nominations": 1,
+        "year_scraped": 2013
+    },
+    {
+        "title": "The Lady in Number 6: Music Saved My Life",
+        "year": 2013,
+        "awards": 1,
+        "nominations": 1,
+        "year_scraped": 2013
+    },
+    {
+        "title": "Helium",
+        "year": 2013,
+        "awards": 1,
+        "nominations": 1,
+        "year_scraped": 2013
+    },
+    {
+        "title": "The Great Beauty",
+        "year": 2013,
+        "awards": 1,
+        "nominations": 1,
+        "year_scraped": 2013
+    },
+    {
+        "title": "20 Feet from Stardom",
+        "year": 2013,
+        "awards": 1,
+        "nominations": 1,
+        "year_scraped": 2013
+    }
+]

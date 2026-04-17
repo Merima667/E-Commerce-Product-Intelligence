@@ -1,0 +1,532 @@
+1
+00:00:00,000 --> 00:00:09,660
+This video was made possible by Hover, professionalize your web presence with a custom domain and email address for 10% off at hover.com-slash-wendover.
+
+2
+00:00:10,359 --> 00:00:16,000
+About 13 million times per day, someone clicks the order button on Amazon.com.
+
+3
+00:00:16,300 --> 00:00:22,379
+Some days later, all, or at least almost all, of those 13 million orders arrive at their destination.
+
+4
+00:00:22,960 --> 00:00:28,379
+But what happens in between? How does Amazon get a package to you?
+
+5
+00:00:28,379 --> 00:00:31,239
+Well, it depends. A lot.
+
+6
+00:00:31,839 --> 00:00:40,079
+In fact, Amazon's fulfillment system, their shipping system, is more complicated and convoluted than that of almost any logistics company.
+
+7
+00:00:40,460 --> 00:00:46,799
+It's far more complicated than that of UPS or FedEx or DHL or any other major delivery company.
+
+8
+00:00:47,219 --> 00:00:56,579
+In a counterintuitive way, this complicated and convoluted fulfillment system is a crucial component of this secret sauce that's driving Amazon's success.
+
+9
+00:00:56,579 --> 00:01:01,939
+They're striving to make the consumer experience simple through behind-the-scenes complexity.
+
+10
+00:01:02,399 --> 00:01:07,500
+So, back to the question, how does the Amazon package get to you? And the answer? It depends.
+
+11
+00:01:08,239 --> 00:01:12,299
+It depends first on who's fulfilling the package, Amazon or the seller.
+
+12
+00:01:12,760 --> 00:01:19,480
+About one-fourth of sales in the US are fulfilled directly by the seller, as most products on Amazon are listed there by a third party,
+
+13
+00:01:19,739 --> 00:01:25,599
+which can send packages directly through UPS, FedEx, the Postal Service, or another consumer delivery company if they choose.
+
+14
+00:01:25,599 --> 00:01:33,280
+Amazon has nothing to do with the fulfillment of those orders, and the process looks largely the same as with any other e-commerce company.
+
+15
+00:01:33,760 --> 00:01:41,420
+What's different is how the other three quarters of Amazon packages in the US get to you, the ones that are fulfilled directly by Amazon.
+
+16
+00:01:41,920 --> 00:01:46,099
+The path that these take depends first on how big the package is.
+
+17
+00:01:46,640 --> 00:01:54,959
+You see, Amazon's fulfillment centers are more or less split into three categories, small-sortable, large-sortable, and large-non-sortable.
+
+18
+00:01:54,959 --> 00:02:00,420
+That first category, small-sortable, represents the bread and butter of Amazon's business.
+
+19
+00:02:00,920 --> 00:02:10,060
+These are items that are less than 12 by 16 by 6 inches, or 30 by 40 by 15 centimeters in size, and about 25 pounds or 11 kilograms in weight.
+
+20
+00:02:10,659 --> 00:02:17,400
+The next category, large-sortable, is basically anything larger than this, up to a weight of about 60 pounds or 27 kilograms.
+
+21
+00:02:17,400 --> 00:02:25,479
+Now, the reasons for the split between large and small is because the fulfillment operations of smaller items is much easier to automate.
+
+22
+00:02:25,960 --> 00:02:31,419
+They can fit on conveyor belts and automated robots and other tools that lower the company's reliance on humans.
+
+23
+00:02:32,039 --> 00:02:41,699
+For example, Amazon uses a robot called the Kiva, which fundamentally changed the way the job of the company's pickers, the people who find and grab an item out of storage, worked.
+
+24
+00:02:42,300 --> 00:02:49,020
+Previously, pickers would walk some 10 to 12 miles or 16 to 19 kilometers a day through cavernous rows of shelves.
+
+25
+00:02:49,580 --> 00:03:00,020
+Now, at least in their most advanced fulfillment centers, a robot picks up an entire mobile shelf on which a required product is located and transports it to the picker, who picks it.
+
+26
+00:03:00,419 --> 00:03:05,000
+Essentially, rather than the picker going to the shelf, the shelf goes to the picker.
+
+27
+00:03:05,000 --> 00:03:13,159
+With these robots, one person can pick 3 to 400 items an hour, rather than the 100 or so that was possible on foot.
+
+28
+00:03:13,719 --> 00:03:22,659
+Of course, fewer humans in the mix is good for Amazon, given the amount of criticism it receives for its treatment of workers, and because humans, even low-paid ones, are expensive.
+
+29
+00:03:23,659 --> 00:03:35,340
+The fulfillment process for larger items, though, is just tougher to automate cheaply, so the company chooses to segment the two processes out and runs a far more manual and distinct fulfillment system for larger items.
+
+30
+00:03:35,860 --> 00:03:44,759
+However, in most, but not all cases, the fulfillment centers for large and small items are under the same roof, even if they're operated completely independently.
+
+31
+00:03:44,759 --> 00:03:53,199
+Of course, the ideal scenario for Amazon would be to have every single item they sell in every single warehouse, but that's not realistic.
+
+32
+00:03:53,800 --> 00:03:59,680
+Therefore, they use predictive modeling to try to put items closest to those who are likely to buy them.
+
+33
+00:04:00,120 --> 00:04:05,599
+The US is far from homogeneous, so demand for different products varies from place to place.
+
+34
+00:04:05,599 --> 00:04:11,479
+For example, in Miami, people probably aren't looking to buy many ice scrapers for their cars.
+
+35
+00:04:11,979 --> 00:04:16,939
+Meanwhile, in Fargo, North Dakota, demand for this item is almost certainly quite high.
+
+36
+00:04:17,439 --> 00:04:24,420
+It's therefore no wonder why that, if you look at the data, the colder the city, the faster you can get an ice scraper on Amazon.
+
+37
+00:04:25,060 --> 00:04:27,920
+That is Amazon's predictive stalking at work.
+
+38
+00:04:28,480 --> 00:04:34,279
+While most examples of the system are far more nuanced and far less intuitive, the concept is simple.
+
+39
+00:04:34,279 --> 00:04:41,980
+Their algorithms put products closest to the consumers most likely to buy them, something only possible at this scale thanks to modern big data analytics.
+
+40
+00:04:42,600 --> 00:04:48,079
+Of course, there's then that third category of products, large, non-sortable.
+
+41
+00:04:48,500 --> 00:04:54,120
+The distinction here is because Amazon likes to aggregate products together into as few packages as possible.
+
+42
+00:04:54,519 --> 00:04:57,439
+Unsurprisingly, fewer packages equals lower costs.
+
+43
+00:04:57,439 --> 00:05:04,120
+So, both these sortable categories include anything that could possibly be packaged together in a single box.
+
+44
+00:05:04,639 --> 00:05:11,279
+The larger items, say a 70-pound bean bag, for example, are shipped from the large non-sortable fulfillment centers.
+
+45
+00:05:11,920 --> 00:05:19,660
+These facilities are even less automated than the large sortable ones and even include workers who create custom boxes for odd-size items.
+
+46
+00:05:19,660 --> 00:05:27,579
+In Colorado, for example, this is a completely separate facility, located in Aurora, from the sortable fulfillment center in Thornton.
+
+47
+00:05:28,040 --> 00:05:40,060
+Now, some large items will go directly into the system of a third-party provider, typically XBO logistics, which would deliver these bulky items to their final destination, while others will continue on in Amazon system.
+
+48
+00:05:40,060 --> 00:05:50,899
+The portion of large non-sortable items not sent to a third-party logistics provider plus all the large and small sortable packages would next be sent to a regional sortation center.
+
+49
+00:05:51,180 --> 00:05:59,759
+In Colorado, those two fulfillment centers send their packages to a single sortation center, located just minutes away from the Aurora fulfillment center.
+
+50
+00:05:59,759 --> 00:06:10,980
+This is a massive facility, almost half a million square feet in size, with robots running around, dropping packages into different shoots, which each represent a different grouping of zip codes.
+
+51
+00:06:11,639 --> 00:06:17,139
+Now, not all these sortation centers are quite so automated, but each outputs the same thing.
+
+52
+00:06:17,699 --> 00:06:20,740
+Palettes of packages going to roughly the same place.
+
+53
+00:06:21,379 --> 00:06:24,180
+What happens next, though, once again, depends.
+
+54
+00:06:24,839 --> 00:06:38,980
+A package heading to Miami, for example, would end up on a palette with other packages for Miami, which itself would end up on a truck carrying palettes for Tampa, North Carolina, Houston, Baltimore, New York City, Connecticut, and a few other cities and states to the east.
+
+55
+00:06:39,399 --> 00:06:47,660
+This truck would then drive the 15 minutes to a waiting 767 cargo plane at Denver International Airport, branded in Prime Air Levering.
+
+56
+00:06:47,660 --> 00:06:58,740
+Now, Amazon Air started in 2015 with its lease of about 20 aircraft from Air Transport International and has since grown to almost 70 aircraft, all leased from other airlines.
+
+57
+00:06:59,360 --> 00:07:10,079
+However, the company recently announced the purchase of their first 11 aircraft, also 767, bought from Delta and WestJet, meaning they'll soon both own and operate their own aircraft.
+
+58
+00:07:10,079 --> 00:07:17,360
+Those eastbound palettes would all be loaded around 4am before the aircraft's scheduled departure time of 4.54am.
+
+59
+00:07:17,980 --> 00:07:24,199
+Now, anyone familiar with UPS or FedEx's operations will know why this departure time is strange.
+
+60
+00:07:24,879 --> 00:07:37,899
+If UPS was transporting this package to Miami, at least at its fastest speed, it would have departed on an aircraft the previous night at 9.40pm, been flown to Louisville, sorted through the company's hub, then flown to Miami, arriving at 5.50am.
+
+61
+00:07:37,899 --> 00:07:41,339
+FedEx would have done roughly the same just through Memphis instead.
+
+62
+00:07:41,839 --> 00:07:47,360
+That's because FedEx, UPS, and most other major delivery companies are oriented towards overnight delivery.
+
+63
+00:07:47,699 --> 00:07:54,839
+They make a big chunk of their money, charging big rates to take a package from one part of the U.S. one day and deliver it to another the next day.
+
+64
+00:07:55,259 --> 00:08:03,660
+Amazon, meanwhile, built their prime brand off the promise of two-day delivery, ordering a package on a Monday and getting it on a Wednesday, for example.
+
+65
+00:08:03,660 --> 00:08:16,740
+While they've sent straight from the rigidness of that system, the fastest shipping they'll offer for an item not stocked at a local fulfillment center is two days, meaning they don't have to worry about being able to get a package from Denver to Miami overnight.
+
+66
+00:08:17,279 --> 00:08:22,220
+That's why UPS and FedEx's planes take off in the evening, while Amazon's leave in the morning.
+
+67
+00:08:22,779 --> 00:08:29,680
+So, that means it's about 9am by the time that Amazon airplane from Denver gets to Cincinnati Airport each day.
+
+68
+00:08:29,680 --> 00:08:37,200
+Through the morning hours, a dozen or so aircraft land in Cincinnati, and this timing gives the company a major advantage.
+
+69
+00:08:37,899 --> 00:08:52,639
+Cincinnati Airport is also home to DHL's main America's hub, but DHL, like FedEx and UPS, conducts its operations primarily overnight starting at around midnight, when dozens of their aircraft from around the world land and unload.
+
+70
+00:08:52,639 --> 00:09:00,059
+Over the next few hours, packages and pallets are sorted and unloaded onto other aircraft, which all tend to take off by 8am.
+
+71
+00:09:00,559 --> 00:09:07,840
+That means DHL only really uses their facility during the overnight hours, so Amazon leases it for daytime use.
+
+72
+00:09:08,220 --> 00:09:15,179
+While Amazon is building their own larger facility at Cincinnati Airport, this partnership gave them a huge head start.
+
+73
+00:09:15,179 --> 00:09:25,639
+So, each day, between 8am and 4pm, Amazon's there, turning their planes around, and sorting pallets from where they come from, like Denver, to where they need to go, like Miami.
+
+74
+00:09:26,159 --> 00:09:33,080
+That Miami flight takes off each weekday at 2pm, and then it lands in Florida just before 5pm Eastern time.
+
+75
+00:09:34,000 --> 00:09:37,919
+Now, not every Amazon air itinerary looks like this.
+
+76
+00:09:37,919 --> 00:09:51,259
+In fact, while UPS and FedEx route almost all of their flights through their Louisville and Memphis super hubs, or through some of their secondary hubs across the country, only 20% of Amazon air's flights go through their main Cincinnati hub.
+
+77
+00:09:51,679 --> 00:09:57,700
+That's because, with their orientation towards two-day delivery versus one, they just have more time.
+
+78
+00:09:58,440 --> 00:10:07,340
+The more time means that, in order to service the entirety of Florida, Amazon only needs to fly to three destinations, Miami, Tampa, and Lakeland.
+
+79
+00:10:07,340 --> 00:10:17,340
+That's because Amazon's flights to these airports typically land by 5pm, meaning there's a whole 12 hours before packages have to be at the local delivery center for the final destination.
+
+80
+00:10:18,460 --> 00:10:28,659
+The entirety of Florida is within an 8-hour drive of Lakeland, meaning Amazon can deliver to all of Florida by only serving effectively one, but in practice three, airports.
+
+81
+00:10:29,259 --> 00:10:40,840
+Meanwhile, FedEx, for example, flies from Memphis to Fort Lauderdale, Fort Myers, Jacksonville, Tallahassee, Tampa, and Palm Beach, then from Fort Lauderdale, it operates feeder flights on smaller aircraft to Key West and Marathon.
+
+82
+00:10:41,539 --> 00:10:49,220
+So, in summary, in order to serve all of Florida, this is what FedEx has to do, and this is what Amazon has to do.
+
+83
+00:10:49,220 --> 00:11:00,720
+The required number of destinations for full coverage is greatly reduced by orienting for two-day delivery, and this also means that Amazon doesn't have to route every flight via one main hub.
+
+84
+00:11:01,279 --> 00:11:10,639
+Because they operate too far fewer destinations, it's much easier for Amazon to fill a plane from California, for example, exclusively with packages destined for Florida,
+
+85
+00:11:10,639 --> 00:11:21,279
+since Wally giving UPS or FedEx flight carries packages from or to just one city, a given Amazon air flight likely carries packages from or to a whole state or region.
+
+86
+00:11:21,820 --> 00:11:34,419
+Therefore, Amazon air has flights from all these airports to Lakeland, meaning that Wally package from Denver would have to route via Cincinnati, one from Los Angeles, or Dallas, or Chicago, could fly direct.
+
+87
+00:11:34,419 --> 00:11:52,019
+With a full hub and spoke strategy, like that of UPS or FedEx, a package would have to be loaded and unloaded from aircraft twice, and sometimes more, while Amazon airs non-stop flights only require loading and unloading once, which reduces cost, and can fly packages direct, which also reduces cost.
+
+88
+00:11:52,580 --> 00:11:57,940
+This is how Amazon can transport packages by air more efficiently than UPS or FedEx.
+
+89
+00:11:57,940 --> 00:12:05,659
+The airplane, however, is just one of five routes that an Amazon package could take onwards from the Denver Sortation Center.
+
+90
+00:12:06,179 --> 00:12:12,539
+For those that are to be delivered locally in the Denver area, they'll be driven to one of four delivery stations for Denver.
+
+91
+00:12:13,059 --> 00:12:21,580
+There, they'll be loaded into smaller delivery vans, operated by independent companies or individuals contracted by Amazon, which will take the packages to their final destinations.
+
+92
+00:12:21,580 --> 00:12:33,379
+This is the one and only case in which an Amazon package is handled by Amazon logistics from start to finish, and it's generally how their packages are delivered within major urban and suburban areas.
+
+93
+00:12:34,000 --> 00:12:42,940
+Only a slim majority of their overall package volume is delivered this way, though, as when you leave major urban areas, things get a bit more complicated.
+
+94
+00:12:43,940 --> 00:12:55,240
+Now, a package heading outside the Denver area with a later delivery date or with a destination within the Greater Rockies region would end up on an Amazon branded, but independently operated, semi-truck.
+
+95
+00:12:55,700 --> 00:13:02,879
+For example, packages to the Aspen area, about a three to four hour drive into the mountains, leave at around 1 a.m. each night.
+
+96
+00:13:03,399 --> 00:13:12,019
+Early in the morning, however, at around 5 a.m., they arrive at the local post office, and from there, they're fully transferred into the United States Postal Service System,
+
+97
+00:13:12,019 --> 00:13:21,500
+for final delivery. You see, in less populous areas, like the mountains of Colorado, it just doesn't make sense for Amazon to operate their own last mile delivering.
+
+98
+00:13:21,919 --> 00:13:30,000
+They need a certain amount of scale for that to be cheaper than the alternative, and at least right now, that scale is only possible in major metro areas.
+
+99
+00:13:30,620 --> 00:13:38,360
+Therefore, they need alternatives for smaller cities, towns, and rural areas, and that alternative is more often than not the USPS.
+
+100
+00:13:38,360 --> 00:13:46,860
+That's because the Postal Service charges very low rates for last mile delivery, assuming Amazon transports the packages to the local post offices themselves.
+
+101
+00:13:47,600 --> 00:13:59,320
+While exact numbers aren't publicly known, estimates indicate the USPS charges Amazon about $2 per package for last mile delivery, about half of what other delivery companies would for the same service.
+
+102
+00:13:59,320 --> 00:14:07,879
+After all, the USPS services every address in America, so wherever Amazon needs to deliver, the USPS is going there anyways.
+
+103
+00:14:08,539 --> 00:14:18,039
+That's why, for smaller places that still have a decent volume of packages, like mid-sized towns and cities, USPS delivery is often the cheapest option for Amazon.
+
+104
+00:14:19,039 --> 00:14:24,620
+But then, there's that next step down, the most rural places in America.
+
+105
+00:14:25,240 --> 00:14:37,980
+Everything that can't be cheaply delivered by Amazon or the USPS, typically because they're destined for low-density areas where you couldn't even fill a truck to send to the local post office, or because of capacity or speed reasons, is sent through UPS.
+
+106
+00:14:38,820 --> 00:14:44,039
+Right now, it's believed that about 20% of Amazon's packages end up delivered by UPS.
+
+107
+00:14:44,039 --> 00:14:52,279
+In Colorado, a package destined for the most rural areas, like the western edge of San Miguel County, for example, would take this route.
+
+108
+00:14:52,799 --> 00:15:01,840
+It would cost Amazon far more, and they'd likely end up losing money on the cheapest items, but it's what's required for them to be able to service every address in the US quickly.
+
+109
+00:15:02,679 --> 00:15:07,860
+No matter which of these routes a package takes, the end result is, at least hopefully, the same.
+
+110
+00:15:07,860 --> 00:15:15,700
+UPS, the USPS, or Amazon itself drops off a package at its final destinations after a few days of travel across the US.
+
+111
+00:15:16,360 --> 00:15:22,740
+It's a very simple process from a consumer perspective, but the behind the scenes is incredibly complex.
+
+112
+00:15:23,240 --> 00:15:31,320
+The complexity is what's needed, though, for a business whose whole value proposition is to get anything to your door quickly and cheaply.
+
+113
+00:15:31,320 --> 00:15:43,240
+The core of Amazon, their competitive advantage, is now logistics, to the point where many experts believe that the company will start offering delivery as a service to other companies in the coming years.
+
+114
+00:15:43,679 --> 00:15:48,639
+They believe that they perfected their system enough that they're going to take on UPS and FedEx.
+
+115
+00:15:49,360 --> 00:15:54,820
+Of course, Amazon still has competitors which are going after the company as aggressively as ever.
+
+116
+00:15:54,820 --> 00:16:03,379
+Target, for example, has been able to build a delivery system with similar speed through completely different means, ones that are far simpler.
+
+117
+00:16:03,799 --> 00:16:09,360
+They've essentially turned each of their 1900 stores across every US state into a fulfillment center.
+
+118
+00:16:09,679 --> 00:16:14,940
+They send employees out into the aisles who pick, pack, and ship online orders.
+
+119
+00:16:14,940 --> 00:16:25,360
+That means that their packages never have to travel very far at all, and so they can take advantage of cheap and quick ground shipping from UPS, FedEx, and other more traditional providers.
+
+120
+00:16:25,899 --> 00:16:34,820
+Some 80% of the company's orders are fulfilled directly from its stores, and now Walmart is also adapting this direct from store fulfillment system as well.
+
+121
+00:16:34,820 --> 00:16:50,299
+So far though, Amazon believes in their system of simplicity through complexity in their making moves to further expand the system within the US and emulate it in Europe where they recently opened their first air hub in Leipzig and put their first two freight aircraft online in November 2020.
+
+122
+00:16:50,879 --> 00:16:58,720
+UPS, FedEx, and the other major consumer delivery companies are already well aware of just how big a threat Amazon poses to them.
+
+123
+00:16:58,720 --> 00:17:13,920
+Amazon has managed to build a 21st century logistics network using 21st century techniques and technologies, and of course part of the threat comes from the company's market dominance, but most is because Amazon is innovating in a way others aren't.
+
+124
+00:17:14,339 --> 00:17:27,160
+The way FedEx and UPS move packages today is largely the same way they did decades ago, but Amazon's system is only possible through innovations that allow them to manage such a massive, complex, and convoluted system.
+
+125
+00:17:27,160 --> 00:17:37,420
+This is all to say, if you're worried about Amazon's growing position as the one-stop shop for the world, be worried because they're only getting better at it.
+
+126
+00:17:38,720 --> 00:17:44,420
+What Amazon's rise proves more than anything is that, like or not, online is the new Main Street.
+
+127
+00:17:45,019 --> 00:17:52,440
+Therefore, just as you'd be concerned with what your storefront looks like on Main Street, you should be concerned about how your web presence looks.
+
+128
+00:17:52,440 --> 00:18:00,799
+Now, in the case of email, having a non-custom address is the equivalent of having a dirty sign. It works, but it's not pretty.
+
+129
+00:18:01,359 --> 00:18:08,240
+That's why you'll notice that most professionals use custom email addresses, something that ends in something like at Wendover.Productions.
+
+130
+00:18:08,660 --> 00:18:17,579
+That's a domain that I bought through Hover made possible thanks to their over 400 unique domain extensions that let you go way beyond.com.org or.net.
+
+131
+00:18:17,579 --> 00:18:24,059
+After getting that domain, it took about two minutes to set up a custom email address for myself and everyone else who works on the channel.
+
+132
+00:18:24,579 --> 00:18:36,279
+I can't count the number of times when someone has complimented our email address as weird as that sounds, and so whether you run a business or just want a better email for yourself, it's worth getting a custom one with Hover.
+
+133
+00:18:36,740 --> 00:18:45,880
+So head to hover.com slash Wendover to get 10% off your first purchase of a custom domain or email address, and you'll be supporting the channel while you're at it.
+

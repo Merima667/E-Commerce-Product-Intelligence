@@ -1,0 +1,9 @@
+.env
+.venv/
+google_drive/credentials.json
+token.json
+src/image_processing/token.json
+src/pipeline/token.json
+src/audio_processing/token.json
+src/video_processing/token.json
+**/token.json
