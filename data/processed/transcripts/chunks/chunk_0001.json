@@ -1,0 +1,5600 @@
+{
+  "source_file": "chunk_0001.wav",
+  "language": "en",
+  "language_probability": 0.9997,
+  "duration_s": 300.0,
+  "model": "base",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.12,
+      "text": "accessories include anything that could possibly be packaged together in a single box.",
+      "avg_log_prob": -0.207,
+      "words": [
+        {
+          "word": " accessories",
+          "start": 0.0,
+          "end": 0.3,
+          "probability": 0.0072
+        },
+        {
+          "word": " include",
+          "start": 0.3,
+          "end": 0.64,
+          "probability": 0.5933
+        },
+        {
+          "word": " anything",
+          "start": 0.64,
+          "end": 1.2,
+          "probability": 0.9617
+        },
+        {
+          "word": " that",
+          "start": 1.2,
+          "end": 1.46,
+          "probability": 0.953
+        },
+        {
+          "word": " could",
+          "start": 1.46,
+          "end": 1.6,
+          "probability": 0.9857
+        },
+        {
+          "word": " possibly",
+          "start": 1.6,
+          "end": 2.12,
+          "probability": 0.9488
+        },
+        {
+          "word": " be",
+          "start": 2.12,
+          "end": 2.3,
+          "probability": 0.9956
+        },
+        {
+          "word": " packaged",
+          "start": 2.3,
+          "end": 2.64,
+          "probability": 0.9973
+        },
+        {
+          "word": " together",
+          "start": 2.64,
+          "end": 3.1,
+          "probability": 0.9899
+        },
+        {
+          "word": " in",
+          "start": 3.1,
+          "end": 3.36,
+          "probability": 0.9926
+        },
+        {
+          "word": " a",
+          "start": 3.36,
+          "end": 3.46,
+          "probability": 0.992
+        },
+        {
+          "word": " single",
+          "start": 3.46,
+          "end": 3.76,
+          "probability": 0.9904
+        },
+        {
+          "word": " box.",
+          "start": 3.76,
+          "end": 4.12,
+          "probability": 0.9939
+        }
+      ]
+    },
+    {
+      "start": 4.68,
+      "end": 10.5,
+      "text": "The larger items, say a 70-pound bean bag, for example, are shipped from the large, non-sortable",
+      "avg_log_prob": -0.207,
+      "words": [
+        {
+          "word": " The",
+          "start": 4.68,
+          "end": 4.76,
+          "probability": 0.988
+        },
+        {
+          "word": " larger",
+          "start": 4.76,
+          "end": 5.08,
+          "probability": 0.5035
+        },
+        {
+          "word": " items,",
+          "start": 5.08,
+          "end": 5.66,
+          "probability": 0.9802
+        },
+        {
+          "word": " say",
+          "start": 5.84,
+          "end": 6.08,
+          "probability": 0.9859
+        },
+        {
+          "word": " a",
+          "start": 6.08,
+          "end": 6.36,
+          "probability": 0.815
+        },
+        {
+          "word": " 70",
+          "start": 6.36,
+          "end": 6.68,
+          "probability": 0.8662
+        },
+        {
+          "word": "-pound",
+          "start": 6.68,
+          "end": 6.96,
+          "probability": 0.7773
+        },
+        {
+          "word": " bean",
+          "start": 6.96,
+          "end": 7.14,
+          "probability": 0.9537
+        },
+        {
+          "word": " bag,",
+          "start": 7.14,
+          "end": 7.36,
+          "probability": 0.6762
+        },
+        {
+          "word": " for",
+          "start": 7.36,
+          "end": 7.56,
+          "probability": 0.9942
+        },
+        {
+          "word": " example,",
+          "start": 7.56,
+          "end": 7.9,
+          "probability": 0.9976
+        },
+        {
+          "word": " are",
+          "start": 8.34,
+          "end": 8.48,
+          "probability": 0.9964
+        },
+        {
+          "word": " shipped",
+          "start": 8.48,
+          "end": 8.74,
+          "probability": 0.9987
+        },
+        {
+          "word": " from",
+          "start": 8.74,
+          "end": 9.0,
+          "probability": 0.9973
+        },
+        {
+          "word": " the",
+          "start": 9.0,
+          "end": 9.14,
+          "probability": 0.9909
+        },
+        {
+          "word": " large,",
+          "start": 9.14,
+          "end": 9.6,
+          "probability": 0.9142
+        },
+        {
+          "word": " non",
+          "start": 9.72,
+          "end": 10.04,
+          "probability": 0.8573
+        },
+        {
+          "word": "-sortable",
+          "start": 10.04,
+          "end": 10.5,
+          "probability": 0.9835
+        }
+      ]
+    },
+    {
+      "start": 10.5,
+      "end": 11.28,
+      "text": "fulfillment centers.",
+      "avg_log_prob": -0.207,
+      "words": [
+        {
+          "word": " fulfillment",
+          "start": 10.5,
+          "end": 10.9,
+          "probability": 0.9531
+        },
+        {
+          "word": " centers.",
+          "start": 10.9,
+          "end": 11.28,
+          "probability": 0.9582
+        }
+      ]
+    },
+    {
+      "start": 11.9,
+      "end": 16.56,
+      "text": "These facilities are even less automated than the large, shortable ones, and even include",
+      "avg_log_prob": -0.207,
+      "words": [
+        {
+          "word": " These",
+          "start": 11.9,
+          "end": 12.16,
+          "probability": 0.9948
+        },
+        {
+          "word": " facilities",
+          "start": 12.16,
+          "end": 12.72,
+          "probability": 0.994
+        },
+        {
+          "word": " are",
+          "start": 12.72,
+          "end": 13.06,
+          "probability": 0.9986
+        },
+        {
+          "word": " even",
+          "start": 13.06,
+          "end": 13.32,
+          "probability": 0.9948
+        },
+        {
+          "word": " less",
+          "start": 13.32,
+          "end": 13.66,
+          "probability": 0.9992
+        },
+        {
+          "word": " automated",
+          "start": 13.66,
+          "end": 14.16,
+          "probability": 0.9912
+        },
+        {
+          "word": " than",
+          "start": 14.16,
+          "end": 14.38,
+          "probability": 0.991
+        },
+        {
+          "word": " the",
+          "start": 14.38,
+          "end": 14.48,
+          "probability": 0.9794
+        },
+        {
+          "word": " large,",
+          "start": 14.48,
+          "end": 14.82,
+          "probability": 0.9837
+        },
+        {
+          "word": " shortable",
+          "start": 14.88,
+          "end": 15.28,
+          "probability": 0.4131
+        },
+        {
+          "word": " ones,",
+          "start": 15.28,
+          "end": 15.64,
+          "probability": 0.9957
+        },
+        {
+          "word": " and",
+          "start": 15.96,
+          "end": 16.04,
+          "probability": 0.9976
+        },
+        {
+          "word": " even",
+          "start": 16.04,
+          "end": 16.22,
+          "probability": 0.9795
+        },
+        {
+          "word": " include",
+          "start": 16.22,
+          "end": 16.56,
+          "probability": 0.9975
+        }
+      ]
+    },
+    {
+      "start": 16.56,
+      "end": 19.66,
+      "text": "workers who create custom boxes for odd-size items.",
+      "avg_log_prob": -0.207,
+      "words": [
+        {
+          "word": " workers",
+          "start": 16.56,
+          "end": 16.94,
+          "probability": 0.9866
+        },
+        {
+          "word": " who",
+          "start": 16.94,
+          "end": 17.14,
+          "probability": 0.9956
+        },
+        {
+          "word": " create",
+          "start": 17.14,
+          "end": 17.4,
+          "probability": 0.9935
+        },
+        {
+          "word": " custom",
+          "start": 17.4,
+          "end": 17.78,
+          "probability": 0.996
+        },
+        {
+          "word": " boxes",
+          "start": 17.78,
+          "end": 18.22,
+          "probability": 0.9937
+        },
+        {
+          "word": " for",
+          "start": 18.22,
+          "end": 18.6,
+          "probability": 0.9977
+        },
+        {
+          "word": " odd",
+          "start": 18.6,
+          "end": 18.86,
+          "probability": 0.973
+        },
+        {
+          "word": "-size",
+          "start": 18.86,
+          "end": 19.14,
+          "probability": 0.7593
+        },
+        {
+          "word": " items.",
+          "start": 19.14,
+          "end": 19.66,
+          "probability": 0.9973
+        }
+      ]
+    },
+    {
+      "start": 20.22,
+      "end": 25.6,
+      "text": "In Colorado, for example, this is a completely separate facility located in Aurora from the",
+      "avg_log_prob": -0.207,
+      "words": [
+        {
+          "word": " In",
+          "start": 20.22,
+          "end": 20.4,
+          "probability": 0.9893
+        },
+        {
+          "word": " Colorado,",
+          "start": 20.4,
+          "end": 20.7,
+          "probability": 0.9725
+        },
+        {
+          "word": " for",
+          "start": 20.7,
+          "end": 21.1,
+          "probability": 0.9967
+        },
+        {
+          "word": " example,",
+          "start": 21.1,
+          "end": 21.5,
+          "probability": 0.999
+        },
+        {
+          "word": " this",
+          "start": 21.88,
+          "end": 22.04,
+          "probability": 0.9909
+        },
+        {
+          "word": " is",
+          "start": 22.04,
+          "end": 22.28,
+          "probability": 0.9958
+        },
+        {
+          "word": " a",
+          "start": 22.28,
+          "end": 22.4,
+          "probability": 0.9915
+        },
+        {
+          "word": " completely",
+          "start": 22.4,
+          "end": 22.82,
+          "probability": 0.9949
+        },
+        {
+          "word": " separate",
+          "start": 22.82,
+          "end": 23.22,
+          "probability": 0.9907
+        },
+        {
+          "word": " facility",
+          "start": 23.22,
+          "end": 23.78,
+          "probability": 0.999
+        },
+        {
+          "word": " located",
+          "start": 23.78,
+          "end": 24.32,
+          "probability": 0.6639
+        },
+        {
+          "word": " in",
+          "start": 24.32,
+          "end": 24.58,
+          "probability": 0.9989
+        },
+        {
+          "word": " Aurora",
+          "start": 24.58,
+          "end": 24.82,
+          "probability": 0.9694
+        },
+        {
+          "word": " from",
+          "start": 24.82,
+          "end": 25.4,
+          "probability": 0.7701
+        },
+        {
+          "word": " the",
+          "start": 25.4,
+          "end": 25.6,
+          "probability": 0.9924
+        }
+      ]
+    },
+    {
+      "start": 25.6,
+      "end": 27.58,
+      "text": "Sortable Fulfillment Center in Thornton.",
+      "avg_log_prob": -0.1839,
+      "words": [
+        {
+          "word": " Sortable",
+          "start": 25.6,
+          "end": 26.06,
+          "probability": 0.5643
+        },
+        {
+          "word": " Fulfillment",
+          "start": 26.06,
+          "end": 26.5,
+          "probability": 0.6141
+        },
+        {
+          "word": " Center",
+          "start": 26.5,
+          "end": 26.8,
+          "probability": 0.9282
+        },
+        {
+          "word": " in",
+          "start": 26.8,
+          "end": 27.1,
+          "probability": 0.9542
+        },
+        {
+          "word": " Thornton.",
+          "start": 27.1,
+          "end": 27.58,
+          "probability": 0.9698
+        }
+      ]
+    },
+    {
+      "start": 28.08,
+      "end": 32.88,
+      "text": "Now, some large items will go directly into the system of a third-party provider, typically",
+      "avg_log_prob": -0.1839,
+      "words": [
+        {
+          "word": " Now,",
+          "start": 28.08,
+          "end": 28.22,
+          "probability": 0.9354
+        },
+        {
+          "word": " some",
+          "start": 28.6,
+          "end": 28.74,
+          "probability": 0.9932
+        },
+        {
+          "word": " large",
+          "start": 28.74,
+          "end": 28.98,
+          "probability": 0.9806
+        },
+        {
+          "word": " items",
+          "start": 28.98,
+          "end": 29.3,
+          "probability": 0.9962
+        },
+        {
+          "word": " will",
+          "start": 29.3,
+          "end": 29.56,
+          "probability": 0.9923
+        },
+        {
+          "word": " go",
+          "start": 29.56,
+          "end": 29.7,
+          "probability": 0.9555
+        },
+        {
+          "word": " directly",
+          "start": 29.7,
+          "end": 30.1,
+          "probability": 0.9957
+        },
+        {
+          "word": " into",
+          "start": 30.1,
+          "end": 30.52,
+          "probability": 0.9768
+        },
+        {
+          "word": " the",
+          "start": 30.52,
+          "end": 30.64,
+          "probability": 0.9852
+        },
+        {
+          "word": " system",
+          "start": 30.64,
+          "end": 30.98,
+          "probability": 0.9867
+        },
+        {
+          "word": " of",
+          "start": 30.98,
+          "end": 31.2,
+          "probability": 0.9823
+        },
+        {
+          "word": " a",
+          "start": 31.2,
+          "end": 31.3,
+          "probability": 0.9545
+        },
+        {
+          "word": " third",
+          "start": 31.3,
+          "end": 31.58,
+          "probability": 0.8078
+        },
+        {
+          "word": "-party",
+          "start": 31.58,
+          "end": 31.84,
+          "probability": 0.8004
+        },
+        {
+          "word": " provider,",
+          "start": 31.84,
+          "end": 32.3,
+          "probability": 0.9972
+        },
+        {
+          "word": " typically",
+          "start": 32.62,
+          "end": 32.88,
+          "probability": 0.9675
+        }
+      ]
+    },
+    {
+      "start": 32.88,
+      "end": 38.06,
+      "text": "XBO logistics, which would deliver these bulky items to their final destination while others",
+      "avg_log_prob": -0.1839,
+      "words": [
+        {
+          "word": " XBO",
+          "start": 32.88,
+          "end": 33.3,
+          "probability": 0.4876
+        },
+        {
+          "word": " logistics,",
+          "start": 33.3,
+          "end": 33.78,
+          "probability": 0.6903
+        },
+        {
+          "word": " which",
+          "start": 34.3,
+          "end": 34.54,
+          "probability": 0.9969
+        },
+        {
+          "word": " would",
+          "start": 34.54,
+          "end": 34.76,
+          "probability": 0.9539
+        },
+        {
+          "word": " deliver",
+          "start": 34.76,
+          "end": 35.1,
+          "probability": 0.9961
+        },
+        {
+          "word": " these",
+          "start": 35.1,
+          "end": 35.36,
+          "probability": 0.9761
+        },
+        {
+          "word": " bulky",
+          "start": 35.36,
+          "end": 35.64,
+          "probability": 0.9861
+        },
+        {
+          "word": " items",
+          "start": 35.64,
+          "end": 35.98,
+          "probability": 0.9965
+        },
+        {
+          "word": " to",
+          "start": 35.98,
+          "end": 36.2,
+          "probability": 0.9949
+        },
+        {
+          "word": " their",
+          "start": 36.2,
+          "end": 36.32,
+          "probability": 0.9902
+        },
+        {
+          "word": " final",
+          "start": 36.32,
+          "end": 36.6,
+          "probability": 0.9913
+        },
+        {
+          "word": " destination",
+          "start": 36.6,
+          "end": 37.18,
+          "probability": 0.9975
+        },
+        {
+          "word": " while",
+          "start": 37.18,
+          "end": 37.74,
+          "probability": 0.5798
+        },
+        {
+          "word": " others",
+          "start": 37.74,
+          "end": 38.06,
+          "probability": 0.9975
+        }
+      ]
+    },
+    {
+      "start": 38.06,
+      "end": 40.06,
+      "text": "will continue on in Amazon system.",
+      "avg_log_prob": -0.1839,
+      "words": [
+        {
+          "word": " will",
+          "start": 38.06,
+          "end": 38.2,
+          "probability": 0.9702
+        },
+        {
+          "word": " continue",
+          "start": 38.2,
+          "end": 38.58,
+          "probability": 0.9935
+        },
+        {
+          "word": " on",
+          "start": 38.58,
+          "end": 38.9,
+          "probability": 0.9859
+        },
+        {
+          "word": " in",
+          "start": 38.9,
+          "end": 39.2,
+          "probability": 0.7543
+        },
+        {
+          "word": " Amazon",
+          "start": 39.2,
+          "end": 39.52,
+          "probability": 0.9376
+        },
+        {
+          "word": " system.",
+          "start": 39.52,
+          "end": 40.06,
+          "probability": 0.3383
+        }
+      ]
+    },
+    {
+      "start": 40.66,
+      "end": 45.52,
+      "text": "The portion of large, non-sortable items not sent to a third-party logistics provider",
+      "avg_log_prob": -0.1839,
+      "words": [
+        {
+          "word": " The",
+          "start": 40.66,
+          "end": 40.92,
+          "probability": 0.9617
+        },
+        {
+          "word": " portion",
+          "start": 40.92,
+          "end": 41.32,
+          "probability": 0.9895
+        },
+        {
+          "word": " of",
+          "start": 41.32,
+          "end": 41.64,
+          "probability": 0.9973
+        },
+        {
+          "word": " large,",
+          "start": 41.64,
+          "end": 42.06,
+          "probability": 0.9636
+        },
+        {
+          "word": " non",
+          "start": 42.28,
+          "end": 42.54,
+          "probability": 0.9262
+        },
+        {
+          "word": "-sortable",
+          "start": 42.54,
+          "end": 42.92,
+          "probability": 0.9808
+        },
+        {
+          "word": " items",
+          "start": 42.92,
+          "end": 43.26,
+          "probability": 0.9947
+        },
+        {
+          "word": " not",
+          "start": 43.26,
+          "end": 43.6,
+          "probability": 0.9642
+        },
+        {
+          "word": " sent",
+          "start": 43.6,
+          "end": 43.86,
+          "probability": 0.9956
+        },
+        {
+          "word": " to",
+          "start": 43.86,
+          "end": 44.04,
+          "probability": 0.9987
+        },
+        {
+          "word": " a",
+          "start": 44.04,
+          "end": 44.12,
+          "probability": 0.9845
+        },
+        {
+          "word": " third",
+          "start": 44.12,
+          "end": 44.32,
+          "probability": 0.9899
+        },
+        {
+          "word": "-party",
+          "start": 44.32,
+          "end": 44.56,
+          "probability": 0.9747
+        },
+        {
+          "word": " logistics",
+          "start": 44.56,
+          "end": 44.92,
+          "probability": 0.9855
+        },
+        {
+          "word": " provider",
+          "start": 44.92,
+          "end": 45.52,
+          "probability": 0.9988
+        }
+      ]
+    },
+    {
+      "start": 45.52,
+      "end": 49.94,
+      "text": "plus all the large and small sortable packages would next be sent to a regional",
+      "avg_log_prob": -0.1839,
+      "words": [
+        {
+          "word": " plus",
+          "start": 45.52,
+          "end": 45.96,
+          "probability": 0.8117
+        },
+        {
+          "word": " all",
+          "start": 45.96,
+          "end": 46.26,
+          "probability": 0.9917
+        },
+        {
+          "word": " the",
+          "start": 46.26,
+          "end": 46.42,
+          "probability": 0.9723
+        },
+        {
+          "word": " large",
+          "start": 46.42,
+          "end": 46.76,
+          "probability": 0.9952
+        },
+        {
+          "word": " and",
+          "start": 46.76,
+          "end": 46.96,
+          "probability": 0.9606
+        },
+        {
+          "word": " small",
+          "start": 46.96,
+          "end": 47.26,
+          "probability": 0.9984
+        },
+        {
+          "word": " sortable",
+          "start": 47.26,
+          "end": 47.66,
+          "probability": 0.8225
+        },
+        {
+          "word": " packages",
+          "start": 47.66,
+          "end": 48.02,
+          "probability": 0.9956
+        },
+        {
+          "word": " would",
+          "start": 48.02,
+          "end": 48.54,
+          "probability": 0.9073
+        },
+        {
+          "word": " next",
+          "start": 48.54,
+          "end": 48.76,
+          "probability": 0.9573
+        },
+        {
+          "word": " be",
+          "start": 48.76,
+          "end": 48.98,
+          "probability": 0.9755
+        },
+        {
+          "word": " sent",
+          "start": 48.98,
+          "end": 49.24,
+          "probability": 0.994
+        },
+        {
+          "word": " to",
+          "start": 49.24,
+          "end": 49.46,
+          "probability": 0.9977
+        },
+        {
+          "word": " a",
+          "start": 49.46,
+          "end": 49.54,
+          "probability": 0.9863
+        },
+        {
+          "word": " regional",
+          "start": 49.54,
+          "end": 49.94,
+          "probability": 0.8793
+        }
+      ]
+    },
+    {
+      "start": 49.94,
+      "end": 50.9,
+      "text": "sortation center.",
+      "avg_log_prob": -0.1839,
+      "words": [
+        {
+          "word": " sortation",
+          "start": 49.94,
+          "end": 50.52,
+          "probability": 0.7876
+        },
+        {
+          "word": " center.",
+          "start": 50.52,
+          "end": 50.9,
+          "probability": 0.9793
+        }
+      ]
+    },
+    {
+      "start": 50.9,
+      "end": 56.06,
+      "text": "In Colorado, those two fulfillment centers send their packages to a single sortation",
+      "avg_log_prob": -0.1583,
+      "words": [
+        {
+          "word": " In",
+          "start": 50.9,
+          "end": 51.34,
+          "probability": 0.9143
+        },
+        {
+          "word": " Colorado,",
+          "start": 51.34,
+          "end": 51.78,
+          "probability": 0.9826
+        },
+        {
+          "word": " those",
+          "start": 52.34,
+          "end": 52.48,
+          "probability": 0.9858
+        },
+        {
+          "word": " two",
+          "start": 52.48,
+          "end": 52.74,
+          "probability": 0.9639
+        },
+        {
+          "word": " fulfillment",
+          "start": 52.74,
+          "end": 53.3,
+          "probability": 0.9585
+        },
+        {
+          "word": " centers",
+          "start": 53.3,
+          "end": 53.74,
+          "probability": 0.9513
+        },
+        {
+          "word": " send",
+          "start": 53.74,
+          "end": 54.16,
+          "probability": 0.9759
+        },
+        {
+          "word": " their",
+          "start": 54.16,
+          "end": 54.32,
+          "probability": 0.9945
+        },
+        {
+          "word": " packages",
+          "start": 54.32,
+          "end": 54.66,
+          "probability": 0.998
+        },
+        {
+          "word": " to",
+          "start": 54.66,
+          "end": 54.92,
+          "probability": 0.9949
+        },
+        {
+          "word": " a",
+          "start": 54.92,
+          "end": 55.02,
+          "probability": 0.9946
+        },
+        {
+          "word": " single",
+          "start": 55.02,
+          "end": 55.34,
+          "probability": 0.9904
+        },
+        {
+          "word": " sortation",
+          "start": 55.34,
+          "end": 56.06,
+          "probability": 0.8149
+        }
+      ]
+    },
+    {
+      "start": 56.06,
+      "end": 59.76,
+      "text": "center, located just minutes away from the Aurora Fulfillment Center.",
+      "avg_log_prob": -0.1583,
+      "words": [
+        {
+          "word": " center,",
+          "start": 56.06,
+          "end": 56.54,
+          "probability": 0.9794
+        },
+        {
+          "word": " located",
+          "start": 56.88,
+          "end": 57.12,
+          "probability": 0.9939
+        },
+        {
+          "word": " just",
+          "start": 57.12,
+          "end": 57.42,
+          "probability": 0.9948
+        },
+        {
+          "word": " minutes",
+          "start": 57.42,
+          "end": 57.7,
+          "probability": 0.9969
+        },
+        {
+          "word": " away",
+          "start": 57.7,
+          "end": 58.04,
+          "probability": 0.9951
+        },
+        {
+          "word": " from",
+          "start": 58.04,
+          "end": 58.3,
+          "probability": 0.9904
+        },
+        {
+          "word": " the",
+          "start": 58.3,
+          "end": 58.44,
+          "probability": 0.9869
+        },
+        {
+          "word": " Aurora",
+          "start": 58.44,
+          "end": 58.76,
+          "probability": 0.9308
+        },
+        {
+          "word": " Fulfillment",
+          "start": 58.76,
+          "end": 59.44,
+          "probability": 0.5819
+        },
+        {
+          "word": " Center.",
+          "start": 59.44,
+          "end": 59.76,
+          "probability": 0.9416
+        }
+      ]
+    },
+    {
+      "start": 60.16,
+      "end": 65.6,
+      "text": "This is a massive facility, almost half a million square feet in size, with robots running",
+      "avg_log_prob": -0.1583,
+      "words": [
+        {
+          "word": " This",
+          "start": 60.16,
+          "end": 60.4,
+          "probability": 0.9969
+        },
+        {
+          "word": " is",
+          "start": 60.4,
+          "end": 60.74,
+          "probability": 0.9841
+        },
+        {
+          "word": " a",
+          "start": 60.74,
+          "end": 60.86,
+          "probability": 0.9967
+        },
+        {
+          "word": " massive",
+          "start": 60.86,
+          "end": 61.42,
+          "probability": 0.9923
+        },
+        {
+          "word": " facility,",
+          "start": 61.42,
+          "end": 62.06,
+          "probability": 0.9981
+        },
+        {
+          "word": " almost",
+          "start": 62.34,
+          "end": 62.5,
+          "probability": 0.9968
+        },
+        {
+          "word": " half",
+          "start": 62.5,
+          "end": 62.86,
+          "probability": 0.8274
+        },
+        {
+          "word": " a",
+          "start": 62.86,
+          "end": 63.12,
+          "probability": 0.9889
+        },
+        {
+          "word": " million",
+          "start": 63.12,
+          "end": 63.48,
+          "probability": 0.9863
+        },
+        {
+          "word": " square",
+          "start": 63.48,
+          "end": 63.76,
+          "probability": 0.9842
+        },
+        {
+          "word": " feet",
+          "start": 63.76,
+          "end": 63.98,
+          "probability": 0.9916
+        },
+        {
+          "word": " in",
+          "start": 63.98,
+          "end": 64.14,
+          "probability": 0.9702
+        },
+        {
+          "word": " size,",
+          "start": 64.14,
+          "end": 64.54,
+          "probability": 0.998
+        },
+        {
+          "word": " with",
+          "start": 64.86,
+          "end": 65.04,
+          "probability": 0.9972
+        },
+        {
+          "word": " robots",
+          "start": 65.04,
+          "end": 65.3,
+          "probability": 0.9787
+        },
+        {
+          "word": " running",
+          "start": 65.3,
+          "end": 65.6,
+          "probability": 0.9956
+        }
+      ]
+    },
+    {
+      "start": 65.6,
+      "end": 70.22,
+      "text": "around, dropping packages into different shoots, which each represent a different grouping",
+      "avg_log_prob": -0.1583,
+      "words": [
+        {
+          "word": " around,",
+          "start": 65.6,
+          "end": 66.02,
+          "probability": 0.9983
+        },
+        {
+          "word": " dropping",
+          "start": 66.42,
+          "end": 66.64,
+          "probability": 0.9931
+        },
+        {
+          "word": " packages",
+          "start": 66.64,
+          "end": 67.06,
+          "probability": 0.9977
+        },
+        {
+          "word": " into",
+          "start": 67.06,
+          "end": 67.38,
+          "probability": 0.9974
+        },
+        {
+          "word": " different",
+          "start": 67.38,
+          "end": 67.7,
+          "probability": 0.9981
+        },
+        {
+          "word": " shoots,",
+          "start": 67.7,
+          "end": 68.02,
+          "probability": 0.8867
+        },
+        {
+          "word": " which",
+          "start": 68.36,
+          "end": 68.58,
+          "probability": 0.9916
+        },
+        {
+          "word": " each",
+          "start": 68.58,
+          "end": 68.82,
+          "probability": 0.9991
+        },
+        {
+          "word": " represent",
+          "start": 68.82,
+          "end": 69.26,
+          "probability": 0.9819
+        },
+        {
+          "word": " a",
+          "start": 69.26,
+          "end": 69.56,
+          "probability": 0.9893
+        },
+        {
+          "word": " different",
+          "start": 69.56,
+          "end": 69.86,
+          "probability": 0.9922
+        },
+        {
+          "word": " grouping",
+          "start": 69.86,
+          "end": 70.22,
+          "probability": 0.9905
+        }
+      ]
+    },
+    {
+      "start": 70.22,
+      "end": 70.98,
+      "text": "of zip codes.",
+      "avg_log_prob": -0.1583,
+      "words": [
+        {
+          "word": " of",
+          "start": 70.22,
+          "end": 70.56,
+          "probability": 0.9958
+        },
+        {
+          "word": " zip",
+          "start": 70.56,
+          "end": 70.7,
+          "probability": 0.9632
+        },
+        {
+          "word": " codes.",
+          "start": 70.7,
+          "end": 70.98,
+          "probability": 0.8937
+        }
+      ]
+    },
+    {
+      "start": 71.58,
+      "end": 77.14,
+      "text": "Now not all these sortation centers are quite so automated, but each outputs the same thing.",
+      "avg_log_prob": -0.1583,
+      "words": [
+        {
+          "word": " Now",
+          "start": 71.58,
+          "end": 71.82,
+          "probability": 0.9711
+        },
+        {
+          "word": " not",
+          "start": 71.82,
+          "end": 72.26,
+          "probability": 0.1931
+        },
+        {
+          "word": " all",
+          "start": 72.26,
+          "end": 72.64,
+          "probability": 0.9965
+        },
+        {
+          "word": " these",
+          "start": 72.64,
+          "end": 72.8,
+          "probability": 0.7373
+        },
+        {
+          "word": " sortation",
+          "start": 72.8,
+          "end": 73.2,
+          "probability": 0.9492
+        },
+        {
+          "word": " centers",
+          "start": 73.2,
+          "end": 73.6,
+          "probability": 0.9919
+        },
+        {
+          "word": " are",
+          "start": 73.6,
+          "end": 73.88,
+          "probability": 0.9976
+        },
+        {
+          "word": " quite",
+          "start": 73.88,
+          "end": 74.24,
+          "probability": 0.9297
+        },
+        {
+          "word": " so",
+          "start": 74.24,
+          "end": 74.48,
+          "probability": 0.9958
+        },
+        {
+          "word": " automated,",
+          "start": 74.48,
+          "end": 74.96,
+          "probability": 0.9931
+        },
+        {
+          "word": " but",
+          "start": 75.36,
+          "end": 75.46,
+          "probability": 0.997
+        },
+        {
+          "word": " each",
+          "start": 75.46,
+          "end": 75.78,
+          "probability": 0.9956
+        },
+        {
+          "word": " outputs",
+          "start": 75.78,
+          "end": 76.16,
+          "probability": 0.7322
+        },
+        {
+          "word": " the",
+          "start": 76.16,
+          "end": 76.54,
+          "probability": 0.9956
+        },
+        {
+          "word": " same",
+          "start": 76.54,
+          "end": 76.86,
+          "probability": 0.9975
+        },
+        {
+          "word": " thing.",
+          "start": 76.86,
+          "end": 77.14,
+          "probability": 0.998
+        }
+      ]
+    },
+    {
+      "start": 77.14,
+      "end": 80.76,
+      "text": "Palettes are packages going to roughly the same place.",
+      "avg_log_prob": -0.1575,
+      "words": [
+        {
+          "word": " Palettes",
+          "start": 77.14,
+          "end": 78.06,
+          "probability": 0.1606
+        },
+        {
+          "word": " are",
+          "start": 78.06,
+          "end": 78.18,
+          "probability": 0.2807
+        },
+        {
+          "word": " packages",
+          "start": 78.18,
+          "end": 78.56,
+          "probability": 0.9039
+        },
+        {
+          "word": " going",
+          "start": 78.56,
+          "end": 78.94,
+          "probability": 0.9662
+        },
+        {
+          "word": " to",
+          "start": 78.94,
+          "end": 79.24,
+          "probability": 0.931
+        },
+        {
+          "word": " roughly",
+          "start": 79.24,
+          "end": 79.58,
+          "probability": 0.9654
+        },
+        {
+          "word": " the",
+          "start": 79.58,
+          "end": 79.98,
+          "probability": 0.9797
+        },
+        {
+          "word": " same",
+          "start": 79.98,
+          "end": 80.3,
+          "probability": 0.9973
+        },
+        {
+          "word": " place.",
+          "start": 80.3,
+          "end": 80.76,
+          "probability": 0.9899
+        }
+      ]
+    },
+    {
+      "start": 81.46,
+      "end": 84.18,
+      "text": "What happens next, though, once again, depends.",
+      "avg_log_prob": -0.1575,
+      "words": [
+        {
+          "word": " What",
+          "start": 81.46,
+          "end": 81.54,
+          "probability": 0.9686
+        },
+        {
+          "word": " happens",
+          "start": 81.54,
+          "end": 81.82,
+          "probability": 0.9952
+        },
+        {
+          "word": " next,",
+          "start": 81.82,
+          "end": 82.16,
+          "probability": 0.999
+        },
+        {
+          "word": " though,",
+          "start": 82.38,
+          "end": 82.52,
+          "probability": 0.99
+        },
+        {
+          "word": " once",
+          "start": 82.94,
+          "end": 83.14,
+          "probability": 0.9854
+        },
+        {
+          "word": " again,",
+          "start": 83.14,
+          "end": 83.48,
+          "probability": 0.9973
+        },
+        {
+          "word": " depends.",
+          "start": 83.94,
+          "end": 84.18,
+          "probability": 0.9933
+        }
+      ]
+    },
+    {
+      "start": 85.24,
+      "end": 89.5,
+      "text": "A package heading to Miami, for example, would end up on a palette with other packages",
+      "avg_log_prob": -0.1575,
+      "words": [
+        {
+          "word": " A",
+          "start": 85.24,
+          "end": 85.42,
+          "probability": 0.9714
+        },
+        {
+          "word": " package",
+          "start": 85.42,
+          "end": 85.8,
+          "probability": 0.9903
+        },
+        {
+          "word": " heading",
+          "start": 85.8,
+          "end": 86.08,
+          "probability": 0.9989
+        },
+        {
+          "word": " to",
+          "start": 86.08,
+          "end": 86.26,
+          "probability": 0.9897
+        },
+        {
+          "word": " Miami,",
+          "start": 86.26,
+          "end": 86.54,
+          "probability": 0.9988
+        },
+        {
+          "word": " for",
+          "start": 86.54,
+          "end": 86.8,
+          "probability": 0.9981
+        },
+        {
+          "word": " example,",
+          "start": 86.8,
+          "end": 87.22,
+          "probability": 0.9982
+        },
+        {
+          "word": " would",
+          "start": 87.48,
+          "end": 87.68,
+          "probability": 0.9973
+        },
+        {
+          "word": " end",
+          "start": 87.68,
+          "end": 87.84,
+          "probability": 0.999
+        },
+        {
+          "word": " up",
+          "start": 87.84,
+          "end": 88.0,
+          "probability": 0.9937
+        },
+        {
+          "word": " on",
+          "start": 88.0,
+          "end": 88.12,
+          "probability": 0.9916
+        },
+        {
+          "word": " a",
+          "start": 88.12,
+          "end": 88.22,
+          "probability": 0.9972
+        },
+        {
+          "word": " palette",
+          "start": 88.22,
+          "end": 88.48,
+          "probability": 0.5986
+        },
+        {
+          "word": " with",
+          "start": 88.48,
+          "end": 88.76,
+          "probability": 0.9948
+        },
+        {
+          "word": " other",
+          "start": 88.76,
+          "end": 89.06,
+          "probability": 0.9898
+        },
+        {
+          "word": " packages",
+          "start": 89.06,
+          "end": 89.5,
+          "probability": 0.9944
+        }
+      ]
+    },
+    {
+      "start": 89.5,
+      "end": 94.08,
+      "text": "for Miami, which itself would end up on a truck carrying palettes for Tampa, North Carolina,",
+      "avg_log_prob": -0.1575,
+      "words": [
+        {
+          "word": " for",
+          "start": 89.5,
+          "end": 89.76,
+          "probability": 0.9825
+        },
+        {
+          "word": " Miami,",
+          "start": 89.76,
+          "end": 90.2,
+          "probability": 0.9995
+        },
+        {
+          "word": " which",
+          "start": 90.44,
+          "end": 90.68,
+          "probability": 0.9974
+        },
+        {
+          "word": " itself",
+          "start": 90.68,
+          "end": 91.06,
+          "probability": 0.984
+        },
+        {
+          "word": " would",
+          "start": 91.06,
+          "end": 91.22,
+          "probability": 0.9979
+        },
+        {
+          "word": " end",
+          "start": 91.22,
+          "end": 91.36,
+          "probability": 0.9985
+        },
+        {
+          "word": " up",
+          "start": 91.36,
+          "end": 91.54,
+          "probability": 0.9965
+        },
+        {
+          "word": " on",
+          "start": 91.54,
+          "end": 91.68,
+          "probability": 0.9932
+        },
+        {
+          "word": " a",
+          "start": 91.68,
+          "end": 91.78,
+          "probability": 0.9967
+        },
+        {
+          "word": " truck",
+          "start": 91.78,
+          "end": 92.06,
+          "probability": 0.9968
+        },
+        {
+          "word": " carrying",
+          "start": 92.06,
+          "end": 92.54,
+          "probability": 0.9381
+        },
+        {
+          "word": " palettes",
+          "start": 92.54,
+          "end": 92.9,
+          "probability": 0.9527
+        },
+        {
+          "word": " for",
+          "start": 92.9,
+          "end": 93.06,
+          "probability": 0.986
+        },
+        {
+          "word": " Tampa,",
+          "start": 93.06,
+          "end": 93.34,
+          "probability": 0.9962
+        },
+        {
+          "word": " North",
+          "start": 93.66,
+          "end": 93.78,
+          "probability": 0.9871
+        },
+        {
+          "word": " Carolina,",
+          "start": 93.78,
+          "end": 94.08,
+          "probability": 0.9976
+        }
+      ]
+    },
+    {
+      "start": 94.58,
+      "end": 99.0,
+      "text": "Houston, Baltimore, New York City, Connecticut, and a few other cities and states to the east.",
+      "avg_log_prob": -0.1575,
+      "words": [
+        {
+          "word": " Houston,",
+          "start": 94.58,
+          "end": 94.8,
+          "probability": 0.9983
+        },
+        {
+          "word": " Baltimore,",
+          "start": 95.06,
+          "end": 95.24,
+          "probability": 0.9975
+        },
+        {
+          "word": " New",
+          "start": 95.52,
+          "end": 95.6,
+          "probability": 0.9741
+        },
+        {
+          "word": " York",
+          "start": 95.6,
+          "end": 95.7,
+          "probability": 0.992
+        },
+        {
+          "word": " City,",
+          "start": 95.7,
+          "end": 95.98,
+          "probability": 0.955
+        },
+        {
+          "word": " Connecticut,",
+          "start": 95.98,
+          "end": 96.38,
+          "probability": 0.9988
+        },
+        {
+          "word": " and",
+          "start": 96.64,
+          "end": 96.8,
+          "probability": 0.9776
+        },
+        {
+          "word": " a",
+          "start": 96.8,
+          "end": 96.88,
+          "probability": 0.9958
+        },
+        {
+          "word": " few",
+          "start": 96.88,
+          "end": 97.14,
+          "probability": 0.999
+        },
+        {
+          "word": " other",
+          "start": 97.14,
+          "end": 97.42,
+          "probability": 0.997
+        },
+        {
+          "word": " cities",
+          "start": 97.42,
+          "end": 97.72,
+          "probability": 0.9986
+        },
+        {
+          "word": " and",
+          "start": 97.72,
+          "end": 97.98,
+          "probability": 0.9862
+        },
+        {
+          "word": " states",
+          "start": 97.98,
+          "end": 98.24,
+          "probability": 0.9146
+        },
+        {
+          "word": " to",
+          "start": 98.24,
+          "end": 98.52,
+          "probability": 0.995
+        },
+        {
+          "word": " the",
+          "start": 98.52,
+          "end": 98.62,
+          "probability": 0.9982
+        },
+        {
+          "word": " east.",
+          "start": 98.62,
+          "end": 99.0,
+          "probability": 0.8119
+        }
+      ]
+    },
+    {
+      "start": 99.34,
+      "end": 104.92,
+      "text": "This truck would then drive the 15 minutes to a waiting 767 cargo plane at Denver International",
+      "avg_log_prob": -0.1575,
+      "words": [
+        {
+          "word": " This",
+          "start": 99.34,
+          "end": 99.52,
+          "probability": 0.9947
+        },
+        {
+          "word": " truck",
+          "start": 99.52,
+          "end": 99.84,
+          "probability": 0.9983
+        },
+        {
+          "word": " would",
+          "start": 99.84,
+          "end": 100.1,
+          "probability": 0.9951
+        },
+        {
+          "word": " then",
+          "start": 100.1,
+          "end": 100.28,
+          "probability": 0.9846
+        },
+        {
+          "word": " drive",
+          "start": 100.28,
+          "end": 100.6,
+          "probability": 0.9983
+        },
+        {
+          "word": " the",
+          "start": 100.6,
+          "end": 100.9,
+          "probability": 0.9886
+        },
+        {
+          "word": " 15",
+          "start": 100.9,
+          "end": 101.32,
+          "probability": 0.939
+        },
+        {
+          "word": " minutes",
+          "start": 101.32,
+          "end": 101.64,
+          "probability": 0.7379
+        },
+        {
+          "word": " to",
+          "start": 101.64,
+          "end": 101.92,
+          "probability": 0.9824
+        },
+        {
+          "word": " a",
+          "start": 101.92,
+          "end": 101.98,
+          "probability": 0.9963
+        },
+        {
+          "word": " waiting",
+          "start": 101.98,
+          "end": 102.24,
+          "probability": 0.6412
+        },
+        {
+          "word": " 767",
+          "start": 102.24,
+          "end": 102.9,
+          "probability": 0.7731
+        },
+        {
+          "word": " cargo",
+          "start": 102.9,
+          "end": 103.42,
+          "probability": 0.9814
+        },
+        {
+          "word": " plane",
+          "start": 103.42,
+          "end": 103.72,
+          "probability": 0.9921
+        },
+        {
+          "word": " at",
+          "start": 103.72,
+          "end": 104.04,
+          "probability": 0.9928
+        },
+        {
+          "word": " Denver",
+          "start": 104.04,
+          "end": 104.32,
+          "probability": 0.9935
+        },
+        {
+          "word": " International",
+          "start": 104.32,
+          "end": 104.92,
+          "probability": 0.9765
+        }
+      ]
+    },
+    {
+      "start": 104.92,
+      "end": 107.68,
+      "text": "Airport, branded in Prime Air Levering.",
+      "avg_log_prob": -0.2242,
+      "words": [
+        {
+          "word": " Airport,",
+          "start": 104.92,
+          "end": 105.34,
+          "probability": 0.0994
+        },
+        {
+          "word": " branded",
+          "start": 105.82,
+          "end": 106.1,
+          "probability": 0.9696
+        },
+        {
+          "word": " in",
+          "start": 106.1,
+          "end": 106.4,
+          "probability": 0.9664
+        },
+        {
+          "word": " Prime",
+          "start": 106.4,
+          "end": 106.72,
+          "probability": 0.6167
+        },
+        {
+          "word": " Air",
+          "start": 106.72,
+          "end": 107.16,
+          "probability": 0.898
+        },
+        {
+          "word": " Levering.",
+          "start": 107.16,
+          "end": 107.68,
+          "probability": 0.4741
+        }
+      ]
+    },
+    {
+      "start": 108.26,
+      "end": 114.22,
+      "text": "Now Amazon Air started in 2015 with its lease of about 20 aircraft from Air Transport International",
+      "avg_log_prob": -0.2242,
+      "words": [
+        {
+          "word": " Now",
+          "start": 108.26,
+          "end": 108.44,
+          "probability": 0.9248
+        },
+        {
+          "word": " Amazon",
+          "start": 108.44,
+          "end": 108.94,
+          "probability": 0.0761
+        },
+        {
+          "word": " Air",
+          "start": 108.94,
+          "end": 109.26,
+          "probability": 0.9414
+        },
+        {
+          "word": " started",
+          "start": 109.26,
+          "end": 109.64,
+          "probability": 0.9882
+        },
+        {
+          "word": " in",
+          "start": 109.64,
+          "end": 109.88,
+          "probability": 0.9927
+        },
+        {
+          "word": " 2015",
+          "start": 109.88,
+          "end": 110.62,
+          "probability": 0.9968
+        },
+        {
+          "word": " with",
+          "start": 110.62,
+          "end": 110.98,
+          "probability": 0.8977
+        },
+        {
+          "word": " its",
+          "start": 110.98,
+          "end": 111.16,
+          "probability": 0.9697
+        },
+        {
+          "word": " lease",
+          "start": 111.16,
+          "end": 111.34,
+          "probability": 0.9405
+        },
+        {
+          "word": " of",
+          "start": 111.34,
+          "end": 111.58,
+          "probability": 0.9853
+        },
+        {
+          "word": " about",
+          "start": 111.58,
+          "end": 111.76,
+          "probability": 0.9917
+        },
+        {
+          "word": " 20",
+          "start": 111.76,
+          "end": 112.18,
+          "probability": 0.9476
+        },
+        {
+          "word": " aircraft",
+          "start": 112.18,
+          "end": 112.56,
+          "probability": 0.9865
+        },
+        {
+          "word": " from",
+          "start": 112.56,
+          "end": 112.9,
+          "probability": 0.9858
+        },
+        {
+          "word": " Air",
+          "start": 112.9,
+          "end": 113.14,
+          "probability": 0.8643
+        },
+        {
+          "word": " Transport",
+          "start": 113.14,
+          "end": 113.54,
+          "probability": 0.936
+        },
+        {
+          "word": " International",
+          "start": 113.54,
+          "end": 114.22,
+          "probability": 0.9802
+        }
+      ]
+    },
+    {
+      "start": 114.22,
+      "end": 118.74,
+      "text": "and has since grown to almost 70 aircraft, all leased from other airlines.",
+      "avg_log_prob": -0.2242,
+      "words": [
+        {
+          "word": " and",
+          "start": 114.22,
+          "end": 114.66,
+          "probability": 0.7569
+        },
+        {
+          "word": " has",
+          "start": 114.66,
+          "end": 114.78,
+          "probability": 0.3778
+        },
+        {
+          "word": " since",
+          "start": 114.78,
+          "end": 114.96,
+          "probability": 0.9376
+        },
+        {
+          "word": " grown",
+          "start": 114.96,
+          "end": 115.24,
+          "probability": 0.9951
+        },
+        {
+          "word": " to",
+          "start": 115.24,
+          "end": 115.46,
+          "probability": 0.9975
+        },
+        {
+          "word": " almost",
+          "start": 115.46,
+          "end": 115.78,
+          "probability": 0.9918
+        },
+        {
+          "word": " 70",
+          "start": 115.78,
+          "end": 116.38,
+          "probability": 0.9812
+        },
+        {
+          "word": " aircraft,",
+          "start": 116.38,
+          "end": 116.86,
+          "probability": 0.9882
+        },
+        {
+          "word": " all",
+          "start": 117.36,
+          "end": 117.48,
+          "probability": 0.991
+        },
+        {
+          "word": " leased",
+          "start": 117.48,
+          "end": 117.84,
+          "probability": 0.7771
+        },
+        {
+          "word": " from",
+          "start": 117.84,
+          "end": 118.06,
+          "probability": 0.9934
+        },
+        {
+          "word": " other",
+          "start": 118.06,
+          "end": 118.36,
+          "probability": 0.9926
+        },
+        {
+          "word": " airlines.",
+          "start": 118.36,
+          "end": 118.74,
+          "probability": 0.9636
+        }
+      ]
+    },
+    {
+      "start": 119.34,
+      "end": 123.82,
+      "text": "However, the company recently announced the purchase of their first 11 aircraft, also",
+      "avg_log_prob": -0.2242,
+      "words": [
+        {
+          "word": " However,",
+          "start": 119.34,
+          "end": 119.58,
+          "probability": 0.9912
+        },
+        {
+          "word": " the",
+          "start": 119.9,
+          "end": 119.96,
+          "probability": 0.9919
+        },
+        {
+          "word": " company",
+          "start": 119.96,
+          "end": 120.16,
+          "probability": 0.9913
+        },
+        {
+          "word": " recently",
+          "start": 120.16,
+          "end": 120.66,
+          "probability": 0.9968
+        },
+        {
+          "word": " announced",
+          "start": 120.66,
+          "end": 121.02,
+          "probability": 0.9993
+        },
+        {
+          "word": " the",
+          "start": 121.02,
+          "end": 121.26,
+          "probability": 0.9837
+        },
+        {
+          "word": " purchase",
+          "start": 121.26,
+          "end": 121.54,
+          "probability": 0.9992
+        },
+        {
+          "word": " of",
+          "start": 121.54,
+          "end": 121.78,
+          "probability": 0.9992
+        },
+        {
+          "word": " their",
+          "start": 121.78,
+          "end": 121.88,
+          "probability": 0.9941
+        },
+        {
+          "word": " first",
+          "start": 121.88,
+          "end": 122.26,
+          "probability": 0.9467
+        },
+        {
+          "word": " 11",
+          "start": 122.26,
+          "end": 122.66,
+          "probability": 0.9197
+        },
+        {
+          "word": " aircraft,",
+          "start": 122.66,
+          "end": 123.16,
+          "probability": 0.9869
+        },
+        {
+          "word": " also",
+          "start": 123.58,
+          "end": 123.82,
+          "probability": 0.954
+        }
+      ]
+    },
+    {
+      "start": 123.82,
+      "end": 130.08,
+      "text": "767, bought from Delta and WestJet, meaning they'll soon both own and operate their own aircraft.",
+      "avg_log_prob": -0.2242,
+      "words": [
+        {
+          "word": " 767,",
+          "start": 123.82,
+          "end": 124.5,
+          "probability": 0.7143
+        },
+        {
+          "word": " bought",
+          "start": 125.1,
+          "end": 125.26,
+          "probability": 0.9489
+        },
+        {
+          "word": " from",
+          "start": 125.26,
+          "end": 125.58,
+          "probability": 0.9967
+        },
+        {
+          "word": " Delta",
+          "start": 125.58,
+          "end": 125.86,
+          "probability": 0.9743
+        },
+        {
+          "word": " and",
+          "start": 125.86,
+          "end": 126.02,
+          "probability": 0.7579
+        },
+        {
+          "word": " WestJet,",
+          "start": 126.02,
+          "end": 126.58,
+          "probability": 0.8298
+        },
+        {
+          "word": " meaning",
+          "start": 126.94,
+          "end": 127.1,
+          "probability": 0.9969
+        },
+        {
+          "word": " they'll",
+          "start": 127.1,
+          "end": 127.38,
+          "probability": 0.9501
+        },
+        {
+          "word": " soon",
+          "start": 127.38,
+          "end": 127.66,
+          "probability": 0.9973
+        },
+        {
+          "word": " both",
+          "start": 127.66,
+          "end": 127.96,
+          "probability": 0.9921
+        },
+        {
+          "word": " own",
+          "start": 127.96,
+          "end": 128.4,
+          "probability": 0.9671
+        },
+        {
+          "word": " and",
+          "start": 128.4,
+          "end": 128.58,
+          "probability": 0.9929
+        },
+        {
+          "word": " operate",
+          "start": 128.58,
+          "end": 128.94,
+          "probability": 0.9966
+        },
+        {
+          "word": " their",
+          "start": 128.94,
+          "end": 129.26,
+          "probability": 0.9954
+        },
+        {
+          "word": " own",
+          "start": 129.26,
+          "end": 129.64,
+          "probability": 0.9855
+        },
+        {
+          "word": " aircraft.",
+          "start": 129.64,
+          "end": 130.08,
+          "probability": 0.9952
+        }
+      ]
+    },
+    {
+      "start": 130.72,
+      "end": 135.66,
+      "text": "Those eastbound palettes would all be loaded around 4am before the aircraft's scheduled departure",
+      "avg_log_prob": -0.1172,
+      "words": [
+        {
+          "word": " Those",
+          "start": 130.68,
+          "end": 130.96,
+          "probability": 0.282
+        },
+        {
+          "word": " eastbound",
+          "start": 130.96,
+          "end": 131.52,
+          "probability": 0.7583
+        },
+        {
+          "word": " palettes",
+          "start": 131.52,
+          "end": 132.04,
+          "probability": 0.4693
+        },
+        {
+          "word": " would",
+          "start": 132.04,
+          "end": 132.26,
+          "probability": 0.986
+        },
+        {
+          "word": " all",
+          "start": 132.26,
+          "end": 132.46,
+          "probability": 0.9636
+        },
+        {
+          "word": " be",
+          "start": 132.46,
+          "end": 132.6,
+          "probability": 0.9986
+        },
+        {
+          "word": " loaded",
+          "start": 132.6,
+          "end": 132.84,
+          "probability": 0.9962
+        },
+        {
+          "word": " around",
+          "start": 132.84,
+          "end": 133.18,
+          "probability": 0.9399
+        },
+        {
+          "word": " 4am",
+          "start": 133.18,
+          "end": 133.82,
+          "probability": 0.6651
+        },
+        {
+          "word": " before",
+          "start": 133.82,
+          "end": 134.32,
+          "probability": 0.849
+        },
+        {
+          "word": " the",
+          "start": 134.32,
+          "end": 134.54,
+          "probability": 0.9895
+        },
+        {
+          "word": " aircraft's",
+          "start": 134.54,
+          "end": 135.08,
+          "probability": 0.9725
+        },
+        {
+          "word": " scheduled",
+          "start": 135.08,
+          "end": 135.38,
+          "probability": 0.7099
+        },
+        {
+          "word": " departure",
+          "start": 135.38,
+          "end": 135.66,
+          "probability": 0.9988
+        }
+      ]
+    },
+    {
+      "start": 135.66,
+      "end": 143.14,
+      "text": "time of 454am. Now, anyone familiar with UPS or FedEx's operations will know why this departure",
+      "avg_log_prob": -0.1172,
+      "words": [
+        {
+          "word": " time",
+          "start": 135.66,
+          "end": 136.06,
+          "probability": 0.9881
+        },
+        {
+          "word": " of",
+          "start": 136.06,
+          "end": 136.26,
+          "probability": 0.9555
+        },
+        {
+          "word": " 454am.",
+          "start": 136.26,
+          "end": 137.36,
+          "probability": 0.741
+        },
+        {
+          "word": " Now,",
+          "start": 137.96,
+          "end": 138.3,
+          "probability": 0.8853
+        },
+        {
+          "word": " anyone",
+          "start": 138.54,
+          "end": 138.94,
+          "probability": 0.9874
+        },
+        {
+          "word": " familiar",
+          "start": 138.94,
+          "end": 139.54,
+          "probability": 0.9912
+        },
+        {
+          "word": " with",
+          "start": 139.54,
+          "end": 139.92,
+          "probability": 0.9972
+        },
+        {
+          "word": " UPS",
+          "start": 139.92,
+          "end": 140.3,
+          "probability": 0.9782
+        },
+        {
+          "word": " or",
+          "start": 140.3,
+          "end": 140.64,
+          "probability": 0.9835
+        },
+        {
+          "word": " FedEx's",
+          "start": 140.64,
+          "end": 141.14,
+          "probability": 0.8472
+        },
+        {
+          "word": " operations",
+          "start": 141.14,
+          "end": 141.64,
+          "probability": 0.9772
+        },
+        {
+          "word": " will",
+          "start": 141.64,
+          "end": 142.14,
+          "probability": 0.8746
+        },
+        {
+          "word": " know",
+          "start": 142.14,
+          "end": 142.3,
+          "probability": 0.996
+        },
+        {
+          "word": " why",
+          "start": 142.3,
+          "end": 142.64,
+          "probability": 0.9962
+        },
+        {
+          "word": " this",
+          "start": 142.64,
+          "end": 142.84,
+          "probability": 0.99
+        },
+        {
+          "word": " departure",
+          "start": 142.84,
+          "end": 143.14,
+          "probability": 0.9983
+        }
+      ]
+    },
+    {
+      "start": 143.14,
+      "end": 148.86,
+      "text": "time is strange. If UPS was transporting this package to Miami, at least at its fastest speed,",
+      "avg_log_prob": -0.1172,
+      "words": [
+        {
+          "word": " time",
+          "start": 143.14,
+          "end": 143.62,
+          "probability": 0.9975
+        },
+        {
+          "word": " is",
+          "start": 143.62,
+          "end": 143.88,
+          "probability": 0.9955
+        },
+        {
+          "word": " strange.",
+          "start": 143.88,
+          "end": 144.22,
+          "probability": 0.987
+        },
+        {
+          "word": " If",
+          "start": 144.88,
+          "end": 145.2,
+          "probability": 0.928
+        },
+        {
+          "word": " UPS",
+          "start": 145.2,
+          "end": 145.46,
+          "probability": 0.9682
+        },
+        {
+          "word": " was",
+          "start": 145.46,
+          "end": 145.66,
+          "probability": 0.9939
+        },
+        {
+          "word": " transporting",
+          "start": 145.66,
+          "end": 146.12,
+          "probability": 0.9952
+        },
+        {
+          "word": " this",
+          "start": 146.12,
+          "end": 146.36,
+          "probability": 0.9808
+        },
+        {
+          "word": " package",
+          "start": 146.36,
+          "end": 146.66,
+          "probability": 0.9842
+        },
+        {
+          "word": " to",
+          "start": 146.66,
+          "end": 146.88,
+          "probability": 0.9988
+        },
+        {
+          "word": " Miami,",
+          "start": 146.88,
+          "end": 147.2,
+          "probability": 0.9971
+        },
+        {
+          "word": " at",
+          "start": 147.66,
+          "end": 147.74,
+          "probability": 0.9886
+        },
+        {
+          "word": " least",
+          "start": 147.74,
+          "end": 147.84,
+          "probability": 0.9816
+        },
+        {
+          "word": " at",
+          "start": 147.84,
+          "end": 148.0,
+          "probability": 0.9647
+        },
+        {
+          "word": " its",
+          "start": 148.0,
+          "end": 148.16,
+          "probability": 0.9391
+        },
+        {
+          "word": " fastest",
+          "start": 148.16,
+          "end": 148.44,
+          "probability": 0.8406
+        },
+        {
+          "word": " speed,",
+          "start": 148.44,
+          "end": 148.86,
+          "probability": 0.9982
+        }
+      ]
+    },
+    {
+      "start": 149.28,
+      "end": 153.82,
+      "text": "it would have departed on an aircraft the previous night at 9.40pm, been flown to Louisville,",
+      "avg_log_prob": -0.1172,
+      "words": [
+        {
+          "word": " it",
+          "start": 149.28,
+          "end": 149.34,
+          "probability": 0.9959
+        },
+        {
+          "word": " would",
+          "start": 149.34,
+          "end": 149.42,
+          "probability": 0.9972
+        },
+        {
+          "word": " have",
+          "start": 149.42,
+          "end": 149.54,
+          "probability": 0.8941
+        },
+        {
+          "word": " departed",
+          "start": 149.54,
+          "end": 149.84,
+          "probability": 0.9879
+        },
+        {
+          "word": " on",
+          "start": 149.84,
+          "end": 150.06,
+          "probability": 0.9964
+        },
+        {
+          "word": " an",
+          "start": 150.06,
+          "end": 150.18,
+          "probability": 0.9832
+        },
+        {
+          "word": " aircraft",
+          "start": 150.18,
+          "end": 150.44,
+          "probability": 0.9995
+        },
+        {
+          "word": " the",
+          "start": 150.44,
+          "end": 150.68,
+          "probability": 0.9873
+        },
+        {
+          "word": " previous",
+          "start": 150.68,
+          "end": 150.92,
+          "probability": 0.9968
+        },
+        {
+          "word": " night",
+          "start": 150.92,
+          "end": 151.18,
+          "probability": 0.9973
+        },
+        {
+          "word": " at",
+          "start": 151.18,
+          "end": 151.44,
+          "probability": 0.9936
+        },
+        {
+          "word": " 9",
+          "start": 151.44,
+          "end": 151.68,
+          "probability": 0.9944
+        },
+        {
+          "word": ".40pm,",
+          "start": 151.68,
+          "end": 152.44,
+          "probability": 0.7896
+        },
+        {
+          "word": " been",
+          "start": 152.88,
+          "end": 152.92,
+          "probability": 0.8786
+        },
+        {
+          "word": " flown",
+          "start": 152.92,
+          "end": 153.16,
+          "probability": 0.9967
+        },
+        {
+          "word": " to",
+          "start": 153.16,
+          "end": 153.34,
+          "probability": 0.9974
+        },
+        {
+          "word": " Louisville,",
+          "start": 153.34,
+          "end": 153.82,
+          "probability": 0.9172
+        }
+      ]
+    },
+    {
+      "start": 154.08,
+      "end": 157.9,
+      "text": "sorted through the company's hub, then flown to Miami, arriving at 5.50am.",
+      "avg_log_prob": -0.1172,
+      "words": [
+        {
+          "word": " sorted",
+          "start": 154.08,
+          "end": 154.22,
+          "probability": 0.9264
+        },
+        {
+          "word": " through",
+          "start": 154.22,
+          "end": 154.42,
+          "probability": 0.9917
+        },
+        {
+          "word": " the",
+          "start": 154.42,
+          "end": 154.52,
+          "probability": 0.9927
+        },
+        {
+          "word": " company's",
+          "start": 154.52,
+          "end": 154.96,
+          "probability": 0.9857
+        },
+        {
+          "word": " hub,",
+          "start": 154.96,
+          "end": 155.1,
+          "probability": 0.9926
+        },
+        {
+          "word": " then",
+          "start": 155.42,
+          "end": 155.52,
+          "probability": 0.9798
+        },
+        {
+          "word": " flown",
+          "start": 155.52,
+          "end": 155.76,
+          "probability": 0.9473
+        },
+        {
+          "word": " to",
+          "start": 155.76,
+          "end": 155.92,
+          "probability": 0.996
+        },
+        {
+          "word": " Miami,",
+          "start": 155.92,
+          "end": 156.28,
+          "probability": 0.9999
+        },
+        {
+          "word": " arriving",
+          "start": 156.6,
+          "end": 156.76,
+          "probability": 0.9668
+        },
+        {
+          "word": " at",
+          "start": 156.76,
+          "end": 156.96,
+          "probability": 0.9988
+        },
+        {
+          "word": " 5",
+          "start": 156.96,
+          "end": 157.16,
+          "probability": 0.9856
+        },
+        {
+          "word": ".50am.",
+          "start": 157.16,
+          "end": 157.9,
+          "probability": 0.9802
+        }
+      ]
+    },
+    {
+      "start": 157.9,
+      "end": 161.34,
+      "text": "FedEx would have done roughly the same just through Memphis instead.",
+      "avg_log_prob": -0.0932,
+      "words": [
+        {
+          "word": " FedEx",
+          "start": 157.9,
+          "end": 158.8,
+          "probability": 0.9215
+        },
+        {
+          "word": " would",
+          "start": 158.8,
+          "end": 158.94,
+          "probability": 0.9498
+        },
+        {
+          "word": " have",
+          "start": 158.94,
+          "end": 159.06,
+          "probability": 0.79
+        },
+        {
+          "word": " done",
+          "start": 159.06,
+          "end": 159.16,
+          "probability": 0.9844
+        },
+        {
+          "word": " roughly",
+          "start": 159.16,
+          "end": 159.46,
+          "probability": 0.9746
+        },
+        {
+          "word": " the",
+          "start": 159.46,
+          "end": 159.66,
+          "probability": 0.9957
+        },
+        {
+          "word": " same",
+          "start": 159.66,
+          "end": 159.96,
+          "probability": 0.9995
+        },
+        {
+          "word": " just",
+          "start": 159.96,
+          "end": 160.3,
+          "probability": 0.6091
+        },
+        {
+          "word": " through",
+          "start": 160.3,
+          "end": 160.52,
+          "probability": 0.9872
+        },
+        {
+          "word": " Memphis",
+          "start": 160.52,
+          "end": 160.78,
+          "probability": 0.9313
+        },
+        {
+          "word": " instead.",
+          "start": 160.78,
+          "end": 161.34,
+          "probability": 0.9303
+        }
+      ]
+    },
+    {
+      "start": 161.84,
+      "end": 166.44,
+      "text": "That's because FedEx, UPS, and most other major delivery companies are oriented towards",
+      "avg_log_prob": -0.0932,
+      "words": [
+        {
+          "word": " That's",
+          "start": 161.84,
+          "end": 162.12,
+          "probability": 0.9761
+        },
+        {
+          "word": " because",
+          "start": 162.12,
+          "end": 162.3,
+          "probability": 0.9936
+        },
+        {
+          "word": " FedEx,",
+          "start": 162.3,
+          "end": 162.9,
+          "probability": 0.9941
+        },
+        {
+          "word": " UPS,",
+          "start": 163.08,
+          "end": 163.34,
+          "probability": 0.9673
+        },
+        {
+          "word": " and",
+          "start": 163.6,
+          "end": 163.7,
+          "probability": 0.9934
+        },
+        {
+          "word": " most",
+          "start": 163.7,
+          "end": 163.98,
+          "probability": 0.9952
+        },
+        {
+          "word": " other",
+          "start": 163.98,
+          "end": 164.26,
+          "probability": 0.9818
+        },
+        {
+          "word": " major",
+          "start": 164.26,
+          "end": 164.52,
+          "probability": 0.9962
+        },
+        {
+          "word": " delivery",
+          "start": 164.52,
+          "end": 164.82,
+          "probability": 0.9975
+        },
+        {
+          "word": " companies",
+          "start": 164.82,
+          "end": 165.36,
+          "probability": 0.9931
+        },
+        {
+          "word": " are",
+          "start": 165.36,
+          "end": 165.64,
+          "probability": 0.9893
+        },
+        {
+          "word": " oriented",
+          "start": 165.64,
+          "end": 166.1,
+          "probability": 0.99
+        },
+        {
+          "word": " towards",
+          "start": 166.1,
+          "end": 166.44,
+          "probability": 0.8353
+        }
+      ]
+    },
+    {
+      "start": 166.44,
+      "end": 171.02,
+      "text": "overnight delivery. They make a big chunk of their money charging big rates to take a package",
+      "avg_log_prob": -0.0932,
+      "words": [
+        {
+          "word": " overnight",
+          "start": 166.44,
+          "end": 166.94,
+          "probability": 0.9627
+        },
+        {
+          "word": " delivery.",
+          "start": 166.94,
+          "end": 167.36,
+          "probability": 0.9973
+        },
+        {
+          "word": " They",
+          "start": 167.68,
+          "end": 167.84,
+          "probability": 0.9941
+        },
+        {
+          "word": " make",
+          "start": 167.84,
+          "end": 167.98,
+          "probability": 0.9971
+        },
+        {
+          "word": " a",
+          "start": 167.98,
+          "end": 168.2,
+          "probability": 0.9867
+        },
+        {
+          "word": " big",
+          "start": 168.2,
+          "end": 168.48,
+          "probability": 0.9895
+        },
+        {
+          "word": " chunk",
+          "start": 168.48,
+          "end": 168.68,
+          "probability": 0.9995
+        },
+        {
+          "word": " of",
+          "start": 168.68,
+          "end": 168.82,
+          "probability": 0.9946
+        },
+        {
+          "word": " their",
+          "start": 168.82,
+          "end": 168.98,
+          "probability": 0.9969
+        },
+        {
+          "word": " money",
+          "start": 168.98,
+          "end": 169.22,
+          "probability": 0.9985
+        },
+        {
+          "word": " charging",
+          "start": 169.22,
+          "end": 169.58,
+          "probability": 0.3276
+        },
+        {
+          "word": " big",
+          "start": 169.58,
+          "end": 169.96,
+          "probability": 0.9599
+        },
+        {
+          "word": " rates",
+          "start": 169.96,
+          "end": 170.2,
+          "probability": 0.9764
+        },
+        {
+          "word": " to",
+          "start": 170.2,
+          "end": 170.46,
+          "probability": 0.9954
+        },
+        {
+          "word": " take",
+          "start": 170.46,
+          "end": 170.6,
+          "probability": 0.9936
+        },
+        {
+          "word": " a",
+          "start": 170.6,
+          "end": 170.7,
+          "probability": 0.9882
+        },
+        {
+          "word": " package",
+          "start": 170.7,
+          "end": 171.02,
+          "probability": 0.9978
+        }
+      ]
+    },
+    {
+      "start": 171.02,
+      "end": 174.84,
+      "text": "from one part of the U.S. one day and deliver it to another the next day.",
+      "avg_log_prob": -0.0932,
+      "words": [
+        {
+          "word": " from",
+          "start": 171.02,
+          "end": 171.3,
+          "probability": 0.9912
+        },
+        {
+          "word": " one",
+          "start": 171.3,
+          "end": 171.52,
+          "probability": 0.9758
+        },
+        {
+          "word": " part",
+          "start": 171.52,
+          "end": 171.7,
+          "probability": 0.9882
+        },
+        {
+          "word": " of",
+          "start": 171.7,
+          "end": 171.82,
+          "probability": 0.9956
+        },
+        {
+          "word": " the",
+          "start": 171.82,
+          "end": 171.9,
+          "probability": 0.993
+        },
+        {
+          "word": " U",
+          "start": 171.9,
+          "end": 172.04,
+          "probability": 0.5033
+        },
+        {
+          "word": ".S.",
+          "start": 172.04,
+          "end": 172.16,
+          "probability": 0.9942
+        },
+        {
+          "word": " one",
+          "start": 172.28,
+          "end": 172.46,
+          "probability": 0.8869
+        },
+        {
+          "word": " day",
+          "start": 172.46,
+          "end": 172.72,
+          "probability": 0.9925
+        },
+        {
+          "word": " and",
+          "start": 172.72,
+          "end": 173.12,
+          "probability": 0.8763
+        },
+        {
+          "word": " deliver",
+          "start": 173.12,
+          "end": 173.34,
+          "probability": 0.9888
+        },
+        {
+          "word": " it",
+          "start": 173.34,
+          "end": 173.56,
+          "probability": 0.9399
+        },
+        {
+          "word": " to",
+          "start": 173.56,
+          "end": 173.66,
+          "probability": 0.9929
+        },
+        {
+          "word": " another",
+          "start": 173.66,
+          "end": 173.98,
+          "probability": 0.9921
+        },
+        {
+          "word": " the",
+          "start": 173.98,
+          "end": 174.34,
+          "probability": 0.9668
+        },
+        {
+          "word": " next",
+          "start": 174.34,
+          "end": 174.6,
+          "probability": 0.9993
+        },
+        {
+          "word": " day.",
+          "start": 174.6,
+          "end": 174.84,
+          "probability": 0.9978
+        }
+      ]
+    },
+    {
+      "start": 175.26,
+      "end": 179.78,
+      "text": "Amazon, meanwhile, built their prime brand off the promise of two-day delivery,",
+      "avg_log_prob": -0.0932,
+      "words": [
+        {
+          "word": " Amazon,",
+          "start": 175.26,
+          "end": 175.56,
+          "probability": 0.9926
+        },
+        {
+          "word": " meanwhile,",
+          "start": 175.7,
+          "end": 176.1,
+          "probability": 0.9931
+        },
+        {
+          "word": " built",
+          "start": 176.12,
+          "end": 176.52,
+          "probability": 0.9868
+        },
+        {
+          "word": " their",
+          "start": 176.52,
+          "end": 176.84,
+          "probability": 0.9968
+        },
+        {
+          "word": " prime",
+          "start": 176.84,
+          "end": 177.2,
+          "probability": 0.9315
+        },
+        {
+          "word": " brand",
+          "start": 177.2,
+          "end": 177.5,
+          "probability": 0.9916
+        },
+        {
+          "word": " off",
+          "start": 177.5,
+          "end": 177.88,
+          "probability": 0.9773
+        },
+        {
+          "word": " the",
+          "start": 177.88,
+          "end": 178.0,
+          "probability": 0.9901
+        },
+        {
+          "word": " promise",
+          "start": 178.0,
+          "end": 178.32,
+          "probability": 0.9726
+        },
+        {
+          "word": " of",
+          "start": 178.32,
+          "end": 178.62,
+          "probability": 0.9974
+        },
+        {
+          "word": " two",
+          "start": 178.62,
+          "end": 178.96,
+          "probability": 0.835
+        },
+        {
+          "word": "-day",
+          "start": 178.96,
+          "end": 179.28,
+          "probability": 0.7608
+        },
+        {
+          "word": " delivery,",
+          "start": 179.28,
+          "end": 179.78,
+          "probability": 0.9989
+        }
+      ]
+    },
+    {
+      "start": 180.28,
+      "end": 183.66,
+      "text": "ordering a package on a Monday and getting it on a Wednesday, for example.",
+      "avg_log_prob": -0.0932,
+      "words": [
+        {
+          "word": " ordering",
+          "start": 180.28,
+          "end": 180.56,
+          "probability": 0.9932
+        },
+        {
+          "word": " a",
+          "start": 180.56,
+          "end": 180.76,
+          "probability": 0.9964
+        },
+        {
+          "word": " package",
+          "start": 180.76,
+          "end": 181.08,
+          "probability": 0.9987
+        },
+        {
+          "word": " on",
+          "start": 181.08,
+          "end": 181.3,
+          "probability": 0.9969
+        },
+        {
+          "word": " a",
+          "start": 181.3,
+          "end": 181.36,
+          "probability": 0.9889
+        },
+        {
+          "word": " Monday",
+          "start": 181.36,
+          "end": 181.66,
+          "probability": 0.9955
+        },
+        {
+          "word": " and",
+          "start": 181.66,
+          "end": 182.02,
+          "probability": 0.8301
+        },
+        {
+          "word": " getting",
+          "start": 182.02,
+          "end": 182.18,
+          "probability": 0.9795
+        },
+        {
+          "word": " it",
+          "start": 182.18,
+          "end": 182.4,
+          "probability": 0.993
+        },
+        {
+          "word": " on",
+          "start": 182.4,
+          "end": 182.54,
+          "probability": 0.997
+        },
+        {
+          "word": " a",
+          "start": 182.54,
+          "end": 182.62,
+          "probability": 0.9776
+        },
+        {
+          "word": " Wednesday,",
+          "start": 182.62,
+          "end": 182.92,
+          "probability": 0.9986
+        },
+        {
+          "word": " for",
+          "start": 183.16,
+          "end": 183.3,
+          "probability": 0.9969
+        },
+        {
+          "word": " example.",
+          "start": 183.3,
+          "end": 183.66,
+          "probability": 0.9972
+        }
+      ]
+    },
+    {
+      "start": 183.66,
+      "end": 186.86,
+      "text": "While they've sent straight from the rigidness of that system,",
+      "avg_log_prob": -0.0921,
+      "words": [
+        {
+          "word": " While",
+          "start": 183.66,
+          "end": 184.36,
+          "probability": 0.5863
+        },
+        {
+          "word": " they've",
+          "start": 184.36,
+          "end": 184.58,
+          "probability": 0.9606
+        },
+        {
+          "word": " sent",
+          "start": 184.58,
+          "end": 184.78,
+          "probability": 0.4235
+        },
+        {
+          "word": " straight",
+          "start": 184.78,
+          "end": 185.08,
+          "probability": 0.8805
+        },
+        {
+          "word": " from",
+          "start": 185.08,
+          "end": 185.34,
+          "probability": 0.9821
+        },
+        {
+          "word": " the",
+          "start": 185.34,
+          "end": 185.46,
+          "probability": 0.9869
+        },
+        {
+          "word": " rigidness",
+          "start": 185.46,
+          "end": 185.96,
+          "probability": 0.8562
+        },
+        {
+          "word": " of",
+          "start": 185.96,
+          "end": 186.22,
+          "probability": 0.9934
+        },
+        {
+          "word": " that",
+          "start": 186.22,
+          "end": 186.42,
+          "probability": 0.9343
+        },
+        {
+          "word": " system,",
+          "start": 186.42,
+          "end": 186.86,
+          "probability": 0.9944
+        }
+      ]
+    },
+    {
+      "start": 187.26,
+      "end": 191.6,
+      "text": "the fastest shipping they'll offer for an item not stocked at a local fulfillment center is",
+      "avg_log_prob": -0.0921,
+      "words": [
+        {
+          "word": " the",
+          "start": 187.26,
+          "end": 187.34,
+          "probability": 0.9747
+        },
+        {
+          "word": " fastest",
+          "start": 187.34,
+          "end": 187.8,
+          "probability": 0.9913
+        },
+        {
+          "word": " shipping",
+          "start": 187.8,
+          "end": 188.08,
+          "probability": 0.9579
+        },
+        {
+          "word": " they'll",
+          "start": 188.08,
+          "end": 188.34,
+          "probability": 0.9221
+        },
+        {
+          "word": " offer",
+          "start": 188.34,
+          "end": 188.62,
+          "probability": 0.9969
+        },
+        {
+          "word": " for",
+          "start": 188.62,
+          "end": 188.9,
+          "probability": 0.9921
+        },
+        {
+          "word": " an",
+          "start": 188.9,
+          "end": 189.0,
+          "probability": 0.9873
+        },
+        {
+          "word": " item",
+          "start": 189.0,
+          "end": 189.2,
+          "probability": 0.9948
+        },
+        {
+          "word": " not",
+          "start": 189.2,
+          "end": 189.5,
+          "probability": 0.9637
+        },
+        {
+          "word": " stocked",
+          "start": 189.5,
+          "end": 190.02,
+          "probability": 0.8946
+        },
+        {
+          "word": " at",
+          "start": 190.02,
+          "end": 190.08,
+          "probability": 0.9871
+        },
+        {
+          "word": " a",
+          "start": 190.08,
+          "end": 190.18,
+          "probability": 0.9633
+        },
+        {
+          "word": " local",
+          "start": 190.18,
+          "end": 190.46,
+          "probability": 0.9888
+        },
+        {
+          "word": " fulfillment",
+          "start": 190.46,
+          "end": 190.92,
+          "probability": 0.9847
+        },
+        {
+          "word": " center",
+          "start": 190.92,
+          "end": 191.28,
+          "probability": 0.9284
+        },
+        {
+          "word": " is",
+          "start": 191.28,
+          "end": 191.6,
+          "probability": 0.9607
+        }
+      ]
+    },
+    {
+      "start": 191.6,
+      "end": 196.08,
+      "text": "two days, meaning they don't have to worry about being able to get a package from Denver to Miami",
+      "avg_log_prob": -0.0921,
+      "words": [
+        {
+          "word": " two",
+          "start": 191.6,
+          "end": 191.86,
+          "probability": 0.8296
+        },
+        {
+          "word": " days,",
+          "start": 191.86,
+          "end": 192.2,
+          "probability": 0.9953
+        },
+        {
+          "word": " meaning",
+          "start": 192.48,
+          "end": 192.74,
+          "probability": 0.9943
+        },
+        {
+          "word": " they",
+          "start": 192.74,
+          "end": 192.96,
+          "probability": 0.9704
+        },
+        {
+          "word": " don't",
+          "start": 192.96,
+          "end": 193.26,
+          "probability": 0.997
+        },
+        {
+          "word": " have",
+          "start": 193.26,
+          "end": 193.36,
+          "probability": 0.9912
+        },
+        {
+          "word": " to",
+          "start": 193.36,
+          "end": 193.5,
+          "probability": 0.9958
+        },
+        {
+          "word": " worry",
+          "start": 193.5,
+          "end": 193.72,
+          "probability": 0.9994
+        },
+        {
+          "word": " about",
+          "start": 193.72,
+          "end": 193.96,
+          "probability": 0.9983
+        },
+        {
+          "word": " being",
+          "start": 193.96,
+          "end": 194.18,
+          "probability": 0.9613
+        },
+        {
+          "word": " able",
+          "start": 194.18,
+          "end": 194.42,
+          "probability": 0.9986
+        },
+        {
+          "word": " to",
+          "start": 194.42,
+          "end": 194.54,
+          "probability": 0.9961
+        },
+        {
+          "word": " get",
+          "start": 194.54,
+          "end": 194.62,
+          "probability": 0.9968
+        },
+        {
+          "word": " a",
+          "start": 194.62,
+          "end": 194.7,
+          "probability": 0.99
+        },
+        {
+          "word": " package",
+          "start": 194.7,
+          "end": 195.0,
+          "probability": 0.998
+        },
+        {
+          "word": " from",
+          "start": 195.0,
+          "end": 195.28,
+          "probability": 0.9943
+        },
+        {
+          "word": " Denver",
+          "start": 195.28,
+          "end": 195.56,
+          "probability": 0.9909
+        },
+        {
+          "word": " to",
+          "start": 195.56,
+          "end": 195.8,
+          "probability": 0.9901
+        },
+        {
+          "word": " Miami",
+          "start": 195.8,
+          "end": 196.08,
+          "probability": 0.9996
+        }
+      ]
+    },
+    {
+      "start": 196.08,
+      "end": 201.34,
+      "text": "overnight. That's why UPS and FedEx's planes take off in the evening, while Amazon's leave",
+      "avg_log_prob": -0.0921,
+      "words": [
+        {
+          "word": " overnight.",
+          "start": 196.08,
+          "end": 196.74,
+          "probability": 0.9828
+        },
+        {
+          "word": " That's",
+          "start": 197.28,
+          "end": 197.66,
+          "probability": 0.9936
+        },
+        {
+          "word": " why",
+          "start": 197.66,
+          "end": 197.78,
+          "probability": 0.9948
+        },
+        {
+          "word": " UPS",
+          "start": 197.78,
+          "end": 198.1,
+          "probability": 0.9305
+        },
+        {
+          "word": " and",
+          "start": 198.1,
+          "end": 198.32,
+          "probability": 0.7773
+        },
+        {
+          "word": " FedEx's",
+          "start": 198.32,
+          "end": 198.78,
+          "probability": 0.8438
+        },
+        {
+          "word": " planes",
+          "start": 198.78,
+          "end": 199.0,
+          "probability": 0.9735
+        },
+        {
+          "word": " take",
+          "start": 199.0,
+          "end": 199.26,
+          "probability": 0.9969
+        },
+        {
+          "word": " off",
+          "start": 199.26,
+          "end": 199.48,
+          "probability": 0.9887
+        },
+        {
+          "word": " in",
+          "start": 199.48,
+          "end": 199.68,
+          "probability": 0.9911
+        },
+        {
+          "word": " the",
+          "start": 199.68,
+          "end": 199.78,
+          "probability": 0.9982
+        },
+        {
+          "word": " evening,",
+          "start": 199.78,
+          "end": 200.14,
+          "probability": 0.9932
+        },
+        {
+          "word": " while",
+          "start": 200.42,
+          "end": 200.54,
+          "probability": 0.9879
+        },
+        {
+          "word": " Amazon's",
+          "start": 200.54,
+          "end": 201.18,
+          "probability": 0.9423
+        },
+        {
+          "word": " leave",
+          "start": 201.18,
+          "end": 201.34,
+          "probability": 0.9734
+        }
+      ]
+    },
+    {
+      "start": 201.34,
+      "end": 207.78,
+      "text": "in the morning. So, that means it's about 9am by the time that Amazon Airplane from Denver gets",
+      "avg_log_prob": -0.0921,
+      "words": [
+        {
+          "word": " in",
+          "start": 201.34,
+          "end": 201.9,
+          "probability": 0.922
+        },
+        {
+          "word": " the",
+          "start": 201.9,
+          "end": 201.94,
+          "probability": 0.9948
+        },
+        {
+          "word": " morning.",
+          "start": 201.94,
+          "end": 202.22,
+          "probability": 0.9929
+        },
+        {
+          "word": " So,",
+          "start": 202.78,
+          "end": 203.06,
+          "probability": 0.96
+        },
+        {
+          "word": " that",
+          "start": 203.3,
+          "end": 203.48,
+          "probability": 0.987
+        },
+        {
+          "word": " means",
+          "start": 203.48,
+          "end": 203.64,
+          "probability": 0.9861
+        },
+        {
+          "word": " it's",
+          "start": 203.64,
+          "end": 203.96,
+          "probability": 0.9811
+        },
+        {
+          "word": " about",
+          "start": 203.96,
+          "end": 204.1,
+          "probability": 0.9907
+        },
+        {
+          "word": " 9am",
+          "start": 204.1,
+          "end": 205.04,
+          "probability": 0.5717
+        },
+        {
+          "word": " by",
+          "start": 205.04,
+          "end": 205.34,
+          "probability": 0.8876
+        },
+        {
+          "word": " the",
+          "start": 205.34,
+          "end": 205.46,
+          "probability": 0.9941
+        },
+        {
+          "word": " time",
+          "start": 205.46,
+          "end": 205.7,
+          "probability": 0.999
+        },
+        {
+          "word": " that",
+          "start": 205.7,
+          "end": 205.84,
+          "probability": 0.821
+        },
+        {
+          "word": " Amazon",
+          "start": 205.84,
+          "end": 206.26,
+          "probability": 0.9878
+        },
+        {
+          "word": " Airplane",
+          "start": 206.26,
+          "end": 206.78,
+          "probability": 0.7468
+        },
+        {
+          "word": " from",
+          "start": 206.78,
+          "end": 207.02,
+          "probability": 0.9816
+        },
+        {
+          "word": " Denver",
+          "start": 207.02,
+          "end": 207.4,
+          "probability": 0.9992
+        },
+        {
+          "word": " gets",
+          "start": 207.4,
+          "end": 207.78,
+          "probability": 0.9775
+        }
+      ]
+    },
+    {
+      "start": 207.78,
+      "end": 213.42,
+      "text": "to Cincinnati Airport each day. Through the morning hours, a dozen or so aircraft land in",
+      "avg_log_prob": -0.0921,
+      "words": [
+        {
+          "word": " to",
+          "start": 207.78,
+          "end": 208.02,
+          "probability": 0.9881
+        },
+        {
+          "word": " Cincinnati",
+          "start": 208.02,
+          "end": 208.38,
+          "probability": 0.9979
+        },
+        {
+          "word": " Airport",
+          "start": 208.38,
+          "end": 208.94,
+          "probability": 0.6027
+        },
+        {
+          "word": " each",
+          "start": 208.94,
+          "end": 209.4,
+          "probability": 0.9795
+        },
+        {
+          "word": " day.",
+          "start": 209.4,
+          "end": 209.66,
+          "probability": 0.9976
+        },
+        {
+          "word": " Through",
+          "start": 210.24,
+          "end": 210.56,
+          "probability": 0.9734
+        },
+        {
+          "word": " the",
+          "start": 210.56,
+          "end": 210.82,
+          "probability": 0.9802
+        },
+        {
+          "word": " morning",
+          "start": 210.82,
+          "end": 211.06,
+          "probability": 0.9738
+        },
+        {
+          "word": " hours,",
+          "start": 211.06,
+          "end": 211.46,
+          "probability": 0.9948
+        },
+        {
+          "word": " a",
+          "start": 211.82,
+          "end": 211.9,
+          "probability": 0.9691
+        },
+        {
+          "word": " dozen",
+          "start": 211.9,
+          "end": 212.16,
+          "probability": 0.984
+        },
+        {
+          "word": " or",
+          "start": 212.16,
+          "end": 212.3,
+          "probability": 0.9592
+        },
+        {
+          "word": " so",
+          "start": 212.3,
+          "end": 212.46,
+          "probability": 0.9972
+        },
+        {
+          "word": " aircraft",
+          "start": 212.46,
+          "end": 212.78,
+          "probability": 0.9729
+        },
+        {
+          "word": " land",
+          "start": 212.78,
+          "end": 213.18,
+          "probability": 0.8936
+        },
+        {
+          "word": " in",
+          "start": 213.18,
+          "end": 213.42,
+          "probability": 0.8772
+        }
+      ]
+    },
+    {
+      "start": 213.42,
+      "end": 219.78,
+      "text": "Cincinnati and this timing gives the company a major advantage. Cincinnati Airport is also home",
+      "avg_log_prob": -0.0893,
+      "words": [
+        {
+          "word": " Cincinnati",
+          "start": 213.42,
+          "end": 213.8,
+          "probability": 0.7908
+        },
+        {
+          "word": " and",
+          "start": 213.8,
+          "end": 214.38,
+          "probability": 0.3848
+        },
+        {
+          "word": " this",
+          "start": 214.38,
+          "end": 214.58,
+          "probability": 0.9813
+        },
+        {
+          "word": " timing",
+          "start": 214.58,
+          "end": 214.88,
+          "probability": 0.8287
+        },
+        {
+          "word": " gives",
+          "start": 214.88,
+          "end": 215.08,
+          "probability": 0.731
+        },
+        {
+          "word": " the",
+          "start": 215.08,
+          "end": 215.26,
+          "probability": 0.937
+        },
+        {
+          "word": " company",
+          "start": 215.26,
+          "end": 215.62,
+          "probability": 0.9958
+        },
+        {
+          "word": " a",
+          "start": 215.62,
+          "end": 216.02,
+          "probability": 0.9752
+        },
+        {
+          "word": " major",
+          "start": 216.02,
+          "end": 216.56,
+          "probability": 0.9426
+        },
+        {
+          "word": " advantage.",
+          "start": 216.56,
+          "end": 217.2,
+          "probability": 0.9956
+        },
+        {
+          "word": " Cincinnati",
+          "start": 217.98,
+          "end": 218.42,
+          "probability": 0.8882
+        },
+        {
+          "word": " Airport",
+          "start": 218.42,
+          "end": 218.92,
+          "probability": 0.7528
+        },
+        {
+          "word": " is",
+          "start": 218.92,
+          "end": 219.24,
+          "probability": 0.9791
+        },
+        {
+          "word": " also",
+          "start": 219.24,
+          "end": 219.5,
+          "probability": 0.953
+        },
+        {
+          "word": " home",
+          "start": 219.5,
+          "end": 219.78,
+          "probability": 0.9924
+        }
+      ]
+    },
+    {
+      "start": 219.78,
+      "end": 226.94,
+      "text": "to DHL's main America's hub, but DHL, like FedEx and UPS, conducts its operations primarily overnight",
+      "avg_log_prob": -0.0893,
+      "words": [
+        {
+          "word": " to",
+          "start": 219.78,
+          "end": 219.94,
+          "probability": 0.9936
+        },
+        {
+          "word": " DHL's",
+          "start": 219.94,
+          "end": 220.84,
+          "probability": 0.8087
+        },
+        {
+          "word": " main",
+          "start": 220.84,
+          "end": 221.06,
+          "probability": 0.5991
+        },
+        {
+          "word": " America's",
+          "start": 221.06,
+          "end": 221.8,
+          "probability": 0.734
+        },
+        {
+          "word": " hub,",
+          "start": 221.8,
+          "end": 222.02,
+          "probability": 0.802
+        },
+        {
+          "word": " but",
+          "start": 222.38,
+          "end": 222.44,
+          "probability": 0.993
+        },
+        {
+          "word": " DHL,",
+          "start": 222.44,
+          "end": 223.04,
+          "probability": 0.9897
+        },
+        {
+          "word": " like",
+          "start": 223.26,
+          "end": 223.36,
+          "probability": 0.9926
+        },
+        {
+          "word": " FedEx",
+          "start": 223.36,
+          "end": 223.68,
+          "probability": 0.968
+        },
+        {
+          "word": " and",
+          "start": 223.68,
+          "end": 223.82,
+          "probability": 0.9408
+        },
+        {
+          "word": " UPS,",
+          "start": 223.82,
+          "end": 224.18,
+          "probability": 0.9624
+        },
+        {
+          "word": " conducts",
+          "start": 224.68,
+          "end": 225.04,
+          "probability": 0.9868
+        },
+        {
+          "word": " its",
+          "start": 225.04,
+          "end": 225.22,
+          "probability": 0.957
+        },
+        {
+          "word": " operations",
+          "start": 225.22,
+          "end": 225.8,
+          "probability": 0.9797
+        },
+        {
+          "word": " primarily",
+          "start": 225.8,
+          "end": 226.28,
+          "probability": 0.9761
+        },
+        {
+          "word": " overnight",
+          "start": 226.28,
+          "end": 226.94,
+          "probability": 0.9958
+        }
+      ]
+    },
+    {
+      "start": 226.94,
+      "end": 232.64,
+      "text": "starting at around midnight, when dozens of their aircraft from around the world land and unload.",
+      "avg_log_prob": -0.0893,
+      "words": [
+        {
+          "word": " starting",
+          "start": 226.94,
+          "end": 227.46,
+          "probability": 0.5996
+        },
+        {
+          "word": " at",
+          "start": 227.46,
+          "end": 227.66,
+          "probability": 0.9513
+        },
+        {
+          "word": " around",
+          "start": 227.66,
+          "end": 227.94,
+          "probability": 0.7446
+        },
+        {
+          "word": " midnight,",
+          "start": 227.94,
+          "end": 228.56,
+          "probability": 0.9887
+        },
+        {
+          "word": " when",
+          "start": 228.88,
+          "end": 229.06,
+          "probability": 0.9872
+        },
+        {
+          "word": " dozens",
+          "start": 229.06,
+          "end": 229.32,
+          "probability": 0.999
+        },
+        {
+          "word": " of",
+          "start": 229.32,
+          "end": 229.58,
+          "probability": 0.9948
+        },
+        {
+          "word": " their",
+          "start": 229.58,
+          "end": 229.78,
+          "probability": 0.9808
+        },
+        {
+          "word": " aircraft",
+          "start": 229.78,
+          "end": 230.2,
+          "probability": 0.9993
+        },
+        {
+          "word": " from",
+          "start": 230.2,
+          "end": 230.5,
+          "probability": 0.9619
+        },
+        {
+          "word": " around",
+          "start": 230.5,
+          "end": 231.04,
+          "probability": 0.9839
+        },
+        {
+          "word": " the",
+          "start": 231.04,
+          "end": 231.24,
+          "probability": 0.9967
+        },
+        {
+          "word": " world",
+          "start": 231.24,
+          "end": 231.5,
+          "probability": 0.9937
+        },
+        {
+          "word": " land",
+          "start": 231.5,
+          "end": 232.02,
+          "probability": 0.9457
+        },
+        {
+          "word": " and",
+          "start": 232.02,
+          "end": 232.3,
+          "probability": 0.9431
+        },
+        {
+          "word": " unload.",
+          "start": 232.3,
+          "end": 232.64,
+          "probability": 0.9912
+        }
+      ]
+    },
+    {
+      "start": 233.28,
+      "end": 237.84,
+      "text": "Over the next few hours, packages and pallets are sorted and unloaded onto other aircraft,",
+      "avg_log_prob": -0.0893,
+      "words": [
+        {
+          "word": " Over",
+          "start": 233.28,
+          "end": 233.44,
+          "probability": 0.9536
+        },
+        {
+          "word": " the",
+          "start": 233.44,
+          "end": 233.54,
+          "probability": 0.9978
+        },
+        {
+          "word": " next",
+          "start": 233.54,
+          "end": 233.68,
+          "probability": 0.9976
+        },
+        {
+          "word": " few",
+          "start": 233.68,
+          "end": 233.9,
+          "probability": 0.9976
+        },
+        {
+          "word": " hours,",
+          "start": 233.9,
+          "end": 234.26,
+          "probability": 0.9975
+        },
+        {
+          "word": " packages",
+          "start": 234.68,
+          "end": 234.9,
+          "probability": 0.9881
+        },
+        {
+          "word": " and",
+          "start": 234.9,
+          "end": 235.14,
+          "probability": 0.9671
+        },
+        {
+          "word": " pallets",
+          "start": 235.14,
+          "end": 235.5,
+          "probability": 0.8268
+        },
+        {
+          "word": " are",
+          "start": 235.5,
+          "end": 235.68,
+          "probability": 0.999
+        },
+        {
+          "word": " sorted",
+          "start": 235.68,
+          "end": 236.02,
+          "probability": 0.9514
+        },
+        {
+          "word": " and",
+          "start": 236.02,
+          "end": 236.28,
+          "probability": 0.9984
+        },
+        {
+          "word": " unloaded",
+          "start": 236.28,
+          "end": 236.74,
+          "probability": 0.9954
+        },
+        {
+          "word": " onto",
+          "start": 236.74,
+          "end": 237.0,
+          "probability": 0.9143
+        },
+        {
+          "word": " other",
+          "start": 237.0,
+          "end": 237.4,
+          "probability": 0.9907
+        },
+        {
+          "word": " aircraft,",
+          "start": 237.4,
+          "end": 237.84,
+          "probability": 0.9983
+        }
+      ]
+    },
+    {
+      "start": 237.84,
+      "end": 244.28,
+      "text": "which all tend to take off by 8am. That means DHL only really uses their facility during the overnight",
+      "avg_log_prob": -0.0989,
+      "words": [
+        {
+          "word": " which",
+          "start": 237.84,
+          "end": 238.4,
+          "probability": 0.478
+        },
+        {
+          "word": " all",
+          "start": 238.4,
+          "end": 238.58,
+          "probability": 0.8878
+        },
+        {
+          "word": " tend",
+          "start": 238.58,
+          "end": 238.8,
+          "probability": 0.9849
+        },
+        {
+          "word": " to",
+          "start": 238.8,
+          "end": 238.9,
+          "probability": 0.9904
+        },
+        {
+          "word": " take",
+          "start": 238.9,
+          "end": 239.12,
+          "probability": 0.9965
+        },
+        {
+          "word": " off",
+          "start": 239.12,
+          "end": 239.36,
+          "probability": 0.9829
+        },
+        {
+          "word": " by",
+          "start": 239.36,
+          "end": 239.6,
+          "probability": 0.9905
+        },
+        {
+          "word": " 8am.",
+          "start": 239.6,
+          "end": 240.06,
+          "probability": 0.5812
+        },
+        {
+          "word": " That",
+          "start": 240.56,
+          "end": 240.8,
+          "probability": 0.9867
+        },
+        {
+          "word": " means",
+          "start": 240.8,
+          "end": 241.02,
+          "probability": 0.9931
+        },
+        {
+          "word": " DHL",
+          "start": 241.02,
+          "end": 241.62,
+          "probability": 0.8967
+        },
+        {
+          "word": " only",
+          "start": 241.62,
+          "end": 241.94,
+          "probability": 0.9986
+        },
+        {
+          "word": " really",
+          "start": 241.94,
+          "end": 242.2,
+          "probability": 0.9649
+        },
+        {
+          "word": " uses",
+          "start": 242.2,
+          "end": 242.54,
+          "probability": 0.9962
+        },
+        {
+          "word": " their",
+          "start": 242.54,
+          "end": 242.82,
+          "probability": 0.9946
+        },
+        {
+          "word": " facility",
+          "start": 242.82,
+          "end": 243.3,
+          "probability": 0.9798
+        },
+        {
+          "word": " during",
+          "start": 243.3,
+          "end": 243.64,
+          "probability": 0.9927
+        },
+        {
+          "word": " the",
+          "start": 243.64,
+          "end": 243.86,
+          "probability": 0.9859
+        },
+        {
+          "word": " overnight",
+          "start": 243.86,
+          "end": 244.28,
+          "probability": 0.979
+        }
+      ]
+    },
+    {
+      "start": 244.28,
+      "end": 251.04,
+      "text": "hours, so Amazon leases it for daytime use. While Amazon is building their own larger facility",
+      "avg_log_prob": -0.0989,
+      "words": [
+        {
+          "word": " hours,",
+          "start": 244.28,
+          "end": 244.84,
+          "probability": 0.998
+        },
+        {
+          "word": " so",
+          "start": 245.22,
+          "end": 245.32,
+          "probability": 0.9953
+        },
+        {
+          "word": " Amazon",
+          "start": 245.32,
+          "end": 245.74,
+          "probability": 0.9817
+        },
+        {
+          "word": " leases",
+          "start": 245.74,
+          "end": 246.3,
+          "probability": 0.9864
+        },
+        {
+          "word": " it",
+          "start": 246.3,
+          "end": 246.6,
+          "probability": 0.9961
+        },
+        {
+          "word": " for",
+          "start": 246.6,
+          "end": 246.94,
+          "probability": 0.9884
+        },
+        {
+          "word": " daytime",
+          "start": 246.94,
+          "end": 247.2,
+          "probability": 0.9013
+        },
+        {
+          "word": " use.",
+          "start": 247.2,
+          "end": 247.8,
+          "probability": 0.9971
+        },
+        {
+          "word": " While",
+          "start": 248.26,
+          "end": 248.4,
+          "probability": 0.9751
+        },
+        {
+          "word": " Amazon",
+          "start": 248.4,
+          "end": 248.7,
+          "probability": 0.996
+        },
+        {
+          "word": " is",
+          "start": 248.7,
+          "end": 249.1,
+          "probability": 0.9965
+        },
+        {
+          "word": " building",
+          "start": 249.1,
+          "end": 249.42,
+          "probability": 0.9982
+        },
+        {
+          "word": " their",
+          "start": 249.42,
+          "end": 249.68,
+          "probability": 0.997
+        },
+        {
+          "word": " own",
+          "start": 249.68,
+          "end": 250.12,
+          "probability": 0.9978
+        },
+        {
+          "word": " larger",
+          "start": 250.12,
+          "end": 250.46,
+          "probability": 0.944
+        },
+        {
+          "word": " facility",
+          "start": 250.46,
+          "end": 251.04,
+          "probability": 0.9958
+        }
+      ]
+    },
+    {
+      "start": 251.04,
+      "end": 258.36,
+      "text": "at Cincinnati Airport, this partnership gave them a huge head start. So, each day, between 8am and 4pm,",
+      "avg_log_prob": -0.0989,
+      "words": [
+        {
+          "word": " at",
+          "start": 251.04,
+          "end": 251.32,
+          "probability": 0.9701
+        },
+        {
+          "word": " Cincinnati",
+          "start": 251.32,
+          "end": 251.64,
+          "probability": 0.993
+        },
+        {
+          "word": " Airport,",
+          "start": 251.64,
+          "end": 252.2,
+          "probability": 0.6912
+        },
+        {
+          "word": " this",
+          "start": 252.68,
+          "end": 252.82,
+          "probability": 0.9948
+        },
+        {
+          "word": " partnership",
+          "start": 252.82,
+          "end": 253.3,
+          "probability": 0.9971
+        },
+        {
+          "word": " gave",
+          "start": 253.3,
+          "end": 253.58,
+          "probability": 0.9933
+        },
+        {
+          "word": " them",
+          "start": 253.58,
+          "end": 253.84,
+          "probability": 0.998
+        },
+        {
+          "word": " a",
+          "start": 253.84,
+          "end": 254.22,
+          "probability": 0.9884
+        },
+        {
+          "word": " huge",
+          "start": 254.22,
+          "end": 254.68,
+          "probability": 0.9854
+        },
+        {
+          "word": " head",
+          "start": 254.68,
+          "end": 254.9,
+          "probability": 0.9437
+        },
+        {
+          "word": " start.",
+          "start": 254.9,
+          "end": 255.18,
+          "probability": 0.9532
+        },
+        {
+          "word": " So,",
+          "start": 255.8,
+          "end": 256.04,
+          "probability": 0.9856
+        },
+        {
+          "word": " each",
+          "start": 256.34,
+          "end": 256.54,
+          "probability": 0.9949
+        },
+        {
+          "word": " day,",
+          "start": 256.54,
+          "end": 256.82,
+          "probability": 0.9982
+        },
+        {
+          "word": " between",
+          "start": 257.12,
+          "end": 257.3,
+          "probability": 0.9969
+        },
+        {
+          "word": " 8am",
+          "start": 257.3,
+          "end": 257.76,
+          "probability": 0.9429
+        },
+        {
+          "word": " and",
+          "start": 257.76,
+          "end": 257.9,
+          "probability": 0.986
+        },
+        {
+          "word": " 4pm,",
+          "start": 257.9,
+          "end": 258.36,
+          "probability": 0.9445
+        }
+      ]
+    },
+    {
+      "start": 258.8,
+      "end": 262.88,
+      "text": "Amazon's there, turning their planes around and sorting pallets from where they come from,",
+      "avg_log_prob": -0.0989,
+      "words": [
+        {
+          "word": " Amazon's",
+          "start": 258.8,
+          "end": 259.28,
+          "probability": 0.9342
+        },
+        {
+          "word": " there,",
+          "start": 259.28,
+          "end": 259.48,
+          "probability": 0.9337
+        },
+        {
+          "word": " turning",
+          "start": 259.8,
+          "end": 259.98,
+          "probability": 0.9946
+        },
+        {
+          "word": " their",
+          "start": 259.98,
+          "end": 260.16,
+          "probability": 0.9966
+        },
+        {
+          "word": " planes",
+          "start": 260.16,
+          "end": 260.36,
+          "probability": 0.9743
+        },
+        {
+          "word": " around",
+          "start": 260.36,
+          "end": 260.74,
+          "probability": 0.9978
+        },
+        {
+          "word": " and",
+          "start": 260.74,
+          "end": 261.3,
+          "probability": 0.2193
+        },
+        {
+          "word": " sorting",
+          "start": 261.3,
+          "end": 261.58,
+          "probability": 0.9883
+        },
+        {
+          "word": " pallets",
+          "start": 261.58,
+          "end": 261.98,
+          "probability": 0.8088
+        },
+        {
+          "word": " from",
+          "start": 261.98,
+          "end": 262.14,
+          "probability": 0.9911
+        },
+        {
+          "word": " where",
+          "start": 262.14,
+          "end": 262.3,
+          "probability": 0.9963
+        },
+        {
+          "word": " they",
+          "start": 262.3,
+          "end": 262.42,
+          "probability": 0.9943
+        },
+        {
+          "word": " come",
+          "start": 262.42,
+          "end": 262.58,
+          "probability": 0.9935
+        },
+        {
+          "word": " from,",
+          "start": 262.58,
+          "end": 262.88,
+          "probability": 0.9903
+        }
+      ]
+    },
+    {
+      "start": 262.88,
+      "end": 269.64,
+      "text": "like Denver, to where they need to go, like Miami. That Miami flight takes off each weekday at 2.15pm,",
+      "avg_log_prob": -0.135,
+      "words": [
+        {
+          "word": " like",
+          "start": 262.88,
+          "end": 263.22,
+          "probability": 0.5565
+        },
+        {
+          "word": " Denver,",
+          "start": 263.22,
+          "end": 263.54,
+          "probability": 0.9936
+        },
+        {
+          "word": " to",
+          "start": 263.94,
+          "end": 264.0,
+          "probability": 0.8878
+        },
+        {
+          "word": " where",
+          "start": 264.0,
+          "end": 264.14,
+          "probability": 0.9967
+        },
+        {
+          "word": " they",
+          "start": 264.14,
+          "end": 264.3,
+          "probability": 0.9937
+        },
+        {
+          "word": " need",
+          "start": 264.3,
+          "end": 264.42,
+          "probability": 0.9622
+        },
+        {
+          "word": " to",
+          "start": 264.42,
+          "end": 264.56,
+          "probability": 0.9927
+        },
+        {
+          "word": " go,",
+          "start": 264.56,
+          "end": 264.78,
+          "probability": 0.9917
+        },
+        {
+          "word": " like",
+          "start": 265.18,
+          "end": 265.32,
+          "probability": 0.9885
+        },
+        {
+          "word": " Miami.",
+          "start": 265.32,
+          "end": 265.64,
+          "probability": 0.9985
+        },
+        {
+          "word": " That",
+          "start": 266.14,
+          "end": 266.4,
+          "probability": 0.9562
+        },
+        {
+          "word": " Miami",
+          "start": 266.4,
+          "end": 266.86,
+          "probability": 0.9713
+        },
+        {
+          "word": " flight",
+          "start": 266.86,
+          "end": 267.3,
+          "probability": 0.8245
+        },
+        {
+          "word": " takes",
+          "start": 267.3,
+          "end": 267.62,
+          "probability": 0.985
+        },
+        {
+          "word": " off",
+          "start": 267.62,
+          "end": 267.84,
+          "probability": 0.9792
+        },
+        {
+          "word": " each",
+          "start": 267.84,
+          "end": 268.08,
+          "probability": 0.9758
+        },
+        {
+          "word": " weekday",
+          "start": 268.08,
+          "end": 268.54,
+          "probability": 0.959
+        },
+        {
+          "word": " at",
+          "start": 268.54,
+          "end": 268.78,
+          "probability": 0.9887
+        },
+        {
+          "word": " 2",
+          "start": 268.78,
+          "end": 268.96,
+          "probability": 0.7944
+        },
+        {
+          "word": ".15pm,",
+          "start": 268.96,
+          "end": 269.64,
+          "probability": 0.6597
+        }
+      ]
+    },
+    {
+      "start": 270.04,
+      "end": 276.92,
+      "text": "and then it lands in Florida just before 5pm Eastern time. Now, not every Amazon Air itinerary",
+      "avg_log_prob": -0.135,
+      "words": [
+        {
+          "word": " and",
+          "start": 270.04,
+          "end": 270.1,
+          "probability": 0.9716
+        },
+        {
+          "word": " then",
+          "start": 270.1,
+          "end": 270.2,
+          "probability": 0.9188
+        },
+        {
+          "word": " it",
+          "start": 270.2,
+          "end": 270.32,
+          "probability": 0.7496
+        },
+        {
+          "word": " lands",
+          "start": 270.32,
+          "end": 270.48,
+          "probability": 0.99
+        },
+        {
+          "word": " in",
+          "start": 270.48,
+          "end": 270.62,
+          "probability": 0.971
+        },
+        {
+          "word": " Florida",
+          "start": 270.62,
+          "end": 270.96,
+          "probability": 0.996
+        },
+        {
+          "word": " just",
+          "start": 270.96,
+          "end": 271.3,
+          "probability": 0.9349
+        },
+        {
+          "word": " before",
+          "start": 271.3,
+          "end": 271.56,
+          "probability": 0.9951
+        },
+        {
+          "word": " 5pm",
+          "start": 271.56,
+          "end": 272.24,
+          "probability": 0.9311
+        },
+        {
+          "word": " Eastern",
+          "start": 272.24,
+          "end": 272.76,
+          "probability": 0.239
+        },
+        {
+          "word": " time.",
+          "start": 272.76,
+          "end": 273.08,
+          "probability": 0.5771
+        },
+        {
+          "word": " Now,",
+          "start": 274.08,
+          "end": 274.28,
+          "probability": 0.9249
+        },
+        {
+          "word": " not",
+          "start": 274.6,
+          "end": 274.9,
+          "probability": 0.9601
+        },
+        {
+          "word": " every",
+          "start": 274.9,
+          "end": 275.4,
+          "probability": 0.992
+        },
+        {
+          "word": " Amazon",
+          "start": 275.4,
+          "end": 275.86,
+          "probability": 0.9794
+        },
+        {
+          "word": " Air",
+          "start": 275.86,
+          "end": 276.22,
+          "probability": 0.556
+        },
+        {
+          "word": " itinerary",
+          "start": 276.22,
+          "end": 276.92,
+          "probability": 0.8013
+        }
+      ]
+    },
+    {
+      "start": 276.92,
+      "end": 282.4,
+      "text": "looks like this. In fact, while UBS and FedEx route almost all of their flights through their",
+      "avg_log_prob": -0.135,
+      "words": [
+        {
+          "word": " looks",
+          "start": 276.92,
+          "end": 277.32,
+          "probability": 0.9802
+        },
+        {
+          "word": " like",
+          "start": 277.32,
+          "end": 277.64,
+          "probability": 0.9974
+        },
+        {
+          "word": " this.",
+          "start": 277.64,
+          "end": 277.94,
+          "probability": 0.994
+        },
+        {
+          "word": " In",
+          "start": 278.42,
+          "end": 278.56,
+          "probability": 0.9909
+        },
+        {
+          "word": " fact,",
+          "start": 278.56,
+          "end": 278.84,
+          "probability": 0.9961
+        },
+        {
+          "word": " while",
+          "start": 279.14,
+          "end": 279.26,
+          "probability": 0.8979
+        },
+        {
+          "word": " UBS",
+          "start": 279.26,
+          "end": 279.66,
+          "probability": 0.9641
+        },
+        {
+          "word": " and",
+          "start": 279.66,
+          "end": 279.94,
+          "probability": 0.9122
+        },
+        {
+          "word": " FedEx",
+          "start": 279.94,
+          "end": 280.32,
+          "probability": 0.9307
+        },
+        {
+          "word": " route",
+          "start": 280.32,
+          "end": 280.52,
+          "probability": 0.9209
+        },
+        {
+          "word": " almost",
+          "start": 280.52,
+          "end": 280.98,
+          "probability": 0.9913
+        },
+        {
+          "word": " all",
+          "start": 280.98,
+          "end": 281.36,
+          "probability": 0.9845
+        },
+        {
+          "word": " of",
+          "start": 281.36,
+          "end": 281.54,
+          "probability": 0.9269
+        },
+        {
+          "word": " their",
+          "start": 281.54,
+          "end": 281.66,
+          "probability": 0.996
+        },
+        {
+          "word": " flights",
+          "start": 281.66,
+          "end": 281.96,
+          "probability": 0.9927
+        },
+        {
+          "word": " through",
+          "start": 281.96,
+          "end": 282.22,
+          "probability": 0.9624
+        },
+        {
+          "word": " their",
+          "start": 282.22,
+          "end": 282.4,
+          "probability": 0.9909
+        }
+      ]
+    },
+    {
+      "start": 282.4,
+      "end": 286.64,
+      "text": "Louisville and Memphis super hubs, or through some of their secondary hubs across the country,",
+      "avg_log_prob": -0.135,
+      "words": [
+        {
+          "word": " Louisville",
+          "start": 282.4,
+          "end": 282.94,
+          "probability": 0.8208
+        },
+        {
+          "word": " and",
+          "start": 282.94,
+          "end": 283.14,
+          "probability": 0.9845
+        },
+        {
+          "word": " Memphis",
+          "start": 283.14,
+          "end": 283.4,
+          "probability": 0.9495
+        },
+        {
+          "word": " super",
+          "start": 283.4,
+          "end": 283.8,
+          "probability": 0.5174
+        },
+        {
+          "word": " hubs,",
+          "start": 283.8,
+          "end": 284.08,
+          "probability": 0.8578
+        },
+        {
+          "word": " or",
+          "start": 284.38,
+          "end": 284.48,
+          "probability": 0.9882
+        },
+        {
+          "word": " through",
+          "start": 284.48,
+          "end": 284.72,
+          "probability": 0.9923
+        },
+        {
+          "word": " some",
+          "start": 284.72,
+          "end": 284.92,
+          "probability": 0.9852
+        },
+        {
+          "word": " of",
+          "start": 284.92,
+          "end": 285.04,
+          "probability": 0.9949
+        },
+        {
+          "word": " their",
+          "start": 285.04,
+          "end": 285.16,
+          "probability": 0.994
+        },
+        {
+          "word": " secondary",
+          "start": 285.16,
+          "end": 285.52,
+          "probability": 0.985
+        },
+        {
+          "word": " hubs",
+          "start": 285.52,
+          "end": 285.8,
+          "probability": 0.9978
+        },
+        {
+          "word": " across",
+          "start": 285.8,
+          "end": 286.1,
+          "probability": 0.9876
+        },
+        {
+          "word": " the",
+          "start": 286.1,
+          "end": 286.32,
+          "probability": 0.998
+        },
+        {
+          "word": " country,",
+          "start": 286.32,
+          "end": 286.64,
+          "probability": 0.9948
+        }
+      ]
+    },
+    {
+      "start": 286.94,
+      "end": 292.22,
+      "text": "only 20% of Amazon Air's flights go through their main Cincinnati hub. That's because,",
+      "avg_log_prob": -0.135,
+      "words": [
+        {
+          "word": " only",
+          "start": 286.94,
+          "end": 287.06,
+          "probability": 0.9884
+        },
+        {
+          "word": " 20",
+          "start": 287.06,
+          "end": 287.52,
+          "probability": 0.9739
+        },
+        {
+          "word": "%",
+          "start": 287.52,
+          "end": 287.84,
+          "probability": 0.8941
+        },
+        {
+          "word": " of",
+          "start": 287.84,
+          "end": 288.1,
+          "probability": 0.9953
+        },
+        {
+          "word": " Amazon",
+          "start": 288.1,
+          "end": 288.44,
+          "probability": 0.9899
+        },
+        {
+          "word": " Air's",
+          "start": 288.44,
+          "end": 289.0,
+          "probability": 0.7898
+        },
+        {
+          "word": " flights",
+          "start": 289.0,
+          "end": 289.24,
+          "probability": 0.9939
+        },
+        {
+          "word": " go",
+          "start": 289.24,
+          "end": 289.54,
+          "probability": 0.9929
+        },
+        {
+          "word": " through",
+          "start": 289.54,
+          "end": 289.72,
+          "probability": 0.9869
+        },
+        {
+          "word": " their",
+          "start": 289.72,
+          "end": 290.02,
+          "probability": 0.9891
+        },
+        {
+          "word": " main",
+          "start": 290.02,
+          "end": 290.42,
+          "probability": 0.9362
+        },
+        {
+          "word": " Cincinnati",
+          "start": 290.42,
+          "end": 290.82,
+          "probability": 0.9959
+        },
+        {
+          "word": " hub.",
+          "start": 290.82,
+          "end": 291.26,
+          "probability": 0.9673
+        },
+        {
+          "word": " That's",
+          "start": 291.64,
+          "end": 291.94,
+          "probability": 0.9924
+        },
+        {
+          "word": " because,",
+          "start": 291.94,
+          "end": 292.22,
+          "probability": 0.996
+        }
+      ]
+    },
+    {
+      "start": 292.22,
+      "end": 299.12,
+      "text": "with their orientation towards two day delivery versus one, they just have more time. The more time",
+      "avg_log_prob": -0.1821,
+      "words": [
+        {
+          "word": " with",
+          "start": 292.22,
+          "end": 292.84,
+          "probability": 0.5457
+        },
+        {
+          "word": " their",
+          "start": 292.84,
+          "end": 293.04,
+          "probability": 0.9828
+        },
+        {
+          "word": " orientation",
+          "start": 293.04,
+          "end": 293.64,
+          "probability": 0.991
+        },
+        {
+          "word": " towards",
+          "start": 293.64,
+          "end": 293.92,
+          "probability": 0.9256
+        },
+        {
+          "word": " two",
+          "start": 293.92,
+          "end": 294.22,
+          "probability": 0.6721
+        },
+        {
+          "word": " day",
+          "start": 294.22,
+          "end": 294.36,
+          "probability": 0.258
+        },
+        {
+          "word": " delivery",
+          "start": 294.36,
+          "end": 294.7,
+          "probability": 0.9981
+        },
+        {
+          "word": " versus",
+          "start": 294.7,
+          "end": 295.1,
+          "probability": 0.8091
+        },
+        {
+          "word": " one,",
+          "start": 295.1,
+          "end": 295.44,
+          "probability": 0.9738
+        },
+        {
+          "word": " they",
+          "start": 295.82,
+          "end": 296.0,
+          "probability": 0.9952
+        },
+        {
+          "word": " just",
+          "start": 296.0,
+          "end": 296.28,
+          "probability": 0.9889
+        },
+        {
+          "word": " have",
+          "start": 296.28,
+          "end": 296.76,
+          "probability": 0.9959
+        },
+        {
+          "word": " more",
+          "start": 296.76,
+          "end": 297.2,
+          "probability": 0.9714
+        },
+        {
+          "word": " time.",
+          "start": 297.2,
+          "end": 297.7,
+          "probability": 0.9955
+        },
+        {
+          "word": " The",
+          "start": 298.34,
+          "end": 298.7,
+          "probability": 0.9886
+        },
+        {
+          "word": " more",
+          "start": 298.7,
+          "end": 298.82,
+          "probability": 0.9961
+        },
+        {
+          "word": " time",
+          "start": 298.82,
+          "end": 299.12,
+          "probability": 0.9975
+        }
+      ]
+    },
+    {
+      "start": 299.12,
+      "end": 299.64,
+      "text": "it means that.",
+      "avg_log_prob": -0.9536,
+      "words": [
+        {
+          "word": " it",
+          "start": 299.12,
+          "end": 299.36,
+          "probability": 0.0154
+        },
+        {
+          "word": " means",
+          "start": 299.36,
+          "end": 299.36,
+          "probability": 0.5348
+        },
+        {
+          "word": " that.",
+          "start": 299.36,
+          "end": 299.64,
+          "probability": 0.9717
+        }
+      ]
+    }
+  ],
+  "full_text": "accessories include anything that could possibly be packaged together in a single box. The larger items, say a 70-pound bean bag, for example, are shipped from the large, non-sortable fulfillment centers. These facilities are even less automated than the large, shortable ones, and even include workers who create custom boxes for odd-size items. In Colorado, for example, this is a completely separate facility located in Aurora from the Sortable Fulfillment Center in Thornton. Now, some large items will go directly into the system of a third-party provider, typically XBO logistics, which would deliver these bulky items to their final destination while others will continue on in Amazon system. The portion of large, non-sortable items not sent to a third-party logistics provider plus all the large and small sortable packages would next be sent to a regional sortation center. In Colorado, those two fulfillment centers send their packages to a single sortation center, located just minutes away from the Aurora Fulfillment Center. This is a massive facility, almost half a million square feet in size, with robots running around, dropping packages into different shoots, which each represent a different grouping of zip codes. Now not all these sortation centers are quite so automated, but each outputs the same thing. Palettes are packages going to roughly the same place. What happens next, though, once again, depends. A package heading to Miami, for example, would end up on a palette with other packages for Miami, which itself would end up on a truck carrying palettes for Tampa, North Carolina, Houston, Baltimore, New York City, Connecticut, and a few other cities and states to the east. This truck would then drive the 15 minutes to a waiting 767 cargo plane at Denver International Airport, branded in Prime Air Levering. Now Amazon Air started in 2015 with its lease of about 20 aircraft from Air Transport International and has since grown to almost 70 aircraft, all leased from other airlines. However, the company recently announced the purchase of their first 11 aircraft, also 767, bought from Delta and WestJet, meaning they'll soon both own and operate their own aircraft. Those eastbound palettes would all be loaded around 4am before the aircraft's scheduled departure time of 454am. Now, anyone familiar with UPS or FedEx's operations will know why this departure time is strange. If UPS was transporting this package to Miami, at least at its fastest speed, it would have departed on an aircraft the previous night at 9.40pm, been flown to Louisville, sorted through the company's hub, then flown to Miami, arriving at 5.50am. FedEx would have done roughly the same just through Memphis instead. That's because FedEx, UPS, and most other major delivery companies are oriented towards overnight delivery. They make a big chunk of their money charging big rates to take a package from one part of the U.S. one day and deliver it to another the next day. Amazon, meanwhile, built their prime brand off the promise of two-day delivery, ordering a package on a Monday and getting it on a Wednesday, for example. While they've sent straight from the rigidness of that system, the fastest shipping they'll offer for an item not stocked at a local fulfillment center is two days, meaning they don't have to worry about being able to get a package from Denver to Miami overnight. That's why UPS and FedEx's planes take off in the evening, while Amazon's leave in the morning. So, that means it's about 9am by the time that Amazon Airplane from Denver gets to Cincinnati Airport each day. Through the morning hours, a dozen or so aircraft land in Cincinnati and this timing gives the company a major advantage. Cincinnati Airport is also home to DHL's main America's hub, but DHL, like FedEx and UPS, conducts its operations primarily overnight starting at around midnight, when dozens of their aircraft from around the world land and unload. Over the next few hours, packages and pallets are sorted and unloaded onto other aircraft, which all tend to take off by 8am. That means DHL only really uses their facility during the overnight hours, so Amazon leases it for daytime use. While Amazon is building their own larger facility at Cincinnati Airport, this partnership gave them a huge head start. So, each day, between 8am and 4pm, Amazon's there, turning their planes around and sorting pallets from where they come from, like Denver, to where they need to go, like Miami. That Miami flight takes off each weekday at 2.15pm, and then it lands in Florida just before 5pm Eastern time. Now, not every Amazon Air itinerary looks like this. In fact, while UBS and FedEx route almost all of their flights through their Louisville and Memphis super hubs, or through some of their secondary hubs across the country, only 20% of Amazon Air's flights go through their main Cincinnati hub. That's because, with their orientation towards two day delivery versus one, they just have more time. The more time it means that."
+}

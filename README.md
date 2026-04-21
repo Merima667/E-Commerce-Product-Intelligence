@@ -36,3 +36,10 @@ Success criteria:
 * Usability of visualizations – Charts and reports must be clear and useful for end users (e.g., e-commerce platform managers).
 * Data coverage – The system should analyze and integrate data from at least two sources (Amazon and eBay).
 * Data quality – The data must be cleaned and prepared for analysis without significant errors.
+
+Google Drive folder link: https://drive.google.com/drive/folders/1RJ0sv1qmjA9Jw5WA-d2E2NVNZUuvLith
+
+![EXIF Screenshot](image-1.png)
+
+
+![Video properties](video-properties.png)
