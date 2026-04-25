@@ -585,3 +585,231 @@
 2026-04-17 14:08:22,923 [INFO] Saved transcript to MongoDB: The truth about online shopping..mp3 (id=69e222b6d9766acb70eead52)
 2026-04-17 14:08:22,923 [INFO] === Audio/Video Processing Stage Complete ===
 2026-04-17 14:08:22,929 [INFO] Pipeline finished successfully
+2026-04-25 23:50:31,588 [INFO] Batch processing 7 images from ..\..\data\raw\images
+2026-04-25 23:50:31,732 [INFO] Resized proportionally: 742x924 -> 500x622
+2026-04-25 23:50:31,747 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B09SM24S8C_thumb.jpg (103, 128)
+2026-04-25 23:50:32,155 [INFO] WebP: 49KB -> 36KB (27.4% saving)
+2026-04-25 23:50:32,156 [WARNING] No EXIF data found in ..\..\data\raw\images\B09SM24S8C.jpg
+2026-04-25 23:50:32,225 [INFO] Resized proportionally: 983x1257 -> 500x639
+2026-04-25 23:50:32,246 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0CP6DDN1H_thumb.jpg (100, 128)
+2026-04-25 23:50:32,523 [INFO] WebP: 81KB -> 52KB (36.2% saving)
+2026-04-25 23:50:32,525 [WARNING] No EXIF data found in ..\..\data\raw\images\B0CP6DDN1H.jpg
+2026-04-25 23:50:32,586 [INFO] Resized proportionally: 989x1279 -> 500x646
+2026-04-25 23:50:32,610 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0CT6BQV81_thumb.jpg (99, 128)
+2026-04-25 23:50:32,953 [INFO] WebP: 93KB -> 67KB (27.3% saving)
+2026-04-25 23:50:32,954 [WARNING] No EXIF data found in ..\..\data\raw\images\B0CT6BQV81.jpg
+2026-04-25 23:50:33,037 [INFO] Resized proportionally: 881x1130 -> 500x641
+2026-04-25 23:50:33,067 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0DM1S54MZ_thumb.jpg (100, 128)
+2026-04-25 23:50:33,273 [INFO] WebP: 62KB -> 37KB (39.1% saving)
+2026-04-25 23:50:33,274 [WARNING] No EXIF data found in ..\..\data\raw\images\B0DM1S54MZ.jpg
+2026-04-25 23:50:33,353 [INFO] Resized proportionally: 1240x1500 -> 500x604
+2026-04-25 23:50:33,393 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0FXY18C1J_thumb.jpg (106, 128)
+2026-04-25 23:50:33,759 [INFO] WebP: 69KB -> 33KB (51.9% saving)
+2026-04-25 23:50:33,760 [WARNING] No EXIF data found in ..\..\data\raw\images\B0FXY18C1J.jpg
+2026-04-25 23:50:33,887 [INFO] Resized proportionally: 1478x1500 -> 500x507
+2026-04-25 23:50:33,935 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0G4SVV79P_thumb.jpg (126, 128)
+2026-04-25 23:50:34,376 [INFO] WebP: 86KB -> 47KB (45.2% saving)
+2026-04-25 23:50:34,383 [WARNING] No EXIF data found in ..\..\data\raw\images\B0G4SVV79P.jpg
+2026-04-25 23:50:34,491 [ERROR] Failed: test_scan.png - cannot write mode RGBA as JPEG
+2026-04-25 23:50:37,311 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-25 23:50:41,312 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-25 23:50:45,307 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-25 23:50:47,852 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-25 23:50:52,052 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-25 23:50:54,813 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-25 23:50:58,499 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-25 23:51:01,264 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-25 23:51:04,744 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-25 23:51:07,580 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-25 23:51:10,789 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-25 23:51:13,347 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-25 23:51:16,329 [INFO] Batch complete. Success: 6, Errors: 1
+2026-04-25 23:51:27,046 [INFO] Loaded audio: How Amazon's Super-Complex Shipping System Works [2qanMpnYsjk].mp3 (MP3)
+2026-04-25 23:51:28,253 [INFO] Loaded audio: The Future of Ecommerce_ 9 Trends That Will Exist In 2030 [GQjuEygcS3A].mp3 (MP3)
+2026-04-25 23:51:29,085 [INFO] Loaded audio: The truth about online shopping. [tDvjQp1BaWA].mp3 (MP3)
+2026-04-25 23:51:31,779 [INFO] Loaded audio: How Amazon's Super-Complex Shipping System Works [2qanMpnYsjk].mp3 (MP3)
+2026-04-25 23:51:31,782 [INFO] Trimmed audio: 5000ms -> 15000ms (was 1129465ms, now 10000ms)
+2026-04-25 23:51:31,783 [INFO] Concatenated 2 clips, total: 20000ms
+2026-04-25 23:51:32,092 [INFO] Volume adjusted by +6.0 dB
+2026-04-25 23:51:32,377 [INFO] Applied fade-in 2000ms / fade-out 3000ms
+2026-04-25 23:51:32,412 [INFO] Exported audio -> ../../data/processed/audio/How Amazon's Super-Complex Shipping System Works [2qanMpnYsjk]_trimmed.wav (1722.7 KB)
+2026-04-25 23:51:32,683 [INFO] Exported audio -> ../../data/processed/audio/How Amazon's Super-Complex Shipping System Works [2qanMpnYsjk]_trimmed.mp3 (235.8 KB)
+2026-04-25 23:51:35,401 [INFO] Loaded audio: How Amazon's Super-Complex Shipping System Works [2qanMpnYsjk].mp3 (MP3)
+2026-04-25 23:51:38,246 [INFO] Exported audio -> ../../data/processed/audio/How Amazon's Super-Complex Shipping System Works [2qanMpnYsjk].flac (56692.4 KB)
+2026-04-25 23:51:39,492 [INFO] Loaded audio: The Future of Ecommerce_ 9 Trends That Will Exist In 2030 [GQjuEygcS3A].mp3 (MP3)
+2026-04-25 23:51:39,504 [INFO] Trimmed audio: 5000ms -> 15000ms (was 461241ms, now 10000ms)
+2026-04-25 23:51:39,508 [INFO] Concatenated 2 clips, total: 20000ms
+2026-04-25 23:51:39,651 [INFO] Volume adjusted by +6.0 dB
+2026-04-25 23:51:39,821 [INFO] Applied fade-in 2000ms / fade-out 3000ms
+2026-04-25 23:51:39,969 [INFO] Exported audio -> ../../data/processed/audio/The Future of Ecommerce_ 9 Trends That Will Exist In 2030 [GQjuEygcS3A]_trimmed.wav (1722.7 KB)
+2026-04-25 23:51:40,259 [INFO] Exported audio -> ../../data/processed/audio/The Future of Ecommerce_ 9 Trends That Will Exist In 2030 [GQjuEygcS3A]_trimmed.mp3 (235.8 KB)
+2026-04-25 23:51:41,446 [INFO] Loaded audio: The Future of Ecommerce_ 9 Trends That Will Exist In 2030 [GQjuEygcS3A].mp3 (MP3)
+2026-04-25 23:51:42,752 [INFO] Exported audio -> ../../data/processed/audio/The Future of Ecommerce_ 9 Trends That Will Exist In 2030 [GQjuEygcS3A].flac (29256.1 KB)
+2026-04-25 23:51:43,531 [INFO] Loaded audio: The truth about online shopping. [tDvjQp1BaWA].mp3 (MP3)
+2026-04-25 23:51:43,538 [INFO] Trimmed audio: 5000ms -> 15000ms (was 308895ms, now 10000ms)
+2026-04-25 23:51:43,540 [INFO] Concatenated 2 clips, total: 20000ms
+2026-04-25 23:51:43,653 [INFO] Volume adjusted by +6.0 dB
+2026-04-25 23:51:43,770 [INFO] Applied fade-in 2000ms / fade-out 3000ms
+2026-04-25 23:51:43,826 [INFO] Exported audio -> ../../data/processed/audio/The truth about online shopping. [tDvjQp1BaWA]_trimmed.wav (1722.7 KB)
+2026-04-25 23:51:44,174 [INFO] Exported audio -> ../../data/processed/audio/The truth about online shopping. [tDvjQp1BaWA]_trimmed.mp3 (235.8 KB)
+2026-04-25 23:51:45,000 [INFO] Loaded audio: The truth about online shopping. [tDvjQp1BaWA].mp3 (MP3)
+2026-04-25 23:51:45,929 [INFO] Exported audio -> ../../data/processed/audio/The truth about online shopping. [tDvjQp1BaWA].flac (18846.5 KB)
+2026-04-25 23:51:54,593 [INFO] Loaded video: How Amazon Became The Fastest Delivery System.mp4
+2026-04-25 23:51:55,112 [INFO] Saved frame at t=5.0s -> ../../data/processed/frames/How Amazon Became The Fastest Delivery System_thumb.png
+2026-04-25 23:52:05,832 [INFO] Extracted 69 keyframes from How Amazon Became The Fastest Delivery System.mp4 (every 10.0s)
+2026-04-25 23:52:06,235 [INFO] Loaded video: How Amazon Became The Fastest Delivery System.mp4
+2026-04-25 23:52:20,026 [INFO] Extracted audio -> ../../data/processed/audio/How Amazon Became The Fastest Delivery System.mp3 (10672.5 KB)
+2026-04-25 23:52:20,414 [INFO] Loaded video: The Future of Ecommerce_ 9 Trends That Will Exist In 2030.mp4
+2026-04-25 23:52:20,918 [INFO] Saved frame at t=5.0s -> ../../data/processed/frames/The Future of Ecommerce_ 9 Trends That Will Exist In 2030_thumb.png
+2026-04-25 23:52:28,593 [INFO] Extracted 47 keyframes from The Future of Ecommerce_ 9 Trends That Will Exist In 2030.mp4 (every 10.0s)
+2026-04-25 23:52:28,859 [INFO] Loaded video: The Future of Ecommerce_ 9 Trends That Will Exist In 2030.mp4
+2026-04-25 23:52:38,901 [INFO] Extracted audio -> ../../data/processed/audio/The Future of Ecommerce_ 9 Trends That Will Exist In 2030.mp3 (7207.6 KB)
+2026-04-25 23:52:39,239 [INFO] Loaded video: The truth about online shopping..mp4
+2026-04-25 23:52:39,647 [INFO] Saved frame at t=5.0s -> ../../data/processed/frames/The truth about online shopping._thumb.png
+2026-04-25 23:52:44,024 [INFO] Extracted 31 keyframes from The truth about online shopping..mp4 (every 10.0s)
+2026-04-25 23:52:44,285 [INFO] Loaded video: The truth about online shopping..mp4
+2026-04-25 23:52:51,291 [INFO] Extracted audio -> ../../data/processed/audio/The truth about online shopping..mp3 (4827.6 KB)
+2026-04-25 23:52:51,305 [INFO] Demonstrating NumPy array creation methods
+2026-04-25 23:52:51,306 [INFO] Array creation complete
+2026-04-25 23:52:51,306 [INFO] NumPy arrays created: ['ratings', 'price_placeholder', 'category_weights', 'years', 'score_buffer']
+2026-04-25 23:52:51,307 [INFO] Running vectorized operations
+2026-04-25 23:52:51,307 [INFO] Vectorized operations complete: mean=3.93
+2026-04-25 23:52:51,308 [INFO] Vectorized ops: mean=3.93
+2026-04-25 23:52:51,308 [INFO] Connecting to MongoDB: ecommerce_product_intelligence / products
+2026-04-25 23:52:51,382 [INFO] Loaded 1427 rows from MongoDB
+2026-04-25 23:52:51,463 [INFO] Chunked stats: path=..\..\data\processed\analytics\products_raw.csv chunk_size=200
+2026-04-25 23:52:51,666 [INFO] Chunked stats complete: total_rows=1427 global_mean=4.8747
+2026-04-25 23:52:51,666 [INFO] Chunked mean rating: 4.8747 over 1427 rows
+2026-04-25 23:52:51,694 [INFO] Memory reduction: 3.9%
+2026-04-25 23:52:51,739 [INFO] Shape: 1427 rows × 58 columns
+2026-04-25 23:52:51,740 [INFO] Dataset shape: 1427x58
+2026-04-25 23:52:51,755 [INFO] Extracted review_year: 105 non-null
+2026-04-25 23:52:52,763 [INFO] loc filter (vote_avg >= 4.0): 431 rows
+2026-04-25 23:52:52,764 [INFO] High rated reviews: 431
+2026-04-25 23:52:52,792 [INFO] boolean_filter: 431 rows match
+2026-04-25 23:52:52,792 [INFO] Quality reviews: 431
+2026-04-25 23:52:52,796 [INFO] Rows with extracted categories: 189
+2026-04-25 23:52:52,797 [INFO] Top categories: [('EXPENSE', 49), ('INCOME', 35), ('Employment', 14), ('Food', 7), ('Transport', 7), ('Grant', 7), ('Books', 7), ('Freelance', 7), ('Entertainment', 7), ('Health', 7)]
+2026-04-25 23:52:52,832 [INFO] Positive comments : 383
+2026-04-25 23:52:52,832 [INFO] Positive comments: 383
+2026-04-25 23:52:52,847 [INFO] Columns with missing values: 56
+2026-04-25 23:52:52,855 [INFO] Zero-as-missing check complete for: ['budgeted', 'actual']
+2026-04-25 23:52:52,866 [INFO] Quality report: 58 issues found
+2026-04-25 23:52:53,564 [INFO] Outlier detection complete: 14 columns checked
+2026-04-25 23:52:53,566 [INFO] Outlier report columns: 14
+2026-04-25 23:52:53,567 [INFO] Analytics stage COMPLETED
+2026-04-25 23:52:53,570 [INFO] Pipeline finished successfully
+2026-04-25 23:57:36,253 [INFO] Batch processing 7 images from ..\..\data\raw\images
+2026-04-25 23:57:36,314 [INFO] Resized proportionally: 742x924 -> 500x622
+2026-04-25 23:57:36,328 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B09SM24S8C_thumb.jpg (103, 128)
+2026-04-25 23:57:36,533 [INFO] WebP: 49KB -> 36KB (27.4% saving)
+2026-04-25 23:57:36,534 [WARNING] No EXIF data found in ..\..\data\raw\images\B09SM24S8C.jpg
+2026-04-25 23:57:36,580 [INFO] Resized proportionally: 983x1257 -> 500x639
+2026-04-25 23:57:36,600 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0CP6DDN1H_thumb.jpg (100, 128)
+2026-04-25 23:57:36,847 [INFO] WebP: 81KB -> 52KB (36.2% saving)
+2026-04-25 23:57:36,848 [WARNING] No EXIF data found in ..\..\data\raw\images\B0CP6DDN1H.jpg
+2026-04-25 23:57:36,897 [INFO] Resized proportionally: 989x1279 -> 500x646
+2026-04-25 23:57:36,926 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0CT6BQV81_thumb.jpg (99, 128)
+2026-04-25 23:57:37,204 [INFO] WebP: 93KB -> 67KB (27.3% saving)
+2026-04-25 23:57:37,205 [WARNING] No EXIF data found in ..\..\data\raw\images\B0CT6BQV81.jpg
+2026-04-25 23:57:37,247 [INFO] Resized proportionally: 881x1130 -> 500x641
+2026-04-25 23:57:37,272 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0DM1S54MZ_thumb.jpg (100, 128)
+2026-04-25 23:57:37,479 [INFO] WebP: 62KB -> 37KB (39.1% saving)
+2026-04-25 23:57:37,480 [WARNING] No EXIF data found in ..\..\data\raw\images\B0DM1S54MZ.jpg
+2026-04-25 23:57:37,548 [INFO] Resized proportionally: 1240x1500 -> 500x604
+2026-04-25 23:57:37,580 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0FXY18C1J_thumb.jpg (106, 128)
+2026-04-25 23:57:37,882 [INFO] WebP: 69KB -> 33KB (51.9% saving)
+2026-04-25 23:57:37,885 [WARNING] No EXIF data found in ..\..\data\raw\images\B0FXY18C1J.jpg
+2026-04-25 23:57:37,990 [INFO] Resized proportionally: 1478x1500 -> 500x507
+2026-04-25 23:57:38,037 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0G4SVV79P_thumb.jpg (126, 128)
+2026-04-25 23:57:38,406 [INFO] WebP: 86KB -> 47KB (45.2% saving)
+2026-04-25 23:57:38,407 [WARNING] No EXIF data found in ..\..\data\raw\images\B0G4SVV79P.jpg
+2026-04-25 23:57:38,473 [ERROR] Failed: test_scan.png - cannot write mode RGBA as JPEG
+2026-04-25 23:57:38,521 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-25 23:57:41,036 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-25 23:58:07,017 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-25 23:58:13,956 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-25 23:58:17,425 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-25 23:58:20,099 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-25 23:58:27,477 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-25 23:58:34,229 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-25 23:58:37,351 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-25 23:58:39,662 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-25 23:58:42,450 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-25 23:58:45,747 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-25 23:58:49,593 [INFO] Batch complete. Success: 6, Errors: 1
+2026-04-25 23:58:54,169 [INFO] Loaded audio: How Amazon's Super-Complex Shipping System Works [2qanMpnYsjk].mp3 (MP3)
+2026-04-25 23:58:55,305 [INFO] Loaded audio: The Future of Ecommerce_ 9 Trends That Will Exist In 2030 [GQjuEygcS3A].mp3 (MP3)
+2026-04-25 23:58:56,135 [INFO] Loaded audio: The truth about online shopping. [tDvjQp1BaWA].mp3 (MP3)
+2026-04-25 23:58:58,958 [INFO] Loaded audio: How Amazon's Super-Complex Shipping System Works [2qanMpnYsjk].mp3 (MP3)
+2026-04-25 23:58:58,961 [INFO] Trimmed audio: 5000ms -> 15000ms (was 1129465ms, now 10000ms)
+2026-04-25 23:58:58,964 [INFO] Concatenated 2 clips, total: 20000ms
+2026-04-25 23:58:59,348 [INFO] Volume adjusted by +6.0 dB
+2026-04-25 23:58:59,715 [INFO] Applied fade-in 2000ms / fade-out 3000ms
+2026-04-25 23:58:59,719 [INFO] Exported audio -> ../../data/processed/audio/How Amazon's Super-Complex Shipping System Works [2qanMpnYsjk]_trimmed.wav (1722.7 KB)
+2026-04-25 23:59:00,018 [INFO] Exported audio -> ../../data/processed/audio/How Amazon's Super-Complex Shipping System Works [2qanMpnYsjk]_trimmed.mp3 (235.8 KB)
+2026-04-25 23:59:02,709 [INFO] Loaded audio: How Amazon's Super-Complex Shipping System Works [2qanMpnYsjk].mp3 (MP3)
+2026-04-25 23:59:05,322 [INFO] Exported audio -> ../../data/processed/audio/How Amazon's Super-Complex Shipping System Works [2qanMpnYsjk].flac (56692.4 KB)
+2026-04-25 23:59:06,476 [INFO] Loaded audio: The Future of Ecommerce_ 9 Trends That Will Exist In 2030 [GQjuEygcS3A].mp3 (MP3)
+2026-04-25 23:59:06,489 [INFO] Trimmed audio: 5000ms -> 15000ms (was 461241ms, now 10000ms)
+2026-04-25 23:59:06,495 [INFO] Concatenated 2 clips, total: 20000ms
+2026-04-25 23:59:06,644 [INFO] Volume adjusted by +6.0 dB
+2026-04-25 23:59:06,793 [INFO] Applied fade-in 2000ms / fade-out 3000ms
+2026-04-25 23:59:06,822 [INFO] Exported audio -> ../../data/processed/audio/The Future of Ecommerce_ 9 Trends That Will Exist In 2030 [GQjuEygcS3A]_trimmed.wav (1722.7 KB)
+2026-04-25 23:59:07,113 [INFO] Exported audio -> ../../data/processed/audio/The Future of Ecommerce_ 9 Trends That Will Exist In 2030 [GQjuEygcS3A]_trimmed.mp3 (235.8 KB)
+2026-04-25 23:59:08,170 [INFO] Loaded audio: The Future of Ecommerce_ 9 Trends That Will Exist In 2030 [GQjuEygcS3A].mp3 (MP3)
+2026-04-25 23:59:09,435 [INFO] Exported audio -> ../../data/processed/audio/The Future of Ecommerce_ 9 Trends That Will Exist In 2030 [GQjuEygcS3A].flac (29256.1 KB)
+2026-04-25 23:59:10,195 [INFO] Loaded audio: The truth about online shopping. [tDvjQp1BaWA].mp3 (MP3)
+2026-04-25 23:59:10,201 [INFO] Trimmed audio: 5000ms -> 15000ms (was 308895ms, now 10000ms)
+2026-04-25 23:59:10,204 [INFO] Concatenated 2 clips, total: 20000ms
+2026-04-25 23:59:10,293 [INFO] Volume adjusted by +6.0 dB
+2026-04-25 23:59:10,393 [INFO] Applied fade-in 2000ms / fade-out 3000ms
+2026-04-25 23:59:10,402 [INFO] Exported audio -> ../../data/processed/audio/The truth about online shopping. [tDvjQp1BaWA]_trimmed.wav (1722.7 KB)
+2026-04-25 23:59:10,751 [INFO] Exported audio -> ../../data/processed/audio/The truth about online shopping. [tDvjQp1BaWA]_trimmed.mp3 (235.8 KB)
+2026-04-25 23:59:11,509 [INFO] Loaded audio: The truth about online shopping. [tDvjQp1BaWA].mp3 (MP3)
+2026-04-25 23:59:12,355 [INFO] Exported audio -> ../../data/processed/audio/The truth about online shopping. [tDvjQp1BaWA].flac (18846.5 KB)
+2026-04-25 23:59:13,754 [INFO] Loaded video: How Amazon Became The Fastest Delivery System.mp4
+2026-04-25 23:59:14,254 [INFO] Saved frame at t=5.0s -> ../../data/processed/frames/How Amazon Became The Fastest Delivery System_thumb.png
+2026-04-25 23:59:24,536 [INFO] Extracted 69 keyframes from How Amazon Became The Fastest Delivery System.mp4 (every 10.0s)
+2026-04-25 23:59:24,807 [INFO] Loaded video: How Amazon Became The Fastest Delivery System.mp4
+2026-04-25 23:59:37,910 [INFO] Extracted audio -> ../../data/processed/audio/How Amazon Became The Fastest Delivery System.mp3 (10672.5 KB)
+2026-04-25 23:59:38,206 [INFO] Loaded video: The Future of Ecommerce_ 9 Trends That Will Exist In 2030.mp4
+2026-04-25 23:59:38,656 [INFO] Saved frame at t=5.0s -> ../../data/processed/frames/The Future of Ecommerce_ 9 Trends That Will Exist In 2030_thumb.png
+2026-04-25 23:59:45,748 [INFO] Extracted 47 keyframes from The Future of Ecommerce_ 9 Trends That Will Exist In 2030.mp4 (every 10.0s)
+2026-04-25 23:59:46,008 [INFO] Loaded video: The Future of Ecommerce_ 9 Trends That Will Exist In 2030.mp4
+2026-04-25 23:59:55,943 [INFO] Extracted audio -> ../../data/processed/audio/The Future of Ecommerce_ 9 Trends That Will Exist In 2030.mp3 (7207.6 KB)
+2026-04-25 23:59:56,226 [INFO] Loaded video: The truth about online shopping..mp4
+2026-04-25 23:59:56,633 [INFO] Saved frame at t=5.0s -> ../../data/processed/frames/The truth about online shopping._thumb.png
+2026-04-26 00:00:00,806 [INFO] Extracted 31 keyframes from The truth about online shopping..mp4 (every 10.0s)
+2026-04-26 00:00:01,089 [INFO] Loaded video: The truth about online shopping..mp4
+2026-04-26 00:00:09,017 [INFO] Extracted audio -> ../../data/processed/audio/The truth about online shopping..mp3 (4827.6 KB)
+2026-04-26 00:00:09,030 [INFO] Demonstrating NumPy array creation methods
+2026-04-26 00:00:09,030 [INFO] Array creation complete
+2026-04-26 00:00:09,031 [INFO] NumPy arrays created: ['ratings', 'price_placeholder', 'category_weights', 'years', 'score_buffer']
+2026-04-26 00:00:09,031 [INFO] Running vectorized operations
+2026-04-26 00:00:09,032 [INFO] Vectorized operations complete: mean=3.93
+2026-04-26 00:00:09,032 [INFO] Vectorized ops: mean=3.93
+2026-04-26 00:00:09,032 [INFO] Connecting to MongoDB: ecommerce_product_intelligence / products
+2026-04-26 00:00:09,086 [INFO] Loaded 1427 rows from MongoDB
+2026-04-26 00:00:09,131 [INFO] Chunked stats: path=..\..\data\processed\analytics\products_raw.csv chunk_size=200
+2026-04-26 00:00:09,339 [INFO] Chunked stats complete: total_rows=1427 global_mean=4.8747
+2026-04-26 00:00:09,340 [INFO] Chunked mean rating: 4.8747 over 1427 rows
+2026-04-26 00:00:09,371 [INFO] Memory reduction: 3.9%
+2026-04-26 00:00:09,416 [INFO] Shape: 1427 rows × 58 columns
+2026-04-26 00:00:09,417 [INFO] Dataset shape: 1427x58
+2026-04-26 00:00:09,423 [INFO] Extracted review_year: 105 non-null
+2026-04-26 00:00:10,320 [INFO] loc filter (vote_avg >= 4.0): 431 rows
+2026-04-26 00:00:10,321 [INFO] High rated reviews: 431
+2026-04-26 00:00:10,326 [INFO] boolean_filter: 431 rows match
+2026-04-26 00:00:10,328 [INFO] Quality reviews: 431
+2026-04-26 00:00:10,332 [INFO] Rows with extracted categories: 189
+2026-04-26 00:00:10,333 [INFO] Top categories: [('EXPENSE', 49), ('INCOME', 35), ('Employment', 14), ('Food', 7), ('Transport', 7), ('Grant', 7), ('Books', 7), ('Freelance', 7), ('Entertainment', 7), ('Health', 7)]
+2026-04-26 00:00:10,338 [INFO] Positive comments : 383
+2026-04-26 00:00:10,338 [INFO] Positive comments: 383
+2026-04-26 00:00:10,346 [INFO] Columns with missing values: 56
+2026-04-26 00:00:10,350 [INFO] Zero-as-missing check complete for: ['budgeted', 'actual']
+2026-04-26 00:00:10,361 [INFO] Quality report: 58 issues found
+2026-04-26 00:00:11,184 [INFO] Outlier detection complete: 14 columns checked
+2026-04-26 00:00:11,185 [INFO] Outlier report columns: 14
+2026-04-26 00:00:11,186 [INFO] Analytics stage COMPLETED
+2026-04-26 00:00:11,188 [INFO] Pipeline finished successfully

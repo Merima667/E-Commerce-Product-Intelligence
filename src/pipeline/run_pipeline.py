@@ -22,6 +22,13 @@ from scraping.scraper import scrape_single_page, scrape_multiple_pages
 from scraping.dynamic_scraper import scrape_oscar_films, scrape_dynamic_page
 from ocr.ocr_utils import compare_ocr, ocr_scanned_pdf
 
+import numpy as np
+from analytics.numpy_ops import demonstrate_array_creation, vectorized_operations
+from analytics.data_loader import load_from_mongodb, save_to_csv, chunked_stats, optimise_dtypes, memory_comparison
+from analytics.explorer import inspect_shape, extract_review_year, plot_distributions
+from analytics.selector import loc_filter, boolean_filter
+from analytics.regex_ops import extract_categories, top_categories, positive_comment_count
+from analytics.quality_report import full_quality_report, outlier_report, save_missing_heatmap
 
 from audio_processing.loader      import inspect_audio, load_audio
 from audio_processing.processor   import trim_audio, apply_fades, export_audio
@@ -36,69 +43,139 @@ from pathlib import Path
 from storage.mongo import db
 
 
-def run_audio_video_stage():
-    logging.info('=== Audio/Video Processing Stage ===')
+def run_analytics():
 
-    # AUDIO
-    for audio_file in Path('../../data/raw/audio').glob('*.mp3'):
-        try:
-            logging.info(f'Processing audio: {audio_file.name}')
+    PROCESSED_DIR = Path("../../data/processed/analytics")
+    PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
 
-            audio = load_audio(str(audio_file))
-            trimmed = trim_audio(audio, 0, min(30000, len(audio)))
-            faded = apply_fades(trimmed)
+    CSV_PATH = str(PROCESSED_DIR / "products_raw.csv")
+    OPT_CSV_PATH = str(PROCESSED_DIR / "products_optimised.csv")
 
-            export_audio(
-                faded,
-                f'../../data/processed/audio/{audio_file.stem}_clip.mp3'
-            )
+    #Numpy
+    arrays = demonstrate_array_creation()
+    logging.info("NumPy arrays created: %s", list(arrays.keys()))
 
-            result = transcribe_audio(str(audio_file))
+    ratings_arr = np.array([4.5, 3.2, 5.0, 2.8, 4.1, 3.9, 4.7, 2.5, 5.0, 3.6])
+    review_count = np.array([120, 45, 200, 30, 89, 67, 150, 25, 310, 55])
 
-            j = f'../../data/processed/transcripts/{audio_file.stem}.json'
-            t = f'../../data/processed/transcripts/{audio_file.stem}.txt'
-            s = f'../../data/processed/transcripts/{audio_file.stem}.srt'
+    results = vectorized_operations(ratings_arr, review_count)
+    logging.info(
+        "Vectorized ops: mean=%.2f",
+        results["stats"]["mean"]
+    )
+    df = load_from_mongodb()
 
-            save_transcript_json(result, j)
-            save_transcript_txt(result, t)
-            save_transcript_srt(result, s)
+    if df is None or df.empty:
+        logging.warning("MongoDB returned empty dataset")
+        return
+    
+    save_to_csv(df, CSV_PATH)
 
-            save_transcript_to_mongo(db, result, str(audio_file), 'audio',
-                            json_path=j, txt_path=t, srt_path=s)
+    chunk_results = chunked_stats(CSV_PATH)
+    logging.info(
+        "Chunked mean rating: %.4f over %d rows",
+        chunk_results["global_mean"],
+        chunk_results["total_rows"]
+    )
 
-        except Exception as e:
-            logging.error(f'Audio error: {e}')
 
-    # VIDEO
-    for video_file in Path('../../data/raw/video').glob('*.mp4'):
-        try:
-            logging.info(f'Processing video: {video_file.name}')
+    df_opt = optimise_dtypes(df)
+    mem = memory_comparison(df, df_opt)
+    logging.info("Memory reduction: %.1f%%", mem["reduction_pct"])
+    save_to_csv(df_opt, OPT_CSV_PATH)
 
-            extract_keyframes(
-                str(video_file),
-                f'../../data/processed/frames/{video_file.stem}/'
-            )
+    # EDA
+    shape_info = inspect_shape(df)
+    logging.info("Dataset shape: %dx%d", shape_info["rows"], shape_info["columns"])
 
-            audio_out = f'../../data/processed/audio/{video_file.stem}.mp3'
-            extract_audio_from_video(str(video_file), audio_out)
+    df = extract_review_year(df)
+    plot_distributions(df, str(PROCESSED_DIR / "distributions.png"))
 
-            result = transcribe_audio(audio_out)
+    high_rated = loc_filter(df, min_rating=4.0)
+    logging.info("High rated reviews: %d", len(high_rated))
 
-            j = f'../../data/processed/transcripts/{video_file.stem}.json'
-            t = f'../../data/processed/transcripts/{video_file.stem}.txt'
-            s = f'../../data/processed/transcripts/{video_file.stem}.srt'
+    quality = boolean_filter(df, min_rating=4.0, max_rating=5.0)
+    logging.info("Quality reviews: %d", len(quality))
 
-            save_transcript_json(result, j)
-            save_transcript_txt(result, t)
-            save_transcript_srt(result, s)
+    # REGEX & QUALITY
+    df_cat = extract_categories(df)
 
-            save_transcript_to_mongo(db, result, str(video_file), 'video',
-                            json_path=j, txt_path=t, srt_path=s)
+    logging.info("Top categories: %s", top_categories(df_cat, n=10))
+    logging.info("Positive comments: %d", positive_comment_count(df))
 
-        except Exception as e:
-            logging.error(f'Video error: {e}')
+    quality_df = full_quality_report(df)
+    quality_df.to_csv(str(PROCESSED_DIR / "quality_report.csv"), index=False)
 
-    logging.info('=== Audio/Video Processing Stage Complete ===')
+    save_missing_heatmap(df, str(PROCESSED_DIR / "missing_heatmap.png"))
+
+    outliers = outlier_report(df)
+    logging.info("Outlier report columns: %d", len(outliers))
+
+    logging.info("Analytics stage COMPLETED")
+
+# def run_audio_video_stage():
+#     logging.info('=== Audio/Video Processing Stage ===')
+
+#     # AUDIO
+#     for audio_file in Path('../../data/raw/audio').glob('*.mp3'):
+#         try:
+#             logging.info(f'Processing audio: {audio_file.name}')
+
+#             audio = load_audio(str(audio_file))
+#             trimmed = trim_audio(audio, 0, min(30000, len(audio)))
+#             faded = apply_fades(trimmed)
+
+#             export_audio(
+#                 faded,
+#                 f'../../data/processed/audio/{audio_file.stem}_clip.mp3'
+#             )
+
+#             result = transcribe_audio(str(audio_file))
+
+#             j = f'../../data/processed/transcripts/{audio_file.stem}.json'
+#             t = f'../../data/processed/transcripts/{audio_file.stem}.txt'
+#             s = f'../../data/processed/transcripts/{audio_file.stem}.srt'
+
+#             save_transcript_json(result, j)
+#             save_transcript_txt(result, t)
+#             save_transcript_srt(result, s)
+
+#             save_transcript_to_mongo(db, result, str(audio_file), 'audio',
+#                             json_path=j, txt_path=t, srt_path=s)
+
+#         except Exception as e:
+#             logging.error(f'Audio error: {e}')
+
+#     # VIDEO
+#     for video_file in Path('../../data/raw/video').glob('*.mp4'):
+#         try:
+#             logging.info(f'Processing video: {video_file.name}')
+
+#             extract_keyframes(
+#                 str(video_file),
+#                 f'../../data/processed/frames/{video_file.stem}/'
+#             )
+
+#             audio_out = f'../../data/processed/audio/{video_file.stem}.mp3'
+#             extract_audio_from_video(str(video_file), audio_out)
+
+#             result = transcribe_audio(audio_out)
+
+#             j = f'../../data/processed/transcripts/{video_file.stem}.json'
+#             t = f'../../data/processed/transcripts/{video_file.stem}.txt'
+#             s = f'../../data/processed/transcripts/{video_file.stem}.srt'
+
+#             save_transcript_json(result, j)
+#             save_transcript_txt(result, t)
+#             save_transcript_srt(result, s)
+
+#             save_transcript_to_mongo(db, result, str(video_file), 'video',
+#                             json_path=j, txt_path=t, srt_path=s)
+
+#         except Exception as e:
+#             logging.error(f'Video error: {e}')
+
+#     logging.info('=== Audio/Video Processing Stage Complete ===')
 
 def run_pipeline():
     # logging.info("Pipeline started")
@@ -235,10 +312,15 @@ def run_pipeline():
     # except Exception as e:
     #     logging.error(f"Error processing images: {e}")
     
-    try: 
-        run_audio_video_stage()
+    #try: 
+    #    run_audio_video_stage()
+    #except Exception as e:
+    #    logging.error(f"Error processing audio/video: {e}")
+
+    try:
+        run_analytics()
     except Exception as e:
-        logging.error(f"Error processing audio/video: {e}")
+        logging.error(f"Error in analytics stage: {e}")
 
     logging.info("Pipeline finished successfully")
 
