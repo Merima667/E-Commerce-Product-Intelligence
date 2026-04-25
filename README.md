@@ -43,3 +43,5 @@ Google Drive folder link: https://drive.google.com/drive/folders/1RJ0sv1qmjA9Jw5
 
 
 ![Video properties](video-properties.png)
+
+[View Notebook](analytics_notebook.ipynb)
