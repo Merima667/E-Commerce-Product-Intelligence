@@ -813,3 +813,130 @@
 2026-04-26 00:00:11,185 [INFO] Outlier report columns: 14
 2026-04-26 00:00:11,186 [INFO] Analytics stage COMPLETED
 2026-04-26 00:00:11,188 [INFO] Pipeline finished successfully
+2026-04-29 12:30:54,749 [INFO] Batch processing 7 images from ..\..\data\raw\images
+2026-04-29 12:30:54,826 [INFO] Resized proportionally: 742x924 -> 500x622
+2026-04-29 12:30:54,834 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B09SM24S8C_thumb.jpg (103, 128)
+2026-04-29 12:30:55,050 [INFO] WebP: 49KB -> 36KB (27.4% saving)
+2026-04-29 12:30:55,050 [WARNING] No EXIF data found in ..\..\data\raw\images\B09SM24S8C.jpg
+2026-04-29 12:30:55,078 [INFO] Resized proportionally: 983x1257 -> 500x639
+2026-04-29 12:30:55,092 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0CP6DDN1H_thumb.jpg (100, 128)
+2026-04-29 12:30:55,228 [INFO] WebP: 81KB -> 52KB (36.2% saving)
+2026-04-29 12:30:55,229 [WARNING] No EXIF data found in ..\..\data\raw\images\B0CP6DDN1H.jpg
+2026-04-29 12:30:55,258 [INFO] Resized proportionally: 989x1279 -> 500x646
+2026-04-29 12:30:55,271 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0CT6BQV81_thumb.jpg (99, 128)
+2026-04-29 12:30:55,448 [INFO] WebP: 93KB -> 67KB (27.3% saving)
+2026-04-29 12:30:55,448 [WARNING] No EXIF data found in ..\..\data\raw\images\B0CT6BQV81.jpg
+2026-04-29 12:30:55,470 [INFO] Resized proportionally: 881x1130 -> 500x641
+2026-04-29 12:30:55,485 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0DM1S54MZ_thumb.jpg (100, 128)
+2026-04-29 12:30:55,598 [INFO] WebP: 62KB -> 37KB (39.1% saving)
+2026-04-29 12:30:55,599 [WARNING] No EXIF data found in ..\..\data\raw\images\B0DM1S54MZ.jpg
+2026-04-29 12:30:55,633 [INFO] Resized proportionally: 1240x1500 -> 500x604
+2026-04-29 12:30:55,648 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0FXY18C1J_thumb.jpg (106, 128)
+2026-04-29 12:30:55,835 [INFO] WebP: 69KB -> 33KB (51.9% saving)
+2026-04-29 12:30:55,836 [WARNING] No EXIF data found in ..\..\data\raw\images\B0FXY18C1J.jpg
+2026-04-29 12:30:55,876 [INFO] Resized proportionally: 1478x1500 -> 500x507
+2026-04-29 12:30:55,896 [INFO] Thumbnail saved: ..\..\data\processed\thumbnails\B0G4SVV79P_thumb.jpg (126, 128)
+2026-04-29 12:30:56,123 [INFO] WebP: 86KB -> 47KB (45.2% saving)
+2026-04-29 12:30:56,124 [WARNING] No EXIF data found in ..\..\data\raw\images\B0G4SVV79P.jpg
+2026-04-29 12:30:56,145 [ERROR] Failed: test_scan.png - cannot write mode RGBA as JPEG
+2026-04-29 12:30:56,868 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-29 12:30:59,434 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-29 12:31:01,954 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-29 12:31:04,434 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-29 12:31:07,376 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-29 12:31:09,685 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-29 12:31:12,638 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-29 12:31:14,674 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-29 12:31:18,545 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-29 12:31:20,570 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-29 12:31:23,049 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-29 12:31:24,935 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-29 12:31:27,561 [INFO] Batch complete. Success: 6, Errors: 1
+2026-04-29 12:31:31,683 [INFO] Loaded audio: How Amazon's Super-Complex Shipping System Works [2qanMpnYsjk].mp3 (MP3)
+2026-04-29 12:31:32,410 [INFO] Loaded audio: The Future of Ecommerce_ 9 Trends That Will Exist In 2030 [GQjuEygcS3A].mp3 (MP3)
+2026-04-29 12:31:32,888 [INFO] Loaded audio: The truth about online shopping. [tDvjQp1BaWA].mp3 (MP3)
+2026-04-29 12:31:34,552 [INFO] Loaded audio: How Amazon's Super-Complex Shipping System Works [2qanMpnYsjk].mp3 (MP3)
+2026-04-29 12:31:34,553 [INFO] Trimmed audio: 5000ms -> 15000ms (was 1129465ms, now 10000ms)
+2026-04-29 12:31:34,554 [INFO] Concatenated 2 clips, total: 20000ms
+2026-04-29 12:31:34,744 [INFO] Volume adjusted by +6.0 dB
+2026-04-29 12:31:34,953 [INFO] Applied fade-in 2000ms / fade-out 3000ms
+2026-04-29 12:31:34,966 [INFO] Exported audio -> ../../data/processed/audio/How Amazon's Super-Complex Shipping System Works [2qanMpnYsjk]_trimmed.wav (1722.7 KB)
+2026-04-29 12:31:35,141 [INFO] Exported audio -> ../../data/processed/audio/How Amazon's Super-Complex Shipping System Works [2qanMpnYsjk]_trimmed.mp3 (235.8 KB)
+2026-04-29 12:31:36,917 [INFO] Loaded audio: How Amazon's Super-Complex Shipping System Works [2qanMpnYsjk].mp3 (MP3)
+2026-04-29 12:31:38,603 [INFO] Exported audio -> ../../data/processed/audio/How Amazon's Super-Complex Shipping System Works [2qanMpnYsjk].flac (56692.4 KB)
+2026-04-29 12:31:39,660 [INFO] Loaded audio: The Future of Ecommerce_ 9 Trends That Will Exist In 2030 [GQjuEygcS3A].mp3 (MP3)
+2026-04-29 12:31:39,671 [INFO] Trimmed audio: 5000ms -> 15000ms (was 461241ms, now 10000ms)
+2026-04-29 12:31:39,673 [INFO] Concatenated 2 clips, total: 20000ms
+2026-04-29 12:31:39,791 [INFO] Volume adjusted by +6.0 dB
+2026-04-29 12:31:39,907 [INFO] Applied fade-in 2000ms / fade-out 3000ms
+2026-04-29 12:31:39,935 [INFO] Exported audio -> ../../data/processed/audio/The Future of Ecommerce_ 9 Trends That Will Exist In 2030 [GQjuEygcS3A]_trimmed.wav (1722.7 KB)
+2026-04-29 12:31:40,184 [INFO] Exported audio -> ../../data/processed/audio/The Future of Ecommerce_ 9 Trends That Will Exist In 2030 [GQjuEygcS3A]_trimmed.mp3 (235.8 KB)
+2026-04-29 12:31:41,217 [INFO] Loaded audio: The Future of Ecommerce_ 9 Trends That Will Exist In 2030 [GQjuEygcS3A].mp3 (MP3)
+2026-04-29 12:31:42,439 [INFO] Exported audio -> ../../data/processed/audio/The Future of Ecommerce_ 9 Trends That Will Exist In 2030 [GQjuEygcS3A].flac (29256.1 KB)
+2026-04-29 12:31:43,108 [INFO] Loaded audio: The truth about online shopping. [tDvjQp1BaWA].mp3 (MP3)
+2026-04-29 12:31:43,113 [INFO] Trimmed audio: 5000ms -> 15000ms (was 308895ms, now 10000ms)
+2026-04-29 12:31:43,115 [INFO] Concatenated 2 clips, total: 20000ms
+2026-04-29 12:31:43,194 [INFO] Volume adjusted by +6.0 dB
+2026-04-29 12:31:43,282 [INFO] Applied fade-in 2000ms / fade-out 3000ms
+2026-04-29 12:31:43,291 [INFO] Exported audio -> ../../data/processed/audio/The truth about online shopping. [tDvjQp1BaWA]_trimmed.wav (1722.7 KB)
+2026-04-29 12:31:43,549 [INFO] Exported audio -> ../../data/processed/audio/The truth about online shopping. [tDvjQp1BaWA]_trimmed.mp3 (235.8 KB)
+2026-04-29 12:31:44,234 [INFO] Loaded audio: The truth about online shopping. [tDvjQp1BaWA].mp3 (MP3)
+2026-04-29 12:31:44,901 [INFO] Exported audio -> ../../data/processed/audio/The truth about online shopping. [tDvjQp1BaWA].flac (18846.5 KB)
+2026-04-29 12:31:52,092 [INFO] Loaded video: How Amazon Became The Fastest Delivery System.mp4
+2026-04-29 12:31:52,393 [INFO] Saved frame at t=5.0s -> ../../data/processed/frames/How Amazon Became The Fastest Delivery System_thumb.png
+2026-04-29 12:32:01,700 [INFO] Extracted 69 keyframes from How Amazon Became The Fastest Delivery System.mp4 (every 10.0s)
+2026-04-29 12:32:01,946 [INFO] Loaded video: How Amazon Became The Fastest Delivery System.mp4
+2026-04-29 12:32:13,195 [INFO] Extracted audio -> ../../data/processed/audio/How Amazon Became The Fastest Delivery System.mp3 (10672.5 KB)
+2026-04-29 12:32:13,444 [INFO] Loaded video: The Future of Ecommerce_ 9 Trends That Will Exist In 2030.mp4
+2026-04-29 12:32:13,814 [INFO] Saved frame at t=5.0s -> ../../data/processed/frames/The Future of Ecommerce_ 9 Trends That Will Exist In 2030_thumb.png
+2026-04-29 12:32:21,338 [INFO] Extracted 47 keyframes from The Future of Ecommerce_ 9 Trends That Will Exist In 2030.mp4 (every 10.0s)
+2026-04-29 12:32:21,700 [INFO] Loaded video: The Future of Ecommerce_ 9 Trends That Will Exist In 2030.mp4
+2026-04-29 12:32:30,244 [INFO] Extracted audio -> ../../data/processed/audio/The Future of Ecommerce_ 9 Trends That Will Exist In 2030.mp3 (7207.6 KB)
+2026-04-29 12:32:30,485 [INFO] Loaded video: The truth about online shopping..mp4
+2026-04-29 12:32:30,816 [INFO] Saved frame at t=5.0s -> ../../data/processed/frames/The truth about online shopping._thumb.png
+2026-04-29 12:32:34,504 [INFO] Extracted 31 keyframes from The truth about online shopping..mp4 (every 10.0s)
+2026-04-29 12:32:34,746 [INFO] Loaded video: The truth about online shopping..mp4
+2026-04-29 12:32:40,350 [INFO] Extracted audio -> ../../data/processed/audio/The truth about online shopping..mp3 (4827.6 KB)
+2026-04-29 12:32:40,360 [INFO] Cleaning stage started
+2026-04-29 12:32:40,385 [INFO] === Starting cleaning pipeline: 1427 rows ===
+2026-04-29 12:32:40,387 [INFO] Step 1: drop rows missing title
+2026-04-29 12:32:40,393 [INFO] drop_rows_missing_title: dropped 317 rows
+2026-04-29 12:32:40,394 [INFO] Step 2: replace zero-as-missing in financial columns
+2026-04-29 12:32:40,395 [INFO] replace_zero_with_nan: budgeted -> replaced 0 zeros
+2026-04-29 12:32:40,396 [INFO] replace_zero_with_nan: actual -> replaced 0 zeros
+2026-04-29 12:32:40,396 [INFO] Step 3: drop exact duplicates
+2026-04-29 12:32:40,401 [INFO] drop_exact_duplicates: removed 0 rows
+2026-04-29 12:32:40,402 [INFO] Step 4: drop duplicate IDs
+2026-04-29 12:32:40,407 [INFO] drop_duplicate_ids (review_id): removed 424 rows
+2026-04-29 12:32:40,409 [INFO] Step 5: clean string columns
+2026-04-29 12:32:40,413 [INFO] clean_title: 0 titles modified
+2026-04-29 12:32:40,414 [INFO] clean_language_code: normalised to lowercase
+2026-04-29 12:32:40,415 [INFO] clean_comment_text: comment column cleaned
+2026-04-29 12:32:40,416 [INFO] Step 6: extract release year from date string
+2026-04-29 12:32:40,418 [INFO] extract_year_from_release_date: extracted 0 years
+2026-04-29 12:32:40,418 [INFO] Step 7: fill missing comments
+2026-04-29 12:32:40,419 [INFO] fill_missing_comment: filled 675 rows
+2026-04-29 12:32:40,419 [INFO] Step 8: fill numeric NaN with median
+2026-04-29 12:32:40,421 [INFO] fill_numeric_with_median: rating -> filled 675 with 5.00
+2026-04-29 12:32:40,422 [INFO] fill_numeric_with_median: helpful_votes -> filled 686 with nan
+2026-04-29 12:32:40,423 [INFO] fill_numeric_with_median: budgeted -> filled 686 with nan
+2026-04-29 12:32:40,425 [INFO] fill_numeric_with_median: actual -> filled 686 with nan
+2026-04-29 12:32:40,425 [INFO] Step 9: convert data types
+2026-04-29 12:32:40,430 [INFO] convert_dates: 686 rows could not be parsed (NaT)
+2026-04-29 12:32:40,431 [INFO] convert_numeric_columns: rating -> float32
+2026-04-29 12:32:40,431 [INFO] convert_numeric_columns: helpful_votes -> float32
+2026-04-29 12:32:40,432 [INFO] convert_numeric_columns: budgeted -> float32
+2026-04-29 12:32:40,433 [INFO] convert_numeric_columns: actual -> float32
+2026-04-29 12:32:40,435 [INFO] convert_numeric_columns: page_number -> Int64
+2026-04-29 12:32:40,436 [INFO] convert_numeric_columns: version -> Int64
+2026-04-29 12:32:40,438 [INFO] convert_category_columns: source -> category
+2026-04-29 12:32:40,439 [INFO] convert_category_columns: category -> category
+2026-04-29 12:32:40,441 [INFO] convert_category_columns: verified -> category
+2026-04-29 12:32:40,441 [INFO] Step 10: run validation
+2026-04-29 12:32:40,443 [INFO] validate_no_null_titles: PASSED
+2026-04-29 12:32:40,445 [INFO] validate_rating_range: PASSED
+2026-04-29 12:32:40,447 [INFO] validate_review_year_range: PASSED
+2026-04-29 12:32:40,449 [INFO] validate_no_duplicate_ids (review_id): PASSED
+2026-04-29 12:32:40,468 [INFO] Saved clean dataset to ..\..\data\processed\cleaned\movies_clean.csv (686 rows)
+2026-04-29 12:32:40,468 [INFO] === Cleaning pipeline complete: 686 rows remain ===
+2026-04-29 12:32:40,468 [INFO] Cleaning stage complete: 686 rows

@@ -317,12 +317,23 @@ def run_pipeline():
     #except Exception as e:
     #    logging.error(f"Error processing audio/video: {e}")
 
-    try:
-        run_analytics()
-    except Exception as e:
-        logging.error(f"Error in analytics stage: {e}")
+    # try:
+    #     run_analytics()
+    # except Exception as e:
+    #     logging.error(f"Error in analytics stage: {e}")
 
-    logging.info("Pipeline finished successfully")
+    # logging.info("Pipeline finished successfully")
+
+    try:
+        logging.info("Cleaning stage started")
+        from cleaning.clean_pipeline import run_cleaning_pipeline
+        import pandas as pd
+        csv_path = "../../data/processed/analytics/products_raw.csv"
+        df_raw = pd.read_csv(csv_path)
+        df_cleaned = run_cleaning_pipeline(df_raw, save=True)
+        logging.info(f"Cleaning stage complete: {len(df_cleaned)} rows")
+    except Exception as e:
+        logging.error(f"Error in cleaning stage: {e}")
 
 
 if __name__ == "__main__":
