@@ -74,3 +74,23 @@ def top_categories(df: pd.DataFrame, n: int = 15) -> list:
 
 def validate_review_id(id_str: str) -> bool:
     return bool(_REVIEW_ID.match(str(id_str)))
+
+def detect_invalid_dates(df: pd.DataFrame, col: str = 'date') -> pd.Series:
+    if col not in df.columns:
+        return pd.Series(dtype=bool)
+    pattern = r'^\w+ \d{1,2}, \d{4}$'
+    invalid = ~df[col].str.match(pattern, na=False)
+    logger.info('detect_invalid_dates: %d invalid dates found', invalid.sum())
+    return invalid
+
+def extract_numeric_from_text(series: pd.Series) -> pd.Series:
+    result = series.str.extract(r'(\d+\.?\d*)', expand=False)
+    logger.info('extract_numeric_from_text: done')
+    return pd.to_numeric(result, errors='coerce')
+
+def flag_short_comments(df: pd.DataFrame, col: str = 'comment', min_chars: int = 20) -> pd.Series:
+    if col not in df.columns:
+        return pd.Series(dtype=bool)
+    flag = df[col].str.len() < min_chars
+    logger.info('flag_short_comments: %d short comments found', flag.sum())
+    return flag
