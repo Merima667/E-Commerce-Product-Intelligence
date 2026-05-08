@@ -1,117 +1,117 @@
 import sys
 import os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', 'src')))
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', 'src', 'image_processing')))
-from image_processing.batch import batch_process_images
+# sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', 'src', 'image_processing')))
+# from image_processing.batch import batch_process_images
 from utils.logger import logging  
-from storage.mongo import save_to_mongo, save_transcript_to_mongo
-from api.client import fetch_reviews_pagination
-from parsing.parsers import (
-    extract_review_fields,
-    extract_text_from_pdf,
-    extract_text_from_two_column_pdf,
-    extract_text_from_word,
-    extract_text_from_two_column_word,
-    extract_data_from_excel,
-    extract_transactions_from_excel,
-    extract_savings_goals_from_excel,
-    extract_trend_from_excel
-)
+# from storage.mongo import save_to_mongo, save_transcript_to_mongo
+# from api.client import fetch_reviews_pagination
+# from parsing.parsers import (
+#     extract_review_fields,
+#     extract_text_from_pdf,
+#     extract_text_from_two_column_pdf,
+#     extract_text_from_word,
+#     extract_text_from_two_column_word,
+#     extract_data_from_excel,
+#     extract_transactions_from_excel,
+#     extract_savings_goals_from_excel,
+#     extract_trend_from_excel
+# )
 
-from scraping.scraper import scrape_single_page, scrape_multiple_pages
-from scraping.dynamic_scraper import scrape_oscar_films, scrape_dynamic_page
-from ocr.ocr_utils import compare_ocr, ocr_scanned_pdf
+# from scraping.scraper import scrape_single_page, scrape_multiple_pages
+# from scraping.dynamic_scraper import scrape_oscar_films, scrape_dynamic_page
+# from ocr.ocr_utils import compare_ocr, ocr_scanned_pdf
 
-import numpy as np
-from analytics.numpy_ops import demonstrate_array_creation, vectorized_operations
-from analytics.data_loader import load_from_mongodb, save_to_csv, chunked_stats, optimise_dtypes, memory_comparison
-from analytics.explorer import inspect_shape, extract_review_year, plot_distributions
-from analytics.selector import loc_filter, boolean_filter
-from analytics.regex_ops import extract_categories, top_categories, positive_comment_count
-from analytics.quality_report import full_quality_report, outlier_report, save_missing_heatmap
+# import numpy as np
+# from analytics.numpy_ops import demonstrate_array_creation, vectorized_operations
+# from analytics.data_loader import load_from_mongodb, save_to_csv, chunked_stats, optimise_dtypes, memory_comparison
+# from analytics.explorer import inspect_shape, extract_review_year, plot_distributions
+# from analytics.selector import loc_filter, boolean_filter
+# from analytics.regex_ops import extract_categories, top_categories, positive_comment_count
+# from analytics.quality_report import full_quality_report, outlier_report, save_missing_heatmap
 
-from audio_processing.loader      import inspect_audio, load_audio
-from audio_processing.processor   import trim_audio, apply_fades, export_audio
-from audio_processing.transcriber import (
-    transcribe_audio, save_transcript_json,
-    save_transcript_txt, save_transcript_srt
-)
-from video_processing.loader       import inspect_video, extract_audio_from_video
-from video_processing.frame_extractor import extract_keyframes
+# from audio_processing.loader      import inspect_audio, load_audio
+# from audio_processing.processor   import trim_audio, apply_fades, export_audio
+# from audio_processing.transcriber import (
+#     transcribe_audio, save_transcript_json,
+#     save_transcript_txt, save_transcript_srt
+# )
+# from video_processing.loader       import inspect_video, extract_audio_from_video
+# from video_processing.frame_extractor import extract_keyframes
 
-from pathlib import Path
-from storage.mongo import db
+# from pathlib import Path
+# from storage.mongo import db
 
 
-def run_analytics():
+# def run_analytics():
 
-    PROCESSED_DIR = Path("../../data/processed/analytics")
-    PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
+#     PROCESSED_DIR = Path("../../data/processed/analytics")
+#     PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
 
-    CSV_PATH = str(PROCESSED_DIR / "products_raw.csv")
-    OPT_CSV_PATH = str(PROCESSED_DIR / "products_optimised.csv")
+#     CSV_PATH = str(PROCESSED_DIR / "products_raw.csv")
+#     OPT_CSV_PATH = str(PROCESSED_DIR / "products_optimised.csv")
 
-    #Numpy
-    arrays = demonstrate_array_creation()
-    logging.info("NumPy arrays created: %s", list(arrays.keys()))
+#     #Numpy
+#     arrays = demonstrate_array_creation()
+#     logging.info("NumPy arrays created: %s", list(arrays.keys()))
 
-    ratings_arr = np.array([4.5, 3.2, 5.0, 2.8, 4.1, 3.9, 4.7, 2.5, 5.0, 3.6])
-    review_count = np.array([120, 45, 200, 30, 89, 67, 150, 25, 310, 55])
+#     ratings_arr = np.array([4.5, 3.2, 5.0, 2.8, 4.1, 3.9, 4.7, 2.5, 5.0, 3.6])
+#     review_count = np.array([120, 45, 200, 30, 89, 67, 150, 25, 310, 55])
 
-    results = vectorized_operations(ratings_arr, review_count)
-    logging.info(
-        "Vectorized ops: mean=%.2f",
-        results["stats"]["mean"]
-    )
-    df = load_from_mongodb()
+#     results = vectorized_operations(ratings_arr, review_count)
+#     logging.info(
+#         "Vectorized ops: mean=%.2f",
+#         results["stats"]["mean"]
+#     )
+#     df = load_from_mongodb()
 
-    if df is None or df.empty:
-        logging.warning("MongoDB returned empty dataset")
-        return
+#     if df is None or df.empty:
+#         logging.warning("MongoDB returned empty dataset")
+#         return
     
-    save_to_csv(df, CSV_PATH)
+#     save_to_csv(df, CSV_PATH)
 
-    chunk_results = chunked_stats(CSV_PATH)
-    logging.info(
-        "Chunked mean rating: %.4f over %d rows",
-        chunk_results["global_mean"],
-        chunk_results["total_rows"]
-    )
+#     chunk_results = chunked_stats(CSV_PATH)
+#     logging.info(
+#         "Chunked mean rating: %.4f over %d rows",
+#         chunk_results["global_mean"],
+#         chunk_results["total_rows"]
+#     )
 
 
-    df_opt = optimise_dtypes(df)
-    mem = memory_comparison(df, df_opt)
-    logging.info("Memory reduction: %.1f%%", mem["reduction_pct"])
-    save_to_csv(df_opt, OPT_CSV_PATH)
+#     df_opt = optimise_dtypes(df)
+#     mem = memory_comparison(df, df_opt)
+#     logging.info("Memory reduction: %.1f%%", mem["reduction_pct"])
+#     save_to_csv(df_opt, OPT_CSV_PATH)
 
-    # EDA
-    shape_info = inspect_shape(df)
-    logging.info("Dataset shape: %dx%d", shape_info["rows"], shape_info["columns"])
+#     # EDA
+#     shape_info = inspect_shape(df)
+#     logging.info("Dataset shape: %dx%d", shape_info["rows"], shape_info["columns"])
 
-    df = extract_review_year(df)
-    plot_distributions(df, str(PROCESSED_DIR / "distributions.png"))
+#     df = extract_review_year(df)
+#     plot_distributions(df, str(PROCESSED_DIR / "distributions.png"))
 
-    high_rated = loc_filter(df, min_rating=4.0)
-    logging.info("High rated reviews: %d", len(high_rated))
+#     high_rated = loc_filter(df, min_rating=4.0)
+#     logging.info("High rated reviews: %d", len(high_rated))
 
-    quality = boolean_filter(df, min_rating=4.0, max_rating=5.0)
-    logging.info("Quality reviews: %d", len(quality))
+#     quality = boolean_filter(df, min_rating=4.0, max_rating=5.0)
+#     logging.info("Quality reviews: %d", len(quality))
 
-    # REGEX & QUALITY
-    df_cat = extract_categories(df)
+#     # REGEX & QUALITY
+#     df_cat = extract_categories(df)
 
-    logging.info("Top categories: %s", top_categories(df_cat, n=10))
-    logging.info("Positive comments: %d", positive_comment_count(df))
+#     logging.info("Top categories: %s", top_categories(df_cat, n=10))
+#     logging.info("Positive comments: %d", positive_comment_count(df))
 
-    quality_df = full_quality_report(df)
-    quality_df.to_csv(str(PROCESSED_DIR / "quality_report.csv"), index=False)
+#     quality_df = full_quality_report(df)
+#     quality_df.to_csv(str(PROCESSED_DIR / "quality_report.csv"), index=False)
 
-    save_missing_heatmap(df, str(PROCESSED_DIR / "missing_heatmap.png"))
+#     save_missing_heatmap(df, str(PROCESSED_DIR / "missing_heatmap.png"))
 
-    outliers = outlier_report(df)
-    logging.info("Outlier report columns: %d", len(outliers))
+#     outliers = outlier_report(df)
+#     logging.info("Outlier report columns: %d", len(outliers))
 
-    logging.info("Analytics stage COMPLETED")
+#     logging.info("Analytics stage COMPLETED")
 
 # def run_audio_video_stage():
 #     logging.info('=== Audio/Video Processing Stage ===')
@@ -324,16 +324,45 @@ def run_pipeline():
 
     # logging.info("Pipeline finished successfully")
 
+    # try:
+    #     logging.info("Cleaning stage started")
+    #     from cleaning.clean_pipeline import run_cleaning_pipeline
+    #     import pandas as pd
+    #     csv_path = "../../data/processed/analytics/products_raw.csv"
+    #     df_raw = pd.read_csv(csv_path)
+    #     df_cleaned = run_cleaning_pipeline(df_raw, save=True)
+    #     logging.info(f"Cleaning stage complete: {len(df_cleaned)} rows")
+    # except Exception as e:
+    #     logging.error(f"Error in cleaning stage: {e}")
+
     try:
-        logging.info("Cleaning stage started")
-        from cleaning.clean_pipeline import run_cleaning_pipeline
+        logging.info("Lab 10 analytics stage started")
         import pandas as pd
-        csv_path = "../../data/processed/analytics/products_raw.csv"
-        df_raw = pd.read_csv(csv_path)
-        df_cleaned = run_cleaning_pipeline(df_raw, save=True)
-        logging.info(f"Cleaning stage complete: {len(df_cleaned)} rows")
+        from analytics.db_connector import get_connection, create_table, populate_reviews, query_reviews
+        from analytics.insight_reporter import run_all_questions
+        from analytics.mongo_pipeline import run_review_pipeline
+
+        csv_path = "../../data/processed/cleaned/movies_clean.csv"
+        df = pd.read_csv(csv_path)
+        logging.info(f"Loaded cleaned data: {df.shape}")
+
+        conn = get_connection()
+        create_table(conn)
+        populate_reviews(conn, df)
+        conn.close()
+        logging.info("MySQL populated")
+
+        df_mongo_agg = run_review_pipeline()
+        logging.info(f"MongoDB pipeline: {len(df_mongo_agg)} rows")
+
+        # Analytical questions
+        run_all_questions(df)
+
+        logging.info("Lab 10 analytics stage COMPLETED")
     except Exception as e:
-        logging.error(f"Error in cleaning stage: {e}")
+        logging.error(f"Error in Lab 10 analytics stage: {e}")
+
+    logging.info("Pipeline finished successfully")
 
 
 if __name__ == "__main__":
