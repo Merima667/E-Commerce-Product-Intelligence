@@ -940,3 +940,17 @@
 2026-04-29 12:32:40,468 [INFO] Saved clean dataset to ..\..\data\processed\cleaned\movies_clean.csv (686 rows)
 2026-04-29 12:32:40,468 [INFO] === Cleaning pipeline complete: 686 rows remain ===
 2026-04-29 12:32:40,468 [INFO] Cleaning stage complete: 686 rows
+2026-05-08 14:59:30,842 - INFO - Lab 10 analytics stage started
+2026-05-08 14:59:32,699 - INFO - Loaded cleaned data: (686, 59)
+2026-05-08 14:59:32,821 - INFO - Connected to MySQL database: ecommerce_analytics
+2026-05-08 14:59:32,900 - INFO - Table reviews created
+2026-05-08 14:59:33,424 - INFO - Inserted 686 rows, skipped 0 rows
+2026-05-08 14:59:33,424 - INFO - MySQL populated
+2026-05-08 14:59:33,450 - INFO - MongoDB pipeline returned 8 rows
+2026-05-08 14:59:33,451 - INFO - MongoDB pipeline: 8 rows
+2026-05-08 14:59:33,457 - INFO - Q1 top sources by reviews: 5 rows
+2026-05-08 14:59:33,462 - INFO - Q2 avg rating by source: 5 rows
+2026-05-08 14:59:33,470 - INFO - Q3 reviews per year: 0 years
+2026-05-08 14:59:33,472 - INFO - Q4 verified distribution: 1 rows
+2026-05-08 14:59:33,473 - INFO - Lab 10 analytics stage COMPLETED
+2026-05-08 14:59:33,473 - INFO - Pipeline finished successfully
