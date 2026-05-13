@@ -335,32 +335,53 @@ def run_pipeline():
     # except Exception as e:
     #     logging.error(f"Error in cleaning stage: {e}")
 
+    # Lab - 10
+    # try:
+    #     logging.info("Lab 10 analytics stage started")
+    #     import pandas as pd
+    #     from analytics.db_connector import get_connection, create_table, populate_reviews, query_reviews
+    #     from analytics.insight_reporter import run_all_questions
+    #     from analytics.mongo_pipeline import run_review_pipeline
+
+    #     csv_path = "../../data/processed/cleaned/movies_clean.csv"
+    #     df = pd.read_csv(csv_path)
+    #     logging.info(f"Loaded cleaned data: {df.shape}")
+
+    #     conn = get_connection()
+    #     create_table(conn)
+    #     populate_reviews(conn, df)
+    #     conn.close()
+    #     logging.info("MySQL populated")
+
+    #     df_mongo_agg = run_review_pipeline()
+    #     logging.info(f"MongoDB pipeline: {len(df_mongo_agg)} rows")
+
+    #     # Analytical questions
+    #     run_all_questions(df)
+
+    #     logging.info("Lab 10 analytics stage COMPLETED")
+    # except Exception as e:
+    #     logging.error(f"Error in Lab 10 analytics stage: {e}")
+
+    # Lab - 11
+
+    # Embeddings stage
     try:
-        logging.info("Lab 10 analytics stage started")
+        logging.info("Embeddings stage started")
         import pandas as pd
-        from analytics.db_connector import get_connection, create_table, populate_reviews, query_reviews
-        from analytics.insight_reporter import run_all_questions
-        from analytics.mongo_pipeline import run_review_pipeline
+        from embeddings.embedder import build_product_text
+        from embeddings.chroma_store import get_chroma_client, get_collection, add_products_to_collection
 
-        csv_path = "../../data/processed/cleaned/movies_clean.csv"
-        df = pd.read_csv(csv_path)
-        logging.info(f"Loaded cleaned data: {df.shape}")
+        df_embed = pd.read_csv("../../data/processed/analytics/products_raw.csv")
+        df_embed['combined_text'] = df_embed.apply(build_product_text, axis=1)
 
-        conn = get_connection()
-        create_table(conn)
-        populate_reviews(conn, df)
-        conn.close()
-        logging.info("MySQL populated")
+        client = get_chroma_client()
+        collection = get_collection(client, reset=False)
+        total = add_products_to_collection(df_embed, collection)
 
-        df_mongo_agg = run_review_pipeline()
-        logging.info(f"MongoDB pipeline: {len(df_mongo_agg)} rows")
-
-        # Analytical questions
-        run_all_questions(df)
-
-        logging.info("Lab 10 analytics stage COMPLETED")
+        logging.info(f"Embeddings stage complete: {total} products in collection")
     except Exception as e:
-        logging.error(f"Error in Lab 10 analytics stage: {e}")
+        logging.error(f"Error in embeddings stage: {e}")
 
     logging.info("Pipeline finished successfully")
 
