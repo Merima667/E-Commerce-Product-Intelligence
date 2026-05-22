@@ -366,22 +366,36 @@ def run_pipeline():
     # Lab - 11
 
     # Embeddings stage
+    # try:
+    #     logging.info("Embeddings stage started")
+    #     import pandas as pd
+    #     from embeddings.embedder import build_product_text
+    #     from embeddings.chroma_store import get_chroma_client, get_collection, add_products_to_collection
+
+    #     df_embed = pd.read_csv("../../data/processed/analytics/products_raw.csv")
+    #     df_embed['combined_text'] = df_embed.apply(build_product_text, axis=1)
+
+    #     client = get_chroma_client()
+    #     collection = get_collection(client, reset=False)
+    #     total = add_products_to_collection(df_embed, collection)
+
+    #     logging.info(f"Embeddings stage complete: {total} products in collection")
+    # except Exception as e:
+    #     logging.error(f"Error in embeddings stage: {e}")
+    
+    # Lab - 12
+    # Visualization stage
     try:
-        logging.info("Embeddings stage started")
-        import pandas as pd
-        from embeddings.embedder import build_product_text
-        from embeddings.chroma_store import get_chroma_client, get_collection, add_products_to_collection
+        logging.info("Visualization stage started")
+        from pathlib import Path
+        from visualization.chart_generator import generate_all
 
-        df_embed = pd.read_csv("../../data/processed/analytics/products_raw.csv")
-        df_embed['combined_text'] = df_embed.apply(build_product_text, axis=1)
-
-        client = get_chroma_client()
-        collection = get_collection(client, reset=False)
-        total = add_products_to_collection(df_embed, collection)
-
-        logging.info(f"Embeddings stage complete: {total} products in collection")
+        generate_all(
+            data_path=Path("../../data/processed/analytics/products_raw.csv")
+        )
+        logging.info("Visualization stage COMPLETED")
     except Exception as e:
-        logging.error(f"Error in embeddings stage: {e}")
+        logging.error(f"Error in visualization stage: {e}")
 
     logging.info("Pipeline finished successfully")
 

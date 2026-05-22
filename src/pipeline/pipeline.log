@@ -991,3 +991,57 @@
 2026-05-13 12:03:39,836 - INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2 "HTTP/1.1 200 OK"
 2026-05-13 12:04:02,374 - INFO - Embeddings stage complete: 1299 products in collection
 2026-05-13 12:04:02,374 - INFO - Pipeline finished successfully
+2026-05-20 11:59:43,459 - INFO - Visualization stage started
+2026-05-20 11:59:55,351 - ERROR - Error in visualization stage: Missing columns in dataset: ['review_count']
+2026-05-20 11:59:55,352 - INFO - Pipeline finished successfully
+2026-05-20 12:05:51,756 - INFO - Visualization stage started
+2026-05-20 12:05:54,823 - INFO - Loaded 1427 products from ..\..\data\processed\analytics\products_raw.csv
+2026-05-20 12:05:54,826 - ERROR - Failed to generate 'top_products_by_rating': '>' not supported between instances of 'str' and 'int'
+2026-05-20 12:05:54,840 - ERROR - Failed to generate 'avg_rating_per_source_dual': dtype 'str' does not support operation 'mean'
+2026-05-20 12:05:54,840 - ERROR - Failed to generate 'reviews_vs_rating_scatter': '>' not supported between instances of 'str' and 'int'
+2026-05-20 12:05:54,932 - ERROR - Failed to generate 'rating_distribution': Cannot perform reduction 'mean' with string dtype
+2026-05-20 12:05:54,933 - ERROR - Failed to generate 'rating_by_source_boxplot': dtype 'str' does not support operation 'median'
+2026-05-20 12:05:54,934 - ERROR - Failed to generate 'correlation_heatmap': could not convert string to float: 'I absolutely love this Ninja Kitchen System! It’s very powerful and blends everything smoothly in seconds.'
+2026-05-20 12:05:56,207 - INFO - Saved products_per_source_bar  (PNG + PDF)
+2026-05-20 12:05:56,340 - ERROR - Failed to generate 'dashboard_subplots': '>' not supported between instances of 'str' and 'int'
+2026-05-20 12:05:56,341 - ERROR - Failed to generate 'reviews_vs_rating_interactive': '>' not supported between instances of 'str' and 'int'
+2026-05-20 12:05:56,342 - ERROR - Failed to generate 'top_products_bar': '>' not supported between instances of 'str' and 'int'
+2026-05-20 12:05:56,346 - ERROR - Failed to generate 'avg_rating_per_source_line': dtype 'str' does not support operation 'mean'
+2026-05-20 12:05:56,347 - ERROR - Failed to generate 'rating_by_source_boxplot_interactive': dtype 'str' does not support operation 'median'
+2026-05-20 12:05:56,470 - ERROR - Failed to generate 'interactive_dashboard': '>' not supported between instances of 'str' and 'int'
+2026-05-20 12:05:56,471 - INFO - Visualization stage COMPLETED
+2026-05-20 12:05:56,471 - INFO - Pipeline finished successfully
+2026-05-20 12:06:47,286 - INFO - Visualization stage started
+2026-05-20 12:06:50,296 - INFO - Loaded 431 products from ..\..\data\processed\analytics\products_raw.csv
+2026-05-20 12:06:50,875 - INFO - Saved top_products_by_rating  (PNG + PDF)
+2026-05-20 12:06:51,509 - INFO - Saved avg_rating_per_source_dual  (PNG + PDF)
+2026-05-20 12:06:51,533 - ERROR - Failed to generate 'reviews_vs_rating_scatter': expected non-empty vector for x
+2026-05-20 12:06:51,991 - INFO - Saved rating_distribution  (PNG + PDF)
+2026-05-20 12:06:52,492 - INFO - Saved rating_by_source_boxplot  (PNG + PDF)
+2026-05-20 12:06:52,888 - INFO - Saved correlation_heatmap  (PNG + PDF)
+2026-05-20 12:06:53,305 - INFO - Saved products_per_source_bar  (PNG + PDF)
+2026-05-20 12:06:54,877 - INFO - Saved dashboard_subplots  (PNG + PDF)
+2026-05-20 12:06:56,184 - INFO - Saved interactive chart: outputs\visualizations\interactive\reviews_vs_rating_interactive.html
+2026-05-20 12:06:56,340 - INFO - Saved interactive chart: outputs\visualizations\interactive\top_products_bar.html
+2026-05-20 12:06:56,448 - INFO - Saved interactive chart: outputs\visualizations\interactive\avg_rating_per_source_line.html
+2026-05-20 12:06:56,548 - INFO - Saved interactive chart: outputs\visualizations\interactive\rating_by_source_boxplot_interactive.html
+2026-05-20 12:06:56,646 - INFO - Saved interactive chart: outputs\visualizations\interactive\interactive_dashboard.html
+2026-05-20 12:06:56,647 - INFO - Visualization stage COMPLETED
+2026-05-20 12:06:56,647 - INFO - Pipeline finished successfully
+2026-05-20 12:09:22,097 - INFO - Visualization stage started
+2026-05-20 12:09:24,072 - INFO - Loaded 431 products from ..\..\data\processed\analytics\products_raw.csv
+2026-05-20 12:09:24,495 - INFO - Saved top_products_by_rating  (PNG + PDF)
+2026-05-20 12:09:24,882 - INFO - Saved avg_rating_per_source_dual  (PNG + PDF)
+2026-05-20 12:09:24,893 - ERROR - Failed to generate 'reviews_vs_rating_scatter': expected non-empty vector for x
+2026-05-20 12:09:25,191 - INFO - Saved rating_distribution  (PNG + PDF)
+2026-05-20 12:09:25,525 - INFO - Saved rating_by_source_boxplot  (PNG + PDF)
+2026-05-20 12:09:25,789 - INFO - Saved correlation_heatmap  (PNG + PDF)
+2026-05-20 12:09:26,084 - INFO - Saved products_per_source_bar  (PNG + PDF)
+2026-05-20 12:09:27,177 - INFO - Saved dashboard_subplots  (PNG + PDF)
+2026-05-20 12:09:27,404 - INFO - Saved interactive chart: outputs\visualizations\interactive\reviews_vs_rating_interactive.html
+2026-05-20 12:09:27,488 - INFO - Saved interactive chart: outputs\visualizations\interactive\top_products_bar.html
+2026-05-20 12:09:27,545 - INFO - Saved interactive chart: outputs\visualizations\interactive\avg_rating_per_source_line.html
+2026-05-20 12:09:27,612 - INFO - Saved interactive chart: outputs\visualizations\interactive\rating_by_source_boxplot_interactive.html
+2026-05-20 12:09:27,679 - INFO - Saved interactive chart: outputs\visualizations\interactive\interactive_dashboard.html
+2026-05-20 12:09:27,680 - INFO - Visualization stage COMPLETED
+2026-05-20 12:09:27,680 - INFO - Pipeline finished successfully
