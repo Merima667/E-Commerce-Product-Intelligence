@@ -177,6 +177,16 @@ from utils.logger import logging
 
 #     logging.info('=== Audio/Video Processing Stage Complete ===')
 
+def run_dashboard_info():
+    """Print instructions for starting the Lab 13 dashboard."""
+    print("\n" + "=" * 60)
+    print(" DASHBOARD READY — E-Commerce Product Intelligence")
+    print("=" * 60)
+    print(" Start locally:       python app.py")
+    print(" Start with Docker:   docker compose up --build")
+    print(" URL:                 http://localhost:8050")
+    print("=" * 60 + "\n")
+
 def run_pipeline():
     # logging.info("Pipeline started")
     # try:
@@ -385,17 +395,27 @@ def run_pipeline():
     
     # Lab - 12
     # Visualization stage
-    try:
-        logging.info("Visualization stage started")
-        from pathlib import Path
-        from visualization.chart_generator import generate_all
+    # try:
+    #     logging.info("Visualization stage started")
+    #     from pathlib import Path
+    #     from visualization.chart_generator import generate_all
 
-        generate_all(
-            data_path=Path("../../data/processed/analytics/products_raw.csv")
-        )
-        logging.info("Visualization stage COMPLETED")
+    #     generate_all(
+    #         data_path=Path("../../data/processed/analytics/products_raw.csv")
+    #     )
+    #     logging.info("Visualization stage COMPLETED")
+    # except Exception as e:
+    #     logging.error(f"Error in visualization stage: {e}")
+
+    # logging.info("Pipeline finished successfully")
+
+    # Lab 13 - Dashboard
+    try:
+        logging.info("Dashboard stage - printing instructions")
+        run_dashboard_info()
+        logging.info("Dashboard info printed")
     except Exception as e:
-        logging.error(f"Error in visualization stage: {e}")
+        logging.error(f"Error in dashboard stage: {e}")
 
     logging.info("Pipeline finished successfully")
 
