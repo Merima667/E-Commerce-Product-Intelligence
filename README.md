@@ -1,7 +1,8 @@
 # E-Commerce-Product-Intelligence
 E-Commerce Product Intelligence
 
-
+## 🚀 Live Dashboard
+[https://e-commerce-product-intelligence.onrender.com](https://e-commerce-product-intelligence.onrender.com)
 
 
 This project focusing on analyzing data from data e-commerce platform to gain insights into product popularity, customer preferences, and consumption trends. Based on the analysis of this data, a model will be developed to predict the success of products in the market.
